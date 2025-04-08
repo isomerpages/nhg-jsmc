@@ -23,7 +23,7 @@ sections:
       backgroundColor: gray
       size: sm
   - infocols:
-      title: NHG Nursing Conference Tracks
+      title: Conference Tracks
       id: infocols
       linktext: Click Here To Read More On NHG Nursing
       url: /nhg-nursing/
