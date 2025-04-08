@@ -11,9 +11,7 @@ sections:
   - hero:
       title: Inaugural NHG Nursing Conference
       subtitle: Inconjunction With Joint Singapore Malaysia Nursing Conference
-      background: /images/hero.png
-      button: Program Tracks
-      url: /program/
+      background: /images/Copy_of_Grey_Watercolor_Modern_Zoom_Virtual_Background.png
       key_highlights:
         - title: Abstract Submission
           description: Click To Submit Your Abstract
