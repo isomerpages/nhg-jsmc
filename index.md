@@ -11,7 +11,7 @@ sections:
   - hero:
       title: Inaugural NHG Nursing Conference
       subtitle: Inconjunction With Joint Singapore Malaysia Nursing Conference
-      background: /images/hero.png
+      background: /images/hero-banner.png
       button: Program Listing
       url: /program/
       key_highlights:
@@ -21,7 +21,9 @@ sections:
         - title: Conference Sign Up
           description: Click To Register
           url: for.sg/nurconf
-      variant: image
+      variant: side
+      backgroundColor: gray
+      size: sm
   - infobar:
       title: Infobar
       subtitle: Add informational text
