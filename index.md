@@ -24,12 +24,29 @@ sections:
       variant: image
       backgroundColor: gray
       size: sm
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
+  - textcards:
+      title: NHG Nursing
+      id: textcards
+      description: NHG Nursing strives to be the thought-leader and pace-setter in
+        building a progressive practice environment for nurses to grow, realise
+        its professional potential, and shine.
+      cards:
+        - title: Relationship-based care
+          description: ​​Nurses as Evidence-based Practitioners
+          linktext: Learn more
+          url: ""
+        - title: ​​Nurses beyond Nursing, Nursing beyond Nurses
+          description: Nurses as Innovators
+          linktext: Learn more
+          url: ""
+        - title: Digitally enabled workforce
+          description: Nurses as Stewards of Resources
+          linktext: Learn more
+          url: ""
+        - title: Positive Practice Environment
+          description: Nurses as a family caring for families
+          linktext: Learn more
+          url: ""
   - announcements:
       title: Announcements
       id: announcements
