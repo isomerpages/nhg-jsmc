@@ -42,10 +42,10 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Abstract Submission
+        - title: Abstract Submissions
           date: 08 April 2025
-          announcement: "Open for submissions! Closing date for abstract submission: 19th
-            May 2025"
+          announcement: Open for submissions! Closing date for abstract submissions is on
+            the 19th May 2025.
           link_text: Click Here To Submit
           link_url: https://for.sg/nhgnursingconf
         - title: Conference Registration
