@@ -16,7 +16,7 @@ sections:
         - title: Abstract Submission
           description: Click To Submit Your Abstract
           url: for.sg/nhgnursingconf
-        - title: Conference Sign Up
+        - title: Conference Registration
           description: Click To Register
           url: for.sg/nhgnursingconfreg
       variant: image
