@@ -11,8 +11,8 @@ sections:
   - hero:
       title: Inaugural NHG Nursing Conference
       subtitle: Inconjunction With Joint Singapore Malaysia Nursing Conference
-      background: /images/hero-banner.png
-      button: Program Listing
+      background: /images/hero.png
+      button: Program Tracks
       url: /program/
       key_highlights:
         - title: Abstract Submission
@@ -21,7 +21,7 @@ sections:
         - title: Conference Sign Up
           description: Click To Register
           url: for.sg/nurconf
-      variant: side
+      variant: image
       backgroundColor: gray
       size: sm
   - infobar:
@@ -30,4 +30,13 @@ sections:
       id: infobar
       description: Infobar description
       button: Button Text
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Abstract Submission
+          date: 08 April 2025
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
