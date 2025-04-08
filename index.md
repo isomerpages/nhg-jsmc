@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Save The Date!
+notification: ""
 sections:
   - hero:
       title: Inaugural NHG Nursing Conference
@@ -21,8 +21,9 @@ sections:
           url: for.sg/nurconf
       variant: image
   - infobar:
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
 ---
