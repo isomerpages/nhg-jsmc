@@ -28,7 +28,7 @@ sections:
       title: NHG Nursing Conference Tracks
       id: infocols
       linktext: Click Here To Read More On NHG Nursing
-      url: https://corp.nhg.com.sg/Nursing/Pages/Who-Are-We.aspx
+      url: /nhg-nursing/
       infoboxes:
         - title: Relationship-Based Care
           description: ​​Nurses as Evidence-based Practitioners
