@@ -1,4 +1,5 @@
 collections:
   4-thrusts:
     output: true
-    order: []
+    order:
+      - Relationship Based Care.md
