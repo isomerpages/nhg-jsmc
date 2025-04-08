@@ -48,4 +48,9 @@ sections:
             May 2025"
           link_text: Click Here To Submit
           link_url: https://for.sg/nhgnursingconf
+        - title: Conference Registration
+          date: 08 April 2025
+          announcement: Opening Soon!
+          link_text: ""
+          link_url: ""
 ---
