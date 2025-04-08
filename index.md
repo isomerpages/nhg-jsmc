@@ -24,29 +24,20 @@ sections:
       variant: image
       backgroundColor: gray
       size: sm
-  - textcards:
-      title: NHG Nursing
-      id: textcards
-      description: NHG Nursing strives to be the thought-leader and pace-setter in
-        building a progressive practice environment for nurses to grow, realise
-        its professional potential, and shine.
-      cards:
-        - title: Relationship-based care
+  - infocols:
+      title: NHG Nursing Conference Tracks
+      id: infocols
+      linktext: Click Here To Read More On NHG Nursing
+      url: https://corp.nhg.com.sg/Nursing/Pages/Who-Are-We.aspx
+      infoboxes:
+        - title: Relationship-Based Care
           description: ​​Nurses as Evidence-based Practitioners
-          linktext: Learn more
-          url: ""
-        - title: ​​Nurses beyond Nursing, Nursing beyond Nurses
+        - title: Nurses Beyond Nursing, Nursing Beyond Nurses
           description: Nurses as Innovators
-          linktext: Learn more
-          url: ""
-        - title: Digitally enabled workforce
+        - title: Digitally Enabled Workforce
           description: Nurses as Stewards of Resources
-          linktext: Learn more
-          url: ""
         - title: Positive Practice Environment
           description: Nurses as a family caring for families
-          linktext: Learn more
-          url: ""
   - announcements:
       title: Announcements
       id: announcements
