@@ -44,9 +44,8 @@ sections:
       announcement_items:
         - title: Abstract Submission
           date: 08 April 2025
-          announcement: "Open for submissions! The Organising Committee will notify
-            submitting authors by 7th July 2025 via email if their abstract has
-            been accepted. Closing date for abstract submission: 19th May 2025"
+          announcement: "Open for submissions! Closing date for abstract submission: 19th
+            May 2025"
           link_text: Click Here To Submit
           link_url: https://for.sg/nhgnursingconf
 ---
