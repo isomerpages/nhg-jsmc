@@ -18,7 +18,7 @@ sections:
           url: for.sg/nhgnursingconf
         - title: Conference Registration
           description: Click To Register
-          url: for.sg/nhgnursingconfreg
+          url: for.sg/nhgnursingconfregistration
       variant: image
       backgroundColor: gray
       size: sm
