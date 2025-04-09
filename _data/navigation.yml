@@ -2,8 +2,6 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     url: /about/
-  - title: NHG Nursing
-    url: /nhgnursing/
   - title: Programs
     collection: programs
   - title: Contact Us
