@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - NHG Nursing.md
       - About Us.md
