@@ -51,4 +51,12 @@ sections:
           announcement: Opening Soon!
           link_text: ""
           link_url: ""
+  - infobar:
+      title: Inaugural NHG Nursing Conference 2025
+      id: infobar
+      description: 'In conjunction with 28th Joint Singapore-Malaysia Nursing
+        Conference, we proudly present: "Riding Waves, Reaching Stars,
+        Reimagining Nursing".'
+      button: Program Highlights
+      url: /highlights
 ---
