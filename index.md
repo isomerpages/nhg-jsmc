@@ -37,10 +37,9 @@ sections:
         - title: Positive Practice Environment
           description: Nurses as a family caring for families
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: Select Your Track
+      subtitle: Conference Details
       id: textcards
-      description: Text card description
       cards:
         - title: Relationship-Based Care
           description: ​​Nurses as Evidence-based Practitioners
