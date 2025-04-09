@@ -2,8 +2,8 @@ collections:
   programs:
     output: true
     order:
-      - Track 2.md
       - Track 1.md
+      - Track 2.md
       - folder-page.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
