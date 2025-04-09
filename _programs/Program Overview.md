@@ -15,17 +15,17 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="5">
-<p>JSMNC 2025&nbsp; Program</p>
+<h2>JSMNC 2025&nbsp; Program</h2>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="5">
-<p>DAY 1 (Wed 01 Oct 2025)</p>
+<h4>DAY 1 (Wed 01 Oct 2025)</h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Day 1</p>
+<p>Time</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Room 1</p>
@@ -38,23 +38,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Room 4</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>500-600 pax (TBC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>100-200 pax (TBC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>100-200 pax (TBC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>100-200 pax (TBC)</p>
 </td>
 </tr>
 <tr>
@@ -525,47 +508,8 @@ By APN Su Hui, KTPH</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="5">
-<p>JSMNC 2025&nbsp; Program</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="5">
-<p>DAY 2 (Thurs 02 Oct 2025)</p>
+<h4>DAY 2 (Thurs 02 Oct 2025)</h4>
 </td>
 </tr>
 <tr>
