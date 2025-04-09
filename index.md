@@ -50,10 +50,14 @@ sections:
           description: Nurses as Innovators
           linktext: Track 2
           url: /beyond
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+        - title: Digitally Enabled Workforce
+          description: Nurses as Stewards of Resources
+          linktext: Track 3
+          url: /digital
+        - title: Positive Practice Environment
+          description: Nurses as a family caring for families
+          linktext: Track 4
+          url: /positive
   - announcements:
       title: Announcements
       id: announcements
