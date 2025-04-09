@@ -44,12 +44,12 @@ sections:
       cards:
         - title: Relationship-Based Care
           description: ​​Nurses as Evidence-based Practitioners
-          linktext: Learn more
+          linktext: Track 1
           url: /relationship
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+        - title: Nurses Beyond Nursing, Nursing Beyond Nurses
+          description: Nurses as Innovators
+          linktext: Track 2
+          url: /beyond
         - title: Card
           description: Card description
           linktext: Learn more
