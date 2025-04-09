@@ -22,20 +22,14 @@ sections:
       variant: image
       backgroundColor: gray
       size: sm
-  - infocols:
-      title: Conference Tracks
-      id: infocols
-      linktext: Click Here To Read More On NHG Nursing
-      url: /nhg-nursing/
-      infoboxes:
-        - title: Relationship-Based Care
-          description: ​​Nurses as Evidence-based Practitioners
-        - title: Nurses Beyond Nursing, Nursing Beyond Nurses
-          description: Nurses as Innovators
-        - title: Digitally Enabled Workforce
-          description: Nurses as Stewards of Resources
-        - title: Positive Practice Environment
-          description: Nurses as a family caring for families
+  - infobar:
+      title: Inaugural NHG Nursing Conference 2025
+      id: infobar
+      description: 'In conjunction with 28th Joint Singapore-Malaysia Nursing
+        Conference, we proudly present: "Riding Waves, Reaching Stars,
+        Reimagining Nursing".'
+      button: Program Highlights
+      url: /highlights
   - textcards:
       title: Select Your Track
       subtitle: Conference Details
@@ -72,12 +66,4 @@ sections:
           announcement: Opening Soon!
           link_text: ""
           link_url: ""
-  - infobar:
-      title: Inaugural NHG Nursing Conference 2025
-      id: infobar
-      description: 'In conjunction with 28th Joint Singapore-Malaysia Nursing
-        Conference, we proudly present: "Riding Waves, Reaching Stars,
-        Reimagining Nursing".'
-      button: Program Highlights
-      url: /highlights
 ---
