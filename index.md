@@ -36,6 +36,24 @@ sections:
           description: Nurses as Stewards of Resources
         - title: Positive Practice Environment
           description: Nurses as a family caring for families
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Relationship-Based Care
+          description: ​​Nurses as Evidence-based Practitioners
+          linktext: Learn more
+          url: /relationship
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
   - announcements:
       title: Announcements
       id: announcements
@@ -59,22 +77,4 @@ sections:
         Reimagining Nursing".'
       button: Program Highlights
       url: /highlights
-  - textcards:
-      title: Text Cards
-      subtitle: Add informational text
-      id: textcards
-      description: Text card description
-      cards:
-        - title: Relationship-Based Care
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
 ---
