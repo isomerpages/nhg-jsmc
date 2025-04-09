@@ -4,6 +4,6 @@ collections:
     order:
       - Track 1.md
       - Track 2.md
-      - folder-page.md
+      - Track 3.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
