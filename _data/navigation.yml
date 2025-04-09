@@ -4,7 +4,7 @@ links:
     url: /about/
   - title: NHG Nursing
     url: /nhgnursing/
-  - title: Program Tracks
-    collection: example-folder
+  - title: Programs
+    collection: programs
   - title: Contact Us
     url: /contact
