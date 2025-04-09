@@ -2,7 +2,7 @@ collections:
   programs:
     output: true
     order:
-      - Program Overview.md
+      - Overview.md
       - Track 1.md
       - Track 2.md
       - Track 3.md
