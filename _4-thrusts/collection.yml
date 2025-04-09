@@ -1,5 +1,4 @@
 collections:
   4-thrusts:
     output: true
-    order:
-      - NHG Nursing.md
+    order: []
