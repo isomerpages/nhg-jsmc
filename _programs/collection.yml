@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - Track 1.md
       - Track 2.md
       - Track 3.md
       - Track 4.md
