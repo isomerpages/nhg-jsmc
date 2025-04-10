@@ -1,5 +1,5 @@
 collections:
-  tracks:
+  programs:
     output: true
     order:
       - Overview.md
