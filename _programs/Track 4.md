@@ -16,3 +16,8 @@ Encouraging peer support and celebrating achievements cultivates a sense
 of belonging. A positive environment not only enhances nurses’ well-being
 but also improves retention, efficiency, and overall quality of care in
 healthcare settings.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_V1_A4_Header__210_x_40_mm___180_x_40_mm_.png">
+</div>
+<p></p>
