@@ -1,4 +1,5 @@
 collections:
   newnew:
     output: true
-    order: []
+    order:
+      - Track 2.md
