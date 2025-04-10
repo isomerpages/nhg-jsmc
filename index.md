@@ -38,19 +38,19 @@ sections:
         - title: Relationship-Based Care
           description: ​​Nurses as Evidence-based Practitioners
           linktext: Track 1
-          url: /programs/track1/
+          url: /track1/
         - title: Nurses Beyond Nursing, Nursing Beyond Nurses
           description: Nurses as Innovators
           linktext: Track 2
-          url: /programs/track2/
+          url: /track2/
         - title: Digitally Enabled Workforce
           description: Nurses as Stewards of Resources
           linktext: Track 3
-          url: /programs/track3/
+          url: /track3/
         - title: Positive Practice Environment
           description: Nurses as a family caring for families
           linktext: Track 4
-          url: /programs/track4/
+          url: /track4/
   - announcements:
       title: Announcements
       id: announcements
