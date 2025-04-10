@@ -2,4 +2,5 @@ collections:
   newnew:
     output: true
     order:
+      - Track 4.md
       - Track 2.md
