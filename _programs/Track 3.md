@@ -16,3 +16,8 @@ for skill development and staying updated on best practices. However, challenges
 like maintaining data security, addressing the digital divide, and managing
 technology-related stress remain. Embracing the digital age fosters innovation
 and elevates the nursing profession to meet evolving healthcare needs.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_V1_A4_Header__210_x_40_mm___180_x_40_mm_.png">
+</div>
+<p></p>
