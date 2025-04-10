@@ -17,3 +17,7 @@ strong interprofessional relationships enhance morale, reduce burnout,
 and drive innovation, ensuring both nurses and patients thrive in healthcare
 settings.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_V1_A4_Header__210_x_40_mm___180_x_40_mm_.png">
+</div>
+<p></p>
