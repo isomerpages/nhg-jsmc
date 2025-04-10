@@ -29,7 +29,7 @@ sections:
         Conference, we proudly present: "Riding Waves, Reaching Stars,
         Reimagining Nursing".'
       button: Program Highlights
-      url: /overview
+      url: /proview
   - textcards:
       title: Select Your Track
       subtitle: Conference Details
