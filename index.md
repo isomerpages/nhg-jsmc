@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Abstract Submission
           description: Click To Submit Your Abstract
-          url: https://for.sg/nhgnursingconf
+          url: https://form.gov.sg/67d1559ecd19eaeb36595259
         - title: Conference Registration
           description: Click To Register
           url: https://for.sg/nhgnursingconfregistration
