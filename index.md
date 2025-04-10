@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Abstract Submission
           description: Click To Submit Your Abstract
-          url: for.sg/nhgnursingconf
+          url: https://form.gov.sg/67d1559ecd19eaeb36595259
         - title: Conference Registration
           description: Click To Register
           url: for.sg/nhgnursingconfregistration
@@ -66,4 +66,16 @@ sections:
           announcement: Opening Soon!
           link_text: ""
           link_url: ""
+  - infocols:
+      title: Info-columns
+      subtitle: Add snippets of text in columns
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
 ---
