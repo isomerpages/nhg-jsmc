@@ -5,25 +5,20 @@ permalink: /contact-us/
 agency_name: NHGNC 2025
 locations:
   - address:
-      - 31 Sesame Street
-      - Big Bird Building
-      - Singapore 123456
+      - "3 Fusionopolis Link, #03-08,"
+      - Nexus @ one-north
+      - Singapore 138543
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
-    maps_link: ""
+    maps_link: https://maps.app.goo.gl/sSnXup11WfD98MG6A
     title: Main Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
+      - phone: +65 6496 6000
+      - email: gnadmin@nhg.com.sg
       - other: ""
-    title: Careers
+    title: General Enquiries & Feedback
 feedback: ""
 ---
