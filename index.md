@@ -50,7 +50,7 @@ sections:
         - title: Positive Practice Environment
           description: Nurses as a family caring for families
           linktext: Track 4
-          url: /programs/track4
+          url: /programs/track4/
   - announcements:
       title: Announcements
       id: announcements
