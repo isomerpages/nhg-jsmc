@@ -1,5 +1,5 @@
 collections:
-  programs:
+  tracks:
     output: true
     order:
       - Track 3.md
