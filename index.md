@@ -42,7 +42,7 @@ sections:
         - title: Nurses Beyond Nursing, Nursing Beyond Nurses
           description: Nurses as Innovators
           linktext: Track 2
-          url: /programs/track2
+          url: /programs/track2/
         - title: Digitally Enabled Workforce
           description: Nurses as Stewards of Resources
           linktext: Track 3
