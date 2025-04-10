@@ -46,7 +46,7 @@ sections:
         - title: Digitally Enabled Workforce
           description: Nurses as Stewards of Resources
           linktext: Track 3
-          url: /programs/track3
+          url: /programs/track3/
         - title: Positive Practice Environment
           description: Nurses as a family caring for families
           linktext: Track 4
