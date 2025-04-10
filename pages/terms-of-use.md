@@ -3,6 +3,7 @@ title: Terms of Use
 permalink: /terms-of-use/
 variant: tiptap
 ---
+<p>*****Placeholder - please update content********</p>
 <h3>NHG Nursing Conference 2025 Website</h3>
 <p>Thank you for visiting the National Healthcare Group Nursing Conference
 2025 website (henceforth known as "Conference Website"). By accessing and
