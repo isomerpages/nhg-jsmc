@@ -38,7 +38,7 @@ sections:
         - title: Relationship-Based Care
           description: ​​Nurses as Evidence-based Practitioners
           linktext: Track 1
-          url: /programs/track1
+          url: /programs/track1/
         - title: Nurses Beyond Nursing, Nursing Beyond Nurses
           description: Nurses as Innovators
           linktext: Track 2
