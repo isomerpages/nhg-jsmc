@@ -2,8 +2,8 @@ collections:
   tracks:
     output: true
     order:
-      - Track 3.md
-      - Track 2.md
-      - Track 4.md
-      - Track 1.md
       - Overview.md
+      - Track 1.md
+      - Track 2.md
+      - Track 3.md
+      - Track 4.md
