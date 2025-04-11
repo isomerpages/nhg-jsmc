@@ -6,3 +6,5 @@ links:
     collection: programs
   - title: Contact Us
     url: /contact_us
+  - title: Terms
+    collection: terms-of-use
