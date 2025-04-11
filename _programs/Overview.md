@@ -74,8 +74,7 @@ Nursing Directions
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">9.45am to 10.10am<br></a>
-</p>
+<p>9.45am to 10.45 am</p>
 </td>
 <td rowspan="1" colspan="4">
 <p>Panel Discussion
