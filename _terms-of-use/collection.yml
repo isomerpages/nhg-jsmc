@@ -1,5 +1,4 @@
 collections:
   terms-of-use:
     output: true
-    order:
-      - terms-of-use.md
+    order: []
