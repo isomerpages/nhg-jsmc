@@ -13,12 +13,12 @@ locations:
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
     maps_link: https://maps.app.goo.gl/sSnXup11WfD98MG6A
-    title: Main Office
+    title: NHG Main Office
 contacts:
   - content:
       - phone: +65 6496 6000
       - email: gnadmin@nhg.com.sg
       - other: ""
     title: General Enquiries & Feedback
-feedback: ""
+feedback: https://for.sg/nhgnursingconffeedback
 ---
