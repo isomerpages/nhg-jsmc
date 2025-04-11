@@ -2,4 +2,5 @@ collections:
   accommodations:
     output: true
     order:
+      - Oasia Hotel.md
       - Aloft.md
