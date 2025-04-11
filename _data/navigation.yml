@@ -10,3 +10,10 @@ links:
     url: /contact_us/
   - title: Accommodations
     url: https://www.marriott.com/en-us/hotels/sinnv-aloft-singapore-novena/overview/
+  - title: Hotels
+    url: https://www.marriott.com/en-us/hotels/sinnv-aloft-singapore-novena/overview/
+    sublinks:
+      - title: Aloft
+        url: https://www.marriott.com/en-us/hotels/sinnv-aloft-singapore-novena/overview/
+      - title: New submenu
+        url: /permalink
