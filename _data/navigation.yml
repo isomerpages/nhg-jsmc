@@ -4,7 +4,7 @@ links:
     collection: about-us
   - title: Programs
     collection: programs
-  - title: Contact Us
-    url: /contact_us
   - title: Terms
     collection: terms-of-use
+  - title: Contact Us
+    url: /contact_us
