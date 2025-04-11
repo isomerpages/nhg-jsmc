@@ -1,0 +1,4 @@
+collections:
+  accommodations:
+    output: true
+    order: []
