@@ -117,9 +117,7 @@ data</p>
 <p>Request information about our personal data protection policies and practices</p>
 </li>
 </ul>
-<p>Contact Us For any questions about this Privacy Statement or to exercise
-your rights regarding your personal data, please contact:</p>
-<p>Data Protection Officer [Insert contact details]</p>
-<p>Changes to Privacy Statement We reserve the right to modify this Privacy
-Statement at any time. Any changes will be posted on this website.</p>
+<p>Changes to Privacy Statement</p>
+<p>We reserve the right to modify this Privacy Statement at any time. Any
+changes will be posted on this website.</p>
 <p>This Privacy Statement was last updated on 11th April 2025.</p>
