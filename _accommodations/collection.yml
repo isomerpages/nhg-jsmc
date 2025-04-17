@@ -2,5 +2,6 @@ collections:
   accommodations:
     output: true
     order:
+      - Courtyard Marriot @ Novena.md
       - Oasia Hotel.md
       - Aloft.md
