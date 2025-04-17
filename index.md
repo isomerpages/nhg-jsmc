@@ -13,15 +13,18 @@ sections:
       subtitle: Inconjunction With Joint Singapore Malaysia Nursing Conference
       background: /images/hero0.png
       key_highlights:
+        - title: Programme Schedule
+          description: Click for Details
+          url: /prooverview/
         - title: Abstract Submission
           description: Click To Submit Your Abstract
           url: https://for.sg/nhgnursingconf
         - title: Conference Registration
           description: Click To Register
           url: https://for.sg/nhgnursingconfregistration
-        - title: Programme Schedule
-          description: Click for Details
-          url: /prooverview/
+        - title: Accommodations
+          description: Key Highlight description
+          url: https://staging.d1tnf04nngjf3i.amplifyapp.com/oasia-hotel/
       variant: image
       backgroundColor: gray
       size: sm
