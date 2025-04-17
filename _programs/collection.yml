@@ -2,7 +2,6 @@ collections:
   programs:
     output: true
     order:
-      - Program Overview.md
       - All Tracks.md
       - Overview.md
       - Track 1.md
