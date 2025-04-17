@@ -22,7 +22,7 @@ sections:
         - title: Conference Registration
           description: Click To Register
           url: https://for.sg/nhgnursingconfregistration
-        - title: Accommodations
+        - title: Hotel Accommodations
           description: Click to find out more
           url: https://cms.isomer.gov.sg/sites/nhg-jsmc/folders/accommodations
       variant: image
