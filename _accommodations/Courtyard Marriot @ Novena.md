@@ -4,6 +4,13 @@ permalink: /courtyard-marriot-novena/
 variant: tiptap
 description: ""
 ---
+<h2>Relax and stay at our Novena hotel in Central Singapore</h2>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/courtyard_marriot.jpg">
+</div>
+<p></p>
 <p>Courtyard Singapore Novena is conveniently located in Singapore's city
 center, adjacent to the Novena MRT/subway station. This Novena hotel is
 10 minutes by subway to the Orchard Road shopping belt and 15 minutes by
