@@ -19,11 +19,8 @@ sections:
         - title: Conference Registration
           description: Click To Register
           url: https://for.sg/nhgnursingconfregistration
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
+        - title: Programme Schedule
+          description: Click for Details
           url: ""
       variant: image
       backgroundColor: gray
