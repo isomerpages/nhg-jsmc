@@ -4,7 +4,12 @@ permalink: /oasia-hotel/
 variant: tiptap
 description: ""
 ---
-<p>Oasia Hotel</p>
+<h2><strong>Oasia Hotel Novena, Singapore</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/oasia.jpg">
+</div>
+<p></p>
 <p>Wood, granite and other natural elements make up the calming landscape
 in the charming enclave of Oasia Hotel Novena, located near the bustling
 Orchard Road and business district. While soothing tones fill the hotel,
