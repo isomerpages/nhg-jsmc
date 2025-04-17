@@ -23,7 +23,7 @@ sections:
           description: Click To Register
           url: https://for.sg/nhgnursingconfregistration
         - title: Accommodations
-          description: Key Highlight description
+          description: Click to find out more
           url: https://cms.isomer.gov.sg/sites/nhg-jsmc/folders/accommodations
       variant: image
       backgroundColor: gray
