@@ -21,7 +21,7 @@ sections:
           url: https://for.sg/nhgnursingconfregistration
         - title: Programme Schedule
           description: Click for Details
-          url: ""
+          url: /prooverview/
       variant: image
       backgroundColor: gray
       size: sm
