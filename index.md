@@ -34,7 +34,7 @@ sections:
       button: Program Highlights
       url: /prooverview/
   - textcards:
-      title: Select Your Track
+      title: Conference Tracks
       subtitle: Conference Details
       id: textcards
       cards:
