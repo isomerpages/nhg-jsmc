@@ -7,6 +7,9 @@ description: ""
 <h1><br>Welcome to Aloft Singapore Novena</h1>
 <h2>Enjoy local tastes at our Novena Hotel in Singapore</h2>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alot.jpg">
+</div>
 <p>Welcome to Aloft Singapore Novena where vibrant spaces and next-generation
 tech come together to create bold experiences. Situated in Zhongshan Park,
 our hotel is the largest Aloft hotels in the world. Appreciate our location
