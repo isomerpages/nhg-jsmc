@@ -24,7 +24,7 @@ sections:
           url: https://for.sg/nhgnursingconfregistration
         - title: Accommodations
           description: Key Highlight description
-          url: https://staging.d1tnf04nngjf3i.amplifyapp.com/oasia-hotel/
+          url: https://cms.isomer.gov.sg/sites/nhg-jsmc/folders/accommodations
       variant: image
       backgroundColor: gray
       size: sm
