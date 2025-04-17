@@ -2,6 +2,7 @@ collections:
   accommodations:
     output: true
     order:
+      - Why book with us.md
       - Aloft.md
       - Courtyard Marriot @ Novena.md
       - Oasia Hotel.md
