@@ -24,7 +24,7 @@ sections:
           url: https://for.sg/nhgnursingconfregistration
         - title: Hotel Accommodations
           description: Click to find out more
-          url: https://cms.isomer.gov.sg/sites/nhg-jsmc/folders/accommodations
+          url: /proaccomodations/
       variant: image
       backgroundColor: gray
       size: sm
