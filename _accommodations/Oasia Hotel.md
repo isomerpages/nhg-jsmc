@@ -29,3 +29,6 @@ comes with absolute exclusivity.</p>
 through an air-conditioned, sheltered basement walkway. Singapore’s vibrant
 lifestyle and premium shopping belt, Orchard Road, is only 2 stops away
 from the Novena MRT station.</p>
+<p></p>
+<p>Click <a href="https://www.oasiahotels.com/en/singapore/hotels/oasia-hotel-novena" rel="noopener nofollow" target="_blank">HERE</a> to
+visit Oasia Hotel Novena's website.</p>
