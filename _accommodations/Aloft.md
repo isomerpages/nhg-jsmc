@@ -4,9 +4,9 @@ permalink: /aloft/
 variant: tiptap
 description: ""
 ---
-<h1><br>Welcome to Aloft Singapore Novena</h1>
+<h1>Welcome to Aloft Singapore Novena</h1>
 <blockquote>
-<h2>Enjoy local tastes at our Novena Hotel in Singapore</h2>
+<h4>Enjoy local tastes at our Novena Hotel in Singapore</h4>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
