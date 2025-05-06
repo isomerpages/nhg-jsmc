@@ -4,7 +4,10 @@ permalink: /courtyard-marriot-novena/
 variant: tiptap
 description: ""
 ---
-<h2>Relax and stay at our Novena hotel in Central Singapore</h2>
+<h3>Courtyard Singapore Novena</h3>
+<blockquote>
+<h4>Relax and stay at our Novena hotel in Central Singapore</h4>
+</blockquote>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
