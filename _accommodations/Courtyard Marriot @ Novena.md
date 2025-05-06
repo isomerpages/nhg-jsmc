@@ -28,5 +28,5 @@ business meeting or celebration, opt for the hotel's modern function room
 with an adjoining patio or Las Palmas' intimate private function room offering
 breathtaking views of the CBD area.</p>
 <p>Click <a href="https://www.marriott.com/en-us/hotels/sincy-courtyard-singapore-novena/overview/" rel="noopener nofollow" target="_blank">HERE</a> to
-visit Courtyard Singapore Novena Website</p>
+visit Courtyard Singapore Novena website.</p>
 <p></p>
