@@ -28,4 +28,5 @@ free Wi-Fi.</p>
 <blockquote>
 <p></p>
 </blockquote>
-<p></p>
+<p>Click <a href="https://www.marriott.com/en-us/hotels/sinnv-aloft-singapore-novena/overview/" rel="noopener nofollow" target="_blank">HERE</a> to
+visit Aloft Singapore Novena's website.</p>
