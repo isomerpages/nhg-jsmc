@@ -8,8 +8,9 @@ description: ""
 <blockquote>
 <h4>Nothing beats seeing and experiencing Oasia with a well-deserved relaxing stay in our exquisite rooms.</h4>
 </blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/oasia.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/oasia_room.jpg">
 </div>
 <p></p>
 <p>Wood, granite and other natural elements make up the calming landscape
