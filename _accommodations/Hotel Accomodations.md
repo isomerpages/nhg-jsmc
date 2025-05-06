@@ -4,10 +4,10 @@ permalink: /hotel-accomodations/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Your Ideal Accommodation</strong></h1>
-<h4><strong>Benefit</strong></h4>
+<h1><strong>Accommodation</strong></h1>
+<h4><strong>Benefit For Conference Attendees</strong></h4>
 <blockquote>
-<h4>from special competitive pricing negotiated exclusively for the conference's participants.</h4>
+<h4>Enjoy competitive pricing exclusively negotiated for conference's participants.</h4>
 </blockquote>
 <h4><strong>Book</strong></h4>
 <blockquote>
