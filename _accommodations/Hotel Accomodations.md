@@ -9,9 +9,10 @@ description: ""
 <blockquote>
 <h4>from special competitive pricing negotiated exclusively for the conference's participants.</h4>
 </blockquote>
-<h4><strong>Book</strong> </h4>
+<h4><strong>Book</strong></h4>
 <blockquote>
 <h4>through our official accommodation online reservation system to enjoy a variety of exclusive hotel opportunities for our attendees.</h4>
 </blockquote>
-<h4>Selected hotels are located near the event venue, ensuring easy access and saving you time.</h4>
+<p>Our specially selected hotels are located near the event venue, ensuring
+easy access and saving you time.</p>
 <p></p>
