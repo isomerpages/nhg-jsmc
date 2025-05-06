@@ -9,7 +9,6 @@ description: ""
 <h4>Relax and stay at our Novena hotel in Central Singapore</h4>
 </blockquote>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/courtyard_marriot.jpg">
 </div>
