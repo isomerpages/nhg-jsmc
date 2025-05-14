@@ -2,10 +2,10 @@ collections:
   programs:
     output: true
     order:
-      - Day 2 Program Schedule.md
-      - Day 1 Program Schedule.md
       - All Tracks.md
       - Overview.md
+      - Day 1 Program Schedule.md
+      - Day 2 Program Schedule.md
       - Track 1.md
       - Track 2.md
       - Track 3.md
