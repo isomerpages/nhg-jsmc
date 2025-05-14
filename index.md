@@ -14,16 +14,16 @@ sections:
       background: /images/hero0.png
       key_highlights:
         - title: Programme Schedule
-          description: Click for Details
+          description: Read More Here
           url: /prooverview/
         - title: Abstract Submission
-          description: Click To Submit Your Abstract
+          description: Submit Your Abstract Here
           url: https://for.sg/nhgnursingconf
         - title: Conference Registration
-          description: Click To Register
+          description: Register Here
           url: https://for.sg/nhgnursingconfregistration
         - title: Hotel Accommodations
-          description: Click to find out more
+          description: Find Recommendations Here
           url: /proaccomodations/
       variant: image
       backgroundColor: gray
