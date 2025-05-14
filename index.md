@@ -17,13 +17,13 @@ sections:
           description: Read More Here
           url: /prooverview/
         - title: Abstract Submission
-          description: Submit Your Abstract Here
+          description: Submit Abstract Here
           url: https://for.sg/nhgnursingconf
         - title: Conference Registration
           description: Register Here
           url: https://for.sg/nhgnursingconfregistration
         - title: Hotel Accommodations
-          description: Find Recommendations Here
+          description: Find Hotels Here
           url: /proaccomodations/
       variant: image
       backgroundColor: gray
