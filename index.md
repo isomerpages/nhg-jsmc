@@ -32,7 +32,7 @@ sections:
       title: Inaugural NHG Nursing Conference 2025
       id: infobar
       description: 'In conjunction with 28th Joint Singapore-Malaysia Nursing
-        Conference, we proudly present: "Riding Waves, Reaching Stars,
+        Conference, we proudly present:  "Riding Waves, Reaching Stars,
         Reimagining Nursing".'
       button: Program Highlights
       url: /prooverview/
