@@ -10,7 +10,7 @@ description: ""
 </div>
 <h1>Courtyard Singapore Novena</h1>
 <blockquote>
-<h4>Relax and stay at our Novena hotel in Central Singapore</h4>
+<h4>Relax and stay at Novena hotel in Central Singapore</h4>
 </blockquote>
 <p></p>
 <p>Courtyard Singapore Novena is conveniently located in Singapore's city
