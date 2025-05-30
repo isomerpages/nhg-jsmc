@@ -1,0 +1,6 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - NHGNC 2025.md
+      - NHG Nursing.md
