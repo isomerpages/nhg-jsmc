@@ -2,6 +2,7 @@ collections:
   programs:
     output: true
     order:
+      - Track 2.md
       - Track 1.md
       - All Tracks.md
       - Day 1 Program Schedule.md
