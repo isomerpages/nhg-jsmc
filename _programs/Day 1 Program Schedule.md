@@ -5,14 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jsmnc_P1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JSMNC_p2.jpg">
-</div>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jsmnc_p3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Program list for day 1" src="/images/Programme_Day_1_Inaugural_NHG_Nursing_Conference_28thJSMNC2025_v1_CL.png">
 </div>
 <p></p>
