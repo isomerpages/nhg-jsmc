@@ -52,10 +52,9 @@ cultures. This track explores how leadership, resource management, and
 professional development opportunities contribute to staff wellbeing and
 quality care delivery.</p>
 </blockquote>
-<p>This conference provides a platform where evidence-based practice meets
-innovation, where experienced practitioners guide emerging leaders, and
-where we collectively shape the future of nursing.</p>
-<h4>Join us as we advance nursing practice together. From clinical innovations to strategic leadership, from current best practices to future healthcare solutions – this is where we reimagine nursing for tomorrow's challenges.</h4>
+<p><strong>This conference provides a platform where evidence-based practice meets innovation, where experienced practitioners guide emerging leaders, and where we collectively shape the future of nursing.</strong>
+</p>
+<h4>Join us as we advance nursing practice together. This is where we reimagine nursing for tomorrow's challenges.</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="national healthcare group cluster organizations" src="/images/nhg_footer.png">
