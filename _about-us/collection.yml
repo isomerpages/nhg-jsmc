@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Organizing Committee.md
       - NHGNC 2025.md
       - NHG Nursing.md
+      - Organizing Committee.md
