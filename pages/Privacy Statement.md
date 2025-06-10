@@ -1,10 +1,9 @@
 ---
 title: Privacy Statement
 permalink: /privacy/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<p>*****Placeholder - please update content********</p>
 <h3>Privacy Statement</h3>
 <p>The National Healthcare Group (NHG) Nursing Conference 2025 is committed
 to protecting your personal data and values your privacy. This Privacy
