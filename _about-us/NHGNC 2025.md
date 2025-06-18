@@ -11,7 +11,7 @@ image: /images/GN_Tagline__2020__wo_Background.png
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="pictures of nurses in NHg uniform" src="/images/nhg_nurse2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="gif of nhg staff waving" src="/images/29037.gif">
 </div>
 <p>The National Healthcare Group proudly presents its inaugural nursing conference,
 in collaboration with the Joint Singapore-Malaysia Nursing Conference,
