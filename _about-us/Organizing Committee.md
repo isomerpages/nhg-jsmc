@@ -14,7 +14,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Advisor for conference, Ms Lay Hoon" src="/images/Pua_LH.png">
+<img style="width: 100%" height="auto" width="100%" alt="Advisor for conference, Ms Lay Hoon" src="/images/ms pua lh.png">
 </div>
 </div>
 <div class="isomer-card-body">
