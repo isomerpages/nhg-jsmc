@@ -91,6 +91,8 @@ description: ""
 </div>
 </div>
 </div>
+<p></p>
+<p>Option 3 - Table format. Might not look good on phone</p>
 <hr>
 <table style="minWidth: 75px">
 <colgroup>
