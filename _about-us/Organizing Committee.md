@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Picture that states names of organizing committee" src="/images/IMG_20250609_WA0029.jpg">
 </div>
-<h3>Main Committee</h3>
+<h3>Main Committee (Option 1 - Note Alignment issue)</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -76,10 +76,12 @@ description: ""
 <div class="isomer-card-description">Ms Geraldine Ng, Woodlands Health</div>
 </div>
 </div>
+</div>
+<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Picture of Admin Lead" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Picture of Admin lead" src="/images/29037.gif">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -87,10 +89,6 @@ description: ""
 <div class="isomer-card-description">Ms Christina Low, NHG Group Nursing</div>
 </div>
 </div>
-</div>
-<p></p>
-<p></p>
-<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -101,6 +99,55 @@ description: ""
 <div class="isomer-card-title">Org Comm Lead</div>
 <div class="isomer-card-description">Ms Goh Soon Pang, Khoo Teck Puat &amp; Yishun Community Hospital</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="picture of org comm lead" src="/images/29037.gif">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Org Comm Lead</div>
+<div class="isomer-card-description">Ms Audrey Kon, Woodlands Health</div>
+</div>
+</div>
+</div>
+<hr>
+<h3></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h3>All Admin and Logistics</h3>
+</th>
+<th rowspan="1" colspan="1">
+<p>Ms Christina Low, NHG Group Nursing</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/29037.gif">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
