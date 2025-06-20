@@ -9,7 +9,55 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="Picture that states names of organizing committee" src="/images/IMG_20250609_WA0029.jpg">
 </div>
 <h3>Main Committee</h3>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ms pua lh.png">
+</div>
+<h4>Advisor</h4>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px___2_.png">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Chairperson</p>
+</th>
+</tr>
+</tbody>
+</table>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Advisor</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Chairperson</p>
+</th>
+</tr>
+</tbody>
+</table>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -45,6 +93,7 @@ description: ""
 </div>
 </div>
 </div>
+<p></p>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
