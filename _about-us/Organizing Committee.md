@@ -20,7 +20,18 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ms pua lh.png">
 </div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <h4>Advisor</h4>
+</th>
+</tr>
+</tbody>
+</table>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -33,27 +44,11 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Chairperson</p>
+<h4>Chairperson</h4>
 </th>
 </tr>
 </tbody>
 </table>
-</th>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Advisor</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Chairperson</p>
 </th>
 </tr>
 </tbody>
