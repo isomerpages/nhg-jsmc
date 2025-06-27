@@ -43,12 +43,12 @@ settings.</p>
 </th>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>11.00 am - 11.20 am</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Journeying with patients through Integrated Care Networks</p>
-</th>
+</td>
 <td rowspan="1" colspan="1">
 <p>Ms. Ng Woei Kian</p>
 </td>
@@ -65,10 +65,11 @@ settings.</p>
 <p>11.20 am - 11.40 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Breaking Silos: Encouraging cross institutional collaboration for consistent
+care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MOH Nursing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
