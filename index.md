@@ -72,4 +72,14 @@ sections:
           announcement: Opening Soon!
           link_text: ""
           link_url: ""
+        - title: Abstract Submissions - Extension
+          date: 06 June 2025
+          announcement: We will extend the abstract submissions date to 25 June 2025.
+          link_text: ""
+          link_url: ""
+        - title: Abstract Submissions - Closed
+          date: 25 June 2025
+          announcement: We have concluded our abstract submissions.
+          link_text: ""
+          link_url: ""
 ---
