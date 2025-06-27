@@ -31,7 +31,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>OPtion 2: card format</p>
+<h4>Option 2</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
