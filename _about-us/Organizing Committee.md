@@ -92,7 +92,7 @@ description: ""
 </div>
 </div>
 <p></p>
-<p>Option 3 - Table format. Might not look good on phone</p>
+<h4>Option 3 - Table format. Might not look good on phone</h4>
 <hr>
 <table style="minWidth: 75px">
 <colgroup>
