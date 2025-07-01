@@ -82,4 +82,9 @@ sections:
           announcement: We have concluded our abstract submissions.
           link_text: ""
           link_url: ""
+        - title: Conference Registration
+          date: 30 May 2025
+          announcement: Conference is now open for registration!
+          link_text: Click Here To Register
+          link_url: https://form.gov.sg/67f4dfd8990af072f0b53bd1
 ---
