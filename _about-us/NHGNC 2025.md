@@ -54,7 +54,7 @@ quality care delivery.</p>
 </blockquote>
 <p><strong>This conference provides a platform where evidence-based practice meets innovation, where experienced practitioners guide emerging leaders, and where we collectively shape the future of nursing.</strong>
 </p>
-<h4>Join us as we advance nursing practice together. </h4>
+<h4>Join us as we advance nursing practice together.</h4>
 <h4>This is where we reimagine nursing for tomorrow's challenges.</h4>
 <p></p>
 <div class="isomer-image-wrapper">
