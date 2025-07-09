@@ -38,7 +38,7 @@ featuring successful case studies of cross-institutional partnerships.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 1B</summary>
+<summary>Track 1B -Staying Unified in a Culturally Diversified Population</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Demonstrates how healthcare professionals can deliver culturally sensitive
 care while maintaining strong human connections in Singapore's diverse
@@ -55,7 +55,8 @@ of our diverse community.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 1C</summary>
+<summary>Track 1C - Creating a Safe Environment for patients to have a voice in
+their care process</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Examines how healthcare environments can evolve to embrace patient voices
 as essential components of effective care delivery. Through "Empowering
@@ -74,7 +75,7 @@ providers toward shared health objectives.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 1D</summary>
+<summary>Track 1D - Preserve the Human Essence in a Technological Age</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Examines how to maintain compassionate, human-centered care in an increasingly
 digital healthcare environment. The track begins by exploring innovative
@@ -98,7 +99,7 @@ human element of nursing care.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 1E</summary>
+<summary>Track 1E - Seeing patients as people than numbers</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>examines how healthcare professionals can maintain person-centered care
 in a metrics-driven healthcare environment. Beginning with mental health
