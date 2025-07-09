@@ -19,7 +19,10 @@ settings.</p>
 <h4>Track 1 Speakers</h4>
 <blockquote>
 <p>Sub-Track 1A: Journeying with Patients</p>
+<hr>
+<p></p>
 </blockquote>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -77,7 +80,4 @@ care</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_V1_A4_Header__210_x_40_mm___180_x_40_mm_.png">
-</div>
 <p></p>
