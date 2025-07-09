@@ -19,7 +19,7 @@ healthcare settings.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Track 4A</summary>
+<summary>4A: Bridging Generations: The Novice, The Emerging and The Veteran.</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
