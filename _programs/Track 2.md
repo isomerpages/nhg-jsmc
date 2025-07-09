@@ -202,3 +202,51 @@ helper to caregiver</p>
 </tbody>
 </table>
 <p></p>
+<blockquote>
+<p>Track 2E: Service Line - Are we the same?</p>
+</blockquote>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.45 pm -2.05 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Servicing in Sky &amp; Land, SIA experience
+<br>BY: DDN Yvonne Yap, KTPH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.05 pm -2.25 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Career Conversion Program, Why Change?
+<br>&nbsp;(Prison officer to Nurse) YH Nurse
+<br>SSN Nazrina Hoque, Ward D48&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.25 pm - 2.45 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nursing Beyond Nurse, (Non-nursing in a nursing environment)
+<br>BY: Malaysia-OK</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.45 pm - 3.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Q&amp;A - Moderator: DDN Yvonne Tan, YCH</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
