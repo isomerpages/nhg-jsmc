@@ -17,7 +17,7 @@ of belonging. A positive environment not only enhances nurses’ well-being
 but also improves retention, efficiency, and overall quality of care in
 healthcare settings.</p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Track 4A -Bridging Generations: The Novice, The Emerging and The Veteran</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -31,6 +31,69 @@ professional development, leadership</p>
 combines with novice nurses fresh perspectives, it creates a workplace
 that both preserves essential nursing knowledge and embraces innovation,
 allowing nurses at every career stage to thrive professionally.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Track 4B -&nbsp;​Empowerment and Engagement: Building a Well-Equipped
+Nurse</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A positive nursing environment thrives when nurses are empowered through
+shared governance and active participation in workplace decisions. When
+nurses are engaged through meaningful initiatives and supported by strong
+mentorship programs, they develop both confidence and competence in their
+roles. This combination of empowerment, engagement, and mentorship creates
+a workplace where nurses feel valued and motivated, leading to better job
+satisfaction, improved retention, and ultimately, higher quality patient
+care.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Track 4C - Fostering Psychological Safety in Nursing: Strategies for Safer</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A positive nursing environment prioritizes psychological safety by creating
+a workplace where nurses can work without fear of judgement, harassment,
+or violence. This includes clear policies and support systems to protect
+staff from workplace abuse, while encouraging open communication and respectful
+interactions. Special attention is given to supporting international nurses
+through cultural understanding and inclusive practices. When healthcare
+organizations</p>
+<p>actively promote these safety measures, nurses feel secure and valued,
+enabling them to focus on delivering quality patient care.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Track 4D - Celebrating Diversity in the Nursing Workforce and Beyond</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A positive nursing environment thrives on diversity, embracing different
+generations, cultures, and backgrounds. By understanding new generation
+nurses needs and creating inclusive practices, healthcare organizations
+can build stronger teams. When workplaces actively promote diversity through
+culturally sensitive policies and diverse leadership, it creates a richer
+work culture and improves patient care through better cultural understanding
+and varied perspectives.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Track 4E - Positive Environments for Happi-nurse</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A positive nursing environment puts nurse wellbeing first through flexible
+scheduling (liquid nursing), thoughtfully designed workspaces, and professional
+development opportunities. By offering adaptable work hours, creating health-promoting
+physical spaces with proper rest areas, and investing in career growth,
+healthcare organizations help nurses maintain work-life balance while advancing
+professionally.</p>
+<p>This comprehensive approach to supporting nurses physical and professional
+well being creates a workplace where nurses can thrive and deliver their
+best care.</p>
+</div>
+</details>
+</div>
+<p>Nursing Practice</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
