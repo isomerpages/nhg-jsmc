@@ -98,7 +98,32 @@ description: ""
 </div>
 </details>
 </div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4>Org Comm Lead</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Ms Audrey Kon, Senior Nurse Clinician, WH</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250609_WA0029.jpg">
 </div>
+<p></p>
+<p></p>
 <p></p>
