@@ -16,7 +16,8 @@ for skill development and staying updated on best practices. However, challenges
 like maintaining data security, addressing the digital divide, and managing
 technology-related stress remain. Embracing the digital age fosters innovation
 and elevates the nursing profession to meet evolving healthcare needs.</p>
-<p></p>
+<p><strong>Here are the different sub tracks for Track 3:</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Track 3A: Powering Up Nursing Practice&nbsp;</summary>
