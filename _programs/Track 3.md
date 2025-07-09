@@ -164,8 +164,7 @@ Home</p>
 <p>2.45 - 3.00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A
-<br>Moderator: DDN Yeo Loo See, NHGP</p>
+<p>Q&amp;A - Moderator: DDN Yeo Loo See, NHGP</p>
 </td>
 </tr>
 </tbody>
