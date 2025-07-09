@@ -16,9 +16,11 @@ and reduces workplace conflicts. Leadership plays a key role in promoting
 inclusivity, mentorship, and professional growth. Ultimately, strong interprofessional
 relationships enhance morale, reduce burnout, and drive innovation, ensuring
 both nurses and patients thrive in healthcare settings.</p>
+<p><strong>Here are the different sub tracks for Track 1:</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Track 1A</summary>
+<summary>Track 1A -Journeying with Patients</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Explores how strengthening human connections transforms patient care journeys
 through three interconnected perspectives. First, it examines Singapore's
@@ -114,14 +116,12 @@ merely as statistics or cases.</p>
 </div>
 </details>
 </div>
-<h4>Track 1 Speakers</h4>
 <blockquote>
-<p>Sub-Track 1A: Journeying with Patients</p>
+<p></p>
+<p>Track 1A: Journeying with Patients</p>
 </blockquote>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
@@ -133,12 +133,6 @@ merely as statistics or cases.</p>
 <th rowspan="1" colspan="1">
 <p>Topic</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Speaker</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Profile</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -146,16 +140,6 @@ merely as statistics or cases.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Journeying with patients through Integrated Care Networks</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms. Ng Woei Kian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/patty_brito_Y_3Dt0us7e0_unsplash.jpg">
-</div>
-<p>Add info here</p>
 </td>
 </tr>
 <tr>
@@ -166,11 +150,74 @@ merely as statistics or cases.</p>
 <p>Breaking Silos: Encouraging cross institutional collaboration for consistent
 care</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>MOH Nursing</p>
+<p>11.40 am - 12.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sharing Best Practices : Leveraging Diversity for better patient outcomes
+through strengthened relationship</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12.00 pm - 12.15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Q&amp;A - Moderator:&nbsp; DDN Yvonne Yap, KTPH&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>Track 1B: Staying Unified in a Culturally Diversified Population</p>
+</blockquote>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Topic</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.45 pm - 2.05 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Compassion without borders: The universal language of care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.05 pm - 2.25 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Connecting Hearts and Practices: Uniting Diverse Institutions in holistic
+care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.25 pm - 2.45 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>From Institution to Individuals: Unified care through Empathy and Inclusion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.45 pm - 3.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Q&amp;A - Moderator:&nbsp; SNM Cherie Koh, KTPH</p>
 </td>
 </tr>
 </tbody>
