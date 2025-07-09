@@ -73,9 +73,15 @@ high safety standards. &nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Track 3E: Future Ready Healthcare: Technology, Leadership, and Crisis
+Management&nbsp;&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>This forward-looking track examines how digital innovations are reshaping
+bedside care and crisis management. Through expert presentations and panel
+discussions, participants will explore sustainable technology methods,
+pandemic preparedness strategies, and the role of technology in emergency
+response. The session emphasizes the importance of building resilient,
+technology-enabled healthcare systems for future challenges.&nbsp;</p>
 </div>
 </details>
 </div>
