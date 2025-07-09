@@ -121,9 +121,19 @@ description: ""
 </div>
 </details>
 </div>
+<p></p>
+<h3>Scientific Programme</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/whdonglj.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250609_WA0029.jpg">
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
