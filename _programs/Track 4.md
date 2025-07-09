@@ -19,9 +19,18 @@ healthcare settings.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>4A: Bridging Generations: The Novice, The Emerging and The Veteran.</summary>
+<summary>Track 4A -Bridging Generations: The Novice, The Emerging and The Veteran</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>A positive nursing environment flourishes when different generations of
+nurses - from novice to veteran - work together effectively. New nurses
+need structured support and mentorship to bridge the gap between theory
+and practice, while experienced nurses share their wisdom and adapt to
+new healthcare approaches. This collaboration is strengthened through ongoing
+professional development, leadership</p>
+<p>training, and modern learning platforms. When veteran nurses expertise
+combines with novice nurses fresh perspectives, it creates a workplace
+that both preserves essential nursing knowledge and embraces innovation,
+allowing nurses at every career stage to thrive professionally.</p>
 </div>
 </details>
 </div>
