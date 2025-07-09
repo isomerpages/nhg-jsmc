@@ -316,7 +316,9 @@ Evolving Healthcare&nbsp;Landscape</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
+<blockquote>
+<p>Track 1E: Seeing patients as people than numbers</p>
+</blockquote>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -325,54 +327,35 @@ Evolving Healthcare&nbsp;Landscape</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.45pm to 3pm
-<br>
-</p>
+<p>1.45 pm -2.05 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Track 1E:
-<br>Seeing patients as people than numbers
-<br>Track Lead:NC Elayne, IMH
-<br>
-</p>
+<p>Integrating Mental Health into Holistic Patient Care</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.45-2.05</p>
+<p>2.05 pm -2.25 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Integrating Mental Health into Holistic Patient Care
-<br>BY: <s>Dr Radiah Salim (HEAL Club President). <br></s>Dr. Syed Harun Alhabsyi,
-Consultant Psychiatrist, Community Volunteer</p>
+<p>How Nurses Can Lead Patient-Centered Care in a KPI-Driven System</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.05-2.25</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>How Nurses Can Lead Patient-Centred Care in a KPI-Driven System
-<br>BY: CN Pua Lay Hoon, WH</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2.25 - 2.45</p>
+<p>2.25 pm - 2.45 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rebuilding Lives After Traumatic Experiences: How nurses foster long-term
-healing beyond hospital&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br>By: ADN Huoy Ling,/&nbsp; NC Petunia PHCT</p>
+healing beyond hospital&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.45 - 3.00</p>
+<p>2.45 pm - 3.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A
-<br>Moderator: SNM Cherie Koh, YH</p>
+<p>Q&amp;A - Moderator: SNM Cherie Koh, YH</p>
 </td>
 </tr>
 </tbody>
