@@ -15,6 +15,8 @@ and enhancing patient outcomes. By embracing innovative practices and interdisci
 collaboration, nurses are redefining their profession, ensuring they are
 not only caregivers but also key players in the broader healthcare landscape,
 ultimately leading to a more effective and responsive healthcare system.</p>
+<p><strong>Here are the different sub tracks for Track 2:</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Awaiting synopsis</summary>
