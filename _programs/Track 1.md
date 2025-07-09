@@ -12,17 +12,14 @@ Strategies include active listening, showing empathy, respecting diverse
 roles, and sharing knowledge to empower colleagues. Emphasizing mutual
 goals, like quality patient outcomes, unites teams and strengthens bonds.
 Recognizing and valuing each nurse’s contributions encourages engagement
-and reduces workplace conflicts. <strong>Leadership plays a key role in promoting inclusivity, mentorship, and professional growth.</strong> Ultimately,
-strong interprofessional relationships enhance morale, reduce burnout,
-and drive innovation, ensuring both nurses and patients thrive in healthcare
-settings.</p>
+and reduces workplace conflicts. Leadership plays a key role in promoting
+inclusivity, mentorship, and professional growth. Ultimately, strong interprofessional
+relationships enhance morale, reduce burnout, and drive innovation, ensuring
+both nurses and patients thrive in healthcare settings.</p>
 <h4>Track 1 Speakers</h4>
 <blockquote>
 <p>Sub-Track 1A: Journeying with Patients</p>
-<hr>
-<p></p>
 </blockquote>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
