@@ -8,29 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Picture that states names of organizing committee" src="/images/IMG_20250609_WA0029.jpg">
 </div>
-<h3>Main Committee (Option 1 - Note Alignment issue)</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Advisor</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/whpualh.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p>Chairperson</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/whngly.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
+<h3>Main Committee </h3>
 <h4>Option 2</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -92,26 +70,13 @@ description: ""
 </div>
 </div>
 <p></p>
-<h4>Option 3 - Table format. Might not look good on phone</h4>
 <hr>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Main Committee</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Advisor</h4>
@@ -120,17 +85,24 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<blockquote>
-<p>Ms Pua Lay Hoon</p>
-<p>Chief Nurse</p>
-<p>Woodlands Health</p>
-</blockquote>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras a odio a
-risus iaculis hendrerit. Aenean a orci non velit sagittis pretium a sit</p>
+<p></p>
 </td>
 </tr>
+</tbody>
+</table>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Ms Pua Lay Hoon, Chief Nurse, Woodlands Health</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Chairperson</h4>
@@ -138,18 +110,38 @@ risus iaculis hendrerit. Aenean a orci non velit sagittis pretium a sit</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/whngly.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<blockquote>
-<p>Ms Geraldine Ng</p>
-<p>Asst Director Of Nursing</p>
-<p>Woodlands Health</p>
-</blockquote>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras a odio a
-risus iaculis hendrerit. Aenean a orci non velit sagittis pretium a sit</p>
-</td>
 </tr>
 </tbody>
 </table>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Ms Geraldine Ng, Asst Director of Nursing, Woodlands Health</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4>Admin Lead</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Ms Christina Low, Senior Manager, NHG Group Nursing</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
