@@ -217,8 +217,29 @@ WH</summary>
 </div>
 </details>
 </div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ttshwanzhen.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Ms Zhao Wanzhen | Senior Nurse Educator | TTSH</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Ms Zhao Wanzhen | Senior Nurse Educator | TTSH</p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
 <p></p>
