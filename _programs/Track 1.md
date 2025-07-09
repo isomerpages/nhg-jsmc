@@ -116,8 +116,8 @@ merely as statistics or cases.</p>
 </div>
 </details>
 </div>
-<blockquote>
 <p></p>
+<blockquote>
 <p>Track 1A: Journeying with Patients</p>
 </blockquote>
 <table style="minWidth: 50px">
@@ -170,6 +170,7 @@ through strengthened relationship</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <blockquote>
 <p>Track 1B: Staying Unified in a Culturally Diversified Population</p>
 </blockquote>
@@ -218,6 +219,160 @@ care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Q&amp;A - Moderator:&nbsp; SNM Cherie Koh, KTPH</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<blockquote>
+<p>Track 1C: Creating a Safe Environment for patients to have a voice in
+their care process</p>
+</blockquote>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.30 pm - 3.50 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Empowering Patient Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.50 pm - 4.10 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Integrating patient input into care strategies</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.10 pm - 4.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Preventive care through collaborative relationship</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.30 pm - 5.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Q&amp;A - Moderator: SNM Siok Qi, KTPH</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<blockquote>
+<p>Track 1D: Preserve the Human Essence in a Technological Age</p>
+</blockquote>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.00 am - 11.20 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nursing in the Digital Era: Supporting Elderly Patients with Compassion
+and Innovation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.20 am - 11.40 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Humanizing Digital Healthcare: Enhancing Tech-Enabled Communication with
+Empathy and&nbsp;Personal&nbsp;Touch</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.40 am - 12.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Future-Proofing Nursing: The Critical Role of Senior Nurses in Singapore's
+Evolving Healthcare&nbsp;Landscape</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12.00 pm -12.15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Q&amp;A - Moderator: DDN Yvonne Tan, YCH</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.45pm to 3pm
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Track 1E:
+<br>Seeing patients as people than numbers
+<br>Track Lead:NC Elayne, IMH
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.45-2.05</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Integrating Mental Health into Holistic Patient Care
+<br>BY: <s>Dr Radiah Salim (HEAL Club President). <br></s>Dr. Syed Harun Alhabsyi,
+Consultant Psychiatrist, Community Volunteer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.05-2.25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>How Nurses Can Lead Patient-Centred Care in a KPI-Driven System
+<br>BY: CN Pua Lay Hoon, WH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.25 - 2.45</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rebuilding Lives After Traumatic Experiences: How nurses foster long-term
+healing beyond hospital&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>By: ADN Huoy Ling,/&nbsp; NC Petunia PHCT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.45 - 3.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Q&amp;A
+<br>Moderator: SNM Cherie Koh, YH</p>
 </td>
 </tr>
 </tbody>
