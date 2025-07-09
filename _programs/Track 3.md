@@ -87,3 +87,215 @@ technology-enabled healthcare systems for future challenges.&nbsp;</p>
 </details>
 </div>
 <p></p>
+<blockquote>
+<p>Track 3A: Powering Up Nursing Practice</p>
+</blockquote>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.00 - 11.20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technologies in Direct Patient Care: Smart&nbsp;ward</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.20 - 11.40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technology assisted model of care in Chronic&nbsp;Disease Management/
+Disease prevention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.40 - 12.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blending Technology-Enhanced Learning for Nursing Education
+<br>NUS Prof Liaw Sok Ying (Confirmed)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12.00 - 12.15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Q&amp;A - Moderator: NC Shaoyang , TTSH</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<blockquote>
+<p>Track 3B: Advancing Digital Health for Chronic Disease Management</p>
+</blockquote>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.45-2.05</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mobile health applications: Benefits in care&nbsp;delivery: Hospital to
+Home</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.05 - 2.45</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coffee chat with APNs: Future Technology in continuous Glucose monitoring</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.45 - 3.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Q&amp;A
+<br>Moderator: DDN Yeo Loo See, NHGP</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<blockquote>
+<p>Track 3C - Sustainable Technologies in Healthcare</p>
+</blockquote>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.30 - 3.50</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Keynote 1: "High-Tech, New-Touch Digital Technologies in Healthcare" -
+Are We Ready?"</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.50 - 4.10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Transforming Healthcare Services with Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.10 - 4.30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fireside chat: Balancing Technology and&nbsp;Human Touch in Nursing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.30 - 5.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Q&amp;A
+<br>Moderator: Lim Voon Hooi</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<blockquote>
+<p>Track 3D - Innovation for Smarter Patient Care</p>
+</blockquote>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.00 - 11.20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Connected Nurse: Real-Time&nbsp;Monitoring and Virtual Patient&nbsp;Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.20 - 12.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dialogue session: Leveraging Digital Tools in&nbsp;Healthcare</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12.00-12.15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Q&amp;A - Moderator: ADN Chen Li, TTSH</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<blockquote>
+<p>Track 3E: Future Ready Healthcare: Technology, Leadership, and Crisis
+management</p>
+</blockquote>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.45-2.05</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Revolutionizing Bedside Care: Nursing Leaders&nbsp;on the Digital Frontline</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.05-2.25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sustainable Technology Methods in Healthcare</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.25 - 2.45</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ask Me Anything: Use of Technology in pandemic&nbsp;readiness</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.45 - 3.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Q&amp;A - Moderator: ADN Shiji, WH</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
