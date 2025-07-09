@@ -251,4 +251,5 @@ helper to caregiver</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <p></p>
