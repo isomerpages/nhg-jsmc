@@ -218,8 +218,7 @@ helper to caregiver</p>
 <p>1.45 pm -2.05 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Servicing in Sky &amp; Land, SIA experience
-<br>BY: DDN Yvonne Yap, KTPH</p>
+<p>Servicing in Sky &amp; Land, SIA experience</p>
 </td>
 </tr>
 <tr>
@@ -227,9 +226,7 @@ helper to caregiver</p>
 <p>2.05 pm -2.25 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Career Conversion Program, Why Change?
-<br>&nbsp;(Prison officer to Nurse) YH Nurse
-<br>SSN Nazrina Hoque, Ward D48&nbsp;</p>
+<p>Career Conversion Program, Why Change?</p>
 </td>
 </tr>
 <tr>
@@ -237,8 +234,7 @@ helper to caregiver</p>
 <p>2.25 pm - 2.45 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nursing Beyond Nurse, (Non-nursing in a nursing environment)
-<br>BY: Malaysia-OK</p>
+<p>Nursing Beyond Nurse: Non-nursing in a nursing environment</p>
 </td>
 </tr>
 <tr>
