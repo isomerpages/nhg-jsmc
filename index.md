@@ -38,7 +38,7 @@ sections:
   - infopic:
       title: Inaugural NHG Nursing Conference 2025
       id: infopic
-      description: In Conjunction With 28th JOint Singapore-Malaysia Nursing Conference
+      description: In Conjunction With 28th Joint Singapore-Malaysia Nursing Conference
       button: registration link
       url: https://form.gov.sg/67f4dfd8990af072f0b53bd1
       image: /images/chi_audi.gif
