@@ -29,13 +29,20 @@ sections:
       backgroundColor: gray
       size: sm
   - infobar:
-      title: Inaugural NHG Nursing Conference 2025
+      title: 1st & 2nd October 2025
       id: infobar
-      description: 'In conjunction with 28th Joint Singapore-Malaysia Nursing
-        Conference, we proudly present: "Riding Waves, Reaching Stars,
-        Reimagining Nursing".'
-      button: Program Highlights
+      description: Centre for Healthcare Innovation (CHI), Singapore
+      button: Directions To CHI
+      url: https://maps.app.goo.gl/7kL37MctcXwwc78fA
+      subtitle: Conference dates
+  - infopic:
+      title: Infopic
+      id: infopic
+      description: Infopic description
+      button: All programs
       url: /all-tracks/
+      image: /images/chi_audi.gif
+      alt: Image alt text
   - textcards:
       title: Conference Tracks
       subtitle: Conference Details
