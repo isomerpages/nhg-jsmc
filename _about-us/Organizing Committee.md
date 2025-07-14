@@ -269,6 +269,29 @@ WH</summary>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/whtimmie.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Ms Timie Chan Lai Ten | Senior Staff Nurse | WH</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 </td>
 </tr>
 </tbody>
