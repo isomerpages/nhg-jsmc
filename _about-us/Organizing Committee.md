@@ -241,7 +241,7 @@ WH</summary>
 </tr>
 </tbody>
 </table>
-<h3>Conference Track Lead</h3>
+<h3>Conference Tracks</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -249,7 +249,7 @@ WH</summary>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Track 1</p>
+<p>Track 1 Lead</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ktphsathiya.png">
 </div>
@@ -265,6 +265,11 @@ WH</summary>
 </details>
 </div>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -316,7 +321,6 @@ WH</summary>
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -325,6 +329,17 @@ WH</summary>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Track 4</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/imhsongsong.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Mr Cui Song Song | Nurse Clinician | IMH</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 </th>
 </tr>
 </tbody>
@@ -332,7 +347,9 @@ WH</summary>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250609_WA0029.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
