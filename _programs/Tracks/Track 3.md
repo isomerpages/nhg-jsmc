@@ -292,5 +292,8 @@ technology-enabled healthcare systems for future challenges.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer.gif">
+</div>
 <p></p>
