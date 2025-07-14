@@ -36,6 +36,50 @@ that both preserves essential nursing knowledge and embraces innovation,
 allowing nurses at every career stage to thrive professionally.</p>
 </div>
 </details>
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.00 am - 11.20 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Novice on Board!: Integrating New Nurses into the Workforce</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.20 am - 11.40 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Investing in Tomorrow: Supporting the Next Generation of Nurses</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.40 am - 12.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Voices of Experience: A Dialogue across Nursing Generations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12.00 pm - 12.15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Q&amp;A - Moderator: DDN Darren Lim, IMH</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Track 4B -&nbsp;​Empowerment and Engagement: Building a Well-Equipped
 Nurse</summary>
@@ -50,6 +94,51 @@ satisfaction, improved retention, and ultimately, higher quality patient
 care.</p>
 </div>
 </details>
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.45 pm -2.05 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shared Governance in Action: Strategies for Empowerment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.05 pm - 2.25 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nursing Engagement &amp; Retention: Cultivating a Thriving Workforce for
+Sustainable Healthcare</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.25 pm - 2.45 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Empowering the Future of Nursing: The Impact of Mentorship</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.45 pm - 3.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Q&amp;A - Moderator: WH ADN Dr. Tan Hongyun</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Track 4C - Fostering Psychological Safety in Nursing: Strategies for Safer</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -64,6 +153,50 @@ organizations</p>
 enabling them to focus on delivering quality patient care.</p>
 </div>
 </details>
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.30 pm - 3.50 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Psychological Safety: Fostering a Safe and Respectful Workplace</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.50 pm - 4.10 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prevent and Protect: Safeguarding Nurses from Workplace Abuse and Violence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.10 pm - 4.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Strangers to Allies: Integrating International Nurses into the Workplace</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.30 pm - 5.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Q&amp;A - Moderator: SNE Grace Tan, Pop Health</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Track 4D - Celebrating Diversity in the Nursing Workforce and Beyond</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -76,6 +209,52 @@ work culture and improves patient care through better cultural understanding
 and varied perspectives.</p>
 </div>
 </details>
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.00 pm - 11.20 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>How to be a “Green Flag”: Tactics to Capture the New Generation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.20 pm - 11.40 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>Together We Rise: Building an Inclusive Culture in Nursing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.40 pm - 12.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Panel Discussion: Breaking Barriers and Celebrating Diversity at Work</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12.00 pm -12.15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Q&amp;A - Moderator: CN KTPH Shirley Heng</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Track 4E - Positive Environments for Happi-nurse</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -86,10 +265,54 @@ physical spaces with proper rest areas, and investing in career growth,
 healthcare organizations help nurses maintain work-life balance while advancing
 professionally.</p>
 <p>This comprehensive approach to supporting nurses physical and professional
-well being creates a workplace where nurses can thrive and deliver their
+well-being creates a workplace where nurses can thrive and deliver their
 best care.</p>
 </div>
 </details>
 </div>
-<p>Nursing Practice</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.45 pm - 2.05 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Embracing Flexibility: The Power of Liquid Nursing in Workforce Scheduling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.05 pm - 2.25 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24/7 Healthy Environments: Crafting Spaces Where Nurses Thrive&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.25 pm - 2.45 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Investing in our Workforce: Shaping Environments that Support Nurses in
+their Growth and Development</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.45 pm - 3.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Q&amp;A - Moderator:&nbsp;CN Raveen, IMH</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer.gif">
+</div>
 <p></p>
