@@ -284,7 +284,7 @@ Evolving Healthcare&nbsp;Landscape</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12.00 pm -12.15 pm</p>
+<p>12.00 pm - 12.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Q&amp;A - Moderator: DDN Yvonne Tan, YCH</p>
@@ -321,7 +321,7 @@ merely as statistics or cases.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.45 pm -2.05 pm</p>
+<p>1.45 pm - 2.05 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Integrating Mental Health into Holistic Patient Care</p>
@@ -329,7 +329,7 @@ merely as statistics or cases.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.05 pm -2.25 pm</p>
+<p>2.05 pm - 2.25 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>How Nurses Can Lead Patient-Centered Care in a KPI-Driven System</p>
