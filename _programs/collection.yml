@@ -2,6 +2,7 @@ collections:
   programs:
     output: true
     order:
+      - Speakers.md
       - Tracks/.keep
       - Tracks/All Tracks.md
       - Tracks/Track 1.md
