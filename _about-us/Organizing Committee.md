@@ -306,7 +306,8 @@ WH</summary>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Sharifah Maryam Alhabshee Bte Zen | Nurse  Manager | KTPH &amp; YCH</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
