@@ -72,9 +72,6 @@ description: ""
 </div>
 </details>
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px___9_.png">
-</div>
 </th>
 </tr>
 </tbody>
@@ -110,9 +107,7 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Org Comm Lead</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px___11_.png">
-</div>
+<p></p>
 </th>
 </tr>
 </tbody>
