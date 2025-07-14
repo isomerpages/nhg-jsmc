@@ -77,6 +77,7 @@ cope with healthcare challenges)</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -137,7 +138,7 @@ to healthcare, both on the ground and beyond.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Track 2C - Workforce Transformation&nbsp;</summary>
@@ -200,6 +201,7 @@ through transformation and collaboration.&nbsp;</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -253,7 +255,7 @@ helper to caregiver</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12.00 pm -12.15 pm</p>
+<p>12.00 pm - 12.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Q&amp;A- Moderator: ADN Eileen Cheah, KTPH</p>
@@ -261,6 +263,7 @@ helper to caregiver</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -295,7 +298,7 @@ landscape.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.45 pm -2.05 pm</p>
+<p>1.45 pm - 2.05 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Servicing in Sky &amp; Land, SIA experience</p>
@@ -303,7 +306,7 @@ landscape.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.05 pm -2.25 pm</p>
+<p>2.05 pm - 2.25 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Career Conversion Program, Why Change?</p>
