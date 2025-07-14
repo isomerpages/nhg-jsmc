@@ -19,7 +19,7 @@ relationships enhance morale, reduce burnout, and drive innovation, ensuring
 both nurses and patients thrive in healthcare settings.</p>
 <p><strong>Here are the different sub tracks for Track 1:</strong>
 </p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Track 1A -Journeying with Patients</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -38,90 +38,7 @@ patient outcomes through enhanced communication and collaborative practices,
 featuring successful case studies of cross-institutional partnerships.</p>
 </div>
 </details>
-<details class="isomer-details">
-<summary>Track 1B -Staying Unified in a Culturally Diversified Population</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Demonstrates how healthcare professionals can deliver culturally sensitive
-care while maintaining strong human connections in Singapore's diverse
-healthcare landscape. Through exploring humanistic principles and emotional
-intelligence, the track shows how compassion transcends cultural and linguistic
-barriers. It then examines strategies for breaking down institutional silos
-to create unified care networks, while preserving each organization's unique
-strengths. The track culminates by highlighting practical approaches to
-building inclusive healthcare environments that honor cultural differences
-while maintaining consistent care standards. Together, these sessions show
-how cultural competency and emotional intelligence can enhance both professional
-relationships and patient outcomes, ensuring dignified care for all members
-of our diverse community.</p>
 </div>
-</details>
-<details class="isomer-details">
-<summary>Track 1C - Creating a Safe Environment for patients to have a voice in
-their care process</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Examines how healthcare environments can evolve to embrace patient voices
-as essential components of effective care delivery. Through "Empowering
-Patient Participation," healthcare providers explore practical strategies
-for integrating patient input into care systems, from implementing bedside
-terminals to establishing consistent communication touchpoints. The track
-advances to "Preventive Care through Collaborative Relationship," demonstrating
-how strong provider-patient partnerships can transform reactive care into
-proactive health management. The final session emphasizes creating a culture
-of open communication through consistent touchpoints and meaningful family
-engagement, recognizing families as crucial amplifiers of patient voices.
-This comprehensive approach ensures healthcare delivery becomes a true
-partnership, where patients and their families feel empowered to actively
-participate in care decisions while working collaboratively with healthcare
-providers toward shared health objectives.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Track 1D - Preserve the Human Essence in a Technological Age</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Examines how to maintain compassionate, human-centered care in an increasingly
-digital healthcare environment. The track begins by exploring innovative
-approaches to elderly care in the digital era, focusing on how technology
-can enhance rather than replace the human touch in nursing practice. It
-demonstrates how digital solutions can support nurses in delivering more
-personalized, effective care while maintaining meaningful patient connections.The
-discussion then moves to the critical balance between digital efficiency
-and human empathy in healthcare communication. This session addresses the
-challenge of depersonalization in tech-enabled care, offering practical
-strategies for nurses to leverage technology while preserving authentic
-human connections with patients.</p>
-<p>The track concludes by examining how senior nurses play a vital role in
-Singapore's evolving healthcare landscape. It explores ways to bridge generational
-gaps in nursing practice, promote workforce diversity, and ensure experienced
-nurses continue to contribute their valuable insights in shaping a future
-where technology and human compassion work in harmony. Throughout these
-sessions, the focus remains on creating a healthcare environment where
-technological advancement enhances rather than diminishes the essential
-human element of nursing care.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Track 1E - Seeing patients as people than numbers</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>examines how healthcare professionals can maintain person-centered care
-in a metrics-driven healthcare environment. Beginning with mental health
-integration into holistic care, the track emphasizes the importance of
-addressing patients' psychosocial needs across their life journey. It then
-explores practical strategies for nurses to deliver patient-centered care
-while meeting operational KPIs, using NHG frameworks that prioritize safety
-alongside efficiency.</p>
-<p>The track concludes by highlighting nursing's crucial role in long-term
-trauma recovery, demonstrating how nurses support patients beyond their
-medical needs to achieve significant life milestones after discharge. Together,
-these sessions reinforce the importance of seeing each patient as a whole
-person with unique needs, challenges, and recovery journeys, rather than
-merely as statistics or cases.</p>
-</div>
-</details>
-</div>
-<p></p>
-<blockquote>
-<p>Track 1A: Journeying with Patients</p>
-</blockquote>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -172,10 +89,27 @@ through strengthened relationship</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <p></p>
-<blockquote>
-<p>Track 1B: Staying Unified in a Culturally Diversified Population</p>
-</blockquote>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Track 1B -Staying Unified in a Culturally Diversified Population</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Demonstrates how healthcare professionals can deliver culturally sensitive
+care while maintaining strong human connections in Singapore's diverse
+healthcare landscape. Through exploring humanistic principles and emotional
+intelligence, the track shows how compassion transcends cultural and linguistic
+barriers. It then examines strategies for breaking down institutional silos
+to create unified care networks, while preserving each organization's unique
+strengths. The track culminates by highlighting practical approaches to
+building inclusive healthcare environments that honor cultural differences
+while maintaining consistent care standards. Together, these sessions show
+how cultural competency and emotional intelligence can enhance both professional
+relationships and patient outcomes, ensuring dignified care for all members
+of our diverse community.</p>
+</div>
+</details>
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -226,10 +160,28 @@ care</p>
 </tbody>
 </table>
 <p></p>
-<blockquote>
-<p>Track 1C: Creating a Safe Environment for patients to have a voice in
-their care process</p>
-</blockquote>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Track 1C - Creating a Safe Environment for patients to have a voice in
+their care process</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Examines how healthcare environments can evolve to embrace patient voices
+as essential components of effective care delivery. Through "Empowering
+Patient Participation," healthcare providers explore practical strategies
+for integrating patient input into care systems, from implementing bedside
+terminals to establishing consistent communication touchpoints. The track
+advances to "Preventive Care through Collaborative Relationship," demonstrating
+how strong provider-patient partnerships can transform reactive care into
+proactive health management. The final session emphasizes creating a culture
+of open communication through consistent touchpoints and meaningful family
+engagement, recognizing families as crucial amplifiers of patient voices.
+This comprehensive approach ensures healthcare delivery becomes a true
+partnership, where patients and their families feel empowered to actively
+participate in care decisions while working collaboratively with healthcare
+providers toward shared health objectives.</p>
+</div>
+</details>
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -270,10 +222,33 @@ their care process</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<blockquote>
-<p>Track 1D: Preserve the Human Essence in a Technological Age</p>
-</blockquote>
+<hr>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Track 1D - Preserve the Human Essence in a Technological Age</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Examines how to maintain compassionate, human-centered care in an increasingly
+digital healthcare environment. The track begins by exploring innovative
+approaches to elderly care in the digital era, focusing on how technology
+can enhance rather than replace the human touch in nursing practice. It
+demonstrates how digital solutions can support nurses in delivering more
+personalized, effective care while maintaining meaningful patient connections.The
+discussion then moves to the critical balance between digital efficiency
+and human empathy in healthcare communication. This session addresses the
+challenge of depersonalization in tech-enabled care, offering practical
+strategies for nurses to leverage technology while preserving authentic
+human connections with patients.</p>
+<p>The track concludes by examining how senior nurses play a vital role in
+Singapore's evolving healthcare landscape. It explores ways to bridge generational
+gaps in nursing practice, promote workforce diversity, and ensure experienced
+nurses continue to contribute their valuable insights in shaping a future
+where technology and human compassion work in harmony. Throughout these
+sessions, the focus remains on creating a healthcare environment where
+technological advancement enhances rather than diminishes the essential
+human element of nursing care.</p>
+</div>
+</details>
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -317,10 +292,27 @@ Evolving Healthcare&nbsp;Landscape</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<blockquote>
-<p>Track 1E: Seeing patients as people than numbers</p>
-</blockquote>
+<hr>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Track 1E - Seeing patients as people than numbers</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Examines how healthcare professionals can maintain person-centered care
+in a metrics-driven healthcare environment. Beginning with mental health
+integration into holistic care, the track emphasizes the importance of
+addressing patients' psychosocial needs across their life journey. It then
+explores practical strategies for nurses to deliver patient-centered care
+while meeting operational KPIs, using NHG frameworks that prioritize safety
+alongside efficiency.</p>
+<p>The track concludes by highlighting nursing's crucial role in long-term
+trauma recovery, demonstrating how nurses support patients beyond their
+medical needs to achieve significant life milestones after discharge. Together,
+these sessions reinforce the importance of seeing each patient as a whole
+person with unique needs, challenges, and recovery journeys, rather than
+merely as statistics or cases.</p>
+</div>
+</details>
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -362,4 +354,10 @@ healing beyond hospital&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </tr>
 </tbody>
 </table>
+<hr>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer.gif">
+</div>
 <p></p>
