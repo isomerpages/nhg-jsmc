@@ -270,6 +270,17 @@ WH</summary>
 <td rowspan="1" colspan="1">
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/whpualh.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Ms Pua Lay Hoon | Chief Nurse | WH</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 </td>
 </tr>
 <tr>
@@ -292,6 +303,18 @@ WH</summary>
 <td rowspan="1" colspan="1">
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/imhelayne.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Ms <strong>Elayne Loo | Nurse Clinician | IMH</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 </td>
 </tr>
 </tbody>
@@ -373,6 +396,7 @@ WH</summary>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250609_WA0029.jpg">
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
