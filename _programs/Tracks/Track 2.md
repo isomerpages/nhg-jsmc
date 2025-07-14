@@ -139,6 +139,7 @@ to healthcare, both on the ground and beyond.&nbsp;</p>
 </tbody>
 </table>
 <hr>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Track 2C - Workforce Transformation&nbsp;</summary>
