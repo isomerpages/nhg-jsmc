@@ -19,7 +19,7 @@ relationships enhance morale, reduce burnout, and drive innovation, ensuring
 both nurses and patients thrive in healthcare settings.</p>
 <p><strong>Here are the different sub tracks for Track 1:</strong>
 </p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Track 1A -Journeying with Patients</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -91,7 +91,7 @@ through strengthened relationship</p>
 </table>
 <hr>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Track 1B -Staying Unified in a Culturally Diversified Population</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -159,8 +159,9 @@ care</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Track 1C - Creating a Safe Environment for patients to have a voice in
 their care process</summary>
@@ -223,7 +224,8 @@ providers toward shared health objectives.</p>
 </tbody>
 </table>
 <hr>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Track 1D - Preserve the Human Essence in a Technological Age</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -293,7 +295,8 @@ Evolving Healthcare&nbsp;Landscape</p>
 </tbody>
 </table>
 <hr>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Track 1E - Seeing patients as people than numbers</summary>
 <div data-type="detailsContent" class="isomer-details-content">
