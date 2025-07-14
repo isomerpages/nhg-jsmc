@@ -2,6 +2,7 @@ collections:
   programs:
     output: true
     order:
+      - Tracks/Track 2.md
       - Tracks/Track 1.md
       - Tracks/All Tracks.md
       - Tracks/.keep
