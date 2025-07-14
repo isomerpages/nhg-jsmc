@@ -18,7 +18,7 @@ not only caregivers but also key players in the broader healthcare landscape,
 ultimately leading to a more effective and responsive healthcare system.</p>
 <p><strong>Here are the different sub tracks for Track 2:</strong>
 </p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Track 2A - Nursing Evolution, Leading the New Era.&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -79,7 +79,7 @@ cope with healthcare challenges)</p>
 </table>
 <hr>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Track 2B - Nursing beyond boundaries</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -139,7 +139,7 @@ to healthcare, both on the ground and beyond.&nbsp;</p>
 </tbody>
 </table>
 <hr>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Track 2C - Workforce Transformation&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -203,7 +203,7 @@ through transformation and collaboration.&nbsp;</p>
 </table>
 <hr>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Track 2D - From Caregivers to Change Agents: The New Nursing Paradigm</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -265,7 +265,7 @@ helper to caregiver</p>
 </table>
 <hr>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Track 2E - Service Line – Are we the same&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
