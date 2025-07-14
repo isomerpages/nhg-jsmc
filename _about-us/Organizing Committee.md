@@ -108,11 +108,10 @@ description: ""
 <th rowspan="1" colspan="1">
 <h4>Org Comm Lead</h4>
 <p></p>
-</th>
-</tr>
-</tbody>
-</table>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/whaudrey.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Audrey Kon | Senior Nurse Clinician | WH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -120,6 +119,10 @@ description: ""
 </div>
 </details>
 </div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <hr>
 <h3>Scientific Programme</h3>
@@ -133,11 +136,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/whdonglj.png">
 </div>
-</th>
-</tr>
-</tbody>
-</table>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Dr Dong Lijuan | Deputy Director of Nursing | WH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -146,6 +145,10 @@ to advance the nursing profession.</p>
 </div>
 </details>
 </div>
+</th>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -156,11 +159,7 @@ to advance the nursing profession.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/whshiji.png">
 </div>
-</th>
-</tr>
-</tbody>
-</table>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Shiji D/O Kuttan Mrs Shiji Subash | Assistant Director of Nursing |
 WH</summary>
@@ -169,6 +168,10 @@ WH</summary>
 </div>
 </details>
 </div>
+</th>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -179,11 +182,7 @@ WH</summary>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ttshrunqi.png">
 </div>
-</th>
-</tr>
-</tbody>
-</table>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Cheong Run Qi | Assistant Nurse Clinician | TTSH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -191,6 +190,10 @@ WH</summary>
 </div>
 </details>
 </div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <hr>
 <h3>Sponsorship</h3>
@@ -204,11 +207,7 @@ WH</summary>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
-</th>
-</tr>
-</tbody>
-</table>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Mr Tan Wan Kun, James | Nurse Manager | TTSH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -216,6 +215,10 @@ WH</summary>
 </div>
 </details>
 </div>
+</th>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -227,11 +230,7 @@ WH</summary>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ttshwanzhen.png">
 </div>
-</th>
-</tr>
-</tbody>
-</table>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Zhao Wanzhen | Senior Nurse Educator | TTSH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -239,6 +238,10 @@ WH</summary>
 </div>
 </details>
 </div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
