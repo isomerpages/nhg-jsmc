@@ -2,6 +2,7 @@ collections:
   programs:
     output: true
     order:
+      - Tracks/.keep
       - Speakers.md
       - All Tracks.md
       - Day 1 Program Schedule.md
