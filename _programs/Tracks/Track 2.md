@@ -113,8 +113,25 @@ landscape.&nbsp;</p>
 </details>
 </div>
 <blockquote>
-<p>Track 2A: Nursing Evolution, Leading the new Era</p>
+<p></p>
 </blockquote>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Track 2A - Nursing Evolution, Leading the New Era.&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This session explores how nursing is transforming to meet future healthcare
+demands. We will examine the evolving vision of future nursing, including
+digital healthcare and advanced practice roles, while discussing how nurses
+are stepping into leadership positions and influencing healthcare policy.
+The session covers current strategies to meet changing healthcare needs,
+particularly in ageing populations and chronic disease management. We will
+also explore innovative initiatives nurses are developing to address healthcare
+challenges, including new care models and technology integration. Our discussion
+will highlight how nurses are actively shaping healthcare's future through
+leadership, innovation, and adaptability.&nbsp;</p>
+</div>
+</details>
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -158,9 +175,25 @@ cope with healthcare challenges)</p>
 </tbody>
 </table>
 <p></p>
-<blockquote>
-<p>Track 2B: Nursing beyond boundaries</p>
-</blockquote>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Track 2B - Nursing beyond boundaries</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>In an ever-evolving healthcare landscape, the role of nursing transcends
+traditional boundaries, embracing diverse responsibilities and innovative
+practices. This track, "Nursing Beyond Boundaries," explores the multifaceted
+nature of nursing, highlighting the various "hats" that nurses wear in
+their professional journeys. From providing care in unconventional settings,
+such as in the sky during air transport, to advocating for health through
+writing and education, nurses are pivotal in shaping health outcomes. The
+subtopic, "Syringe to Pen," emphasizes the importance of communication
+and advocacy in nursing, showcasing how nurses can influence policy and
+public health through their voices and written contributions. Join us as
+we delve into the dynamic roles of nurses and celebrate their contributions
+to healthcare, both on the ground and beyond.&nbsp;</p>
+</div>
+</details>
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -202,9 +235,28 @@ cope with healthcare challenges)</p>
 </tbody>
 </table>
 <p></p>
-<blockquote>
-<p>Track 2C:&nbsp; Workforce Transformation</p>
-</blockquote>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Track 2C - Workforce Transformation&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>In the face of rapid changes in healthcare, the nursing profession is
+undergoing a significant transformation that reflects both historical evolution
+and future prospects. This track, "Workforce Transformation in Nursing,"
+will feature esteemed speakers from overseas who will provide insights
+into the past, present, and future of nursing transformation across the
+decades. Attendees will gain a comprehensive understanding of how nursing
+roles have adapted and evolved in response to societal needs and technological
+advancements.&nbsp;</p>
+<p>&nbsp;Additionally, the track will highlight the importance of interdisciplinary
+collaboration, showcasing how nurses work alongside other healthcare professionals
+to enhance patient care and outcomes. Finally, in light of the recent pandemic,
+we will explore how nursing has stepped up to prepare for critical care
+demands, ensuring clinical readiness for ICU support. Join us for an engaging
+discussion on the pivotal role of nursing in shaping the future of healthcare
+through transformation and collaboration.&nbsp;</p>
+</div>
+</details>
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -246,9 +298,25 @@ cope with healthcare challenges)</p>
 </tbody>
 </table>
 <p></p>
-<blockquote>
-<p>Track 2D: From Caregivers to change agents: The new nursing paradigm</p>
-</blockquote>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Track 2D - From Caregivers to Change Agents: The New Nursing Paradigm</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>In today's rapidly evolving healthcare landscape, nursing is undergoing
+a remarkable transformation that extends far beyond traditional bedside
+care. This new nursing paradigm reimagines nurses as powerful change agents
+who not only provide essential care but also drive innovation in healthcare
+delivery. By embracing concepts like "cleaning to care" and fostering collaboration
+between professional caregivers and domestic helpers, this approach creates
+a more integrated and effective care environment. Perhaps most significantly,
+it recognizes patients as active participants in their own health journeys,
+exemplified by innovative initiatives where patients become community contributors,
+such as serving as baristas while promoting wellness. This shift represents
+a fundamental change in how we view healthcare delivery, creating a more
+dynamic and inclusive system that benefits all stakeholders.</p>
+</div>
+</details>
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -291,9 +359,31 @@ helper to caregiver</p>
 </tbody>
 </table>
 <p></p>
-<blockquote>
-<p>Track 2E: Service Line - Are we the same?</p>
-</blockquote>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Track 2E - Service Line – Are we the same&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>In the diverse world of healthcare, the roles and responsibilities of
+service providers often intersect with those of nurses, leading to intriguing
+discussions about identity and function within the service line. This track,
+"Service Line - Are We the Same as Nurses?" will explore the multifaceted
+nature of service roles in both aerial and terrestrial settings, featuring
+insights from a speaker with experience in Singapore Airlines (SIA) who
+will share how service excellence in the sky parallels nursing practices
+on the ground.&nbsp;</p>
+<p>Additionally, we will hear from a speaker who has undergone a remarkable
+career conversion from prison officer to nurse, discussing the motivations
+behind her change and the unique perspectives she brings to the nursing
+profession.&nbsp;</p>
+<p>Finally, the track will include a presentation on the concept of "nursing
+beyond nursing," where a speaker will discuss the contributions of non-nursing
+professionals in a nursing environment, highlighting the collaborative
+efforts that enhance patient care. Join us for an enlightening exploration
+of service lines and the evolving identity of nursing in today's healthcare
+landscape.&nbsp;</p>
+</div>
+</details>
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
