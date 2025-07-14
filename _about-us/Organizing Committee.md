@@ -306,7 +306,7 @@ WH</summary>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms <strong>Elayne Loo | Nurse Clinician | IMH</strong>
+<summary><strong>Ms Elayne Loo | Nurse Clinician | IMH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
