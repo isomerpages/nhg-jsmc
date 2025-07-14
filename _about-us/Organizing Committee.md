@@ -258,9 +258,9 @@ WH</summary>
 <summary><strong>Ms Sathiya Veerarhagavan | </strong>Senior Nurse Manager | KTPH
 &amp; YCH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p></p>
-<p></p>
+<h3></h3>
+<h3></h3>
+<h3></h3>
 </div>
 </details>
 </div>
@@ -268,12 +268,10 @@ WH</summary>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/whpualh.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Pua Lay Hoon | Chief Nurse | WH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -292,6 +290,23 @@ WH</summary>
 <details class="isomer-details">
 <summary><strong>Ms Timie Chan Lai Ten | Senior Staff Nurse | WH</strong>
 </summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ktphsharifah.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
