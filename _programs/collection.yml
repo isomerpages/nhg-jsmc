@@ -2,6 +2,12 @@ collections:
   programs:
     output: true
     order:
-      - All Tracks.md
+      - Speakers.md
+      - Tracks/.keep
+      - Tracks/All Tracks.md
+      - Tracks/Track 1.md
+      - Tracks/Track 2.md
+      - Tracks/Track 3.md
+      - Tracks/Track 4.md
       - Day 1 Program Schedule.md
       - Day 2 Program Schedule.md
