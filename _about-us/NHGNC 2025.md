@@ -9,25 +9,55 @@ image: /images/GN_Tagline__2020__wo_Background.png
 <h3><strong>NHG Nursing Conference (NHGNC) 2025</strong></h3>
 <p><strong>In Partnership with the 28th Joint Singapore-Malaysia Nursing Conference</strong>
 </p>
-<p>Embarking on a transformative journey, the National Healthcare Group proudly
-presents its inaugural nursing conference, merging with the prestigious
-Joint Singapore-Malaysia Nursing Conference, under the inspiring theme:
-"Riding Waves, Reaching Stars, Reimagining Nursing".</p>
-<p>In an era where healthcare faces unprecedented challenges and opportunities,
-nursing stands at the cusp of a remarkable evolution. Like skilled navigators,
-nurses have always adapted to changing tides, but today's landscape calls
-for more than adaptation – it demands reimagination.</p>
-<p>What does it mean to ride the waves of change while reaching for the stars
-of excellence? How do we harness the momentum of current healthcare transformations
-while aspiring towards unprecedented heights in patient care? The answer
-lies in our collective courage to reimagine nursing practice, education,
-and leadership.</p>
-<p>We believe that every nurse carries the potential to be both a wave-rider
-and a star-reacher. This pioneering conference creates a space where groundbreaking
-ideas meet practical solutions, where experienced voices mentor emerging
-leaders, and where the future of nursing takes shape through our shared
-vision.</p>
-<p>Join us as we navigate these exciting waters together, charting a course
-towards nursing's brightest horizons. From frontline innovations to strategic
-leadership, from evidence-based practice to futuristic healthcare solutions
-– every perspective contributes to our journey of reimagination.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="gif of nhg staff waving" src="/images/29037.gif">
+</div>
+<p>The National Healthcare Group proudly presents its inaugural nursing conference,
+in collaboration with the Joint Singapore-Malaysia Nursing Conference,
+under the theme: "Riding Waves, Reaching Stars, Reimagining Nursing".</p>
+<p>In an era of rapid healthcare transformation, nursing stands at the forefront
+of evolution. While nurses have consistently adapted to change, today's
+healthcare landscape demands innovative approaches to care delivery and
+professional practice.</p>
+<p>Our conference explores four key domains:</p>
+<p><strong>Relationship-Based Care</strong>
+</p>
+<blockquote>
+<p>Examining how strong interprofessional relationships enhance teamwork,
+improve patient outcomes, and create supportive work environments. Through
+effective communication and collaborative practice, we strengthen the foundations
+of healthcare delivery</p>
+</blockquote>
+<p><strong>Nurses Beyond Nursing, Nursing Beyond Nurses:</strong>
+</p>
+<blockquote>
+<p>Exploring nurses' expanding roles as leaders, educators, and system innovators.
+This track highlights how nursing expertise shapes healthcare policies,
+improves systems, and enhances patient care through interdisciplinary collaboration.</p>
+</blockquote>
+<p><strong>Digitally Enabled Workforce</strong>
+</p>
+<blockquote>
+<p>Addressing the integration of technology in modern nursing practice. From
+electronic health records to artificial intelligence, we examine how digital
+solutions enhance clinical decision-making, improve efficiency, and advance
+patient care.</p>
+</blockquote>
+<p><strong>Positive Practice Environment</strong>
+</p>
+<blockquote>
+<p>Focusing on strategies to create sustainable and supportive workplace
+cultures. This track explores how leadership, resource management, and
+professional development opportunities contribute to staff wellbeing and
+quality care delivery.</p>
+</blockquote>
+<p><strong>This conference provides a platform where evidence-based practice meets innovation, where experienced practitioners guide emerging leaders, and where we collectively shape the future of nursing.</strong>
+</p>
+<h4>Join us as we advance nursing practice together.</h4>
+<h4>This is where we reimagine nursing for tomorrow's challenges.</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NHG_Suite.jpg">
+</div>
+<p></p>
