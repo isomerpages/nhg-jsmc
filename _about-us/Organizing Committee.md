@@ -323,6 +323,7 @@ to advance the nursing profession.</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <h3>Conference Tracks</h3>
 <table style="minWidth: 25px">
 <colgroup>
@@ -618,11 +619,11 @@ to advance the nursing profession.</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250609_WA0029.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NHG_Suite.jpg">
 </div>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
