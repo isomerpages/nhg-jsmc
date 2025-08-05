@@ -4,7 +4,7 @@ permalink: /organizing-committee/
 variant: tiptap
 description: ""
 ---
-<h3>Main Committee</h3>
+<h3><strong>Main Committee</strong></h3>
 <hr>
 <table style="minWidth: 25px">
 <colgroup>
@@ -37,7 +37,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Chairperson</strong></h4>
+<h4>Chairperson</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/whngly.png">
 </div>
@@ -125,7 +125,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <h3>All Admin &amp; Logistics</h3>
 <table style="minWidth: 25px">
 <colgroup>
@@ -134,29 +134,15 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="christina" src="/images/nhghqchristina.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Pua Lay Hoon | Chief Nurse | WH</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
+<summary><strong>Ms Christina Low | Senior Manager | NHG Group Nursing</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-</div>
-</details>
-</div>
-</div>
-</details>
-</div>
 </div>
 </details>
 </div>
@@ -165,6 +151,7 @@ description: ""
 </tbody>
 </table>
 <hr>
+<h3></h3>
 <h3>Scientific Programme</h3>
 <table style="minWidth: 25px">
 <colgroup>
