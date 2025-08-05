@@ -248,15 +248,13 @@ WH</summary>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sathiya" src="/images/ktphsathiya.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Sathiya Veerarhagavan | Senior Nurse Manager | KTPH &amp; YCH</strong>
-</summary>
+<summary><strong>Ms Sathiya Veerarhagavan | Senior Nurse Manager | K</strong>TPH
+&amp; YCH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
-</div>
 </td>
 </tr>
 <tr>
