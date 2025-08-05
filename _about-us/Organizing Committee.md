@@ -651,6 +651,9 @@ to advance the nursing profession.</p>
 <p></p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="thet thet" src="/images/whthetthet.png">
+</div>
 <p></p>
 </td>
 </tr>
@@ -659,6 +662,7 @@ to advance the nursing profession.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NHG_Suite.jpg">
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
