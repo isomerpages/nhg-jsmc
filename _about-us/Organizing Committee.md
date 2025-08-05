@@ -283,7 +283,26 @@ to advance the nursing profession.</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <h3>Publicity, EDMs &amp; Website</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Conference Tracks</h3>
 <table style="minWidth: 25px">
 <colgroup>
@@ -583,6 +602,7 @@ to advance the nursing profession.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250609_WA0029.jpg">
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
