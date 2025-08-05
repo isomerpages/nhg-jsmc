@@ -425,7 +425,7 @@ WH</summary>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="james" src="/images/ttshjames.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ttshjames.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -472,7 +472,6 @@ WH</summary>
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -480,7 +479,7 @@ WH</summary>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Track 4</p>
+<p>rack 4</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/imhsongsong.png">
 </div>
@@ -493,6 +492,22 @@ WH</summary>
 </details>
 </div>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ttshrunqi.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Ms Cheong Run Qi | Assistant Nurse Clinician | TTSH</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+</td>
 </tr>
 </tbody>
 </table>
