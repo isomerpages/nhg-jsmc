@@ -334,8 +334,7 @@ to advance the nursing profession.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <blockquote>
-<p>Track 1</p>
-<p></p>
+<h4>Track 1</h4>
 </blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sathiya" src="/images/ktphsathiya.png">
@@ -423,7 +422,7 @@ to advance the nursing profession.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <blockquote>
-<h4><strong>Track 2</strong></h4>
+<h4>Track 2</h4>
 </blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ktphjoyceho.png">
@@ -497,7 +496,7 @@ to advance the nursing profession.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <blockquote>
-<p>Track 3</p>
+<h4>Track 3</h4>
 </blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/nhgpshuli.png">
@@ -507,7 +506,7 @@ to advance the nursing profession.</p>
 <summary><strong>Ms Jia Shuli | Head Nurse | NHGP</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<h4></h4>
 </div>
 </details>
 </div>
@@ -571,7 +570,7 @@ to advance the nursing profession.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <blockquote>
-<p>Track 4</p>
+<h4>Track 4</h4>
 </blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/imhsongsong.png">
