@@ -297,7 +297,8 @@ to advance the nursing profession.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Audrey Kon | Senior Nurse Clinician | WH</summary>
+<summary><strong>Ms Audrey Kon | Senior Nurse Clinician | WH</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -633,8 +634,15 @@ to advance the nursing profession.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="elayne" src="/images/imhelayne.png">
 </div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Ms Elayne Loo | Nurse Clinician | IMH</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p></p>
+</div>
+</details>
+</div>
 </th>
 </tr>
 <tr>
@@ -643,18 +651,31 @@ to advance the nursing profession.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sathiya" src="/images/ktphsathiya.png">
 </div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Ms Sathiya Veerarhagavan | Senior Nurse Manager | KTPH &amp; YCH</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="thet thet" src="/images/whthetthet.png">
 </div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Ms Thet Thet | Nurse Clinician | WH</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+</div>
 </td>
 </tr>
 </tbody>
@@ -662,7 +683,6 @@ to advance the nursing profession.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NHG_Suite.jpg">
 </div>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
