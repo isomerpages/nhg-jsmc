@@ -216,27 +216,21 @@ WH</summary>
 </div>
 </th>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ttshwanzhen.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Zhao Wanzhen | Senior Nurse Educator | TTSH</summary>
+<summary><strong>Ms Zhao Wanzhen | Senior Nurse Educator | TTSH</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Ms Zhao Wanzhen | Senior Nurse Educator | TTSH</p>
+<p></p>
 </div>
 </details>
 </div>
-</th>
+</td>
 </tr>
 </tbody>
 </table>
@@ -247,23 +241,23 @@ WH</summary>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Track 1 Lead</p>
+<td rowspan="1" colspan="1">
+<blockquote>
+<p>Track 1</p>
+</blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ktphsathiya.png">
+<img style="width: 100%" height="auto" width="100%" alt="Sathiya" src="/images/ktphsathiya.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Sathiya Veerarhagavan | </strong>Senior Nurse Manager | KTPH
-&amp; YCH</summary>
+<summary><strong>Ms Sathiya Veerarhagavan | Senior Nurse Manager | KTPH &amp; YCH</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h3></h3>
-<h3></h3>
-<h3></h3>
+<p></p>
 </div>
 </details>
 </div>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -299,8 +293,6 @@ WH</summary>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ktphsharifah.png">
 </div>
@@ -340,8 +332,10 @@ WH</summary>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<blockquote>
 <p><strong>Track 2</strong>
 </p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ktphjoyceho.png">
 </div>
@@ -413,7 +407,9 @@ WH</summary>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<blockquote>
 <p>Track 3</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/nhgpshuli.png">
 </div>
@@ -460,8 +456,25 @@ WH</summary>
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="audrey" src="/images/whaudrey.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Ms Audrey Kon | Senior Nurse Clinician | WH</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -485,8 +498,6 @@ WH</summary>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250609_WA0029.jpg">
