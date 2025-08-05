@@ -385,7 +385,7 @@ WH</summary>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="wanzhen" src="/images/ttshwanzhen.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Ms Zhao Wanzhen | Senior Nurse Educator | TTSH</strong>
 </summary>
@@ -427,7 +427,7 @@ WH</summary>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ttshjames.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Mr Tan Wan Kun, James | Nurse Manager | TTSH</strong>
 </summary>
@@ -443,7 +443,7 @@ WH</summary>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="shiji" src="/images/whshiji.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Ms Shiji D/O Kuttan | Assistant Director of Nursing | WH</strong>
 </summary>
@@ -459,7 +459,7 @@ WH</summary>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="audrey" src="/images/whaudrey.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Ms Audrey Kon | Senior Nurse Clinician | WH</strong>
 </summary>
@@ -479,7 +479,9 @@ WH</summary>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>rack 4</p>
+<blockquote>
+<p>Track 4</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/imhsongsong.png">
 </div>
@@ -498,7 +500,7 @@ WH</summary>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ttshrunqi.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Ms Cheong Run Qi | Assistant Nurse Clinician | TTSH</strong>
 </summary>
