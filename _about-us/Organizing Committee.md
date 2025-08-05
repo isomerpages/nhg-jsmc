@@ -645,6 +645,7 @@ to advance the nursing profession.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <h3>Scientific Track</h3>
 <table style="minWidth: 25px">
 <colgroup>
