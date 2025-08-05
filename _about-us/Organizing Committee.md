@@ -151,7 +151,30 @@ description: ""
 </tbody>
 </table>
 <hr>
-<h3></h3>
+<h3>Conference Programme</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ktphsoongpang.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Ms Goh Soon Pang | Senior Nurse Clinician | KTPH &amp; YCH</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h3>Scientific Programme</h3>
 <table style="minWidth: 25px">
 <colgroup>
