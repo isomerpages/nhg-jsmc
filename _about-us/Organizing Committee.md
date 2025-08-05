@@ -334,6 +334,7 @@ to advance the nursing profession.</p>
 <td rowspan="1" colspan="1">
 <blockquote>
 <p>Track 1</p>
+<p></p>
 </blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sathiya" src="/images/ktphsathiya.png">
@@ -620,7 +621,41 @@ to advance the nursing profession.</p>
 </tbody>
 </table>
 <hr>
+<h3>Scientific Track </h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="elayne" src="/images/imhelayne.png">
+</div>
+<p></p>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sathiya" src="/images/ktphsathiya.png">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NHG_Suite.jpg">
 </div>
