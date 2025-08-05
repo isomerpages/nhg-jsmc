@@ -19,7 +19,8 @@ description: ""
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Pua Lay Hoon | Chief Nurse | WH</summary>
+<summary><strong>Ms Pua Lay Hoon | Chief Nurse | WH</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -36,13 +37,14 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Chairperson</h4>
+<h4><strong>Chairperson</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/whngly.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Geraldine Ng | Deputy Director of Nursing | WH</summary>
+<summary><strong>Ms Geraldine Ng | Deputy Director of Nursing | WH</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -124,6 +126,44 @@ description: ""
 </tbody>
 </table>
 <p></p>
+<h3>All Admin &amp; Logistics</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="christina" src="/images/nhghqchristina.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Ms Pua Lay Hoon | Chief Nurse | WH</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+</div>
+</details>
+</div>
+</div>
+</details>
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <hr>
 <h3>Scientific Programme</h3>
 <table style="minWidth: 25px">
@@ -161,8 +201,7 @@ to advance the nursing profession.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Shiji D/O Kuttan Mrs Shiji Subash | Assistant Director of Nursing |
-WH</summary>
+<summary>Ms Shiji D/O Kuttan | Assistant Director of Nursing | WH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -503,6 +542,22 @@ WH</summary>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Ms Cheong Run Qi | Assistant Nurse Clinician | TTSH</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="lijuan" src="/images/whdonglj.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Dr Dong Lijuan | Deputy Director of Nursing | WH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
