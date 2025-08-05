@@ -174,7 +174,8 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h3>Scientific Programme</h3>
+<hr>
+<h3>Scientific Programme &amp; CPE Points</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -282,6 +283,7 @@ to advance the nursing profession.</p>
 </tr>
 </tbody>
 </table>
+<h3>Publicity, EDMs &amp; Website</h3>
 <h3>Conference Tracks</h3>
 <table style="minWidth: 25px">
 <colgroup>
