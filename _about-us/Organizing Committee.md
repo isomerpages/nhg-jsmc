@@ -42,7 +42,7 @@ description: ""
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Geraldine Ng | Assistant Director of Nursing | WH</summary>
+<summary>Ms Geraldine Ng | Deputy Director of Nursing | WH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -272,7 +272,8 @@ WH</summary>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Pua Lay Hoon | Chief Nurse | WH</summary>
+<summary><strong>Ms Pua Lay Hoon | Chief Nurse | WH</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -339,13 +340,14 @@ WH</summary>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Track 2</p>
+<p><strong>Track 2</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ktphjoyceho.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms <strong>Joyce Ho Nuo | </strong>Nurse Educator | <strong>KTPH &amp; YCH</strong>
+<summary><strong>Ms Joyce Ho Nuo | Nurse Educator | KTPH &amp; YCH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -361,7 +363,8 @@ WH</summary>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Goh Soon Pang | Senior Nurse Clinician | KTPH &amp; YCH</summary>
+<summary><strong>Ms Goh Soon Pang | Senior Nurse Clinician | KTPH &amp; YCH</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -376,7 +379,8 @@ WH</summary>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Thet Thet | Nurse Clinician | WH</summary>
+<summary><strong>Ms Thet Thet | Nurse Clinician | WH</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -386,7 +390,18 @@ WH</summary>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="wanzhen" src="/images/ttshwanzhen.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Ms Zhao Wanzhen | Senior Nurse Educator | TTSH</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+</div>
 </td>
 </tr>
 </tbody>
@@ -412,6 +427,38 @@ WH</summary>
 </details>
 </div>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="james" src="/images/ttshjames.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mr Tan Wan Kun, James | Nurse Manager | TTSH</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="shiji" src="/images/whshiji.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Ms Shiji D/O Kuttan | Assistant Director of Nursing | WH</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+</td>
 </tr>
 </tbody>
 </table>
