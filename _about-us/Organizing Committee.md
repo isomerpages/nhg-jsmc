@@ -645,7 +645,7 @@ to advance the nursing profession.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <h3>Scientific Track</h3>
 <table style="minWidth: 25px">
 <colgroup>
@@ -710,5 +710,5 @@ to advance the nursing profession.</p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
+<hr>
 <p></p>
