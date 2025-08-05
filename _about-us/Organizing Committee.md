@@ -630,7 +630,6 @@ to advance the nursing profession.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="elayne" src="/images/imhelayne.png">
 </div>
@@ -647,7 +646,6 @@ to advance the nursing profession.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sathiya" src="/images/ktphsathiya.png">
 </div>
@@ -683,7 +681,6 @@ to advance the nursing profession.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NHG_Suite.jpg">
 </div>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
