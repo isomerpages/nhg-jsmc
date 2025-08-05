@@ -249,8 +249,8 @@ WH</summary>
 <img style="width: 100%" height="auto" width="100%" alt="Sathiya" src="/images/ktphsathiya.png">
 </div>
 <details class="isomer-details">
-<summary><strong>Ms Sathiya Veerarhagavan | Senior Nurse Manager | K</strong>TPH
-&amp; YCH</summary>
+<summary><strong>Ms Sathiya Veerarhagavan | Senior Nurse Manager | KTPH &amp; YCH</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -294,9 +294,9 @@ WH</summary>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ktphsharifah.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Sharifah Maryam Alhabshee Bte Zen | Nurse Manager | KTPH &amp; YCH</strong>
+<summary><strong>Ms Sharifah Maryam Alhabshee Bte Zen | Nurse Manager | KTPH &amp; YCH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -353,7 +353,7 @@ WH</summary>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="soonpang" src="/images/ktphsoongpang.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Ms Goh Soon Pang | Senior Nurse Clinician | KTPH &amp; YCH</strong>
 </summary>
@@ -369,7 +369,7 @@ WH</summary>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="thetthet" src="/images/whthetthet.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Ms Thet Thet | Nurse Clinician | WH</strong>
 </summary>
