@@ -422,10 +422,8 @@ to advance the nursing profession.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<blockquote>
 <p><strong>Track 2</strong>
 </p>
-</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ktphjoyceho.png">
 </div>
@@ -621,7 +619,32 @@ to advance the nursing profession.</p>
 </tr>
 </tbody>
 </table>
-<hr>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<blockquote>
+<h4>Conference Emcee</h4>
+</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="timmie" src="/images/whtimmie.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Ms Timie Chan Lai Ten | Senior Staff Nurse | WH</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h3>Scientific Track</h3>
 <table style="minWidth: 25px">
 <colgroup>
