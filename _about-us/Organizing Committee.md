@@ -343,7 +343,9 @@ to advance the nursing profession.</p>
 <summary><strong>Ms Sathiya Veerarhagavan | Senior Nurse Manager | KTPH &amp; YCH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Senior Nurse Manager with 24 years' experience, passionate about healthcare
+leadership &amp; CPIP initiatives, driving excellence in quality improvement
+&amp; nursing development.&nbsp;</p>
 </div>
 </details>
 </td>
