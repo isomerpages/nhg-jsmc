@@ -682,7 +682,9 @@ to become confident, competent healthcare professionals.</p>
 <summary><strong>Ms Sathiya Veerarhagavan | Senior Nurse Manager | KTPH &amp; YCH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Senior Nurse Manager with 24 years' experience, passionate about healthcare
+leadership &amp; CPIP initiatives, driving excellence in quality improvement
+&amp; nursing development.&nbsp;</p>
 </div>
 </details>
 </div>
@@ -715,8 +717,4 @@ to become confident, competent healthcare professionals.</p>
 <p></p>
 <p></p>
 <hr>
-<p>With 18 years of nursing experience, I'm passionate about shaping the
-next generation of nurses through innovative education. I specialise in
-creating engaging learning environments that combine interactive teaching
-with practical skills development. My goal is to mentor and empower students
-to become confident, competent healthcare professionals.</p>
+<p></p>
