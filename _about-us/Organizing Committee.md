@@ -432,7 +432,11 @@ to advance the nursing profession.</p>
 <summary><strong>Ms Joyce Ho Nuo | Nurse Educator | KTPH &amp; YCH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>With 18 years of nursing experience, I'm passionate about shaping the
+next generation of nurses through innovative education. I specialise in
+creating engaging learning environments that combine interactive teaching
+with practical skills development. My goal is to mentor and empower students
+to become confident, competent healthcare professionals.</p>
 </div>
 </details>
 </div>
@@ -711,4 +715,8 @@ to advance the nursing profession.</p>
 <p></p>
 <p></p>
 <hr>
-<p></p>
+<p>With 18 years of nursing experience, I'm passionate about shaping the
+next generation of nurses through innovative education. I specialise in
+creating engaging learning environments that combine interactive teaching
+with practical skills development. My goal is to mentor and empower students
+to become confident, competent healthcare professionals.</p>
