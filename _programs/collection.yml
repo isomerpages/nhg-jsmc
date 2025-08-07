@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Track 1/.keep
-      - Track Speakers.md
       - Keynote Speakers.md
       - Tracks/.keep
       - Tracks/All Tracks.md
