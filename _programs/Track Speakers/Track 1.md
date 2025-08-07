@@ -5,14 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<p>Track 1A</p>
+<h3>Track 1A</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/Dr_Laurence_Tan.png">
 </div>
@@ -24,7 +24,19 @@ third_nav_title: Track Speakers
 <summary>Senior Consultant and Head of Service, Supportive and Palliative Care,
 Department of Geriatric Medicine, Khoo Teck Puat Hospital&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h2>Dr Tan is a Senior Consultant and Head of Service for Supportive and Palliative Medicine at Khoo Tech Puat Hospital, Singapore. His work focuses on innovative healthcare delivery methods, including telemedicine for nursing home residents and homebound patients. He has developed animation-based educational tools to teach palliative care concepts to healthcare workers, making complex topics more accessible and engaging. Dr Tan is also exploring the potential of artificial intelligence in palliative care to enhance patient support and clinical decision-making. As a Clinical Assistant Professor at the Yong Loo Lin School of Medicine and Adjunct Senior Lecturer at Lee Kong Chian School of Medicine, he combines clinical work with teaching and research, focusing on practical solutions that improve care delivery. His clinical interests include palliative rehabilitation, especially in the area of swallowing and food for palliative patients.&nbsp;</h2>
+<p>Dr Tan is a Senior Consultant and Head of Service for Supportive and Palliative
+Medicine at Khoo Tech Puat Hospital, Singapore. His work focuses on innovative
+healthcare delivery methods, including telemedicine for nursing home residents
+and homebound patients. He has developed animation-based educational tools
+to teach palliative care concepts to healthcare workers, making complex
+topics more accessible and engaging. Dr Tan is also exploring the potential
+of artificial intelligence in palliative care to enhance patient support
+and clinical decision-making. As a Clinical Assistant Professor at the
+Yong Loo Lin School of Medicine and Adjunct Senior Lecturer at Lee Kong
+Chian School of Medicine, he combines clinical work with teaching and research,
+focusing on practical solutions that improve care delivery. His clinical
+interests include palliative rehabilitation, especially in the area of
+sawllowing and food for palliative patients.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -35,21 +47,21 @@ Palliative Care.</summary>
 Care" explores the common challenges of working across hospital wards,
 nursing homes, and community care teams. We'll look at familiar scenarios
 like "that's not how we do it here" and "our systems are different," examining
-why these barriers develop and how they affect patient care.&nbsp;</p>
+why these barriers develop and how they affect patient care.</p>
 <p>Moving beyond challenges, we'll explore successful examples where healthcare
 teams have effectively bridged these gaps. Through practical case studies,
 we'll see how different settings have created better ways to work together,
 leading to improved care coordination and more satisfying work environments
-for healthcare professionals.&nbsp;</p>
+for healthcare professionals.</p>
 <p>The final part focuses on practical steps that nurses can implement in
 their daily practice to enhance collaboration across settings. We'll share
 straightforward, tested approaches that have helped teams work more effectively
 together, because good palliative care relies on smooth coordination between
-all care providers.&nbsp;</p>
+all care providers.</p>
 </div>
 </details>
 </div>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -62,8 +74,8 @@ all care providers.&nbsp;</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Nurse Clinician, National University Health System, Regional Health System Office, Community Care&nbsp;</strong>
-</summary>
+<summary>Nurse Clinician, National University Health System, Regional Health System
+Office, Community Care&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Ms Lim Hui Shan, BSN, RN has been a Nurse Clinician with the NUHS Regional
 Health System Community Care Team since 2017. Prior to her current role,
@@ -91,8 +103,7 @@ health initiatives and fostering partnerships.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Track 1A2: Journeying with Patients&nbsp;</strong>
-</summary>
+<summary>Track 1A3: Journeying with Patients&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>As Singapore's population ages rapidly, community nursing is becoming
 increasingly critical in delivering holistic, person-centred care closer
