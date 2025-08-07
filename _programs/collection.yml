@@ -2,11 +2,11 @@ collections:
   programs:
     output: true
     order:
-      - Track Speakers/Track 4.md
-      - Track Speakers/Track 3.md
-      - Track Speakers/Track 2.md
-      - Track Speakers/Track 1.md
       - Track Speakers/.keep
+      - Track Speakers/Track 1.md
+      - Track Speakers/Track 2.md
+      - Track Speakers/Track 3.md
+      - Track Speakers/Track 4.md
       - Keynote Speakers.md
       - Tracks/.keep
       - Tracks/All Tracks.md
