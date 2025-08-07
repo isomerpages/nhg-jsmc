@@ -620,7 +620,9 @@ to become confident, competent healthcare professionals.</p>
 <summary><strong>Dr Dong Lijuan | Deputy Director of Nursing | WH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Dr. Dong is the Deputy Director of Nursing at Woodlands Hospital. She
+drives nursing research, education, and evidence-based practice to advance
+the profession.</p>
 </div>
 </details>
 </div>
@@ -722,4 +724,6 @@ leadership &amp; CPIP initiatives, driving excellence in quality improvement
 <p></p>
 <p></p>
 <hr>
-<p></p>
+<p>Dr. Dong Lijuan is the deputy director of nursing at Woodlands Hospital.
+She drives nursing research, education, and evidence-based practice to
+advance the profession.</p>
