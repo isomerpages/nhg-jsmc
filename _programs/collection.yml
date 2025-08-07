@@ -2,6 +2,7 @@ collections:
   programs:
     output: true
     order:
+      - Track 1/Track Speakers.md
       - Track 1/.keep
       - Keynote Speakers.md
       - Tracks/.keep
