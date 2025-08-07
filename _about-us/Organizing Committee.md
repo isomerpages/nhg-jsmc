@@ -190,7 +190,7 @@ description: ""
 <details class="isomer-details">
 <summary>Dr Dong Lijuan | Deputy Director of Nursing | WH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Dr Dong Lijuan drives nursing research, education and evidence-based practice
+<p>Dr Dong drives nursing research, education and evidence-based practice
 to advance the nursing profession.</p>
 </div>
 </details>
@@ -620,9 +620,8 @@ to become confident, competent healthcare professionals.</p>
 <summary><strong>Dr Dong Lijuan | Deputy Director of Nursing | WH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Dr. Dong is the Deputy Director of Nursing at Woodlands Hospital. She
-drives nursing research, education, and evidence-based practice to advance
-the profession.</p>
+<p>Dr Dong drives nursing research, education and evidence-based practice
+to advance the nursing profession.</p>
 </div>
 </details>
 </div>
