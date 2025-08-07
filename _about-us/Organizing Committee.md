@@ -392,7 +392,10 @@ leadership &amp; CPIP initiatives, driving excellence in quality improvement
 <summary><strong>Ms Sharifah Maryam Alhabshee Bte Zen | Nurse Manager | KTPH &amp; YCH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Over my 15 years as a nurse, I have learned to view situations from different
+perspectives and sincerely care for others. I am dedicated to treating
+patients equitably and providing reliable support to my colleagues, which
+motivates me to effectively lead the team.</p>
 </div>
 </details>
 </div>
