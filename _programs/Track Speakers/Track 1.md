@@ -22,7 +22,8 @@ third_nav_title: Track Speakers
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Assistant Director of Nursing, Tan Tock Seng Hospital</summary>
+<summary>Assistant Director of Nursing, Community Care (Community Health), NHG
+Population Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -134,7 +135,7 @@ Outcomes Through Strengthened Relationship</summary>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
-<h4>Ms Yvonne Yap</h4>
+<h4>Ms Yvonne Yap#</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -150,4 +151,106 @@ Outcomes Through Strengthened Relationship</summary>
 </tbody>
 </table>
 <h3>Track 1B</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4>Presenters</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+</div>
+<blockquote>
+<h4>Ms Jessie Tan#</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Senior Nurse Clinician, Advanced Practice Nurse, Advanced Practice Nurse
+&amp; Specialty Nurse Office, Nursing Administration Department, Khoo Teck
+Puat Hospital&nbsp;&amp; Yishun Hospital</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Track 1B1: Compassion Without Borders: The Universal Language of Care</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+</div>
+<blockquote>
+<h4>Ms Chen Wei Ting#</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Deputy Director of Nursing, Population Health ##</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Track 1B2: Connecting Hearts and Practices: Uniting Diverse Institutions
+in Holistic Care</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+</div>
+<blockquote>
+<h4>Ms Alison Ong #</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Deputy Director, Patient Experience Office, Woodlands Health</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Track 1B3: From Institution to Individuals: Unified care through Empathy
+and Inclusion</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p>Moderator</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+</div>
+<blockquote>
+<h4>Ms Cherie Koh #</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Senior Nurse Manager, Khoo Teck Puat Hospital&nbsp;&amp; Yishun Hospital</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p></p>
