@@ -424,7 +424,6 @@ in Singapore's Healthcare Landscape.</summary>
 </div>
 </details>
 </div>
-<p></p>
 <h4>Moderator</h4>
 <p></p>
 <div class="isomer-image-wrapper">
