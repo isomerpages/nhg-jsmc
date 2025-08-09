@@ -13,6 +13,28 @@ third_nav_title: Track Speakers
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<h4>Presenters</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+</div>
+<blockquote>
+<h4>Ms Ng Woei Kian</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Assistant Director of Nursing, Tan Tock Seng Hospital</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Track 1A1: Journeying With Patients Through Integrated Care Networks.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/Dr_Laurence_Tan.png">
 </div>
@@ -61,10 +83,6 @@ all care providers.</p>
 </div>
 </details>
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/Lim_Hui_Shan.png">
@@ -103,46 +121,29 @@ health initiatives and fostering partnerships.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 1A3: Journeying with Patients&nbsp;</summary>
+<summary>Track 1A3: Sharing Best Practices - Leveraging Diversity for Better Patient
+Outcomes Through Strengthened Relationship</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>As Singapore's population ages rapidly, community nursing is becoming
-increasingly critical in delivering holistic, person-centred care closer
-to home. This approach explores how strengthening human connections and
-partnerships can transform patient care journeys and elevate community
-nursing practice.&nbsp;</p>
-<p>&nbsp;</p>
-<p>The healthcare landscape is undergoing a significant transformation, shifting
-towards community-based care. This new model brings services closer to
-where people live, moving away from traditional hospital-centric approaches.
-Healthcare professionals, embracing active listening, empathy, and respect,
-are better equipped to provide personalized care in community settings.&nbsp;</p>
-<p>Integrated Care Networks support seamless transitions across care settings,
-strengthening ties with community resources. This enables patients to access
-coordinated services, improving health outcomes and fostering a resilient
-integrated health ecosystem.&nbsp;</p>
-<p>&nbsp;</p>
-<p>Breaking down silos is crucial in overcoming institutional and professional
-barriers that hinder collaboration. Leadership plays a pivotal role in
-building inter-professional trust, driving social-health integration, and
-implementing shared care plans and multidisciplinary case discussions.&nbsp;</p>
-<p>&nbsp;</p>
-<p>Patient empowerment is at the heart of this transformation. By engaging
-patients and families as active partners in care, and exploring approaches
-like structured health coaching, peer support programmes, and digital literacy
-initiatives, self-management is enhanced, and supportive networks are built
-to sustain long-term well-being.&nbsp;</p>
-<p>&nbsp;</p>
-<p>This innovative approach enhances accessibility, promotes continuity of
-care, and addresses individuals' holistic needs, including social and environmental
-factors. It is particularly crucial for managing chronic conditions and
-supporting Singapore's ageing population, enabling more proactive, preventive,
-and patient-centred care. Ultimately, this model empowers patients, strengthens
-community ties, and leads to improved health outcomes and a more sustainable
-healthcare system.&nbsp;</p>
+<p></p>
 </div>
 </details>
 </div>
 <p></p>
+<h4>Moderator</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+</div>
+<blockquote>
+<h4>Ms Yvonne Yap</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Deputy Director of Nursing, Khoo Teck Puat Hospital</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 </td>
 </tr>
