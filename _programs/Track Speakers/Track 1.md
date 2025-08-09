@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<h3>Track 1A</h3>
+<h3><strong>Track 1A</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -150,7 +150,8 @@ Outcomes Through Strengthened Relationship</summary>
 </tr>
 </tbody>
 </table>
-<h3>Track 1B</h3>
+<hr>
+<h3><strong>Track 1B</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -251,6 +252,78 @@ and Inclusion</summary>
 </tr>
 </tbody>
 </table>
+<hr>
+<p></p>
+<h3><strong>Track 1C</strong></h3>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4>Presenters</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+</div>
+<blockquote>
+<h4>Ms Ng Huoy Ling#</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Assistant Director of Nursing</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Track 1C1: Compassion Without Borders: The Universal Language of Care</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+</div>
+<blockquote>
+<h4>Ms Jessie Tan#</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Senior Nurse Clinician, Advanced Practice Nurse, Advanced Practice Nurse
+&amp; Specialty Nurse Office, Nursing Administration Department, Khoo Teck
+Puat Hospital&nbsp;&amp; Yishun Hospital</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Track 1B1: Compassion Without Borders: The Universal Language of Care</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
