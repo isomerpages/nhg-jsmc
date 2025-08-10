@@ -128,7 +128,7 @@ Embarked To Cope With Healthcare Challenges)</summary>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2B1:</summary>
+<summary>Track 2B1: Nursing With A Different 'Hat'</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -150,7 +150,7 @@ Embarked To Cope With Healthcare Challenges)</summary>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2B2:</summary>
+<summary>Track 2B2: NUH On Flight Nursing</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -172,7 +172,7 @@ Embarked To Cope With Healthcare Challenges)</summary>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2B3:</summary>
+<summary>Track 2B3: Syringe To Pen</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -185,8 +185,16 @@ Embarked To Cope With Healthcare Challenges)</summary>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>A/P Lau Siew Tiang, Lydia#</h4>
 </blockquote>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 </th>
 </tr>
 </tbody>
