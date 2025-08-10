@@ -319,7 +319,7 @@ The Decades</summary>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2D1:</summary>
+<summary>Track 2D1: Caregiver Lead Program</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -340,7 +340,8 @@ The Decades</summary>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2D2:</summary>
+<summary>Track 2D2: How homecare nurses assist in assimilating into the new role--&gt;
+domestic helper to caregiver</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -362,7 +363,7 @@ The Decades</summary>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2D3:</summary>
+<summary>Track 2D3: Patient as the Change Agent: Patient to Barista</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -374,7 +375,7 @@ The Decades</summary>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Ms Eileen Cheah#</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
