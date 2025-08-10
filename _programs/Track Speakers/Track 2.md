@@ -224,7 +224,8 @@ Embarked To Cope With Healthcare Challenges)</summary>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2C1:</summary>
+<summary>Track 2C1: Past, Present, Prospect: View on Nursing Transformation Across
+The Decades</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -245,7 +246,7 @@ Embarked To Cope With Healthcare Challenges)</summary>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2C2:</summary>
+<summary>Track 2C2: Interdisciplinary Collaboration with Nursing</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -266,7 +267,7 @@ Embarked To Cope With Healthcare Challenges)</summary>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2C3:</summary>
+<summary>Track 2C3: Clinically Ready For ICU Support</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -279,11 +280,11 @@ Embarked To Cope With Healthcare Challenges)</summary>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Dr Dong Lijuan#</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Deputy Director Of Nursing, Woodlands Health#</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
