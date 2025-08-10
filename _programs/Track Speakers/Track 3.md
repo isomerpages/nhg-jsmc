@@ -29,8 +29,7 @@ third_nav_title: Track Speakers
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3A1: Vision for Future Nursing - Educators, Administrators, APN,
-DNP What's Next?</summary>
+<summary>Track 3A1:</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -52,7 +51,7 @@ DNP What's Next?</summary>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3A2: Leadership in Nursing: Developing Managers and Policy Influencers</summary>
+<summary>Track 3A2:</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -74,8 +73,7 @@ DNP What's Next?</summary>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3A3: Meeting The Healthcare Needs (Sharing Of Initiatives Nurses
-Embarked To Cope With Healthcare Challenges)</summary>
+<summary>Track 3A3:</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
