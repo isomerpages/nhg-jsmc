@@ -191,7 +191,7 @@ Embarked To Cope With Healthcare Challenges)</summary>
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <h3><strong>Track 2C</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
@@ -285,7 +285,7 @@ Embarked To Cope With Healthcare Challenges)</summary>
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <h3><strong>Track 2D</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
@@ -379,7 +379,7 @@ Embarked To Cope With Healthcare Challenges)</summary>
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <h3><strong>Track 2E</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
@@ -473,4 +473,6 @@ Embarked To Cope With Healthcare Challenges)</summary>
 </tr>
 </tbody>
 </table>
+<hr>
+<p></p>
 <p></p>
