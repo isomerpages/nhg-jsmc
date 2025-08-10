@@ -29,7 +29,7 @@ third_nav_title: Track Speakers
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3A1:</summary>
+<summary>Track 3A1: Technologies in Direct Patient Care: Smart&nbsp;Ward</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -51,7 +51,8 @@ third_nav_title: Track Speakers
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3A2:</summary>
+<summary>Track 3A2: Technology Assisted Model Of Care In Chronic&nbsp;Disease Management/
+Disease Prevention</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -73,7 +74,7 @@ third_nav_title: Track Speakers
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3A3:</summary>
+<summary>Track 3A3: Blending Technology-Enhanced Learning For Nursing Education</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
