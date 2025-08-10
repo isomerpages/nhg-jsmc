@@ -414,7 +414,7 @@ domestic helper to caregiver</summary>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2E1:</summary>
+<summary>Track 2E1: Servicing in Sky &amp; Land, SIA experience</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -435,7 +435,7 @@ domestic helper to caregiver</summary>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2E2:</summary>
+<summary>Track 2E2: Career Conversion Program, Why Change?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -457,7 +457,7 @@ domestic helper to caregiver</summary>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2E3:</summary>
+<summary>Track 2E3: Nursing Beyond Nurse: Non-nursing in a nursing environment</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -469,7 +469,7 @@ domestic helper to caregiver</summary>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Ms Yvonne Tan#</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
