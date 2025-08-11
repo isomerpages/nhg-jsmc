@@ -14,7 +14,9 @@ third_nav_title: Track Speakers
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/ngwoeikian.png">
+</div>
 <blockquote>
 <h4>Ms Ng Woei Kian</h4>
 </blockquote>
@@ -23,13 +25,28 @@ third_nav_title: Track Speakers
 <summary>Assistant Director of Nursing, Community Care (Community Health), NHG
 Population Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Ms Ng Woei Kian, MPH. MN, RN, an Assistant Director of Nursing in Community
+Care, NHG Population Health. With over 25 years of experience, her nursing
+journey span across gerontology, infection control, quality management
+and now, community care. She is currently leading a team of community nurses,
+supporting the development of community health initiatives aimed at improving
+community health outcomes ensuring the well-being of diverse populations.
+This involves fostering partnerships and engaging in outreach efforts with
+the community care partners and collaborating with multidisciplinary teams
+to deliver impactful change within the communities.&nbsp;&nbsp;&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Track 1A1: Journeying With Patients Through Integrated Care Networks.</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>This session traces the evolution of care approach from integrated care
+to place-based and relationship-based models. It begins with system-level
+integration aimed at reducing care fragmentation across institutions, then
+shifts toward localizing services through place-based strategies anchored
+in community needs. The journey culminates in a deeper focus on relationship-based
+care, where trust, continuity, and human connection become central to care
+delivery. Together, these phases reflect a progressive move toward people-
+and community-centred care that is both coordinated and compassionate.&nbsp;&nbsp;</p>
 </div>
 </details>
 </div>
