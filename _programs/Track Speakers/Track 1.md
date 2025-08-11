@@ -14,9 +14,7 @@ third_nav_title: Track Speakers
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
+<p></p>
 <blockquote>
 <h4>Ms Ng Woei Kian</h4>
 </blockquote>
