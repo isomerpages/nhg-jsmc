@@ -150,13 +150,31 @@ Outcomes Through Strengthened Relationship</summary>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
-<h4>Ms Yvonne Yap#</h4>
+<h4>Ms Yap Hui Xian Yvonne&nbsp;</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Deputy Director of Nursing, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Yvonne Yap is a compassionate leader who is deeply dedicated to promoting
+staff well-being and resilience within the healthcare sector. Currently
+serving as Deputy Director, Nursing Administration at Khoo Teck Puat Hospital,
+Yvonne actively champions and contributes to numerous projects and committees
+aimed at enhancing nursing practices and patient care. With the support
+of Chief Nurse, Ms Shirley Heng, Yvonne also kickstarted the formation
+of KTPH’s Nursing Work-sense Committee, which is dedicated to building
+culture and empowering healthcare professionals to thrive in challenging
+environments. She established Personal Development Conversations that deepened
+professional growth and purpose. Her clinical leadership anchors nursing
+excellence while fostering meaningful human connections.&nbsp;&nbsp;</p>
+<p>Beyond the hospital, her sustained community engagement has positively
+shaped the health of the population she serves, while her people-centred
+approach continues to drive nursing innovation and empowerment.&nbsp;</p>
+<p>Her effort in these areas have led to her receiving the prestigious NHG
+Young Achiever’s Award and the National Day Efficiency Award, underscoring
+her passion for staff welfare and unwavering commitment to improving the
+nursing profession. She has also attained alumni status at Harvard Business
+School by successfully completing two rigorous programs</p>
 </div>
 </details>
 </div>
@@ -176,9 +194,11 @@ Outcomes Through Strengthened Relationship</summary>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="jessie" src="/images/Track 1 speakers/jessie.png">
+</div>
 <blockquote>
-<h4>Ms Jessie Tan#</h4>
+<h4>Ms Jessie Tan Joon Cheen</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -240,8 +260,6 @@ high-quality, compassionate care to vulnerable patients living with dementia.&nb
 </details>
 </div>
 <p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/weiting.png">
 </div>
@@ -296,7 +314,6 @@ a unified care ecosystem that honors diversity while delivering excellence.&nbsp
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
