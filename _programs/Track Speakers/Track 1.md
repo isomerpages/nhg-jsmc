@@ -145,6 +145,7 @@ Outcomes Through Strengthened Relationship</summary>
 </div>
 </details>
 </div>
+<p></p>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
@@ -194,7 +195,6 @@ School by successfully completing two rigorous programs</p>
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="jessie" src="/images/Track 1 speakers/jessie.png">
 </div>
@@ -339,7 +339,6 @@ and Inclusion</summary>
 </div>
 <p></p>
 <h4>Moderator</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="cherie koh" src="/images/Track 1 speakers/cheriekoh.png">
 </div>
@@ -371,7 +370,6 @@ Yishun Hospital</summary>
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ng huoy leng" src="/images/nghuoyleng.png">
 </div>
@@ -434,7 +432,6 @@ care process.&nbsp;</p>
 </details>
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ong yu jing" src="/images/ongyujing.png">
 </div>
@@ -477,7 +474,6 @@ practice. &nbsp;
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="tan hong yun" src="/images/Track 1 speakers/tanhongyun.png">
@@ -540,7 +536,7 @@ and operational efficiency.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <h3><strong>Track 1D</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
@@ -550,9 +546,8 @@ and operational efficiency.&nbsp;</p>
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="cherie koh" src="/images/Track 1 speakers/cheriekoh.png">
 </div>
 <blockquote>
 <h4>Ms Cherie Koh#</h4>
@@ -572,6 +567,7 @@ Compassion and Innovation.</summary>
 </div>
 </details>
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="he hong gu" src="/images/Track 1 speakers/hehonggu.png">
 </div>
@@ -695,7 +691,7 @@ they have built.&nbsp;</p>
 <p></p>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="yvonne tan" src="/images/Track 1 speakers/yvonnetan.png">
 </div>
 <blockquote>
 <h4>Ms Yvonne Tan Siow Lin</h4>
