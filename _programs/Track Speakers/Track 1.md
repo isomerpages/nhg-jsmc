@@ -340,16 +340,17 @@ and Inclusion</summary>
 <h4>Moderator</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="cherie koh" src="/images/Track 1 speakers/cheriekoh.png">
 </div>
 <blockquote>
-<h4>Ms Cherie Koh #</h4>
+<h4>Ms Cherie Koh</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Senior Nurse Manager, Khoo Teck Puat Hospital&nbsp;&amp; Yishun Hospital</summary>
+<summary>Senior Nurse Manager, Inpatient Wards, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>Cherie is a Senior Nurse Manager overseeing three surgical wards, bringing extensive clinical leadership experience to her role. As the Nursing Lead in Innovation, she champions transformative healthcare solutions within her institution. She also serves as Co-lead in the NHG Health Group Nursing Innovation Office, where she drives nursing innovation initiatives across the healthcare cluster. She is currently doing her MBA and has interest in healthcare financing policies.</strong>
+</p>
 </div>
 </details>
 </div>
@@ -377,15 +378,56 @@ and Inclusion</summary>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Assistant Director of Nursing</summary>
+<summary>Assistant Director of Nursing, Population Health Campus, Community Health,
+Community Care</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Ms Ng Huoy Ling is currently the Assistant Director of Nursing at NHG
+Population Health Campus (PHC), where she leads community nursing initiatives
+focused on person-centred care delivery. With over 20 years of nursing
+experience spanning acute, outpatient, and community settings, she has
+consistently championed patient empowerment and family engagement in healthcare
+decision-making.&nbsp;</p>
+<p>As a committee member of MOH's Person-centred Care Implementation Workgroup,
+she plays a pivotal role in establishing Communities of Practice that make
+person-centred care a standard part of healthcare delivery. Her work in
+developing the Personalised Care &amp; Support Planning (PCSP) programme
+at KTPH from 2020 to 2024 demonstrates her commitment to giving patients
+a stronger voice in their care journey. Currently, she is a key leader
+in PHC, advocating for person-centred care approaches &amp; implementation
+in community settings. In addition ,she led NHG AgeWell SG screening programme,
+developing clinical pathways for frailty assessment and coordinating community-wide
+implementation of screening initiatives.&nbsp;</p>
+<p>Ms Ng's expertise in community health integration is evidenced through
+her leadership in various initiatives, including Hospital to Home (H2H),
+Community Health Post (CHP), and Care@Nursing Home programmes. She serves
+on the ComLink+ Social Health Integration Project under MOH &amp; MSF,
+where she develops training curricula for family and health coaches to
+better support families' health and social care needs.&nbsp;</p>
+<p>She is passionate about cultivating patient-centric care environments
+and mentoring nursing professionals. Her leadership philosophy centres
+on empowering staff while maintaining unwavering focus on clinical excellence
+and positive patient outcomes, consistently demonstrating strong capabilities
+in workforce management and multidisciplinary collaboration.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Track 1C1: Empowering Patient Participation</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>In today's evolving healthcare landscape, creating environments where
+patients feel safe and empowered to participate in their care decisions
+is crucial for achieving optimal health outcomes. This track session explores
+innovative approaches and practical strategies for healthcare providers
+to foster meaningful patient engagement and participation in the care process.&nbsp;</p>
+<p>Through examining successful case studies, participants will discover
+how to implement effective communication and person-centred care framework
+that encourage patient voice while maintaining clinical excellence. The
+session delves into the fundamental principles of person-centred care,
+demonstrating how healthcare providers can create supportive environments
+that facilitate open dialogue and shared decision-making.&nbsp;&nbsp;</p>
+<p>This session aims to equip healthcare professionals with practical knowledge
+and skills to transform their practice environments into spaces where patient
+participation is not just encouraged but becomes an integral part of the
+care process.&nbsp;</p>
 </div>
 </details>
 </div>
@@ -444,9 +486,13 @@ Hospital&nbsp;&amp; Yishun Hospital</summary>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Senior Nurse Manager, Khoo Teck Puat Hospital&nbsp;&amp; Yishun Hospital</summary>
+<summary>Senior Nurse Manager, Inpatient Wards, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Siok Qi is a senior nurse manager with experience in hospital operations
+and workforce transformation. She plays an active role in driving quality
+and productivity strategies, and has led initiatives in process redesign,
+digital innovation, and manpower optimisation to improve care delivery
+and operational efficiency.&nbsp;</p>
 </div>
 </details>
 </div>
