@@ -60,7 +60,8 @@ and community-centred care that is both coordinated and compassionate.&nbsp;&nbs
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Senior Consultant and Head of Service, Supportive and Palliative Care,
-Department of Geriatric Medicine, Khoo Teck Puat Hospital&nbsp;</summary>
+Department of Geriatric Medicine, Khoo Teck Puat Hospital&nbsp;&amp; Yishun
+Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Dr Tan is a Senior Consultant and Head of Service for Supportive and Palliative
 Medicine at Khoo Tech Puat Hospital, Singapore. His work focuses on innovative
@@ -144,7 +145,6 @@ Outcomes Through Strengthened Relationship</summary>
 </div>
 </details>
 </div>
-<p></p>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
@@ -154,7 +154,8 @@ Outcomes Through Strengthened Relationship</summary>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Deputy Director of Nursing, Khoo Teck Puat Hospital</summary>
+<summary>Deputy Director of Nursing, Khoo Teck Puat Hospital&nbsp;&amp; Yishun
+Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Yvonne Yap is a compassionate leader who is deeply dedicated to promoting
 staff well-being and resilience within the healthcare sector. Currently
@@ -347,7 +348,8 @@ and Inclusion</summary>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Senior Nurse Manager, Inpatient Wards, Khoo Teck Puat Hospital</summary>
+<summary>Senior Nurse Manager, Inpatient Wards, Khoo Teck Puat Hospital&nbsp;&amp;
+Yishun Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Cherie is a Senior Nurse Manager overseeing three surgical wards, bringing extensive clinical leadership experience to her role. As the Nursing Lead in Innovation, she champions transformative healthcare solutions within her institution. She also serves as Co-lead in the NHG Health Group Nursing Innovation Office, where she drives nursing innovation initiatives across the healthcare cluster. She is currently doing her MBA and has interest in healthcare financing policies.</strong>
 </p>
@@ -371,10 +373,10 @@ and Inclusion</summary>
 <h4>Presenters</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="ng huoy leng" src="/images/nghuoyleng.png">
 </div>
 <blockquote>
-<h4>Ms Ng Huoy Ling#</h4>
+<h4>Ms Ng Huoy Ling</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -432,54 +434,92 @@ care process.&nbsp;</p>
 </details>
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="ong yu jing" src="/images/ongyujing.png">
 </div>
 <blockquote>
-<h4>Ms Ong Yu Jing#</h4>
+<h4>Ms Ong Yu Jing</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Nurse Clinician, Advanced Practice Nurse, Advanced Practice Nurse &amp;
-Specialty Nurse Office, Nursing Administration Department, Khoo Teck Puat
-Hospital&nbsp;&amp; Yishun Hospital</summary>
+<summary>Nurse Clinician, Advanced Practice Nurse, APN &amp; Specialty Nurse Office,
+Khoo Teck Puat Hospital&nbsp;&amp; Yishun Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Yu Jing is an Advanced Practice Nurse / Nurse Clinician in General Surgery
+at Khoo Teck Puat Hospital. She holds a Bachelor of Nursing from Curtin
+University and a Master of Nursing from the National University of Singapore.
+Yu Jing has led and supported initiatives that place patient at the centre
+of care. She began her career as surgical care nurse specialist, where
+she helped established a prehabilitation program for elderly surgical patients.
+She later contributed to the Geriatric Surgery Service, Hepatobillary surgery
+and now the Emergency Surgery and Trauma Service. Yu Jing has also participated
+in quality improvement projects focused on enhancing care delivery and
+patients’ outcomes. With her grounding both evidence-based nursing and
+patient engagement, she continues to drives improvement in patient care
+and service delivery focusing on shared decision making, listening to,
+learning from and partnering with the people they care for.&nbsp;&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Track 1C2: Integrating Patient's Input Into Care Strategies.</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Patient engagement goes beyond satisfaction surveys – it involves actively
+incorporating patient’s voice into clinical decision-making. This session
+explores how fostering a safe and supportive environment enable patients
+to contribute to care decision. Creating a safe, respectful environment
+enables patients to share their goals, values and preference which can
+directly influence their care trajectory. In this session, we will illustrate
+strategies, tools required to embed patient’s voices into daily clinical
+practice. &nbsp;
+<br>
+</p>
 </div>
 </details>
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="tan hong yun" src="/images/Track 1 speakers/tanhongyun.png">
 </div>
 <blockquote>
-<h4>Dr Tan Hongyun#</h4>
+<h4>Dr Tan Hongyun</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Assistant Director of Nursing, Woodlands Health</summary>
+<summary>Assistant Director of Nursing, Advanced Practice Nurse (Geriatric), Woodlands
+Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Dr. Tan Hongyun, geriatric advanced practice nurse, Assistant Director
+of Nursing, Woodlands Health. Currently, she is leading the WH@home nursing
+team, and community hospital nursing team. She and her team worked with
+multiple stakeholders in collaboration for advocating preventive care.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Track 1C3: Preventive Care Through Collaborative Relationship.</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Preventive care is key to reducing disease burden and promoting long-term
+health. Nurses play a central role by collaborating with population health
+teams, national health agencies, community partners, and multidisciplinary
+teams.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Through these partnerships, nurses support individuals and caregivers
+in making informed decisions, adopting healthier lifestyles, and accessing
+early interventions for both physical and mental well-being. Their coordination
+across settings ensures continuity of care and better health outcomes.&nbsp;</p>
+<p>&nbsp;</p>
+<p>As trusted connectors within the healthcare system, nurses help bridge
+medical and community support, driving a person-centred, proactive approach
+to care. Their collaborative efforts are vital in building a healthier,
+more resilient population.&nbsp;</p>
 </div>
 </details>
 </div>
 <p></p>
 <h4>Moderator</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="ng siok qi" src="/images/Track 1 speakers/ngsiokqi.png">
 </div>
 <blockquote>
 <h4>Ms Ng Siok Qi #</h4>
@@ -537,20 +577,57 @@ Compassion and Innovation.</summary>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
-<h4>Prof He Hong-Gu, Linda#</h4>
+<h4>Prof He Hong-Gu, Linda</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>National University of Singapore</summary>
+<summary>Professor, Director of Graduate Research Programmes, Director of International
+Relations, Alice Lee Centre for Nursing Studies, Yong Loo Lin School of
+Medicine, National University of Singapore</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Prof HE Hong-Gu Linda is a Tenured Full Professor, Director of Graduate
+Research Programmes, Director of International Relations, and Chair of
+Women and Children Health Care Research Programme at NUS Nursing. She is
+an Executive Committee Member at the East Asian Forum of Nursing Scholars
+(EAFONS). Prof He’s main research areas include Women's and Children's
+Health Care and Chronic Disease Management. She is passionate about the
+involvement of technology in her interventional programmes for various
+clients by collaborating with multidisciplinary experts from Asian and
+Nordic countries (e.g. Finland, and Norway). She has received significant
+competitive research grants, published over 223 peer- reviewed journal
+articles with an h-index of 32, and delivered over 200 presentations and
+nearly 100 invited speeches internationally. To recognize her significant
+contributions to the field of nursing research, Prof. He was inducted as
+a Fellow of the American Academy of Nursing (FAAN) in 2021 and was selected
+as an Honouree of Sigma’s International Nurse Researcher Hall of Fame 2023.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Track 1D2: Humanizing Digital Healthcare - Enhancing Tech-Enabled Communications
 with Empathy and Personal Touch</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Track 1D examines how to maintain compassionate, human-centered care in
+an increasingly digital healthcare environment. The track begins by exploring
+innovative approaches to elderly care in the digital era, focusing on how
+technology can enhance rather than replace the human touch in nursing practice.
+It demonstrates how digital solutions can support nurses in delivering
+more personalized, effective care while maintaining meaningful patient
+connections.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>The discussion then moves to the critical balance between digital efficiency
+and human empathy in healthcare communication. This session addresses the
+challenge of depersonalization in tech-enabled care, offering practical
+strategies for nurses to leverage technology while preserving authentic
+human connections with patients.&nbsp;</p>
+<p>&nbsp;</p>
+<p>The track concludes by examining how senior nurses play a vital role in
+Singapore's evolving healthcare landscape. It explores ways to bridge generational
+gaps in nursing practice, promote workforce diversity, and ensure experienced
+nurses continue to contribute their valuable insights in shaping a future
+where technology and human compassion work in harmony. Throughout these
+sessions, the focus remains on creating a healthcare environment where
+technological advancement enhances rather than diminishes the essential
+human element of nursing care.&nbsp;</p>
 </div>
 </details>
 </div>
