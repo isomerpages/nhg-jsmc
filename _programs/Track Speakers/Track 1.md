@@ -176,9 +176,7 @@ Outcomes Through Strengthened Relationship</summary>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
+<p></p>
 <blockquote>
 <h4>Ms Jessie Tan#</h4>
 </blockquote>
@@ -188,36 +186,113 @@ Outcomes Through Strengthened Relationship</summary>
 &amp; Specialty Nurse Office, Nursing Administration Department, Khoo Teck
 Puat Hospital&nbsp;&amp; Yishun Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Jessie is an Advanced Practice Nurse with a deep interest in geriatric
+medicine, particularly dementia and incontinence as well as caregiving.</p>
 <p></p>
+<p>Her foray into cognition and memory work began in 2011 with the Memory
+Team, where she was nurse manager of the first integrated care initiative
+for dementia in Singapore, CARITAS icommunity@north. This programme provided
+leadership, training and support to over 10 community and primary care
+partners, enabling them to care for patients with dementia and their families
+as a vertically integrated practice unit. Concurrently, she saw to the
+inception of the first restraint-free ward adopting person centred care
+(PCC) for patients with delirium and dementia in KTPH.</p>
+<p></p>
+<p>The ward celebrated 10 years of restraint- free care in 2022.&nbsp;&nbsp;</p>
+<p>Recognising the growing need, Jessie and the team helped spread PCC principles
+hospital-wide through staff training and a roving team known as the 6<sup>th</sup> Vital
+Sign Team. They adopt the “4 Ms “framework from the US Institute for Healthcare
+Improvement (IHI) Age-Friendly Hospital initiative and Humanitude care
+methodology to deliver PCC that promotes the physical and psychological
+well-being of these patients.&nbsp;</p>
+<p></p>
+<p>Jessie is currently an L3-level Humanitude trainer, enhancing her skills
+and knowledge in caring for the vulnerable patients. &nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 1B1: Compassion Without Borders: The Universal Language of Care</summary>
+<summary>Track 1B1: Compassion Without Borders: The Universal Language of Care
+- Humanitude In Dementia Care</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>This talk explores Humanitude, a caregiving approach emphasizing empathy,
+respect, and emotional connection that was developed by Yves Gineste and
+Rosette Marescotti in 1979. Humanitude has since been adopted globally.
+Notably, Khoo Teck Puat Hospital is the first acute hospital locally to
+implement Humanitude, showcasing its potential in acute care settings.&nbsp;</p>
+<p>&nbsp;</p>
+<p>In dementia care, Humanitude provides a universal language of care that:&nbsp;
+<br>1. Prioritizes emotional connection: Building relationships and validating
+patients' emotions.&nbsp;
+<br>2. Fosters person-centered care: Tailoring care to individual needs and
+preferences.&nbsp;
+<br>3. Promotes dignity and respect: Gentle, compassionate interactions enhancing
+patients' well-being.&nbsp;
+<br>&nbsp;</p>
+<p>The four pillars of Humanitude— Gaze, Speech, Touch, and Verticality—are
+central to this approach. A simple structured approach known as the sensory
+capture would also be introduced to guide the care of patients with dementia
+to provide respectful, compassionate care, grounded in the four pillars
+of Humanitude.&nbsp;&nbsp;</p>
+<p>&nbsp;
+<br>By understanding and applying Humanitude principles, caregivers can deliver
+high-quality, compassionate care to vulnerable patients living with dementia.&nbsp;&nbsp;</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/weiting.png">
 </div>
 <blockquote>
-<h4>Ms Chen Wei Ting#</h4>
+<h4>Dr Chen Wei Ting</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Deputy Director of Nursing, Population Health ##</summary>
+<summary>Clinical Director, Population Health Campus, NHG Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Dr Chen Wei Ting is a registered Advanced Practice Nurse in Palliative
+Care and is currently employed by NHG Health Population Health Campus (NHG
+PHC). She has strong interests in palliative care nursing, community nursing
+and integrated care systems. She received Master degree from the Alice
+Lee Centre for Nursing Studies (ALCNS), National University of Singapore
+and was certified APN in 2011. She completed her PhD with NUS in 2019.
+She is currently the Clinical Director, NHG PHC Community Health and leads
+the NHG Community Health Team. She is also appointed as Adjunct Assistant
+Professor with NUS ALCNS, and Clinical Teacher (Graduate) with National
+Technological University Lee Kong Chian School of Medicine.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Track 1B2: Connecting Hearts and Practices: Uniting Diverse Institutions
 in Holistic Care</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>In today’s increasingly diverse healthcare landscape, unity across organisations
+and teams is not just a value—it’s a necessity. This session explores how
+trust, respect, and collaboration can be cultivated across healthcare settings
+to improve patient outcomes.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Using examples of NHG Health Community Health Team and Care@Nursing Home,
+the session will examine three key dimensions:&nbsp;</p>
+<p>&nbsp;</p>
+<p>Breaking Barriers: How intentional relationship-building and cultural
+sensitivity foster trust and respect across organisations in health and
+social sector.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>From Silos to Synergy: Strategies for nurturing interprofessional relationships
+that transcend organizational boundaries will be shared. Challenges in
+building the synergy across agencies and organisations and steps to overcome
+them will be presented.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>From Policies to People: Large scale change in population health is not
+possible without policies. The presenter will share the process in translating
+such policies into meaningful human connections that directly enhance patient
+experiences and outcomes.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Participants will gain insights into practical approaches for bridging
+cultural divides, strengthening institutional partnerships, and creating
+a unified care ecosystem that honors diversity while delivering excellence.&nbsp;</p>
 </div>
 </details>
 </div>
