@@ -572,9 +572,8 @@ Compassion and Innovation.</summary>
 </div>
 </details>
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="he hong gu" src="/images/Track 1 speakers/hehonggu.png">
 </div>
 <blockquote>
 <h4>Prof He Hong-Gu, Linda</h4>
@@ -632,41 +631,112 @@ human element of nursing care.&nbsp;</p>
 </details>
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="lim swee hia" src="/images/Track 1 speakers/limsweehia.png">
 </div>
 <blockquote>
-<h4>A/Prof Lim Swee Hia#</h4>
+<h4>Prof Lim Swee Hia</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>SingHealth</summary>
+<summary>Emeritus Advisor/Senior Director, DGCEO (Medical &amp; Clinical Services)
+Office&nbsp;&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>wee Hia has been pivotal in growing SingHealth’s nursing capacity and
+expertise over the years. She was key in developing the SingHealth Alice
+Lee Institute of Advanced Nursing (IAN), which has been the principal node
+for delivering specialisation programmes to catalyse and elevate practice-based
+training for nurses and healthcare support staff. In 2007, she led IAN
+to achieve the distinction of being accredited by the American Nurses Credentialing
+Centre (ANCC) as a Continuing Nursing Education Provider, the first in
+Asia and third outside the United States to achieve this.&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>Swee Hia also played an instrumental role in leading SGH to achieve its
+first Joint Commission International (JCI) accreditation in 2005 – the
+largest teaching hospital in Asia to be accorded such recognition at that
+time. In 2010, she led SGH to become the first Magnet hospital in Singapore
+and South-East Asia, a testament to the hospital’s world-class quality
+nursing care.&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>As a key member of the former Singapore Workforce Development Agency’s
+Healthcare Industry Skills Training Council, Swee Hia was involved in the
+set-up, review and expansion of the Healthcare Support WSQ framework. She
+also spearheaded the Skills Training Employability Enhancement for Retrenched
+and Unemployed Workers (STEER) and Return-To-Nursing (RTN) programmes for
+Registered and Enrolled Nurses, as well as introduced the Principal Enrolled
+Nurses into the Enrolled Nurses Career Development Plan and the Tan Chin
+Tuan Nursing Award for Enrolled Nurses.&nbsp;&nbsp; During her tenure as
+the President of the Singapore Nurses Association (SNA) from 2012 to 2020,
+Swee Hia led the SNA to win the bid to host the International Council of
+Nurses Congress for the first time in Singapore in 2019, which was attended
+by more than 5,000 nursing leaders from 120 countries.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Track 1D3: Future-Proofing Nursing - The Critical Role of Senior Nurses
 in Singapore's Healthcare Landscape.</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>This presentation explores how Senior Nurses “Beyond the Bedside” contributes
+to mentorship, innovation, policy shaping and workforce stability, ensuring
+nursing remains resilient and future ready.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Their contributions have touched lives far beyond what you have count,
+their wealth of experience, compassion, clinical wisdom, and humanity remain
+deeply needed.&nbsp;</p>
+<p>&nbsp;</p>
+<p>This is not a return to full timework. It’s a flexible, purposeful way
+to give forward, share their voice and stay connected to the profession
+they have built.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Because Wisdom Never Retires, Our Guiding Force for the next generation.</p>
 </div>
 </details>
 </div>
-<h4>Moderator</h4>
 <p></p>
+<h4>Moderator</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
-<h4>Ms Yvonne Tan #</h4>
+<h4>Ms Yvonne Tan Siow Lin</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Head of Nursing, Khoo Teck Puat Hospital&nbsp;&amp; Yishun Hospital</summary>
+<summary>Deputy Director of Nursing, Nursing Administration, Khoo Teck Puat Hospital&nbsp;&amp;
+Yishun Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Ms. Yvonne Tan is currently the Deputy Director of Nursing at Yishun Community
+Hospital (YCH), where she oversees nursing operations across sub-acute,
+rehabilitation, and inpatient hospice palliative care services. With over
+28 years of nursing experience, she has progressed through various leadership
+roles including Assistant Director of Nursing, Senior Nurse Manager, and
+Nurse Educator.&nbsp;</p>
 <p></p>
+<p>Her expertise spans across acute and community care settings, with experience
+in neuroscience nursing and nursing education. Prior to YCH, she held educator
+positions at Ng Teng Fong General Hospital and Khoo Teck Puat Hospital,
+where she developed nursing orientation programs and unit-specific training.&nbsp;</p>
+<p></p>
+<p>Ms. Tan holds a Master of Education in Curriculum and Teaching from the
+National Institute of Education, Singapore, complementing her Bachelor
+of Health Science (Nursing) from the University of Sydney and Advanced
+Diploma in Nursing (Neuroscience) from Nanyang Polytechnic. Her academic
+background includes teaching experience at Nanyang Polytechnic, where she
+contributed to both diploma and advanced diploma nursing programs.&nbsp;</p>
+<p></p>
+<p>She serves on multiple committees, including YCH Clinical Quality Improvement,
+Clinical Quality and Patient Safety, Long-Stayer Committee, and NHG Nursing
+Council. Under her leadership, her nursing team have championed various
+improvements in nursing practice, from structured probation guides and
+diaper weaning protocols to nursing handover revamp and telepresence robot
+implementation. These initiatives extend to geriatric engagement programs,
+enhanced patient communication guidelines, and improved charging processes
+to reduce revenue leakages.&nbsp;</p>
+<p></p>
+<p>Her commitment to nurturing ground-up initiatives and empowering staff
+continues to shape community healthcare delivery in Singapore, particularly
+in areas of staff development, patient safety, and innovative care delivery
+models.</p>
 </div>
 </details>
 </div>
