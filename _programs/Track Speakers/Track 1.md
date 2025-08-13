@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<h3><strong>Track 1A</strong></h3>
+<h3>Track 1A</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -180,13 +180,12 @@ School by successfully completing two rigorous programs</p>
 </div>
 </details>
 </div>
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<h3><strong>Track 1B</strong></h3>
+<h3>Track 1B</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -350,18 +349,22 @@ and Inclusion</summary>
 <summary>Senior Nurse Manager, Inpatient Wards, Khoo Teck Puat Hospital&nbsp;&amp;
 Yishun Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Cherie is a Senior Nurse Manager overseeing three surgical wards, bringing extensive clinical leadership experience to her role. As the Nursing Lead in Innovation, she champions transformative healthcare solutions within her institution. She also serves as Co-lead in the NHG Health Group Nursing Innovation Office, where she drives nursing innovation initiatives across the healthcare cluster. She is currently doing her MBA and has interest in healthcare financing policies.</strong>
-</p>
+<p>Cherie is a Senior Nurse Manager overseeing three surgical wards, bringing
+extensive clinical leadership experience to her role. As the Nursing Lead
+in Innovation, she champions transformative healthcare solutions within
+her institution. She also serves as Co-lead in the NHG Health Group Nursing
+Innovation Office, where she drives nursing innovation initiatives across
+the healthcare cluster. She is currently doing her MBA and has interest
+in healthcare financing policies.</p>
 </div>
 </details>
 </div>
-<p></p>
 </th>
 </tr>
 </tbody>
 </table>
 <hr>
-<h3><strong>Track 1C</strong></h3>
+<h3>Track 1C</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -371,7 +374,7 @@ Yishun Hospital</summary>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ng huoy leng" src="/images/nghuoyleng.png">
+<img style="width: 100%" height="auto" width="100%" alt="ng huoy leng" src="/images/Track 1 speakers/nghuoyleng.png">
 </div>
 <blockquote>
 <h4>Ms Ng Huoy Ling</h4>
@@ -433,7 +436,7 @@ care process.&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ong yu jing" src="/images/ongyujing.png">
+<img style="width: 100%" height="auto" width="100%" alt="ong yu jing" src="/images/Track 1 speakers/ongyujing.png">
 </div>
 <blockquote>
 <h4>Ms Ong Yu Jing</h4>
@@ -537,7 +540,7 @@ and operational efficiency.&nbsp;</p>
 </tbody>
 </table>
 <hr>
-<h3><strong>Track 1D</strong></h3>
+<h3>Track 1D</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
