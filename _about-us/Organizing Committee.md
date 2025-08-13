@@ -13,6 +13,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <h4>Advisor</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/whpualh.png">
@@ -68,7 +69,7 @@ description: ""
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Christina Low | Senior Manager | NHG Group Nursing</summary>
+<summary>Ms Christina Low | Assistant Director | NHG Group Nursing</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -111,7 +112,7 @@ description: ""
 <h4>Org Comm Lead</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/whaudrey.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whaudrey.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -135,7 +136,7 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="christina" src="/images/nhghqchristina.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/nhghqchristina.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
