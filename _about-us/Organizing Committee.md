@@ -13,14 +13,13 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<h4>Advisor</h4>
+<h4><strong>Advisor</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/whpualh.png">
+<img style="width: 100%" height="auto" width="100%" alt="WH Pua Lay Hoon" src="/images/Comm/whpualh.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Pua Lay Hoon | Chief Nurse | WH</strong>
+<summary><strong>Ms Pua Lay Hoon, Chief Nurse, WH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -38,13 +37,13 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Chairperson</h4>
+<h4><strong>Chairperson</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/whngly.png">
+<img style="width: 100%" height="auto" width="100%" alt="WH Ng Li Yuen" src="/images/Comm/whngly.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Geraldine Ng | Deputy Director of Nursing | WH</strong>
+<summary><strong>Ms Geraldine Ng,  Deputy Director of Nursing,  WH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -62,14 +61,14 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Admin Lead</h4>
-<p></p>
+<h4><strong>Admin Lead</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nhghqchristina.png">
+<img style="width: 100%" height="auto" width="100%" alt="christina NHGHQ" src="/images/Comm/nhghqchristina.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Christina Low | Assistant Director | NHG Group Nursing</summary>
+<summary><strong>Ms Christina Low, Assistant Director, NHG Group Nursing</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -86,13 +85,14 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Org Comm Lead</h4>
+<h4><strong>Org Comm Lead</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ktphsoongpang.png">
+<img style="width: 100%" height="auto" width="100%" alt="KTPH Goh Soon Pang" src="/images/Comm/ktphsoongpang.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Goh Soon Pang | Senior Nurse Clinician | KTPH &amp; YCH</summary>
+<summary><strong>Ms Goh Soon Pang, Senior Nurse Clinician, KTPH &amp; YCH</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -109,14 +109,14 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Org Comm Lead</h4>
-<p></p>
+<h4><strong>Org Comm Lead</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whaudrey.png">
+<img style="width: 100%" height="auto" width="100%" alt="WH Audrey Kon, Nurse and software developer" src="/images/Comm/whaudrey.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Audrey Kon | Senior Nurse Clinician | WH</summary>
+<summary><strong>Ms Audrey Kon, Senior Nurse Clinician, WH</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -127,7 +127,7 @@ description: ""
 </tbody>
 </table>
 <hr>
-<h3>All Admin &amp; Logistics</h3>
+<h3><strong>All Admin &amp; Logistics</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -140,7 +140,7 @@ description: ""
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Christina Low | Senior Manager | NHG Group Nursing</strong>
+<summary><strong>Ms Christina Low, Assistant Director, NHG Group Nursing</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -152,7 +152,7 @@ description: ""
 </tbody>
 </table>
 <hr>
-<h3>Conference Programme</h3>
+<h3><strong>Conference Programme</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -161,11 +161,12 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ktphsoongpang.png">
+<img style="width: 100%" height="auto" width="100%" alt="ktph Goh soon pang" src="/images/Comm/ktphsoongpang.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Goh Soon Pang | Senior Nurse Clinician | KTPH &amp; YCH</summary>
+<summary><strong>Ms Goh Soon Pang, Senior Nurse Clinician, KTPH &amp; YCH</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -176,7 +177,7 @@ description: ""
 </tbody>
 </table>
 <hr>
-<h3>Scientific Programme &amp; CPE Points</h3>
+<h3><strong>Scientific Programme &amp; CPE Points</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -185,67 +186,56 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/whdonglj.png">
+<img style="width: 100%" height="auto" width="100%" alt="WH Dong Lijuan" src="/images/Comm/whdonglj.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Dr Dong Lijuan | Deputy Director of Nursing | WH</summary>
+<summary><strong>Dr Dong Lijuan, Deputy Director of Nursing, WH</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Dr Dong drives nursing research, education and evidence-based practice
-to advance the nursing profession.</p>
+<p><strong>Dr Dong drives nursing research, education and evidence-based practice to advance the nursing profession.</strong>
+</p>
 </div>
 </details>
 </div>
 </th>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/whshiji.png">
+<img style="width: 100%" height="auto" width="100%" alt="WH Shiji" src="/images/Comm/whshiji.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Shiji D/O Kuttan | Assistant Director of Nursing | WH</summary>
+<summary><strong>Ms Shiji D/O Kuttan, Assistant Director of Nursing, WH</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 </div>
-</th>
+</td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ttshrunqi.png">
+<img style="width: 100%" height="auto" width="100%" alt="TTSH Runqi" src="/images/Comm/ttshrunqi.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Cheong Run Qi | Assistant Nurse Clinician | TTSH</summary>
+<summary><strong>Ms Cheong Run Qi, Assistant Nurse Clinician, TTSH</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 </div>
-</th>
+</td>
 </tr>
 </tbody>
 </table>
 <hr>
-<h3>Sponsorship</h3>
+<h3><strong>Sponsorship</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -254,11 +244,12 @@ to advance the nursing profession.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ttshjames.png">
+<img style="width: 100%" height="auto" width="100%" alt="TTSH James Tan" src="/images/Comm/ttshjames.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Mr Tan Wan Kun, James | Nurse Manager | TTSH</summary>
+<summary><strong>Mr Tan Wan Kun, James, Nurse Manager, TTSH</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -269,11 +260,11 @@ to advance the nursing profession.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ttshwanzhen.png">
+<img style="width: 100%" height="auto" width="100%" alt="TTSH Wanzhen" src="/images/Comm/ttshwanzhen.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Zhao Wanzhen | Senior Nurse Educator | TTSH</strong>
+<summary><strong>Ms Zhao Wanzhen, Senior Nurse Educator, TTSH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -285,7 +276,7 @@ to advance the nursing profession.</p>
 </tbody>
 </table>
 <hr>
-<h3>Publicity, EDMs &amp; Website</h3>
+<h3><strong>Publicity, EDMs &amp; Website</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -294,11 +285,11 @@ to advance the nursing profession.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="audrey kon web developer and nurse" src="/images/whaudrey.png">
+<img style="width: 100%" height="auto" width="100%" alt="WH Audrey Kon, Nurse and software developer" src="/images/Comm/whaudrey.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Audrey Kon | Senior Nurse Clinician | WH</strong>
+<summary><strong>Ms Audrey Kon, Senior Nurse Clinician, WH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -310,11 +301,11 @@ to advance the nursing profession.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="christina" src="/images/nhghqchristina.png">
+<img style="width: 100%" height="auto" width="100%" alt="NHGHQ Christina" src="/images/Comm/nhghqchristina.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Christina Low | Senior Manager | NHG Group Nursing</strong>
+<summary><strong>Ms Christina Low, Assistant Director, NHG Group Nursing</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -326,7 +317,7 @@ to advance the nursing profession.</p>
 </tbody>
 </table>
 <hr>
-<h3>Conference Tracks</h3>
+<h3><strong>Conference Tracks</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -335,18 +326,17 @@ to advance the nursing profession.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <blockquote>
-<h4>Track 1</h4>
+<h4><strong>Track 1</strong></h4>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sathiya" src="/images/ktphsathiya.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ktphsathiya.png">
 </div>
 <details class="isomer-details">
-<summary><strong>Ms Sathiya Veerarhagavan | Senior Nurse Manager | KTPH &amp; YCH</strong>
+<summary><strong>Ms Sathiya Veerarhagavan, Senior Nurse Manager, KTPH &amp; YCH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Senior Nurse Manager with 24 years' experience, passionate about healthcare
-leadership &amp; CPIP initiatives, driving excellence in quality improvement
-&amp; nursing development.&nbsp;</p>
+<p><strong>Senior Nurse Manager with 24 years' experience, passionate about healthcare leadership &amp; CPIP initiatives, driving excellence in quality improvement &amp; nursing development.&nbsp;</strong>
+</p>
 </div>
 </details>
 </td>
@@ -354,27 +344,11 @@ leadership &amp; CPIP initiatives, driving excellence in quality improvement
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/whpualh.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whpualh.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Pua Lay Hoon | Chief Nurse | WH</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/whtimmie.png">
-</div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Ms Timie Chan Lai Ten | Senior Staff Nurse | WH</strong>
+<summary><strong>Ms Pua Lay Hoon, Chief Nurse, WH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -386,17 +360,14 @@ leadership &amp; CPIP initiatives, driving excellence in quality improvement
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ktphsharifah.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whtimmie.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Sharifah Maryam Alhabshee Bte Zen | Nurse Manager | KTPH &amp; YCH</strong>
+<summary><strong>Ms Timie Chan Lai Ten, Senior Staff Nurse, WH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Over my 15 years as a nurse, I have learned to view situations from different
-perspectives and sincerely care for others. I am dedicated to treating
-patients equitably and providing reliable support to my colleagues, which
-motivates me to effectively lead the team.</p>
+<p></p>
 </div>
 </details>
 </div>
@@ -405,11 +376,28 @@ motivates me to effectively lead the team.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/imhelayne.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ktphsharifah.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Elayne Loo | Nurse Clinician | IMH</strong>
+<summary><strong>Ms Sharifah Maryam Alhabshee Bte Zen, Nurse Manager, KTPH &amp; YCH</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Over my 15 years as a nurse, I have learned to view situations from different perspectives and sincerely care for others. I am dedicated to treating patients equitably and providing reliable support to my colleagues, which motivates me to effectively lead the team.</strong>
+</p>
+</div>
+</details>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/imhelayne.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Ms Elayne Loo, Nurse Clinician, IMH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -420,6 +408,7 @@ motivates me to effectively lead the team.</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -428,21 +417,18 @@ motivates me to effectively lead the team.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <blockquote>
-<h4>Track 2</h4>
+<h4><strong>Track 2</strong></h4>
 </blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ktph joyce ho" src="/images/Comm/ktphjoyceho.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Joyce Ho Nuo | Nurse Educator | KTPH &amp; YCH</strong>
+<summary><strong>Ms Joyce Ho Nuo, Nurse Educator, KTPH &amp; YCH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>With 18 years of nursing experience, I'm passionate about shaping the
-next generation of nurses through innovative education. I specialise in
-creating engaging learning environments that combine interactive teaching
-with practical skills development. My goal is to mentor and empower students
-to become confident, competent healthcare professionals.</p>
+<p><strong>With 18 years of nursing experience, I'm passionate about shaping the next generation of nurses through innovative education. I specialise in creating engaging learning environments that combine interactive teaching with practical skills development. My goal is to mentor and empower students to become confident, competent healthcare professionals.</strong>
+</p>
 </div>
 </details>
 </div>
@@ -451,25 +437,11 @@ to become confident, competent healthcare professionals.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="soonpang" src="/images/ktphsoongpang.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ktphsoongpang.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Goh Soon Pang | Senior Nurse Clinician | KTPH &amp; YCH</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Ms Thet Thet | Nurse Clinician | WH</strong>
+<summary><strong>Ms Goh Soon Pang, Senior Nurse Clinician, KTPH &amp; YCH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -481,11 +453,27 @@ to become confident, competent healthcare professionals.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="wanzhen" src="/images/ttshwanzhen.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whthetthet.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Zhao Wanzhen | Senior Nurse Educator | TTSH</strong>
+<summary><strong>Ms Thet Thet, Nurse Clinician, WH</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ttshwanzhen.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Ms Zhao Wanzhen, Senior Nurse Educator, TTSH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -504,14 +492,14 @@ to become confident, competent healthcare professionals.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <blockquote>
-<h4>Track 3</h4>
+<h4><strong>Track 3</strong></h4>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nhgpshuli.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/nhgpshuli.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Jia Shuli | Head Nurse | NHGP</strong>
+<summary><strong>Ms Jia Shuli, Head Nurse, NHGP</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4></h4>
@@ -523,11 +511,11 @@ to become confident, competent healthcare professionals.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ttshjames.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ttshjames.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Mr Tan Wan Kun, James | Nurse Manager | TTSH</strong>
+<summary><strong>Mr Tan Wan Kun, James, Nurse Manager, TTSH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -539,11 +527,11 @@ to become confident, competent healthcare professionals.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="shiji" src="/images/whshiji.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whshiji.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Shiji D/O Kuttan | Assistant Director of Nursing | WH</strong>
+<summary><strong>Ms Shiji D/O Kuttan, Assistant Director of Nursing, WH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -555,11 +543,11 @@ to become confident, competent healthcare professionals.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="audrey" src="/images/whaudrey.png">
+<img style="width: 100%" height="auto" width="100%" alt="WH Audrey Kon, Nurse and Software developer" src="/images/Comm/whaudrey.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Audrey Kon | Senior Nurse Clinician | WH</strong>
+<summary><strong>Ms Audrey Kon, Senior Nurse Clinician, WH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -578,14 +566,15 @@ to become confident, competent healthcare professionals.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <blockquote>
-<h4>Track 4</h4>
+<h4><strong>Track 4</strong></h4>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/imhsongsong.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/imhsongsong.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Mr Cui Song Song | Nurse Clinician | IMH</summary>
+<summary><strong>Mr Cui Song Song, Nurse Clinician, IMH</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -596,11 +585,11 @@ to become confident, competent healthcare professionals.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ttshrunqi.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ttshrunqi.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Cheong Run Qi | Assistant Nurse Clinician | TTSH</strong>
+<summary><strong>Ms Cheong Run Qi, Assistant Nurse Clinician, TTSH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -612,15 +601,15 @@ to become confident, competent healthcare professionals.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="lijuan" src="/images/whdonglj.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whdonglj.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Dr Dong Lijuan | Deputy Director of Nursing | WH</strong>
+<summary><strong>Dr Dong Lijuan, Deputy Director of Nursing, WH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Dr Dong drives nursing research, education and evidence-based practice
-to advance the nursing profession.</p>
+<p><strong>Dr Dong drives nursing research, education and evidence-based practice to advance the nursing profession.</strong>
+</p>
 </div>
 </details>
 </div>
@@ -636,14 +625,14 @@ to advance the nursing profession.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <blockquote>
-<h4>Conference Emcee</h4>
+<h4><strong>Conference Emcee</strong></h4>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="timmie" src="/images/whtimmie.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whtimmie.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Timie Chan Lai Ten | Senior Staff Nurse | WH</strong>
+<summary><strong>Ms Timie Chan Lai Ten, Senior Staff Nurse, WH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -655,7 +644,7 @@ to advance the nursing profession.</p>
 </tbody>
 </table>
 <hr>
-<h3>Scientific Track</h3>
+<h3><strong>Scientific Track</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -664,11 +653,11 @@ to advance the nursing profession.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="elayne" src="/images/imhelayne.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/imhelayne.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Elayne Loo | Nurse Clinician | IMH</strong>
+<summary><strong>Ms Elayne Loo, Nurse Clinician, IMH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -680,16 +669,15 @@ to advance the nursing profession.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sathiya" src="/images/ktphsathiya.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ktphsathiya.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Sathiya Veerarhagavan | Senior Nurse Manager | KTPH &amp; YCH</strong>
+<summary><strong>Ms Sathiya Veerarhagavan, Senior Nurse Manager, KTPH &amp; YCH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Senior Nurse Manager with 24 years' experience, passionate about healthcare
-leadership &amp; CPIP initiatives, driving excellence in quality improvement
-&amp; nursing development.&nbsp;</p>
+<p><strong>Senior Nurse Manager with 24 years' experience, passionate about healthcare leadership &amp; CPIP initiatives, driving excellence in quality improvement &amp; nursing development.&nbsp;</strong>
+</p>
 </div>
 </details>
 </div>
@@ -698,11 +686,11 @@ leadership &amp; CPIP initiatives, driving excellence in quality improvement
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="thet thet" src="/images/whthetthet.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whthetthet.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Thet Thet | Nurse Clinician | WH</strong>
+<summary><strong>Ms Thet Thet, Nurse Clinician, WH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -722,6 +710,5 @@ leadership &amp; CPIP initiatives, driving excellence in quality improvement
 <p></p>
 <p></p>
 <hr>
-<p>Dr. Dong Lijuan is the deputy director of nursing at Woodlands Hospital.
-She drives nursing research, education, and evidence-based practice to
-advance the profession.</p>
+<p><strong>Dr. Dong Lijuan is the deputy director of nursing at Woodlands Hospital. She drives nursing research, education, and evidence-based practice to advance the profession.</strong>
+</p>
