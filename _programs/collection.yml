@@ -2,16 +2,16 @@ collections:
   programs:
     output: true
     order:
-      - Track Speakers/.keep
-      - Track Speakers/Track 1.md
-      - Track Speakers/Track 2.md
-      - Track Speakers/Track 3.md
-      - Track Speakers/Track 4.md
       - Keynote Speakers.md
       - Tracks/.keep
       - Tracks/Track 1.md
       - Tracks/Track 2.md
       - Tracks/Track 3.md
       - Tracks/Track 4.md
+      - Track Speakers/.keep
+      - Track Speakers/Track 1.md
+      - Track Speakers/Track 2.md
+      - Track Speakers/Track 3.md
+      - Track Speakers/Track 4.md
       - Day 1 Program Schedule.md
       - Day 2 Program Schedule.md
