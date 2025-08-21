@@ -4,16 +4,9 @@ permalink: /about-us/nhgnursing/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Foreword: </strong></h2>
-<p>In November 2020, NHG Chief Nurses, Heads of Nursing and Nurse leaders
-came together in a Nursing Retreat to set the strategic direction of NHG
-Nursing for the next 5-10 years, so as to inspire and elevate the nursing
-profession to greater heights. Supported by NHG Group Quality, and under
-the guidance of Professor Philip Choo (Group CEO), Professor Chua Hong
-Choon (Deputy Group CEO [Strategy &amp; Transformation]), and Associate
-Professor Tai Hwei Yee (then Group Chief Quality Officer), the nursing
-leaders collectively drew up the NHG Nursing Strategic Map, with a strategic
-goal for NHG Nurses to be:​</p>
+<p><strong>NHG Health</strong> is a leading public healthcare provider in
+Singapore recognised for its quality clinical care and its commitment in
+enabling healthier lives.</p>
 <h4><strong>Trusted &amp; Chosen to Provide Expert Advice,&nbsp;Decisions and Care​​</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -26,7 +19,7 @@ ensure continuity of care​</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Nurses beyond Nursing, Nursing beyond Nurses</strong> 
+<summary><strong>Nurses beyond Nursing, Nursing beyond Nurses</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>We will gain mastery of our own practice, and adopt transdisciplinary
