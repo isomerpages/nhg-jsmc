@@ -430,9 +430,7 @@ motivates me to effectively lead the team.</p>
 <blockquote>
 <h4>Track 2</h4>
 </blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ktphjoyceho.png">
-</div>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Ms Joyce Ho Nuo | Nurse Educator | KTPH &amp; YCH</strong>
@@ -466,9 +464,7 @@ to become confident, competent healthcare professionals.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="thetthet" src="/images/whthetthet.png">
-</div>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Ms Thet Thet | Nurse Clinician | WH</strong>
