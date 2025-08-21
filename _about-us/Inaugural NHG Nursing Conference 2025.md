@@ -24,10 +24,11 @@ professional practice.</p>
 <p><strong>Relationship-Based Care</strong>
 </p>
 <blockquote>
-<p>Examining how strong interprofessional relationships enhance teamwork,
-improve patient outcomes, and create supportive work environments. Through
-effective communication and collaborative practice, we strengthen the foundations
-of healthcare delivery</p>
+<p>We examine the impact of robust interprofessional relationships on teamwork
+with the aim to improve patient outcomes, and creating supportive environments.
+Through fostering effective communication and collaborative practices,
+we can reinforce and strengthen the essential foundations of healthcare
+delivery.</p>
 </blockquote>
 <p><strong>Nurses Beyond Nursing, Nursing Beyond Nurses:</strong>
 </p>
