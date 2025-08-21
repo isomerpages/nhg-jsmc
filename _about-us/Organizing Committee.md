@@ -43,7 +43,7 @@ description: ""
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Geraldine Ng,  Deputy Director of Nursing,  WH</strong>
+<summary><strong>Ms Geraldine Ng, Deputy Director of Nursing, WH</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -617,32 +617,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<blockquote>
-<h4><strong>Conference Emcee</strong></h4>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whtimmie.png">
-</div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Ms Timie Chan Lai Ten, Senior Staff Nurse, WH</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-</th>
-</tr>
-</tbody>
-</table>
+<hr>
 <hr>
 <h3><strong>Scientific Track</strong></h3>
 <table style="minWidth: 25px">
@@ -698,6 +673,31 @@ description: ""
 </details>
 </div>
 </td>
+</tr>
+</tbody>
+</table>
+<hr>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h3><strong>Conference Emcee</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whtimmie.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Ms Timie Chan Lai Ten, Senior Staff Nurse, WH</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+</th>
 </tr>
 </tbody>
 </table>
