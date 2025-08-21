@@ -4,9 +4,11 @@ permalink: /about-us/nhgnursing/
 variant: tiptap
 description: ""
 ---
-<p><strong>NHG Health</strong> is a leading public healthcare provider in
-Singapore recognised for its quality clinical care and its commitment in
-enabling healthier lives.</p>
+<h3><strong>25 Years of NHG Nursing: One Tapestry of Care</strong></h3>
+<p>At the heart of this tapestry is NHG’s organisational values of <em>One NHG</em>, <em>Build Trust</em>, <em>Take Action</em>,
+and <em>Forge Ahead</em>. These principles guide nurses in their daily practice,
+fostering a unified approach to care that builds trust with patients and
+colleagues.</p>
 <h4><strong>Trusted &amp; Chosen to Provide Expert Advice,&nbsp;Decisions and Care​​</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -45,5 +47,6 @@ embracing and empowering​.</p>
 </div>
 <hr>
 <p>Content from "<a href="https://corp.nhg.com.sg/Nursing/Pages/Who-Are-We.aspx" rel="noopener noreferrer nofollow" target="_blank">Who are we</a>"</p>
+<p></p>
 <p></p>
 <p></p>
