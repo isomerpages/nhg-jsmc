@@ -190,11 +190,10 @@ description: ""
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Dr Dong Lijuan, Deputy Director of Nursing, WH</strong>
-</summary>
+<summary>Dr Dong Lijuan, Deputy Director of Nursing, WH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Dr Dong drives nursing research, education and evidence-based practice to advance the nursing profession.</strong>
-</p>
+<p>Dr Dong drives nursing research, education and evidence-based practice
+to advance the nursing profession.</p>
 </div>
 </details>
 </div>
@@ -484,6 +483,7 @@ description: ""
 </tr>
 </tbody>
 </table>
+<hr>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -558,6 +558,7 @@ description: ""
 </tr>
 </tbody>
 </table>
+<hr>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -605,11 +606,11 @@ description: ""
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Dr Dong Lijuan, Deputy Director of Nursing, WH</strong>
-</summary>
+<summary>Dr Dong Lijuan, Deputy Director of Nursing, WH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Dr Dong drives nursing research, education and evidence-based practice to advance the nursing profession.</strong>
-</p>
+<p>Dr. Dong Lijuan is the deputy director of nursing at Woodlands Hospital.
+She drives nursing research, education, and evidence-based practice to
+advance the profession.</p>
 </div>
 </details>
 </div>
@@ -617,7 +618,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<hr>
 <hr>
 <h3><strong>Scientific Track</strong></h3>
 <table style="minWidth: 25px">
@@ -710,5 +710,4 @@ description: ""
 <p></p>
 <p></p>
 <hr>
-<p><strong>Dr. Dong Lijuan is the deputy director of nursing at Woodlands Hospital. She drives nursing research, education, and evidence-based practice to advance the profession.</strong>
-</p>
+<p></p>
