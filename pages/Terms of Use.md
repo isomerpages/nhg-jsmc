@@ -122,9 +122,6 @@ which is incorporated into these Terms of Use by reference.</p>
 <p>These Terms of Use shall be governed by and construed in accordance with
 the laws of Singapore. Any dispute arising under these Terms of Use shall
 be subject to the exclusive jurisdiction of the courts of Singapore.</p>
-<p><strong>10. Contact Information</strong>
-</p>
-<p>For questions about these Terms of Use, please contact</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="nhg logo" src="/images/Copy_of_V1_A4_Header__210_x_40_mm___180_x_40_mm_.png">
