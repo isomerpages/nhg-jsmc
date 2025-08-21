@@ -430,7 +430,9 @@ motivates me to effectively lead the team.</p>
 <blockquote>
 <h4>Track 2</h4>
 </blockquote>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ktph joyce ho" src="/images/Comm/ktphjoyceho.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Ms Joyce Ho Nuo | Nurse Educator | KTPH &amp; YCH</strong>
