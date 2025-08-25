@@ -147,7 +147,9 @@ Outcomes Through Strengthened Relationship</summary>
 </div>
 <p></p>
 <h4>Moderator</h4>
-<p>\</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1a yap hui xian yvonne .png">
+</div>
 <blockquote>
 <h4>Ms Yap Hui Xian Yvonne&nbsp;</h4>
 </blockquote>
@@ -336,7 +338,9 @@ and Inclusion</summary>
 </div>
 <p></p>
 <h4>Moderator</h4>
-<p>\</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d1 cherie koh.png">
+</div>
 <blockquote>
 <h4>Ms Cherie Koh</h4>
 </blockquote>
@@ -514,7 +518,9 @@ more resilient population.&nbsp;</p>
 </div>
 <p></p>
 <h4>Moderator</h4>
-<p>\</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1c ng siok qi.png">
+</div>
 <blockquote>
 <h4>Ms Ng Siok Qi #</h4>
 </blockquote>
@@ -552,16 +558,30 @@ and operational efficiency.&nbsp;</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Senior Nurse Manager, Khoo Teck Puat Hospital&nbsp;&amp; Yishun Hospital</summary>
+<summary>Senior Nurse Manager, Inpatient Wards, Khoo Teck Puat Hospital&nbsp;&amp;
+Yishun Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Cherie is a Senior Nurse Manager overseeing three surgical wards, bringing
+extensive clinical leadership experience to her role. As the Nursing Lead
+in Innovation, she champions transformative healthcare solutions within
+her institution. She also serves as Co-lead in the NHG Health Group Nursing
+Innovation Office, where she drives nursing innovation initiatives across
+the healthcare cluster. She is currently doing her MBA and has interest
+in healthcare financing policies.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Track 1D1: Nursing in the Digital Era - Supporting Elderly Patients with
 Compassion and Innovation.</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>As Singapore’s population ages, nursing care must evolve with technology
+while preserving compassion at its core. In this session, Ms Cherie Koh
+will share KTPH’s trials of Smart Diapers, Nobi Lamp and AI Food Imaging.
+She will highlight outcomes, challenges, and the way forward in integrating
+health technology to enhance geriatric care and nursing productivity. Attendees
+will gain practical insights into how digital innovations can transform
+care delivery for elderly patients, ensuring safety, dignity, and sustainable
+nursing practices.&nbsp;</p>
 </div>
 </details>
 </div>
@@ -636,39 +656,21 @@ human element of nursing care.&nbsp;</p>
 <summary>Emeritus Advisor/Senior Director, DGCEO (Medical &amp; Clinical Services)
 Office&nbsp;&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>wee Hia has been pivotal in growing SingHealth’s nursing capacity and
-expertise over the years. She was key in developing the SingHealth Alice
-Lee Institute of Advanced Nursing (IAN), which has been the principal node
-for delivering specialisation programmes to catalyse and elevate practice-based
-training for nurses and healthcare support staff. In 2007, she led IAN
-to achieve the distinction of being accredited by the American Nurses Credentialing
-Centre (ANCC) as a Continuing Nursing Education Provider, the first in
-Asia and third outside the United States to achieve this.&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>Swee Hia also played an instrumental role in leading SGH to achieve its
-first Joint Commission International (JCI) accreditation in 2005 – the
-largest teaching hospital in Asia to be accorded such recognition at that
-time. In 2010, she led SGH to become the first Magnet hospital in Singapore
-and South-East Asia, a testament to the hospital’s world-class quality
-nursing care.&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>As a key member of the former Singapore Workforce Development Agency’s
-Healthcare Industry Skills Training Council, Swee Hia was involved in the
-set-up, review and expansion of the Healthcare Support WSQ framework. She
-also spearheaded the Skills Training Employability Enhancement for Retrenched
-and Unemployed Workers (STEER) and Return-To-Nursing (RTN) programmes for
-Registered and Enrolled Nurses, as well as introduced the Principal Enrolled
-Nurses into the Enrolled Nurses Career Development Plan and the Tan Chin
-Tuan Nursing Award for Enrolled Nurses.&nbsp;&nbsp; During her tenure as
-the President of the Singapore Nurses Association (SNA) from 2012 to 2020,
-Swee Hia led the SNA to win the bid to host the International Council of
-Nurses Congress for the first time in Singapore in 2019, which was attended
-by more than 5,000 nursing leaders from 120 countries.</p>
+<p><strong>Swee Hia has been pivotal in growing SingHealth’s nursing capacity and expertise over the years. She was key in developing the SingHealth Alice Lee Institute of Advanced Nursing (IAN), which has been the principal node for delivering specialisation programmes to catalyse and elevate practice-based training for nurses and healthcare support staff. In 2007, she led IAN to achieve the distinction of being accredited by the American Nurses Credentialing Centre (ANCC) as a Continuing Nursing Education Provider, the first in Asia and third outside the United States to achieve this.&nbsp;&nbsp;&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Swee Hia also played an instrumental role in leading SGH to achieve its first Joint Commission International (JCI) accreditation in 2005 – the largest teaching hospital in Asia to be accorded such recognition at that time. In 2010, she led SGH to become the first Magnet hospital in Singapore and South-East Asia, a testament to the hospital’s world-class quality nursing care.&nbsp;&nbsp;&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>As a key member of the former Singapore Workforce Development Agency’s Healthcare Industry Skills Training Council, Swee Hia was involved in the set-up, review and expansion of the Healthcare Support WSQ framework. She also spearheaded the Skills Training Employability Enhancement for Retrenched and Unemployed Workers (STEER) and Return-To-Nursing (RTN) programmes for Registered and Enrolled Nurses, as well as introduced the Principal Enrolled Nurses into the Enrolled Nurses Career Development Plan and the Tan Chin Tuan Nursing Award for Enrolled Nurses.&nbsp;&nbsp; During her tenure as the President of the Singapore Nurses Association (SNA) from 2012 to 2020, Swee Hia led the SNA to win the bid to host the International Council of Nurses Congress for the first time in Singapore in 2019, which was attended by more than 5,000 nursing leaders from 120 countries.</strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 1D3: Future-Proofing Nursing - The Critical Role of Senior Nurses
-in Singapore's Healthcare Landscape.</summary>
+<summary><strong>Track 1D3: Future-Proofing Nursing - The Critical Role of Senior Nurses in Singapore's Healthcare Landscape.</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This presentation explores how Senior Nurses “Beyond the Bedside” contributes
 to mentorship, innovation, policy shaping and workforce stability, ensuring
