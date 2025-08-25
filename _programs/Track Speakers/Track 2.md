@@ -207,6 +207,26 @@ activation, digital health</p>
 <p></p>
 <p>/</p>
 <blockquote>
+<h4>#</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>#</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Track 2B1: #</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p>/</p>
+<blockquote>
 <h4>Ms Hemma Rajendra</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -218,11 +238,11 @@ care and aeromedical transport. With formal training in aeromedical operations
 and experience in both ground and air missions, she manages patients in
 high pressure environments. Guided by the belief that every life is precious,
 Hemma is committed to delivering safe, compassionate, and timely care,
-no matter the altitude</p>
+no matter the altitude.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2B1: Love is in the air “twelve-kilometres high medicine”</summary>
+<summary>Track 2B2: Love is in the air “twelve-kilometres high medicine"</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Flight nurses are a specialized group of professionals who care for acutely
 ill patients outside the hospital environment. We are an essential part
@@ -244,52 +264,47 @@ that makes my working career exciting.</p>
 </div>
 </details>
 </div>
-<p></p>
-<p></p>
-<p>/</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2b3 selina seah.png">
+</div>
 <blockquote>
-<h4>#</h4>
+<h4>Adj Asst Prof&nbsp;Selina Seah</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>##</summary>
+<summary>Assistant Chief Executive Officer, Transformation, CGH, Development Lead,
+Planning Office, EGH, Director, Centre for Healthcare Assistive and Robotics
+Technology&nbsp;Deputy Co-Chair, Academic Medicine Innovation Institute,
+SingHealth Duke-NUS&nbsp;&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Track 2B2: NUH On Flight Nursing</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
-<p></p>
-<p>/</p>
-<blockquote>
-<h4>#</h4>
-</blockquote>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>#</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Assuming concurrent roles as Assistant Chief Executive Officer (Transformation),
+Changi General Hospital, and the Development Lead for Eastern General Hospital
+Campus, a new regional health campus to serve the growing needs in the
+eastern part of Singapore, Selina looks at developing enablers in infrastructure,
+technology and innovations. She is also the Director for the Centre for
+Healthcare Assistive Robotics and Technology (CHART), which performs R&amp;D
+and drive the adoption of robotics and assistive technology and evaluate
+its impact. With an eye on Singapore’s future healthcare landscape, she
+is also working on strategic partnerships as Deputy Co-Chair at the SingHealth-Duke
+NUS’s Academic Medicine Innovation Institute.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Track 2B3: Syringe To Pen</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>As an advocate for patients, families, the profession and national health,
+nurses can play a pivotal role in the development of national policies,
+influencing the present and future of healthcare. Your voice matters.&nbsp;</p>
 </div>
 </details>
 </div>
 <p></p>
 <h4>Moderator</h4>
-<p></p>
-<p>/</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2b lau siew tiang, lydia.png">
+</div>
 <blockquote>
-<h4>A/P Lau Siew Tiang, Lydia#</h4>
+<h4>Associate Professor Lau Siew Tiang, Lydia</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
