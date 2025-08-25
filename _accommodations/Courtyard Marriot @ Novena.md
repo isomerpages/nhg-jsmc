@@ -31,6 +31,25 @@ hotel. For a private business meeting or celebration, opt for the hotel's
 modern function room with an adjoining patio or Las Palmas' intimate private
 function room offering breathtaking views of the CBD area.</p>
 <hr>
-<p>Click <a href="https://www.marriott.com/en-us/hotels/sincy-courtyard-singapore-novena/overview/" rel="noopener nofollow" target="_blank">HERE</a> to
-visit Courtyard Singapore Novena's website.</p>
+<h4><strong>Website Link:</strong></h4>
+<p><strong><a href="https://www.marriott.com/en-us/hotels/sincy-courtyard-singapore-novena/overview/" rel="noopener noreferrer nofollow" target="_blank"><u>Novena Hotel in Singapore | Courtyard Singapore Novena</u></a></strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<h4><strong>Address:</strong></h4>
+<p><strong>COURTYARD BY MARRIOTT SINGAPORE NOVENA</strong>
+</p>
+<p><strong>99 Irrawaddy Road, Singapore 329568</strong>
+</p>
+<hr>
+<h4><strong>Direct Booking Information and Reservation Booking Links</strong></h4>
+<p><strong>Click Here: <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1753350085053&amp;key=GRP&amp;app=resvlink" rel="noopener noreferrer nofollow" target="_blank"><u>Courtyard by Marriott Singapore Novena – Hotel Accommodation (Online Reservation Link)</u></a></strong>
+</p>
+<p>If you have questions or need help with the link, please do not hesitate
+to contact us at +65-6378 2000 or email us at <strong><a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1753350085053&amp;amp;key=GRP&amp;amp;app=resvlink" rel="noopener noreferrer nofollow" target="_blank"><u>rsvn.courtyardsg@courtyard.com</u></a></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer.gif">
+</div>
 <p></p>
