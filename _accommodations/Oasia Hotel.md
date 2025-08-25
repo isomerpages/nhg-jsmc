@@ -12,7 +12,6 @@ description: ""
 <h4>Nothing beats seeing and experiencing Oasia with a well-deserved relaxing stay in our exquisite rooms.</h4>
 </blockquote>
 <p></p>
-<p></p>
 <p>Wood, granite and other natural elements make up the calming landscape
 in the charming enclave of Oasia Hotel Novena, located near the bustling
 Orchard Road and business district. While soothing tones fill the hotel,
