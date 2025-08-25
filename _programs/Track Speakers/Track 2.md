@@ -555,9 +555,27 @@ domestic helper to caregiver</summary>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Yvonne Yap is a compassionate leader who is deeply dedicated to promoting
+staff well-being and resilience within the healthcare sector. Currently
+serving as Deputy Director, Nursing Administration at Khoo Teck Puat Hospital,
+Yvonne actively champions and contributes to numerous projects and committees
+aimed at enhancing nursing practices and patient care. With the support
+of Chief Nurse, Ms Shirley Heng, Yvonne also kickstarted the formation
+of KTPH’s Nursing Work-sense Committee, which is dedicated to building
+culture and empowering healthcare professionals to thrive in challenging
+environments. She established Personal Development Conversations that deepened
+professional growth and purpose. Her clinical leadership anchors nursing
+excellence while fostering meaningful human connections.&nbsp;&nbsp;</p>
+<p>Beyond the hospital, her sustained community engagement has positively
+shaped the health of the population she serves, while her people-centred
+approach continues to drive nursing innovation and empowerment.&nbsp;</p>
+<p>Her effort in these areas have led to her receiving the prestigious NHG
+Young Achiever’s Award and the National Day Efficiency Award, underscoring
+her passion for staff welfare and unwavering commitment to improving the
+nursing profession. She has also attained alumni status at Harvard Business
+School by successfully completing two rigorous programs</p>
 </div>
 </details>
 <details class="isomer-details">
