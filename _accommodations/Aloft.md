@@ -29,18 +29,16 @@ West Wing. Join us at the W XYZ Bar for live acoustic sets from local artists,
 then end your day in our modern and cozy Aloft room or suite equipped with
 Sealy mattresses, refreshing showerhead and free Wi-Fi.</p>
 <hr>
-<h4><strong>Website Link:</strong></h4>
-<p><strong><a href="https://www.marriott.com/en-us/hotels/sinnv-aloft-singapore-novena/rooms/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Suites | Aloft Singapore Novena</u></a></strong>
+<h4>Website Link:</h4>
+<p><a href="https://www.marriott.com/en-us/hotels/sinnv-aloft-singapore-novena/rooms/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Suites | Aloft Singapore Novena</u></a>
 </p>
 <hr>
-<h4><strong>Address:</strong></h4>
-<p><strong>ALOFT SINGAPORE NOVENA</strong>
-</p>
-<p><strong>18 Ah Hood Road, #03-51, Singapore 329983</strong>
-</p>
+<h4>Address:</h4>
+<p>ALOFT SINGAPORE NOVENA</p>
+<p>18 Ah Hood Road, #03-51, Singapore 329983</p>
 <hr>
-<h4><strong>Direct Booking Information and Reservation Booking Links</strong></h4>
-<p><strong>Click Here: <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1752825126193&amp;key=CORP&amp;app=resvlink" rel="noopener noreferrer nofollow" target="_blank"><u>Aloft Singapore Novena - Hotel Accommodation (Online Booking Link)</u></a></strong>
+<h4>Direct Booking Information and Reservation Booking Links</h4>
+<p>Click Here: <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1752825126193&amp;key=CORP&amp;app=resvlink" rel="noopener noreferrer nofollow" target="_blank"><u>Aloft Singapore Novena - Hotel Accommodation (Online Booking Link)</u></a>
 </p>
 <hr>
 <div class="isomer-image-wrapper">
