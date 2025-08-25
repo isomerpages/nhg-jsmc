@@ -313,7 +313,6 @@ a unified care ecosystem that honors diversity while delivering excellence.&nbsp
 </details>
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1b3 alison ong .png">
 </div>
@@ -370,7 +369,9 @@ in healthcare financing policies.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<p>\\</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1c1 ng huoy ling.png">
+</div>
 <blockquote>
 <h4>Ms Ng Huoy Ling</h4>
 </blockquote>
@@ -430,7 +431,10 @@ care process.&nbsp;</p>
 </details>
 </div>
 <p></p>
-<p>\\</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1c2 ong yu jing .png">
+</div>
 <blockquote>
 <h4>Ms Ong Yu Jing</h4>
 </blockquote>
@@ -471,7 +475,9 @@ practice. &nbsp;
 </details>
 </div>
 <p></p>
-<p>\</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1c3 tan hong yun.png">
+</div>
 <blockquote>
 <h4>Dr Tan Hongyun</h4>
 </blockquote>
@@ -538,7 +544,9 @@ and operational efficiency.&nbsp;</p>
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<p>\\</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d1 cherie koh.png">
+</div>
 <blockquote>
 <h4>Ms Cherie Koh#</h4>
 </blockquote>
@@ -558,7 +566,9 @@ Compassion and Innovation.</summary>
 </details>
 </div>
 <p></p>
-<p>\</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d2 he hong-gu, linda.png">
+</div>
 <blockquote>
 <h4>Prof He Hong-Gu, Linda</h4>
 </blockquote>
