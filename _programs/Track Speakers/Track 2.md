@@ -207,19 +207,40 @@ activation, digital health</p>
 <p></p>
 <p>/</p>
 <blockquote>
-<h4>#</h4>
+<h4>Ms Hemma Rajendra</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>##</summary>
+<summary>Senior Flight Nurse</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Hemma Rajendra is a dedicated Flight Nurse with a background in critical
+care and aeromedical transport. With formal training in aeromedical operations
+and experience in both ground and air missions, she manages patients in
+high pressure environments. Guided by the belief that every life is precious,
+Hemma is committed to delivering safe, compassionate, and timely care,
+no matter the altitude</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2B1: Nursing With A Different 'Hat'</summary>
+<summary>Track 2B1: Love is in the air “twelve-kilometres high medicine”</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Flight nurses are a specialized group of professionals who care for acutely
+ill patients outside the hospital environment. We are an essential part
+of the medical team that transfers patients from hospitals to hospitals,
+countries to countries, and even continents to continents. These are typically
+critically ill patients, often attached to ventilators and requiring inotropes.
+We take them from the ICU environment into an air ambulance and fly long
+distances to destination hospitals.</p>
+<p>To perform these demanding tasks, we must prepare all our equipment such
+as ventilators, infusion pumps, and monitors which are specially designed
+to be portable. During transfers, we must remain sharp in our observations
+and judgments amid constant movements, vibrations, background noises, and
+while</p>
+<p>traversing different time zones. We work in a confined environment, often
+with limited access to the patient.</p>
+<p>Such an unusual working environment attracts only a small group of nurses.
+It is this passion and the challenges I face, 12 km above ground level,
+that makes my working career exciting.</p>
 </div>
 </details>
 </div>
