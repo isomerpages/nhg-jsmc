@@ -46,7 +46,6 @@ function room offering breathtaking views of the CBD area.</p>
 <p>If you have questions or need help with the link, please do not hesitate
 to contact us at +65-6378 2000 or email us at <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1753350085053&amp;amp;key=GRP&amp;amp;app=resvlink" rel="noopener noreferrer nofollow" target="_blank"><u>rsvn.courtyardsg@courtyard.com</u></a>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer.gif">
 </div>
