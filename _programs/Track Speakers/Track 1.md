@@ -192,7 +192,9 @@ School by successfully completing two rigorous programs</p>
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<p>\</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1b1 jessie tan joon cheen.png">
+</div>
 <blockquote>
 <h4>Ms Jessie Tan Joon Cheen</h4>
 </blockquote>
@@ -256,7 +258,9 @@ high-quality, compassionate care to vulnerable patients living with dementia.&nb
 </details>
 </div>
 <p></p>
-<p>\</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1b2 chen wei ting .png">
+</div>
 <blockquote>
 <h4>Dr Chen Wei Ting</h4>
 </blockquote>
@@ -309,7 +313,10 @@ a unified care ecosystem that honors diversity while delivering excellence.&nbsp
 </details>
 </div>
 <p></p>
-<p>\\</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1b3 alison ong .png">
+</div>
 <blockquote>
 <h4>Ms Alison Ong #</h4>
 </blockquote>
