@@ -15,7 +15,7 @@ third_nav_title: Track Speakers
 <td rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/ngwoeikian.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1a1 woei kian.png">
 </div>
 <blockquote>
 <h4>Ms Ng Woei Kian</h4>
@@ -52,7 +52,7 @@ and community-centred care that is both coordinated and compassionate.&nbsp;&nbs
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/Dr_Laurence_Tan.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1a2 laurence tan.png">
 </div>
 <blockquote>
 <h4>Dr Laurence Tan</h4>
@@ -102,7 +102,7 @@ all care providers.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/Lim_Hui_Shan.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1a3 lim hui shan.png">
 </div>
 <blockquote>
 <h4>Ms Lim Hui Shan</h4>
@@ -147,9 +147,7 @@ Outcomes Through Strengthened Relationship</summary>
 </div>
 <p></p>
 <h4>Moderator</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
+<p>\</p>
 <blockquote>
 <h4>Ms Yap Hui Xian Yvonne&nbsp;</h4>
 </blockquote>
@@ -194,9 +192,7 @@ School by successfully completing two rigorous programs</p>
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="jessie" src="/images/Track 1 speakers/jessie.png">
-</div>
+<p>\</p>
 <blockquote>
 <h4>Ms Jessie Tan Joon Cheen</h4>
 </blockquote>
@@ -260,9 +256,7 @@ high-quality, compassionate care to vulnerable patients living with dementia.&nb
 </details>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/weiting.png">
-</div>
+<p>\</p>
 <blockquote>
 <h4>Dr Chen Wei Ting</h4>
 </blockquote>
@@ -315,9 +309,7 @@ a unified care ecosystem that honors diversity while delivering excellence.&nbsp
 </details>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
+<p>\\</p>
 <blockquote>
 <h4>Ms Alison Ong #</h4>
 </blockquote>
@@ -338,9 +330,7 @@ and Inclusion</summary>
 </div>
 <p></p>
 <h4>Moderator</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="cherie koh" src="/images/Track 1 speakers/cheriekoh.png">
-</div>
+<p>\</p>
 <blockquote>
 <h4>Ms Cherie Koh</h4>
 </blockquote>
@@ -373,9 +363,7 @@ in healthcare financing policies.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ng huoy leng" src="/images/Track 1 speakers/nghuoyleng.png">
-</div>
+<p>\\</p>
 <blockquote>
 <h4>Ms Ng Huoy Ling</h4>
 </blockquote>
@@ -435,9 +423,7 @@ care process.&nbsp;</p>
 </details>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ong yu jing" src="/images/Track 1 speakers/ongyujing.png">
-</div>
+<p>\\</p>
 <blockquote>
 <h4>Ms Ong Yu Jing</h4>
 </blockquote>
@@ -478,9 +464,7 @@ practice. &nbsp;
 </details>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="tan hong yun" src="/images/Track 1 speakers/tanhongyun.png">
-</div>
+<p>\</p>
 <blockquote>
 <h4>Dr Tan Hongyun</h4>
 </blockquote>
@@ -517,9 +501,7 @@ more resilient population.&nbsp;</p>
 </div>
 <p></p>
 <h4>Moderator</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ng siok qi" src="/images/Track 1 speakers/ngsiokqi.png">
-</div>
+<p>\</p>
 <blockquote>
 <h4>Ms Ng Siok Qi #</h4>
 </blockquote>
@@ -549,9 +531,7 @@ and operational efficiency.&nbsp;</p>
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="cherie koh" src="/images/Track 1 speakers/cheriekoh.png">
-</div>
+<p>\\</p>
 <blockquote>
 <h4>Ms Cherie Koh#</h4>
 </blockquote>
@@ -571,9 +551,7 @@ Compassion and Innovation.</summary>
 </details>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="he hong gu" src="/images/Track 1 speakers/hehonggu.png">
-</div>
+<p>\</p>
 <blockquote>
 <h4>Prof He Hong-Gu, Linda</h4>
 </blockquote>
@@ -630,9 +608,7 @@ human element of nursing care.&nbsp;</p>
 </details>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="lim swee hia" src="/images/Track 1 speakers/limsweehia.png">
-</div>
+<p>\</p>
 <blockquote>
 <h4>Prof Lim Swee Hia</h4>
 </blockquote>
@@ -693,9 +669,7 @@ they have built.&nbsp;</p>
 </div>
 <p></p>
 <h4>Moderator</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="yvonne tan" src="/images/Track 1 speakers/yvonnetan.png">
-</div>
+<p>\</p>
 <blockquote>
 <h4>Ms Yvonne Tan Siow Lin</h4>
 </blockquote>
