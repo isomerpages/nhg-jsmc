@@ -15,9 +15,7 @@ third_nav_title: Track Speakers
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
+<p>/</p>
 <blockquote>
 <h4>Ms Shirley Heng&nbsp;</h4>
 </blockquote>
@@ -85,9 +83,7 @@ ability to work together in powerful new ways.&nbsp;</p>
 </details>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
+<p>/</p>
 <blockquote>
 <h4>Ms Nirmala Bte Karmaroon</h4>
 </blockquote>
@@ -140,9 +136,7 @@ and shaping institutional policy.&nbsp;</p>
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
+<p>/</p>
 <blockquote>
 <h4>#</h4>
 </blockquote>
@@ -164,9 +158,7 @@ Embarked To Cope With Healthcare Challenges)</summary>
 <p></p>
 <h4>Moderator</h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
+<p>/</p>
 <blockquote>
 <h4>Adj Asst Prof&nbsp;Chan Ee Yuee</h4>
 </blockquote>
@@ -209,9 +201,7 @@ activation, digital health</p>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
+<p>/</p>
 <blockquote>
 <h4>#</h4>
 </blockquote>
@@ -231,9 +221,7 @@ activation, digital health</p>
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
+<p>/</p>
 <blockquote>
 <h4>#</h4>
 </blockquote>
@@ -253,9 +241,7 @@ activation, digital health</p>
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
+<p>/</p>
 <blockquote>
 <h4>#</h4>
 </blockquote>
@@ -276,9 +262,7 @@ activation, digital health</p>
 <p></p>
 <h4>Moderator</h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
+<p>/</p>
 <blockquote>
 <h4>A/P Lau Siew Tiang, Lydia#</h4>
 </blockquote>
@@ -305,9 +289,7 @@ activation, digital health</p>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
+<p>/</p>
 <blockquote>
 <h4>#</h4>
 </blockquote>
@@ -327,9 +309,7 @@ The Decades</summary>
 </details>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
+<p>/</p>
 <blockquote>
 <h4>#</h4>
 </blockquote>
@@ -348,9 +328,7 @@ The Decades</summary>
 </details>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
+<p>/</p>
 <blockquote>
 <h4>#</h4>
 </blockquote>
@@ -371,9 +349,7 @@ The Decades</summary>
 <p></p>
 <h4>Moderator</h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
+<p>/</p>
 <blockquote>
 <h4>Dr Dong Lijuan#</h4>
 </blockquote>
@@ -400,9 +376,7 @@ The Decades</summary>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
+<p>/</p>
 <blockquote>
 <h4>#</h4>
 </blockquote>
@@ -421,9 +395,7 @@ The Decades</summary>
 </details>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
+<p>/</p>
 <blockquote>
 <h4>#</h4>
 </blockquote>
@@ -444,9 +416,7 @@ domestic helper to caregiver</summary>
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
+<p>/</p>
 <blockquote>
 <h4>#</h4>
 </blockquote>
@@ -466,9 +436,7 @@ domestic helper to caregiver</summary>
 </div>
 <h4>Moderator</h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
+<p>/</p>
 <blockquote>
 <h4>Ms Eileen Cheah#</h4>
 </blockquote>
@@ -495,9 +463,7 @@ domestic helper to caregiver</summary>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
+<p>/</p>
 <blockquote>
 <h4>#</h4>
 </blockquote>
@@ -516,9 +482,7 @@ domestic helper to caregiver</summary>
 </details>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
+<p>/</p>
 <blockquote>
 <h4>#</h4>
 </blockquote>
@@ -538,9 +502,7 @@ domestic helper to caregiver</summary>
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
+<p>/</p>
 <blockquote>
 <h4>#</h4>
 </blockquote>
@@ -560,9 +522,7 @@ domestic helper to caregiver</summary>
 </div>
 <h4>Moderator</h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
+<p>/</p>
 <blockquote>
 <h4>Ms Yvonne Tan#</h4>
 </blockquote>
