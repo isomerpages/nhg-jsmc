@@ -366,21 +366,36 @@ The Decades</summary>
 </details>
 </div>
 <p></p>
-<p>/</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2c2 peh sue cheng.png">
+</div>
 <blockquote>
-<h4>#</h4>
+<h4>Ms Peh Sue Cheng</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Deputy Director, Nursing Service, Woodlands Health&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>Ms. Peh Sue Cheng is the Deputy Director of Nursing at Woodlands Health with over 30 years of experience in the nursing profession. She holds a Master of Science in Clinical Leadership and an Advanced Diploma in Neuroscience Nursing. Her core expertise lies in nursing manpower and operations. She played a key role in the planning and setup of a new general hospital, contributing significantly to operational readiness and nursing service development.</strong>&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2C2: Interdisciplinary Collaboration with Nursing</summary>
+<summary>Track 2C2: Interdisciplinary Collaboration with Nursing: The WH Way</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Interdisciplinary collaboration is a cornerstone in the successful planning
+and operationalisation of a new general hospital in Singapore. As healthcare
+becomes increasingly complex, no single profession can work in isolation
+to deliver safe, efficient, and person-centred care. The integration of
+nursing with other disciplines—medicine, allied health, pharmacy, operations,
+IT, and administration—is vital to ensure seamless patient journeys, optimal
+resource utilisation, to achieve clinical excellence.&nbsp;</p>
+<p>&nbsp;</p>
+<p>This presentation will highlight how interdisciplinary collaboration drives
+innovation, mitigates risks, and strengthens system resilience before,
+during and after the opening of a general hospital in Singapore. Through
+case examples and lessons learned, we aim to demonstrate that collaborative
+partnerships not only improve outcomes but also to strengthen the cooperate
+culture.&nbsp;</p>
 </div>
 </details>
 </div>
@@ -406,15 +421,29 @@ The Decades</summary>
 <p></p>
 <h4>Moderator</h4>
 <p></p>
-<p>/</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whdonglj.png">
+</div>
 <blockquote>
-<h4>Dr Dong Lijuan#</h4>
+<h4>Dr Dong Lijuan</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Deputy Director Of Nursing, Woodlands Health#</summary>
+<summary>Deputy Director Of Nursing, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Dr. Dong Lijuan is an accomplished healthcare leader with a diverse educational
+and professional background. She holds a PhD in Education, an MBA in Healthcare
+Management, and a Bachelor of Nursing. With years of experience in the
+healthcare industry, Dr. Dong currently serves as Deputy Director of Nursing,
+Head of Nursing Education and Development, and the lead of Office of Advancing
+Nursing Practice, Woodlands Health, Singapore.&nbsp;</p>
+<p>&nbsp;</p>
+<p>In her leadership roles, Dr. Dong has led multiple initiatives at both
+national and institutional levels, including setting up National Nursing
+Academy (NNA) in MOH, Education Development Office (EDO) at National Healthcare
+Group, and recently Nursing Research Office at WH. She is also a dedicated
+member of Education Committee for Singapore Nursing Board.&nbsp;&nbsp;</p>
 </div>
 </details>
 </div>
