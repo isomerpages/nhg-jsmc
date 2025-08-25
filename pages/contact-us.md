@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: NHGNC 2025
+agency_name: NHG Health
 locations:
   - address:
       - "3 Fusionopolis Link, #03-08,"
