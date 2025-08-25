@@ -44,6 +44,8 @@ from the Novena MRT station.</p>
 <p>For reservations, please email to Christine Lee, Director of Sales, Oasia
 Hotel Novena at <strong><a href="mailto:christinelcs@fareast.com" rel="noopener noreferrer nofollow" target="_blank"><u>christinelcs@fareast.com</u></a></strong>
 </p>
+<p>Click Here: <a href="/files/Option_A_Oasia_Hotel_Novena_Inaugural_NHG_Nursing_Conference_2025_and_28th_JSMNC_01_02_Oct_2025.pdf" rel="noopener nofollow" target="_blank">Refer to PDF file for more information</a>
+</p>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer.gif">
