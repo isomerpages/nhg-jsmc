@@ -43,4 +43,7 @@ Sealy mattresses, refreshing showerhead and free Wi-Fi.</p>
 <p><strong>Click Here: <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1752825126193&amp;key=CORP&amp;app=resvlink" rel="noopener noreferrer nofollow" target="_blank"><u>Aloft Singapore Novena - Hotel Accommodation (Online Booking Link)</u></a></strong>
 </p>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer.gif">
+</div>
 <p></p>
