@@ -264,6 +264,7 @@ that makes my working career exciting.</p>
 </div>
 </details>
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2b3 selina seah.png">
 </div>
@@ -308,9 +309,25 @@ influencing the present and future of healthcare. Your voice matters.&nbsp;</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary>Deputy Head (Education – Undergraduate), Alice Lee Centre for Nursing
+Studies&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Lau Siew Tiang Lydia is an Associate Professor and Deputy Head (Education
+Undergraduate) at Alice Lee Centre for Nursing Studies, Yong Loo Lin School
+of Medicine, National University of Singapore (NUS). She received her Bachelor
+of Health Science (Nursing) and Master in Health Science (Education) from
+the University of Sydney and her PhD from NUS. Lydia serves as the Chair
+of the ALCNS Education Innovation research committee, Fellow and EXCO of
+the NUS Teaching Academy.&nbsp; Lydia is deeply interested in teaching
+and learning and is passionate about clinical education. She spearheaded
+the development of the NUS nursing Entrustable Professional Activities
+(EPA) framework and co-led the national RN EPA with the Ministry of Health.
+Lydia promotes pedagogical and innovative technology in teaching, such
+as simulation, virtual, and mixed reality. She was also involved in creating
+and implementing immersive virtual reality procedures to enhance students'
+learning. Additionally, Lydia believes in inter-professional education
+and has been actively involved in educating various health professions
+students and faculty development.</p>
 </div>
 </details>
 </div>
