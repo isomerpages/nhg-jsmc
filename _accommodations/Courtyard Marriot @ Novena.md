@@ -33,6 +33,7 @@ function room offering breathtaking views of the CBD area.</p>
 <h4>Website Link:</h4>
 <p><a href="https://www.marriott.com/en-us/hotels/sincy-courtyard-singapore-novena/overview/" rel="noopener noreferrer nofollow" target="_blank"><u>Novena Hotel in Singapore | Courtyard Singapore Novena</u></a>
 </p>
+<hr>
 <h4>Address:</h4>
 <p>COURTYARD BY MARRIOTT SINGAPORE NOVENA</p>
 <p>99 Irrawaddy Road, Singapore 329568</p>
