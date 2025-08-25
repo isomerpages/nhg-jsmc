@@ -4,7 +4,7 @@ title: NHG Nursing Conference In Conjunction With Joint Singapore-Malaysia
   Nursing Conference
 description: Inaugural NHG Nursing Conference In Conjunction With 28th Joint
   Singapore-Malaysia Nursing Conference 2025
-image: /images/GN_Tagline__2020__wo_Background.png
+image: /images/logo__1_.jpg
 permalink: /
 notification: ""
 sections:
