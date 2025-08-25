@@ -34,3 +34,7 @@ restaurant</div>
 </a><a rel="noopener noreferrer nofollow" href="/oasia/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Oasia Hotel Novena" src="/images/oasia_hotel.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Oasia Hotel Novena</div><div class="isomer-card-description">A 2-minute walk from Novena metro station, amenities include a fitness centre, a hot tub and an outdoor pool, as well as a modern bistro.</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer.gif">
+</div>
+<p></p>
