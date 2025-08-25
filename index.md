@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Programme Schedule
           description: Read More Here
-          url: /all-tracks/
+          url: /programs/
         - title: Abstract Submission
           description: Submit Abstract Here
           url: https://for.sg/nhgnursingconf
