@@ -690,7 +690,9 @@ they have built.&nbsp;</p>
 </div>
 <p></p>
 <h4>Moderator</h4>
-<p>\</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d yvonne tan siow lin.png">
+</div>
 <blockquote>
 <h4>Ms Yvonne Tan Siow Lin</h4>
 </blockquote>
