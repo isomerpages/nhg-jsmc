@@ -124,6 +124,6 @@ the laws of Singapore. Any dispute arising under these Terms of Use shall
 be subject to the exclusive jurisdiction of the courts of Singapore.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="nhg logo" src="/images/Copy_of_V1_A4_Header__210_x_40_mm___180_x_40_mm_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer.gif">
 </div>
-<p>m_.png)</p>
+<p></p>
