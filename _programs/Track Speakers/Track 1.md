@@ -625,7 +625,9 @@ human element of nursing care.&nbsp;</p>
 </details>
 </div>
 <p></p>
-<p>\</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d3 lim swee hia.png">
+</div>
 <blockquote>
 <h4>Prof Lim Swee Hia</h4>
 </blockquote>
