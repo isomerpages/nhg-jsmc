@@ -24,7 +24,7 @@ sections:
           url: https://for.sg/nhgnursingconfregistration
         - title: Hotel Accommodations
           description: Find Hotels Here
-          url: /proaccommodations/
+          url: /accommodations/
       variant: image
       backgroundColor: gray
       size: sm
