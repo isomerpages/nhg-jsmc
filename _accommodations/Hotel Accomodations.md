@@ -14,7 +14,8 @@ description: ""
 <h4>through our official accommodation online reservation system to enjoy a variety of exclusive hotel opportunities for our attendees.</h4>
 </blockquote>
 <p>Our specially selected hotels are located near the event venue, ensuring
-easy access and saving you time.</p>
+easy access and saving you time. These are the 3 options for hotel accommodation
+to choose from.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/aloft/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Picture of aloft hotel" src="/images/aloft_hotel.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Aloft Hotel Novena</div><div class="isomer-card-description">Located in Novena, Aloft Hotel Novena offers daily housekeeping, an outdoor pool, fitness center &amp; restaurant.</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/courtyard/" class="isomer-card">
