@@ -4,12 +4,12 @@ permalink: /proaccommodations/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Accommodation</strong></h1>
-<h4><strong>Benefit For Conference Attendees</strong></h4>
+<h2><strong>Accommodation</strong></h2>
+<h4>Benefit For Conference Attendees</h4>
 <blockquote>
 <h4>Enjoy competitive pricing exclusively negotiated for conference's participants.</h4>
 </blockquote>
-<h4><strong>Book</strong></h4>
+<h4>Book</h4>
 <blockquote>
 <h4>through our official accommodation online reservation system to enjoy a variety of exclusive hotel opportunities for our attendees.</h4>
 </blockquote>
