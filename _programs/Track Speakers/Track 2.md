@@ -14,8 +14,9 @@ third_nav_title: Track Speakers
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<p></p>
-<p>/</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2a1 shirley heng.png">
+</div>
 <blockquote>
 <h4>Ms Shirley Heng&nbsp;</h4>
 </blockquote>
@@ -83,7 +84,9 @@ ability to work together in powerful new ways.&nbsp;</p>
 </details>
 </div>
 <p></p>
-<p>/</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2a1 nirmala bte karmaroon .png">
+</div>
 <blockquote>
 <h4>Ms Nirmala Bte Karmaroon</h4>
 </blockquote>
@@ -142,7 +145,7 @@ and shaping institutional policy.&nbsp;</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Deputy Director Nursing,</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -157,8 +160,9 @@ Embarked To Cope With Healthcare Challenges)</summary>
 </div>
 <p></p>
 <h4>Moderator</h4>
-<p></p>
-<p>/</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2a chan ee yuee.png">
+</div>
 <blockquote>
 <h4>Adj Asst Prof&nbsp;Chan Ee Yuee</h4>
 </blockquote>
