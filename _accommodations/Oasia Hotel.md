@@ -33,6 +33,20 @@ through an air-conditioned, sheltered basement walkway. Singapore’s vibrant
 lifestyle and premium shopping belt, Orchard Road, is only 2 stops away
 from the Novena MRT station.</p>
 <hr>
+<h4>Website Link:</h4>
+<p><a href="https://www.oasiahotels.com/en/singapore/hotels/oasia-hotel-novena" rel="noopener noreferrer nofollow" target="_blank"><u>Oasia Hotel Novena, Singapore | Near Orchard Road | Official Site</u></a>
+</p>
+<hr>
+<h4>Address:</h4>
+<p>OASIA HOTEL NOVENA, SINGAPORE</p>
+<p>8 Sinaran Drive, Singapore 307470</p>
+<hr>
+<h4>Direct Booking Information and Reservation Booking Links</h4>
+<p>For reservations, please email to Christine Lee, Director of Sales, Oasia
+Hotel Novena at <strong><a href="mailto:christinelcs@fareast.com" rel="noopener noreferrer nofollow" target="_blank"><u>christinelcs@fareast.com</u></a></strong>
+</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer.gif">
+</div>
 <p></p>
-<p>Click <a href="https://www.oasiahotels.com/en/singapore/hotels/oasia-hotel-novena" rel="noopener nofollow" target="_blank">HERE</a> to
-visit Oasia Hotel Novena's website.</p>
