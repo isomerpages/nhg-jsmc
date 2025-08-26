@@ -119,9 +119,8 @@ which is incorporated into these Terms of Use by reference.</p>
 </ul>
 <p><strong>9. Governing Law</strong>
 </p>
-<p>These Terms of Use shall be governed by and construed in accordance with
-the laws of Singapore. Any dispute arising under these Terms of Use shall
-be subject to the exclusive jurisdiction of the courts of Singapore.</p>
+<p>T​​hese Terms of Use shall be governed and construed in accordance with
+laws of the Republic of Singapore.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer.gif">
