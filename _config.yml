@@ -1,7 +1,7 @@
 title: NHG Nursing Conference In Conjunction With Joint Singapore-Malaysia
   Nursing Conference
 url: https://nhgnursing.nhg.com.sg
-favicon: /images/logo__1_.jpg
+favicon: /images/NHG_Logo_Preferred_RGB.png
 colors:
   primary-color: "#179a9b"
   secondary-color: "#4372d6"
@@ -54,7 +54,7 @@ plugins:
 staging: https://staging-lite.d2ca0z44dzanzx.amplifyapp.com
 prod: https://master.d1tnf04nngjf3i.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/logo__1_.jpg
+shareicon: /images/NHG_Logo_Preferred_RGB.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
