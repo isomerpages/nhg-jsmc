@@ -240,15 +240,23 @@ nursing practice to be more proactive, data-driven, and patient-centred.</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>##</summary>
+<summary>Advanced Practice Nurse, General Medicine, Tan Tock Seng Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3B2:</summary>
+<summary>Track 3B2: &nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Ms. Tiffany Tay completed her Diploma in Nursing in 2010. She went on
+to obtain an Advanced Diploma in Nursing and a Bachelor of Nursing from
+the University of Sydney in 2014. In 2021, she earned her Master of Nursing
+from the National University of Singapore.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>She currently leads the TTSH Mobile Inpatient Care at Home (MIC@Home)
+programme, playing a pivotal role in service development and training.
+In addition, she sees and manages patients in the General Medicine Complex
+Care (GMCC) Clinic.</p>
 </div>
 </details>
 </div>
