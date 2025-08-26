@@ -50,9 +50,9 @@ embracing and empowering​.</p>
 </details>
 </div>
 <p>Content from "<a href="https://corp.nhg.com.sg/Nursing/Pages/Who-Are-We.aspx" rel="noopener noreferrer nofollow" target="_blank">Who are we</a>"</p>
-<hr>
-<p>Want to be a part of the growing family?</p><a class="isomer-image-wrapper" href="https://careers.nhg.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/joinus.jpg"></a>
-<p>Click on banner to find out more on career opportunities in NHG.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/joinus.jpg">
+</div>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NHG_Health_Corporate_Suite_of_Logos_Full_Colour.png">
