@@ -21,7 +21,7 @@ description: ""
 Nursing Directions</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DGH (Dr Kenneth Mak)&nbsp;</p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -32,11 +32,7 @@ Nursing Directions</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Moderator: Adjunct Associate Professor Yong Keng Kwang , GCN&nbsp; (via
-slido)
-<br>-Ms Paulin Koh, SG CNO
-<br>-Malaysia CNO
-<br>-DGH</p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +45,7 @@ slido)
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Paulin Koh</p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -60,18 +56,11 @@ slido)
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Moderator: Lay Hoon
-<br>Ms Paulin Koh
-<br>NHG GCN A/Prof Yong KK
-<br>Singhealth GCN
-<br>NUHS GCN</p>
+<p>TBC</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>Keynote 1</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
 <p></p>
