@@ -450,24 +450,42 @@ diabetes-related complications.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3c1 loo yong joo.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Dr Loh Yong Joo</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Head &amp; Senior Consultant, TTSH Rehabilitation Medicine, Director,
+Clinical Innovation, TTSH Clinical Research &amp; Innovation office&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Adjunct Associate Professor Loh Yong Joo is currently a senior consultant
+and head of Singapore Tan Tock Seng Hospital (TTSH) Department of Rehabilitation
+Medicine. His clinical sub-specialty is in neurorehabilitation and research/innovation
+interests are in rehabilitation technologies especially in the areas of
+virtual reality, wearable sensors, telehealth, serious gaming, robotics
+and AI/deep learning in rehabilitation. He is currently also Director of
+Clinical Innovations in TTSH Clinical Research &amp; Innovation Office
+(CRIO).&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3C1:</summary>
+<summary>Track 3C1: Are We Ready for High-Tech and New-Touch Digital Technologies
+in Healthcare?&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>With the proliferation and advancement in the use of mobile digital phones
+beyond communications to experiencing immense number of digital applications
+with different features, people of varying ages including elderly are actively
+using these applications to support life tasks including payment, seeking
+information, navigation etc.</p>
 <p></p>
+<p>In NHG health, for the past decade, we have been collaborating with industry
+partners to design and implement digital applications that make the care
+experience more ideal for our residents and/or their family members. However,
+these are not without challenges including cybersecurity, stakeholder buy-ins
+and governance etc.&nbsp;&nbsp;</p>
 </div>
 </details>
 </div>
@@ -545,7 +563,7 @@ practices.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3C3:</summary>
+<summary>Track 3C3: FIreside Chat - Balancing Technology and Human Touch In Nursing</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
