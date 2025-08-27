@@ -613,9 +613,8 @@ improvement, and nursing professional development.&nbsp;&nbsp;</p>
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3d1 wang wen ru.png">
 </div>
 <blockquote>
 <h4>Prof Wang Wenru</h4>
@@ -691,62 +690,259 @@ A full-scale study is recommended to validate these findings.&nbsp;</p>
 </div>
 </details>
 </div>
-<p></p>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3d2 yuan peng.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Mr Yuan Peng</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Assistant Director of Nursing, Department of Nursing Administration, Institute
+of Mental Health&nbsp;&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Yuan Peng is a psychiatric nurse by training with over 10 years of experience
+in clinical informatics and nursing innovation. He currently serves in
+dual roles in Informatics and Nursing Innovation at the Institute of Mental
+Health, Singapore. With deep expertise in psychiatric nursing and healthcare
+technology, he leads digital transformation and system redesign efforts
+to enhance patient care and safety.&nbsp;
+<br>&nbsp;
+<br>As chairperson of the Nursing Productivity and Innovation Workgroup, Yuan
+Peng has successfully led numerous impactful projects, including gamification-based
+training, robotic process automation (RPA), SharePoint-based solutions,
+and AI-powered patient identification using facial recognition. These initiatives
+have significantly streamlined nursing workflows, reduced manual tasks,
+and improved safety in complex psychiatric care environments.&nbsp;
+<br>&nbsp;
+<br>He is a certified process analyst in Epic Care Inpatient and Cogito Reporting,
+and is also certified in Project Management (PMP). Academically, he holds
+a BSc in Nursing, an Advanced Diploma in Mental Health, and a Master’s
+Degree in Information Studies.&nbsp;
+<br>&nbsp;
+<br>Yuan Peng actively contributes to professional development and education,
+having designed and delivered comprehensive training programmes in Microsoft
+365 tools, GovTech OGP platforms, and prototyping &amp; design thinking
+in partnership with NHG CHI CHILL and NYP School. A passionate mentor and
+dedicated healthcare innovator, he is committed to nurturing future nurse
+leaders and transforming healthcare through research, innovation, and the
+intelligent use of technology.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3D2:</summary>
+<summary>Track 3D2: Dialogue Session - Leveraging Digital Tools in Healthcare</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>In an era of digital transformation, nurses are at the forefront of adopting
+innovative tools to enhance patient care, safety, and operational efficiency.
+This session highlights real-world implementations that demonstrate how
+technology is revolutionizing nursing practice.&nbsp;
+<br>&nbsp;
+<br>One key initiative involves the use of Robotic Process Automation (RPA)
+to streamline routine tasks. Projects such as the electronic e-trolley
+checklist and nursing competency tracking system have significantly improved
+compliance, accuracy, and audit readiness while reducing manual workload.&nbsp;
+<br>&nbsp;
+<br>To enhance emergency preparedness, gamification in Code Blue training
+has been developed , creating engaging and interactive simulations that
+boost team performance and improve knowledge retention during high-stakes
+scenarios.&nbsp;
+<br>&nbsp;
+<br>Another advancement in patient safety is the adoption of AI-powered facial
+recognition technology for accurate, contactless patient identification—particularly
+valuable in psychiatric settings where traditional identification methods
+may be challenging.&nbsp;</p>
+<p>&nbsp;</p>
+<p>In addition, this session will share how nurses are leveraging Epic EMR
+capabilities to streamline and digitize workflows. A key example is the
+shift to a paperless process for patient property safe-keeping, improving
+traceability, accountability, and efficiency in managing patient belongings.&nbsp;
+<br>&nbsp;
+<br>Together, these innovations represent practical, scalable strategies that
+support nurses in delivering safer, smarter, and more responsive care.
+Attendees will gain valuable insights into the challenges and successes
+of implementing digital tools in clinical settings, and how nurses can
+lead transformative change in healthcare through technology.&nbsp;In an
+era of digital transformation, nurses are at the forefront of adopting
+innovative tools to enhance patient care, safety, and operational efficiency.
+This session highlights real-world implementations that demonstrate how
+technology is revolutionizing nursing practice.&nbsp;
+<br>&nbsp;
+<br>One key initiative involves the use of Robotic Process Automation (RPA)
+to streamline routine tasks. Projects such as the electronic e-trolley
+checklist and nursing competency tracking system have significantly improved
+compliance, accuracy, and audit readiness while reducing manual workload.&nbsp;
+<br>&nbsp;
+<br>To enhance emergency preparedness, gamification in Code Blue training
+has been developed , creating engaging and interactive simulations that
+boost team performance and improve knowledge retention during high-stakes
+scenarios.&nbsp;
+<br>&nbsp;
+<br>Another advancement in patient safety is the adoption of AI-powered facial
+recognition technology for accurate, contactless patient identification—particularly
+valuable in psychiatric settings where traditional identification methods
+may be challenging.&nbsp;</p>
+<p>&nbsp;</p>
+<p>In addition, this session will share how nurses are leveraging Epic EMR
+capabilities to streamline and digitize workflows. A key example is the
+shift to a paperless process for patient property safe-keeping, improving
+traceability, accountability, and efficiency in managing patient belongings.&nbsp;
+<br>&nbsp;
+<br>Together, these innovations represent practical, scalable strategies that
+support nurses in delivering safer, smarter, and more responsive care.
+Attendees will gain valuable insights into the challenges and successes
+of implementing digital tools in clinical settings, and how nurses can
+lead transformative change in healthcare through technology.&nbsp;</p>
 </div>
 </details>
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3d2 wong kok cheong.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Mr Wong Kok Cheong</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Deputy Director, Nursing Quality / Informatics / Transformation / Ops
+/ Clinics, Changi General Hospital, SingHealth&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>With over three decades of experience in the healthcare sector, spanning
+both public and private organisations, Kok Cheong stands out as a passionate
+and visionary leader committed to transforming and elevating the quality
+of nursing care and services.&nbsp; In his dual roles as Deputy Director
+of Nursing at Changi General Hospital and Deputy Director at SingHealth
+Office for Service Transformation, he spearheaded the planning, implementation
+and scaling of nursing innovation projects in CGH and across the cluster.&nbsp;
+His approach leverages extensive expertise in quality improvement, risk
+management and healthcare technology.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Kok Cheong has been a qualified Singapore BioDesign Faculty Fellow since
+2021, a role which has enabled him to better facilitate and mentor nurses
+in identifying unmet clinical needs, developing evidence-based ideas and
+solutions, collaborating with other stakeholders and implementing innovative
+solutions.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Furthermore, as current Chairperson for the Nursing Research and Innovation
+Council at SingHealth, he provides leadership, guidance and facilitation
+for nursing research and innovation projects at the cluster level.&nbsp;
+His influence extends beyond these roles, as he also serves on several
+expert panels within CGH and SingHealth to review and evaluate innovation
+proposals for awards and funding applications, further contributing to
+the advancement of healthcare innovation.&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>Kok Cheong's outstanding contributions to the profession and community
+have been recognised with multiple prestigious national awards, including
+the President's Award for Nurses in 2017 and the National Day Commendation
+Medal.&nbsp; Driven by the mission of delivering patient-centric and holistic
+care, he is committed to empowering and inspiring the future nursing workforce
+to achieve excellence and innovation.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3D3:</summary>
+<summary>Track 3D2: Dialogue Session - Leveraging Digital Tools in Healthcare</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>I will be sharing on SingHealth’s journey in promoting nursing innovation
+culture.&nbsp;&nbsp; Examples of some nurse-led innovations will also be
+shared.&nbsp;</p>
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3d2 theresa samy&nbsp;.png">
+</div>
+<blockquote>
+<h4>Ms Theresa Samy&nbsp;</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Assistant Director of Nursing, Nursing Informatics, National University
+Hospital&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>An emergency-trained nurse by specialty, transitioned into the field of
+Nursing Informatics in 2013. Committed to clinical excellence and patient-centered
+care, and implemented various initiatives aimed at enhancing healthcare
+quality, driving nursing innovation to improve operational efficiency.</p>
+<p></p>
+<p>Theresa works in close collaboration with multidisciplinary teams and
+has played a pivotal role in strategic projects, including the implementation
+of Electronic Medical Records across diverse healthcare settings.&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Track 3D2: Dialogue Session - Leveraging Digital Tools in Healthcare</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The dialogue session covers:&nbsp;</p>
+<ul>
+<li>
+<p>Digital Tools in Daily Nursing Practice - Showcase how nurses are using
+electronic health records, mobile apps, and digital documentation systems
+to streamline their daily workflows and improve efficiency.&nbsp;</p>
+</li>
+</ul>
+<p></p>
+<ul>
+<li>
+<p>Smart Patient Care Solutions - Demonstrate how technology like remote
+monitoring, automated alerts, and digital tracking systems are making patient
+care more responsive and precise.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Patient Safety and Quality Care - Explain how digital tools enhance safety
+through features like medication verification, digital checklists, and
+automated warning systems that help prevent errors.&nbsp;</p>
+</li>
+<li>
+<p></p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Improving Patient Outcomes - Share success stories of how digital innovations
+have directly improved patient care, recovery monitoring, and discharge
+planning processes.&nbsp;</p>
+</li>
+<li>
+<p></p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Practical Implementation Tips - Provide real-world advice from nurses
+who have successfully adopted these tools, including how they overcame
+challenges and integrated technology into their routines.&nbsp;</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<p></p>
 <h4>Moderator</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Ms Chen Li</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Assistant Director of Nursing, Nursing Service, Tan Tock Seng Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>As the Assistant Director of Nursing, Ms Chen Li has led the implementation
+and optimization of the Next Generation Electronic Medical Record (NGEMR)
+system, integrated emerging technologies into clinical workflows, and driven
+initiatives to enhance nursing efficiency and patient safety.&nbsp;</p>
+<p>With a strong focus on user-centric design and interdisciplinary collaboration,
+Ms Chen Li champions the adoption of data-driven and innovative solutions
+in healthcare. She is dedicated to advancing nursing through informatics
+excellence and continues to lead strategic projects that bridge technology
+with frontline patient care.&nbsp;</p>
 </div>
 </details>
 </div>
