@@ -407,7 +407,7 @@ according to their needs and lifestyles. Is it feasible at your work practice?&n
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Deputy Director, Nursing Services, NHG Polyclinics&nbsp;</summary>
+<summary>Deputy Director, Nursing Services, National Healthcare Group Polyclinics&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Ms Yeo Loo See is the Deputy Director of Nursing Services at National
 Healthcare Group Polyclinics. She holds a Master in Public Health from
@@ -472,23 +472,61 @@ diabetes-related complications.</p>
 </details>
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3c2 goh han leong.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Dr Goh Han Leong&nbsp;</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Senior Principal Specialist, Data Analytics &amp; AI, Synapxe, Senior
+Adjunct Lecturer, National University of Singapore&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Dr. Goh Han Leong is the Senior Principal Specialist at Synapxe, Singapore’s
+national HealthTech agency, where he leads the development of AI and data
+analytics solutions to enhance healthcare delivery. With over 15 years
+of experience, he provides strategic direction to stakeholders on the effective
+application of AI in healthcare. His key projects include using machine
+learning to predict hospital readmissions and developing a deep learning
+tool to detect severe pneumonia and COVID-19 from chest X-rays. For his
+contributions during the pandemic, he was awarded the National Commendation
+Medal (COVID-19) in 2022.&nbsp;</p>
 <p></p>
+<p>In addition to his work at Synapxe, Dr. Goh is an Adjunct Senior Lecturer
+at the National University of Singapore (NUS), teaching “Healthcare Transformation
+with Analytics” in the MSc Business Analytics programme.&nbsp;</p>
+<p></p>
+<p>Dr. Goh previously served as a project manager and data scientist at Singtel’s
+Living Analytics Lab, where he applied big data to drive business insights.
+Earlier in his career, at the Land Transport Authority (LTA), he led the
+development of digital mobility solutions.&nbsp;</p>
+<p></p>
+<p>Beyond his professional roles, Dr. Goh actively contributes to shaping
+AI standards and promoting best practices. He is a member of the Technical
+Committee on Artificial Intelligence at the Singapore Standards Council
+and serves on the Executive Committee of the Singapore Computer Society’s
+AI &amp; Robotics Chapter.&nbsp;</p>
+<p></p>
+<p>Dr. Goh holds both a Doctorate and a Bachelor’s degree in Engineering
+from NUS and is widely recognized for his expertise and leadership in advancing
+AI for public good.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3C2:</summary>
+<summary>Track 3C2: Transforming Healthcare Services with Technology&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>In this talk, the speaker examines how data, analytics, and AI—particularly
+emerging innovations such as Agentic AI and Vision AI—are transforming
+the landscape of personalized healthcare. Through real-world projects and
+cross-sector collaborations, he illustrates the potential of AI to enhance
+clinical workflows and improve patient outcomes. The presentation also
+emphasizes the foundational role of trust, domain expertise, and context-aware
+design in successful healthcare AI adoption. Additionally, the speaker
+will share reflections on the decision-making processes undertaken by stakeholders
+as they consider integrating technology into their clinical and operational
+practices.&nbsp;</p>
 </div>
 </details>
 </div>
@@ -515,18 +553,31 @@ diabetes-related complications.</p>
 </div>
 <p></p>
 <h4>Moderator</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3c lim voon hooi&nbsp;.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Ms Lim Voon Hooi&nbsp;</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Chief Nurse, Population Health and National Healthcare Group Polyclinics&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Ms Lim Voon Hooi is the Chief Nurse of NHG Population Health and NHG Polyclinics,
+bringing nearly three decades of diverse nursing experience to her role.
+She completed her postgraduate studies at the University of Sydney, obtaining
+a Master of Health Science (Management), building upon her foundation in
+nursing.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Her career trajectory showcases progressive leadership roles within Singapore's
+public healthcare system, particularly in NHG Polyclinics where she has
+served since 2009. Her experience extends internationally, having worked
+with the National Health Services in England.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Currently, she leads multiple strategic initiatives through her roles
+in the Population Health Clinical Board and NHG Nursing Council. Her significant
+contributions to healthcare span population health management, quality
+improvement, and nursing professional development.&nbsp;&nbsp;</p>
 </div>
 </details>
 </div>
