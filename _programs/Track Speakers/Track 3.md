@@ -618,19 +618,76 @@ improvement, and nursing professional development.&nbsp;&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Prof Wang Wenru</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Professor, Alice Lee Centre for Nursing Studies, Yong Loo Lin School of
+Medicine, National University of Singapore&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Dr. Wang Wenru is a tenured Full Professor at the Alice Lee Centre for
+Nursing Studies, Yong Loo Lin School of Medicine, National University of
+Singapore. Prof Wang’s research interests predominantly revolve around
+chronic illness and long-term care, with a specific focus on cardiovascular
+health, cardiac rehabilitation, diabetes management, and active aging.
+Her studies often involve complex psychosocial interventions that employ
+innovative approaches (mHealth, telemedicine, AI) to design and implement
+health promotion and secondary prevention strategies.</p>
 <p></p>
+<p>As a Principal Investigator, Prof. Wang has secured over 30 external competitive
+grants, amounting to nearly SGD$10.0 million. She has also authored more
+than 250 peer-reviewed papers in esteemed medical/nursing journals. Recognized
+as an authority in her field, she has delivered keynote speeches, presented
+her research, and conducted seminars and workshops at over 100 national
+and international nursing conferences and universities.</p>
+<p></p>
+<p>In acknowledgment of her significant contributions to nursing research,
+Prof. Wang was honored as a Fellow of the American Academy of Nursing in
+2020 and was selected as an inductee into Sigma's International Nurse Researchers
+Hall of Fame in 2023.&nbsp;</p>
+<p></p>
+<p>Beyond her research and academic pursuits, Prof. Wang actively contributes
+to the field of nursing through various appointments. She currently serves
+as the Chair of the Chronic Illness and Long-term Care Research Programme
+at NUS Nursing. She acts as an Ambassador of the World Federation of Critical
+Care Nurses and serves on the Heart Wellness Centre Committee in Singapore.</p>
+<p></p>
+<p>As a Visiting Professor, she holds positions at Wuhan University, Dalian
+University, and Anhui Medical University in China. Prof. Wang has also
+been appointed as an Associate Editor of the European Journal of Cardiovascular
+Nursing and serves as an Editorial Board member for several renowned international
+nursing journals.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3D1:</summary>
+<summary>Track 3D1: Innovation for Smarter Patient Care</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Owing to the aging population and demanding lifestyle in Singapore, individuals
+are increasingly vulnerable to coronary heart disease (CHD). Heart attack,
+the most severe form of CHD, is a debilitating condition that significantly
+impacts both physical health and psychological well-being. Mobile health
+(mHealth), which leverages smartphones, internet connectivity, and communication
+technologies, has gained popularity in the management of chronic diseases.
+This study aimed to develop and evaluate an integrated, home-based mHealth
+cardiac rehabilitation (CR) programme—Integrative Cardiac Rehabilitation
+Employing Smartphone Technology (i-CREST)—to support patients' recovery
+following hospital discharge after a heart attack.&nbsp;</p>
+<p>&nbsp;</p>
+<p>The effectiveness of i-CREST was evaluated in terms of CR participation
+(i.e., uptake, adherence, and completion), quality of life, symptoms of
+anxiety and depression, cardiac self-efficacy, and cardiac risk factors,
+and was compared with a traditional hospital-based CR programme (CBCR).
+In collaboration with the cardiac rehabilitation team at the National University
+Heart Centre, Singapore (NUHCS), we recruited 50 post-acute myocardial
+infarction (AMI) patients. The i-CREST programme demonstrated a significantly
+higher completion rate (84% vs. 40%; p = 0.001) and superior performance
+in the 6-Minute Walk Test at 6 weeks (530.8 m vs. 480.2 m; p = 0.017) compared
+to CBCR.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>This pilot study demonstrated the feasibility of the i-CREST programme,
+although recruitment strategies require refinement. i-CREST shows promise
+as an effective and resource-efficient alternative to traditional CBCR.
+A full-scale study is recommended to validate these findings.&nbsp;</p>
 </div>
 </details>
 </div>
