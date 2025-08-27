@@ -1,0 +1,7 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Inaugural NHG Nursing Conference 2025.md
+      - NHG Nursing.md
+      - Organizing Committee.md

@@ -1,0 +1,10 @@
+logo: /images/NHG_Logo_Preferred_RGB.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Programs
+    collection: programs
+  - title: Accommodations
+    collection: accommodations
+  - title: Contact Us
+    url: /contact-us/
