@@ -14,7 +14,6 @@ third_nav_title: Track Speakers
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
@@ -121,7 +120,7 @@ platforms and adapting nursing workflows to a tech-enabled environment.&nbsp;</p
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/Untitled__42_x_59_4_cm___600_x_400_px___600_x_600_px___26_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3a3 liaw sok ying.png">
 </div>
 <blockquote>
 <h4>Professor Liaw Sok Ying</h4>
@@ -161,9 +160,8 @@ in healthcare.&nbsp;</p>
 </div>
 <p></p>
 <h4>Moderator</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3a kuek shao yang.png">
 </div>
 <blockquote>
 <h4>Ms Kuek Shao Yang&nbsp;</h4>
@@ -209,31 +207,13 @@ nursing practice to be more proactive, data-driven, and patient-centred.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
+<p>/</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3b1 tiffany tay.png">
 </div>
-<blockquote>
-<h4>#</h4>
-</blockquote>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>##</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Track 3B1:</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/Untitled__42_x_59_4_cm___600_x_400_px___600_x_600_px___31_.png">
 </div>
 <blockquote>
 <h4>Ms Tiffany Tay Yu Ning</h4>
@@ -246,7 +226,7 @@ nursing practice to be more proactive, data-driven, and patient-centred.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3B2: &nbsp;Delivering Hospital-Level Care at Home with TTSH@Home&nbsp;&nbsp;</summary>
+<summary>Track 3B1: &nbsp;Delivering Hospital-Level Care at Home with TTSH@Home&nbsp;&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Ms. Tiffany Tay completed her Diploma in Nursing in 2010. She went on
 to obtain an Advanced Diploma in Nursing and a Bachelor of Nursing from
@@ -261,36 +241,201 @@ Care (GMCC) Clinic.</p>
 </details>
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3b2 joyce lian xia.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Ms Joyce Lian Xia&nbsp;</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Advanced Practice Nurse, APN/Nursing Service, Tan Tock Seng Hospital&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Joyce Lian Xia is an Advanced Practice Nurse in the Department of Endocrinology
+at Tan Tock Seng Hospital, specializing in diabetes and obesity management.
+She holds a Bachelor of Nursing (2002), an Advanced Diploma in Emergency
+Nursing (2004), a Postgraduate Diploma in Higher Education (2009), and
+a Master of Nursing (2011). In 2015, she completed specialist training
+at the Joslin Diabetes Center, Harvard Medical School, focusing on the
+use of technology in Type 1 diabetes care.&nbsp;</p>
+<p>Certified as a Collaborative Prescribing Practitioner since 2018, Joyce
+manages clinics for brittle diabetes, continuous glucose monitoring (CGM),
+insulin pumps, and obesity management. She is actively involved in diabetes
+and obesity education and training both locally and internationally and
+is a member of the Association of Diabetes Educators Singapore (ADES),
+the Singapore Association for the Study of Obesity (SASO), and the Endocrine
+Metabolic Society of Singapore (EMSS).&nbsp;</p>
+<p>In addition to her clinical work, Ms Joyce serves as a clinical co-preceptor
+for nursing students in the Alice Lee Master Nursing Program and as a clinical
+facilitator for medical students at Lee Kong Chian School of Medicine.
+Her research focuses on integrating technology, including CGM, insulin
+pumps, and telehealth, to improve diabetes and obesity care. She has published
+numerous studies locally and internationally on these subjects.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Track 3B2: Coffee Chat with APNs - Future Technology in Continuous Glucose
+Monitoring (CGM)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This session explores cutting-edge developments in Continuous Glucose
+Monitoring (CGM) technology and their implications for diabetes management.
+We will examine emerging innovations such as non-invasive glucose monitoring
+systems, integration with artificial intelligence for predictive analytics,
+and smart insulin delivery systems. The discussion will cover recent advances
+in sensor technology, including extended sensor life, improved accuracy,
+and reduced calibration requirements. We will also address how these technologies
+are reshaping nursing practice, enhancing patient care, and improving quality
+of life for individuals with diabetes. The session will conclude with insights
+into upcoming developments in CGM technology and their potential impact
+on future diabetes care delivery.&nbsp;</p>
+</div>
+</details>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3b2 shao yanli.png">
+</div>
+<blockquote>
+<h4>Ms Shao Yanli</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Advanced Practice Nurse, Medical Inpatient, Woodlands Health</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Ms Shao Yanli, an Advanced Practice Nurse (APN) with a specialization
+in Endocrine Medicine, currently serves as a Senior Nurse Clinician at
+Woodlands Health (WH). Her professional focus centers on diabetes care.
+Yanli commenced her tenure as a diabetes nurse educator in 2008. Recognizing
+the influential role of an APN in diabetes care, she pursued a Master of
+Nursing from the National University of Singapore (NUS) and acquired her
+APN accreditation in 2013.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Yanli has been actively engaged in inpatient, outpatient, and community-based
+diabetes care. She demonstrates a strong dedication to managing patients
+with complex conditions and multiple comorbidities, fostering collaborative
+relationships with healthcare professionals to ensure the continuity of
+high-quality patient care and improved health outcomes. Her expertise encompasses
+diabetes management in distinct circumstances, including patients on dialysis,
+during Ramadan, and when traveling across time zones.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Yanli operates both inpatient and outpatient diabetes services in collaboration
+with endocrine specialists, including the inpatient diabetes care program
+(IDCP). Additionally, she leads the WH DM resource nurse program, which
+is designed to offer inpatients early access to diabetes education through
+trained ward nurses and to facilitate safe discharge. Furthermore, she
+plays an integral role in the WH Diabetes Foot Program (DFP) work group,
+which aims to diminish minor or major lower limb amputation rates through
+early intervention and secondary prevention strategies.&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Track 3B2: Coffee Chat with APNs - Future Technology in Continuous Glucose
+Monitoring (CGM)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ol>
+<li>
+<p>Diabetes Management and Education&nbsp;</p>
+</li>
+</ol>
+<p>Continuous Glucose Monitoring Systems (CGMS) provide distinct benefits
+in education, patient empowerment, and long-term diabetes management. The
+remote monitoring features of CGMS significantly improve clinician oversight,
+establishing a foundation for a more agile, technology-driven approach
+to diabetes care. When utilized effectively, CGMS can instill patients
+with increased confidence and independence in managing their diabetes,
+particularly for those with Type 1 Diabetes Mellitus (T1DM).&nbsp;</p>
+<p>(I will share how one of my patients with Type 1 DM has benefited from
+the subsidized CGMS for her diabetes self-management.)&nbsp;</p>
+<p>&nbsp;</p>
+<p>2. Inpatient CGMS use&nbsp;</p>
+<p>Continuous Glucose Monitoring Systems provide real-time glucose data that
+can improve inpatient diabetes management and minimize the need for fingerstick
+testing. However, there are limitations include potential inaccuracies
+in critically ill patients, device interference from radiology investigation
+and certain medication&nbsp;</p>
+<p>Other challenges include hospital IT compatibility, clear clinical protocols
+and the need for staff training.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Therefore, it is currently only used in select inpatient population. We
+need more clinical supporting data and system support to enhance its use
+in inpatient setting</p>
+</div>
+</details>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3b2 joyce lim .png">
+</div>
+<blockquote>
+<h4>Dr Joyce Lim</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Senior Nurse Clinician, Nursing Clinical Service, KK Women's and Children's
+Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3B3:</summary>
+<summary>Track 3B2: Coffee Chat with APNs - Future Technology in Continuous Glucose
+Monitoring (CGM)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>The digital age is transforming nursing, integrating technology into patient
+care, education, and administration. Electronic health records (EHRs),
+telehealth, and mobile health apps enhance efficiency, accessibility, and
+personalized care.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>Since 2016, MOH 3 Beyonds – Beyond healthcare to health; Beyond quality
+to value; Beyond hospital to community. A digitally enabled workforce in
+chronic disease management, such as diabetes care, involves leveraging
+technology to improve patient outcomes &amp; streamline healthcare delivery.&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>Today, technology-enabled tools in diabetes care are personalized with
+patient-generated health data used to tailor treatment plans and interventions
+according to their needs and lifestyles. Is it feasible at your work practice?&nbsp;</p>
 </div>
 </details>
 </div>
 <p></p>
 <h4>Moderator</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3b loo see.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Yeo Loo See&nbsp;</h4>
 </blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Deputy Director, Nursing Services, NHG Polyclinics&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Ms Yeo Loo See is the Deputy Director of Nursing Services at National
+Healthcare Group Polyclinics. She holds a Master in Public Health from
+the University of New South Wales, a Bachelor of Health Science (Nursing)
+from the University of Sydney, and advanced training in neuroscience nursing
+from Austin Hospital. She also holds a Statement of Attainment in Asthma
+Education and Management from the Asthma Foundation of Queensland.&nbsp;</p>
+<p></p>
+<p>Her career spans over four decades, beginning as a Registered Nurse at
+Tan Tock Seng Hospital, where she progressed through roles including Nursing
+Officer, Care Path Coordinator, and Case Manager. She later joined the
+National Healthcare Group, progressing through roles such as Asthma/Respiratory
+Disease Manager, Senior Nurse Manager, and Assistant Director before assuming
+her current position.&nbsp;</p>
+<p></p>
+<p>Ms Yeo is involved in professional committees, including the NHG&nbsp;Respiratory
+Steering Committee, SiDRP Steering Committee,&nbsp;DEFINITE Workgroup,
+Tiered Weight Management Workgroup&nbsp;and NHG Exercise Workgroup. She
+also leads the NHGP Nursing&nbsp;Ethics &amp; Professional Community of
+Practice.&nbsp;</p>
+<p>She has presented at multiple conferences, including the Casemix and Disease
+Management Conferences, sharing insights on pneumonia and asthma management.
+Her poster presentations have addressed asthma clinical pathways, the effectiveness
+of Entrusted Professional Activities in competency-based training, and
+diabetes-related complications.</p>
+</div>
+</details>
+</div>
 </th>
 </tr>
 </tbody>
