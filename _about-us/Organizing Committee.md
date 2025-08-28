@@ -19,11 +19,10 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong>Advisor</strong></h4>
+<h4>Advisor</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Pua Lay Hoon, Chief Nurse, Woodlands Health</strong>
-</summary>
+<summary>Ms Pua Lay Hoon, Chief Nurse, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -38,11 +37,10 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong>Chairperson</strong></h4>
+<h4>Chairperson</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Geraldine Ng, Deputy Director of Nursing, Woodlands Health</strong>
-</summary>
+<summary>Ms Geraldine Ng, Deputy Director of Nursing, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -57,11 +55,11 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong>Admin Lead</strong></h4>
+<h4>Admin Lead</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Christina Low, Assistant Director,  National Healthcare Group Group Nursing</strong>
-</summary>
+<summary>Ms Christina Low, Assistant Director, National Healthcare Group Group
+Nursing</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -76,11 +74,11 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong>Org Comm Lead</strong></h4>
+<h4>Org Comm Lead</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Goh Soon Pang, Senior Nurse Clinician, Khoo Teck Puat Hospital &amp; Yishun Community Hospital</strong>
-</summary>
+<summary>Ms Goh Soon Pang, Senior Nurse Clinician, Khoo Teck Puat Hospital &amp;
+Yishun Community Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -95,11 +93,10 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong>Org Comm Lead</strong></h4>
+<h4>Org Comm Lead</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Audrey Kon, Senior Nurse Clinician, WH</strong>
-</summary>
+<summary>Ms Audrey Kon, Senior Nurse Clinician, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -121,8 +118,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Christina Low, Assistant Director, NHG Group Nursing</strong>
-</summary>
+<summary>Ms Christina Low, Assistant Director, NHG Group Nursing</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -145,8 +141,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Goh Soon Pang, Senior Nurse Clinician, Khoo Teck Puat Hospital &amp; Yishun Community Hospital</strong>
-</summary>
+<summary>Ms Goh Soon Pang, Senior Nurse Clinician, Khoo Teck Puat Hospital &amp;
+Yishun Community Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -155,82 +151,28 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <h3><strong>Scientific Programme &amp; CPE Points</strong></h3>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h3></h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h3><strong>Scientific Programme &amp; CPE Points</strong></h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="WH Dong Lijuan" src="/images/Comm/whdonglj.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Dr Dong Lijuan, Deputy Director of Nursing, WH</summary>
+<summary>Dr Dong Lijuan, Deputy Director of Nursing, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Dr Dong drives nursing research, education and evidence-based practice
 to advance the nursing profession.</p>
 </div>
 </details>
 </div>
-</th>
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -241,8 +183,7 @@ to advance the nursing profession.</p>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Shiji D/O Kuttan, Assistant Director of Nursing, WH</strong>
-</summary>
+<summary>Ms Shiji D/O Kuttan, Assistant Director of Nursing, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -260,43 +201,37 @@ to advance the nursing profession.</p>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Cheong Run Qi, Assistant Nurse Clinician, TTSH</strong>
-</summary>
+<summary>Ms Cheong Run Qi, Assistant Nurse Clinician, TTSH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 </div>
+<p></p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<h3><strong>Sponsorship</strong></h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
+<h3><strong>Sponsorship</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TTSH James Tan" src="/images/Comm/ttshjames.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Mr Tan Wan Kun, James, Nurse Manager, TTSH</strong>
-</summary>
+<summary>Mr Tan Wan Kun, James, Nurse Manager, TTSH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 </div>
 <p></p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -307,8 +242,7 @@ to advance the nursing profession.</p>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Zhao Wanzhen, Senior Nurse Educator, TTSH</strong>
-</summary>
+<summary>Ms Zhao Wanzhen, Senior Nurse Educator, TTSH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -317,16 +251,11 @@ to advance the nursing profession.</p>
 <p></p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
+<tr>
+<td rowspan="1" colspan="2">
 <h3><strong>Publicity, EDMs &amp; Website</strong></h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -336,8 +265,7 @@ to advance the nursing profession.</p>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Audrey Kon, Senior Nurse Clinician, WH</strong>
-</summary>
+<summary>Ms Audrey Kon, Senior Nurse Clinician, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -361,6 +289,40 @@ to advance the nursing profession.</p>
 </div>
 </details>
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<hr>
+<h3></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -412,7 +374,7 @@ to advance the nursing profession.</p>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Pua Lay Hoon, Chief Nurse, WH</summary>
+<summary>Ms Pua Lay Hoon, Chief Nurse, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -430,7 +392,7 @@ to advance the nursing profession.</p>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Timie Chan Lai Ten, Senior Staff Nurse, WH</summary>
+<summary>Ms Timie Chan Lai Ten, Senior Staff Nurse, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -448,8 +410,8 @@ to advance the nursing profession.</p>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Sharifah Maryam Alhabshee Bte Zen, Nurse Manager, Khoo Teck Puat Hospital &amp; Yishun Community Hospital</strong>
-</summary>
+<summary>Ms Sharifah Maryam Alhabshee Bte Zen, Nurse Manager, Khoo Teck Puat Hospital
+&amp; Yishun Community Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Over my 15 years as a nurse, I have learned to view situations from different perspectives and sincerely care for others. I am dedicated to treating patients equitably and providing reliable support to my colleagues, which motivates me to effectively lead the team.</strong>
 </p>
@@ -468,8 +430,7 @@ to advance the nursing profession.</p>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Elayne Loo, Nurse Clinician, IMH</strong>
-</summary>
+<summary>Ms Elayne Loo, Nurse Clinician, IMH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -495,11 +456,31 @@ to advance the nursing profession.</p>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Joyce Ho Nuo, Nurse Educator, Khoo Teck Puat Hospital &amp; Yishun Community Hospital</strong>
-</summary>
+<summary>Ms Joyce Ho Nuo, Nurse Educator, Khoo Teck Puat Hospital &amp; Yishun
+Community Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>With 18 years of nursing experience, I'm passionate about shaping the next generation of nurses through innovative education. I specialise in creating engaging learning environments that combine interactive teaching with practical skills development. My goal is to mentor and empower students to become confident, competent healthcare professionals.</strong>
 </p>
+</div>
+</details>
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ktphsoongpang.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Ms Goh Soon Pang, Senior Nurse Clinician, Khoo Teck Puat Hospital &amp;
+Yishun Community Hospital</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
@@ -533,18 +514,7 @@ to advance the nursing profession.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ktphsoongpang.png">
-</div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Ms Goh Soon Pang, Senior Nurse Clinician, Khoo Teck Puat Hospital &amp; Yishun Community Hospital</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-</div>
-</details>
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
