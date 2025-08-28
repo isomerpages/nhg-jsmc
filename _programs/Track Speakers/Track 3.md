@@ -488,7 +488,6 @@ and governance etc.&nbsp;&nbsp;</p>
 </details>
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3c2 goh han leong.png">
 </div>
@@ -849,7 +848,6 @@ shared.&nbsp;</p>
 </details>
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3d2 theresa samy&nbsp;.png">
 </div>
@@ -958,24 +956,54 @@ with frontline patient care.&nbsp;</p>
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3e1 ang shin yuh.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Adjunct A/Prof&nbsp;Ang Shin Yuh</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Director, Alice Lee Innovation Centre of Excellence@SGH campus, Director,
+Nursing NDCS, Deputy Director, Nursing, SGH and SingHealth Group Nursing</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Shin Yuh is Director, Nursing, National Dental Centre and Deputy Director,
+Nursing Research, Transformation and Informatics at Singapore General Hospital
+(SGH) and SingHealth Group Nursing. She is also Director, Alice Lee Innovation
+Centre of Excellence, SGH Campus.&nbsp;</p>
 <p></p>
+<p>She received her undergraduate studies from King’s College London under
+a Public Service Commission Scholarship and subsequently went on to pursue
+a Masters of Business Administration (with Specialization in Health Care
+Management) at National University of Singapore.&nbsp;&nbsp;</p>
+<p></p>
+<p>Her research work focuses on well-being of the nursing workforce, the
+care environment and nursing sensitive indicators such as pressure injuries
+and falls. To date, she has authored/co authored 60 papers in peer-reviewed
+journals. She has also received numerous grants for her research work and
+is co-inventor on a patent and a provisional patent. She was conferred
+the President’s Award for Nurses in 2019. Shin Yuh is also a Singapore
+Biodesign 2021 Faculty Fellow and is involved in teaching of nursing students
+in institutes of higher learning.&nbsp;</p>
+<p></p>
+<p>As the nursing lead for transformation, Shin Yuh is leading numerous projects
+aimed at changing the way nurses deliver care; in order to improve care
+quality, to meet the healthcare demands of tomorrow, and to enable better
+care experience for patients and families.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3E1:</summary>
+<summary>Track 3E1: <strong>Revolutionizing Bedside Care: Nursing Leaders on the Digital Frontline.</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>The healthcare landscape has undergone significant transformations over
+the years, with bedside care and nurse leadership playing pivotal roles
+in this evolution. This presentation delves into how EHR and other innovation
+has changed the way Nurses deliver care and patients receive care.&nbsp;&nbsp;</p>
 <p></p>
+<p>This presentation will also focus on how technology can be designed, trialed
+and implemented in busy acute care settings, for it to be impactful and
+sustainable.</p>
 </div>
 </details>
 </div>
