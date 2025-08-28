@@ -642,6 +642,8 @@ School by successfully completing two rigorous programs</p>
 </tr>
 </tbody>
 </table>
-<hr>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer.gif">
+</div>
 <p></p>
