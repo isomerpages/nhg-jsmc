@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Accommodation</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/accommodationgif.gif">
+</div>
 <h4>Benefit For Conference Attendees</h4>
 <blockquote>
 <h4>Enjoy competitive pricing exclusively negotiated for conference's participants.</h4>
