@@ -428,25 +428,16 @@ Yishun Community Hospital</summary>
 </div>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<hr>
-<hr>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whthetthet.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Thet Thet, Nurse Clinician, WH</strong>
-</summary>
+<summary>Ms Thet Thet, Nurse Clinician, WH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -459,10 +450,12 @@ Yishun Community Hospital</summary>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ttshwanzhen.png">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Zhao Wanzhen, Senior Nurse Educator, TTSH</strong>
-</summary>
+<summary>Ms Zhao Wanzhen, Senior Nurse Educator, TTSH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -472,7 +465,18 @@ Yishun Community Hospital</summary>
 </tr>
 </tbody>
 </table>
-<hr>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
