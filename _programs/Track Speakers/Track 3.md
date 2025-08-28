@@ -954,11 +954,6 @@ with frontline patient care.&nbsp;</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
@@ -1014,7 +1009,7 @@ sustainable.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3e2 christopher.png">
 </div>
 <blockquote>
 <h4>Mr Christopher&nbsp;Soh</h4>
@@ -1058,11 +1053,10 @@ reduce harm.&nbsp;</p>
 <p>Every effort counts, and healthcare professionals can make a difference.
 By prioritizing sustainability, you can help create a better future for
 patients, communities, and the planet. Sustainability is essential to delivering
-high-quality, patient-centered care.&nbsp;</p>
+high-quality, patient-centered care.</p>
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3e3 margaret.png">
@@ -1178,7 +1172,6 @@ profession to meet evolving healthcare needs.</p>
 </details>
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3e3 bella tan.png">
 </div>
@@ -1220,7 +1213,6 @@ technology-enabled healthcare systems for future&nbsp;.</p>
 </div>
 <p></p>
 <h4>Moderator</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whshiji.png">
 </div>
