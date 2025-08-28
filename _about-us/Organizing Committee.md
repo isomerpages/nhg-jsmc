@@ -6,17 +6,20 @@ description: ""
 ---
 <h3><strong>Main Committee</strong></h3>
 <hr>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Advisor</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="WH Pua Lay Hoon" src="/images/Comm/whpualh.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<h4><strong>Advisor</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Ms Pua Lay Hoon, Chief Nurse, WH</strong>
@@ -28,19 +31,14 @@ description: ""
 </div>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Chairperson</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="WH Ng Li Yuen" src="/images/Comm/whngly.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<h4><strong>Chairperson</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Ms Geraldine Ng, Deputy Director of Nursing, WH</strong>
@@ -52,19 +50,14 @@ description: ""
 </div>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<h4><strong>Admin Lead</strong></h4>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="christina NHGHQ" src="/images/Comm/nhghqchristina.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<h4><strong>Admin Lead</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Ms Christina Low, Assistant Director, NHG Group Nursing</strong>
@@ -74,21 +67,16 @@ description: ""
 </div>
 </details>
 </div>
-</th>
+</td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<h4><strong>Org Comm Lead</strong></h4>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="KTPH Goh Soon Pang" src="/images/Comm/ktphsoongpang.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<h4><strong>Org Comm Lead</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Ms Goh Soon Pang, Senior Nurse Clinician, KTPH &amp; YCH</strong>
@@ -98,21 +86,16 @@ description: ""
 </div>
 </details>
 </div>
-</th>
+</td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<h4><strong>Org Comm Lead</strong></h4>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="WH Audrey Kon, Nurse and software developer" src="/images/Comm/whaudrey.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<h4><strong>Org Comm Lead</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Ms Audrey Kon, Senior Nurse Clinician, WH</strong>
@@ -122,14 +105,23 @@ description: ""
 </div>
 </details>
 </div>
-</th>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
 <hr>
 <h3><strong>All Admin &amp; Logistics</strong></h3>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
@@ -138,6 +130,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/nhghqchristina.png">
 </div>
+</th>
+<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Ms Christina Low, Assistant Director, NHG Group Nursing</strong>
@@ -147,7 +141,7 @@ description: ""
 </div>
 </details>
 </div>
-</th>
+</td>
 </tr>
 </tbody>
 </table>
