@@ -304,30 +304,6 @@ to advance the nursing profession.</p>
 <hr>
 <hr>
 <h3></h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <hr>
 <h3><strong>Conference Tracks</strong></h3>
 <table style="minWidth: 50px">
