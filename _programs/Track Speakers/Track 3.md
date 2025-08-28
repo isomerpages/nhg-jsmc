@@ -954,6 +954,11 @@ with frontline patient care.&nbsp;</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
@@ -1012,26 +1017,55 @@ sustainable.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Mr Christopher&nbsp;Soh</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Deputy Director of Nursing, Tan Tock Seng Hospital, Nursing Service</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Christopher is a Deputy Director of Nursing in NHG and TTSH. He has spent the last 2 decades of his career in clinical nursing, education and administration in TTSH Emergency Department (ED), one of the busiest EDs on our island nation.</strong>&nbsp;</p>
+<p><strong>Christopher currently serves as lead for Group Nursing Innovation Office in NHG looking at building innovation capability, competency and partnerships across industries. In Tan Tock Seng Hospital (TTSH), he leads the Nursing Innovation Bunch (NIB), a nursing entity supporting innovation within and beyond the institution.</strong>&nbsp;</p>
 <p></p>
+<p><strong>On the partnership front, he serves as a faculty member and a fellow of the Centre of Healthcare Innovation (CHI), a creative think tank located on the Novena campus, enjoying his role in growing and sustaining the innovation ecosystem.</strong>&nbsp;</p>
+<p></p>
+<p><strong>Christopher is passionate about environmental sustainability both from a personal and a work front. He hopes to make a change by doing his part in the protection of our planet and biodiversity, leaving a legacy for future generations to enjoy. He enjoys working on the possibilities of incorporating elements of environmental sustainability into his work, benefitting our People, Profits and most importantly, Planet Earth.</strong>&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3E2:</summary>
+<summary>Track 3E2: <strong>Environmental Sustainability in Healthcare: Why has it got to do with me?</strong>&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>The healthcare sector significantly impacts the environment, contributing
+to greenhouse gas emissions, pollution, and waste. Climate change poses
+serious health risks, including heatwaves, extreme weather events, and
+vector-borne diseases. As a healthcare professional, we play a critical
+role in promoting sustainability and reducing our&nbsp; organization's
+environmental footprint.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Adopting sustainable practices can mitigate climate change's health impacts,
+improve patient outcomes, reduce costs, and enhance care quality. Simple
+actions include reducing paper usage, using eco-friendly products, and
+promoting sustainable transportation. More complex initiatives include
+implementing energy-efficient systems, reducing anesthesia waste, and advocating
+for climate policies that protect public health.&nbsp;</p>
+<p>&nbsp;</p>
+<p>By embracing environmental sustainability, we contribute to a healthier
+planet and population. Collective action can lead to significant positive
+change. Healthcare professionals can promote a healthier, more sustainable
+future by working together. This involves recognizing the interconnectedness
+of human health and the environment and goes way beyond taking action to
+reduce harm.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Every effort counts, and healthcare professionals can make a difference.
+By prioritizing sustainability, you can help create a better future for
+patients, communities, and the planet. Sustainability is essential to delivering
+high-quality, patient-centered care.&nbsp;</p>
 </div>
 </details>
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3e3 margaret.png">
 </div>
 <blockquote>
 <h4>Dr Margaret&nbsp;Soon</h4>
@@ -1094,7 +1128,7 @@ and how these insights are shaping future pandemic preparedness strategies.&nbsp
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3e3 faiz.png">
 </div>
 <blockquote>
 <h4>Mr Faiz Mordiffi&nbsp;</h4>
@@ -1145,6 +1179,45 @@ profession to meet evolving healthcare needs.</p>
 </div>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3e3 bella tan.png">
+</div>
+<blockquote>
+<h4>Ms Bella Tan</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Head (Nursing) &amp; Professional Practice, Youth Preventive Service,
+Health Promotion Board&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Ms Bella Tan is the Head of Nursing at the Youth Preventive Service, Health
+Promotion Board, Singapore. With extensive experience in both clinical
+practice and teaching, she is passionate about driving innovation in school
+health screening programmes, clinical education and population health.&nbsp;</p>
+<p></p>
+<p>She currently oversees the delivery of school health programmes, and professional
+practice and standards. She has led the team and collaborated with various
+agencies to implement nurse-led screening initiatives and Grow Well SG
+- a programme aimed at providing every child with a personalised health
+plan to foster healthier lifestyles.&nbsp;</p>
+<p></p>
+<p>Ms Tan holds a Master of Public Health and a Master of Business Administration.
+Prior to her current role, she served as Programme Director at the School
+of Health and Social Sciences, Nanyang Polytechnic.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Track 3E3: <strong><u>A</u>sk <u>M</u>e <u>A</u>nything - Use of Technology in Pandemic Readiness</strong>&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This forward-looking track examines how digital innovations are reshaping
+bedside care and crisis management. Through expert presentations and panel
+discussions, participants will explore sustainable technology methods,
+pandemic preparedness strategies, and the role of technology in emergency
+response. The session emphasizes the importance of building resilient,
+technology-enabled healthcare systems for future&nbsp;.</p>
+</div>
+</details>
+</div>
 <p></p>
 <h4>Moderator</h4>
 <p></p>
@@ -1181,6 +1254,11 @@ to reduce healthcare costs and better manage patient care.&nbsp;</p>
 </details>
 </div>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
