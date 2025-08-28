@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Main Committee</strong></h3>
-<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -405,17 +404,6 @@ to advance the nursing profession.</p>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<h4>Track 2</h4>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
