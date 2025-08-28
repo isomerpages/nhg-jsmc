@@ -470,27 +470,11 @@ Yishun Community Hospital</summary>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<blockquote>
-<h4></h4>
-</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/nhgpshuli.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Ms Jia Shuli, Head Nurse, NHGP</strong>
@@ -500,13 +484,15 @@ Yishun Community Hospital</summary>
 </div>
 </details>
 </div>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ttshjames.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Mr Tan Wan Kun, James, Nurse Manager, TTSH</strong>
@@ -516,6 +502,7 @@ Yishun Community Hospital</summary>
 </div>
 </details>
 </div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -523,6 +510,8 @@ Yishun Community Hospital</summary>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whshiji.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Ms Shiji D/O Kuttan, Assistant Director of Nursing, WH</strong>
@@ -532,6 +521,7 @@ Yishun Community Hospital</summary>
 </div>
 </details>
 </div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -539,6 +529,8 @@ Yishun Community Hospital</summary>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="WH Audrey Kon, Nurse and Software developer" src="/images/Comm/whaudrey.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Ms Audrey Kon, Senior Nurse Clinician, WH</strong>
@@ -548,24 +540,21 @@ Yishun Community Hospital</summary>
 </div>
 </details>
 </div>
+<p></p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<blockquote>
-<h4><strong>Track 4</strong></h4>
-</blockquote>
+<td rowspan="1" colspan="2">
+<h3>Track 4</h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/imhsongsong.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Mr Cui Song Song, Nurse Clinician, IMH</strong>
@@ -575,13 +564,15 @@ Yishun Community Hospital</summary>
 </div>
 </details>
 </div>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ttshrunqi.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Ms Cheong Run Qi, Assistant Nurse Clinician, TTSH</strong>
@@ -598,9 +589,11 @@ Yishun Community Hospital</summary>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whdonglj.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Dr Dong Lijuan, Deputy Director of Nursing, WH</summary>
+<summary>Dr Dong Lijuan, Deputy Director of Nursing, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Dr. Dong Lijuan is the deputy director of nursing at Woodlands Hospital.
 She drives nursing research, education, and evidence-based practice to
@@ -612,6 +605,7 @@ advance the profession.</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <hr>
 <h3><strong>Scientific Track</strong></h3>
 <table style="minWidth: 25px">
