@@ -603,11 +603,32 @@ advance the profession.</p>
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h3>Scientific Track</h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/imhelayne.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Ms Elayne Loo, Nurse Clinician, </strong>Institute of Mental Health</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+</td>
+</tr>
 </tbody>
 </table>
 <hr>
-<hr>
-<h3><strong>Scientific Track</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -615,18 +636,7 @@ advance the profession.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/imhelayne.png">
-</div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Ms Elayne Loo, Nurse Clinician, IMH</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-</div>
-</details>
-</div>
 </th>
 </tr>
 <tr>
