@@ -1006,6 +1006,70 @@ with frontline patient care.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
+<h4>Dr Margaret&nbsp;Soon</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Director Of Nursing, National Centre for Infectious Diseases</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Dr Margaret Soon is the Director of Nursing at the National Centre for
+Infectious Diseases (NCID). Throughout her distinguished career, she has
+developed expertise in Critical Care Nursing, Infection Prevention and
+Control (IPC) &amp; Infectious Disease Nursing, playing a pivotal role
+in managing numerous disease outbreaks. Her professional interests extend
+to Nursing Ethics, Research and Teaching.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Her academic credentials include a PhD in Nursing from Case Western Reserve
+University (USA), a Master of Public Health from the University of New
+South Wales (Australia), and a Professional Diploma in Tropical Nursing
+with Distinction from the London School of Hygiene and Tropical Medicine
+(UK).&nbsp;</p>
+<p>&nbsp;</p>
+<p>Dr Soon has demonstrated strong leadership across diverse portfolios,
+from clinical practice to elderly care. She co-led the Framework on Integrated
+Care for the Frail Elderly (FIFE) initiative, enhancing care delivery for
+vulnerable older adults. Her expertise was particularly valuable during
+the COVID-19 pandemic, where she played a vital role in strengthening healthcare
+capabilities.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Recently appointed as Head of the Infection Prevention, Control and Outreach
+Office of NCID (ICON) in April 2025, Dr Soon brings together her expertise
+in clinical practice, education, and systems improvement, and continues
+to contribute to national healthcare initiatives. She remains a steadfast
+advocate for nursing development and evidence-based practice across healthcare
+settings.&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Track 3E3: <strong><u>A</u>sk <u>M</u>e <u>A</u>nything - Use of Technology in Pandemic Readiness</strong>&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This session is an interactive dialogue session covering the following:&nbsp;</p>
+<ul>
+<li>
+<p>Lessons learned from technology deployment during COVID-19, such as S3,
+Trace together etc. (Real-world stories are welcomed).&nbsp;&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Challenges in implementing health tech solutions at scale&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Building Future Resilience: Lessons learned from COVID-19 digital responses
+and how these insights are shaping future pandemic preparedness strategies.&nbsp;</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+</div>
+<blockquote>
 <h4>Mr Faiz Mordiffi&nbsp;</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
