@@ -1028,13 +1028,31 @@ with frontline patient care.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Ms Shiji D/O Kuttan&nbsp;</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Assistant Director of Nursing, Nursing Informatics &amp; Innovation, Woodlands
+Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Ms Shiji Kuttan (RN, BHS, M.Ed.) is currently Assistant Director of Nursing
+in Woodlands Hospital, a member of National Health Group (NHG), Singapore.&nbsp;
+Leading the department of Nursing Informatics &amp; Innovation, she has
+been pioneering the ‘Next Generation Electronic Medical Records’ (NGEMR)
+in Singapore’s public healthcare system since 2018 &amp; remains as the
+key resource person for Nursing.</p>
 <p></p>
+<p>Shiji drives nursing innovation at Woodlands Health to improve nursing
+care and productivity. She collaborates with the multidisciplinary healthcare
+team to ensure healthcare efficiency and patient safety. She is championing
+the creation of a Smart Ward In collaboration with the Artificial Intelligence
+and Innovation Office (AIIO), adopting advanced technologies to improve
+the safety of care, experience of patients, and the productivity and job
+satisfaction of staff.</p>
+<p></p>
+<p>With the increasing application of EPIC analytic tools in NGEMR, Shiji
+and her team aims to promulgate the practice of leveraging predictive analytics
+to reduce healthcare costs and better manage patient care.&nbsp;</p>
 </div>
 </details>
 </div>
