@@ -1065,7 +1065,6 @@ and how these insights are shaping future pandemic preparedness strategies.&nbsp
 </details>
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
