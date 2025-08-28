@@ -563,7 +563,7 @@ practices.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3C3: FIreside Chat - Balancing Technology and Human Touch In Nursing</summary>
+<summary>Track 3C3: Fireside Chat - Balancing Technology and Human Touch In Nursing</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
