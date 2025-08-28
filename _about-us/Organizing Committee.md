@@ -386,29 +386,16 @@ to advance the nursing profession.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <h4>Track 2</h4>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
-</tbody>
-</table>
-<hr>
-<hr>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ktph joyce ho" src="/images/Comm/ktphjoyceho.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -421,10 +408,6 @@ Community Hospital</summary>
 </div>
 </details>
 </div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -434,6 +417,7 @@ Community Hospital</summary>
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Goh Soon Pang, Senior Nurse Clinician, Khoo Teck Puat Hospital &amp;
 Yishun Community Hospital</summary>
@@ -441,18 +425,16 @@ Yishun Community Hospital</summary>
 <p></p>
 </div>
 </details>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+</div>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<table style="minWidth: 75px">
+<hr>
+<hr>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -471,12 +453,6 @@ Yishun Community Hospital</summary>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -492,12 +468,6 @@ Yishun Community Hospital</summary>
 </div>
 </details>
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
