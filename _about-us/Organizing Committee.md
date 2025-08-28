@@ -4,7 +4,7 @@ permalink: /organizing-committee/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Main Committee</strong></h3>
+<h3>Main Committee</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -105,7 +105,7 @@ Yishun Community Hospital</summary>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h3><strong>All Admin &amp; Logistics</strong></h3>
+<h3>All Admin &amp; Logistics</h3>
 </td>
 </tr>
 <tr>
@@ -128,7 +128,7 @@ Yishun Community Hospital</summary>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h3><strong>Conference Programme</strong></h3>
+<h3>Conference Programme</h3>
 </td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@ Yishun Community Hospital</summary>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h3><strong>Scientific Programme &amp; CPE Points</strong></h3>
+<h3>Scientific Programme &amp; CPE Points</h3>
 </td>
 </tr>
 <tr>
@@ -211,7 +211,7 @@ to advance the nursing profession.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h3><strong>Sponsorship</strong></h3>
+<h3>Sponsorship</h3>
 </td>
 </tr>
 <tr>
@@ -250,7 +250,7 @@ to advance the nursing profession.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h3><strong>Publicity, EDMs &amp; Website</strong></h3>
+<h3>Publicity, EDMs &amp; Website</h3>
 </td>
 </tr>
 <tr>
