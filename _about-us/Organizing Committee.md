@@ -289,11 +289,8 @@ to advance the nursing profession.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<h4>Track 1</h4>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<h3>Track 1</h3>
 </td>
 </tr>
 <tr>
@@ -450,7 +447,6 @@ Yishun Community Hospital</summary>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ttshwanzhen.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -465,7 +461,7 @@ Yishun Community Hospital</summary>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h3><strong>Track 3</strong></h3>
+<h3>Track 3</h3>
 </td>
 </tr>
 <tr>
@@ -533,8 +529,7 @@ Yishun Community Hospital</summary>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Audrey Kon, Senior Nurse Clinician, WH</strong>
-</summary>
+<summary>Ms Audrey Kon, Senior Nurse Clinician, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -557,8 +552,7 @@ Yishun Community Hospital</summary>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Mr Cui Song Song, Nurse Clinician, IMH</strong>
-</summary>
+<summary>Mr Cui Song Song, Nurse Clinician, Institute of Mental Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -575,8 +569,7 @@ Yishun Community Hospital</summary>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Cheong Run Qi, Assistant Nurse Clinician, TTSH</strong>
-</summary>
+<summary>Ms Cheong Run Qi, Assistant Nurse Clinician, TTSH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -613,12 +606,11 @@ advance the profession.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/imhelayne.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Elayne Loo, Nurse Clinician, </strong>Institute of Mental Health</summary>
+<summary>Ms Elayne Loo, Nurse Clinician, Institute of Mental Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -626,28 +618,17 @@ advance the profession.</p>
 </div>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ktphsathiya.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+</td>
+<td rowspan="1" colspan="1">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Sathiya Veerarhagavan, Senior Nurse Manager, KTPH &amp; YCH</strong>
-</summary>
+<summary>Ms Sathiya Veerarhagavan, Senior Nurse Manager, Khoo Teck Puat Hospital
+&amp; Yishun Community Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Senior Nurse Manager with 24 years' experience, passionate about healthcare leadership &amp; CPIP initiatives, driving excellence in quality improvement &amp; nursing development.&nbsp;</strong>
 </p>
@@ -661,10 +642,34 @@ advance the profession.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whthetthet.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Thet Thet, Nurse Clinician, WH</strong>
-</summary>
+<summary>Ms Thet Thet, Nurse Clinician, Woodlands Health</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4>Conference Emcee</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whtimmie.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Ms Timie Chan Lai Ten, Senior Staff Nurse, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -675,30 +680,6 @@ advance the profession.</p>
 </tbody>
 </table>
 <hr>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h3><strong>Conference Emcee</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whtimmie.png">
-</div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Ms Timie Chan Lai Ten, Senior Staff Nurse, WH</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NHG_Suite.jpg">
 </div>
