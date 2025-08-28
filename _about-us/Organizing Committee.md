@@ -36,7 +36,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4>Chairperson</h4>
+<p>Chairperson</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Geraldine Ng, Deputy Director of Nursing, Woodlands Health</summary>
@@ -54,10 +54,10 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4>Admin Lead</h4>
+<p>Admin Lead</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Christina Low, Assistant Director, National Healthcare Group Group
+<summary>Ms Christina Low, Assistant Director, National Healthcare Group, Group
 Nursing</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -73,7 +73,7 @@ Nursing</summary>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4>Org Comm Lead</h4>
+<p>Org Comm Lead</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Goh Soon Pang, Senior Nurse Clinician, Khoo Teck Puat Hospital &amp;
@@ -92,7 +92,7 @@ Yishun Community Hospital</summary>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4>Org Comm Lead</h4>
+<p>Org Comm Lead</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Audrey Kon, Senior Nurse Clinician, Woodlands Health</summary>
@@ -374,7 +374,7 @@ to advance the nursing profession.</p>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Elayne Loo, Nurse Clinician, IMH</summary>
+<summary>Ms Elayne Loo, Nurse Clinician, Institute of Mental Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
