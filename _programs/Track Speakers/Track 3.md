@@ -207,8 +207,6 @@ nursing practice to be more proactive, data-driven, and patient-centred.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<p>/</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3b1 tiffany tay.png">
 </div>
