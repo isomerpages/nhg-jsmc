@@ -279,8 +279,8 @@ to advance the nursing profession.</p>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Christina Low, Assistant Director, NHG Group Nursing</strong>
-</summary>
+<summary>Ms Christina Low, Assistant Director, National Healthcare Group, Group
+Nursing</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -473,8 +473,7 @@ Yishun Community Hospital</summary>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Jia Shuli, Head Nurse, NHGP</strong>
-</summary>
+<summary>Ms Jia Shuli, Head Nurse, National Healthcare Group Polyclinics</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4></h4>
 </div>
@@ -491,8 +490,7 @@ Yishun Community Hospital</summary>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Mr Tan Wan Kun, James, Nurse Manager, TTSH</strong>
-</summary>
+<summary>Mr Tan Wan Kun, James, Nurse Manager, Tan Tock Seng Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -510,8 +508,7 @@ Yishun Community Hospital</summary>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Shiji D/O Kuttan, Assistant Director of Nursing, WH</strong>
-</summary>
+<summary>Ms Shiji D/O Kuttan, Assistant Director of Nursing, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -569,7 +566,7 @@ Yishun Community Hospital</summary>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Cheong Run Qi, Assistant Nurse Clinician, TTSH</summary>
+<summary>Ms Cheong Run Qi, Assistant Nurse Clinician, Tan Tock Seng Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
