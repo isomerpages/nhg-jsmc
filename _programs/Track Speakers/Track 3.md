@@ -210,9 +210,6 @@ nursing practice to be more proactive, data-driven, and patient-centred.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3b1 tiffany tay.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/Untitled__42_x_59_4_cm___600_x_400_px___600_x_600_px___31_.png">
-</div>
 <blockquote>
 <h4>Ms Tiffany Tay Yu Ning</h4>
 </blockquote>
@@ -794,7 +791,6 @@ lead transformative change in healthcare through technology.&nbsp;</p>
 </details>
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3d2 wong kok cheong.png">
 </div>
@@ -1247,12 +1243,9 @@ to reduce healthcare costs and better manage patient care.&nbsp;</p>
 </div>
 </th>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<hr>
-<p>Ms</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer.gif">
+</div>
+<p></p>
