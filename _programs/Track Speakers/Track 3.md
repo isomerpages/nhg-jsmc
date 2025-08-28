@@ -1006,26 +1006,59 @@ with frontline patient care.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Mr Faiz Mordiffi&nbsp;</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Assistant Director of Nursing, Nursing Administration, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Faiz Mordiffi is a healthcare leader with over 16 years of experience,
+spanning military command and clinical leadership in Singapore’s public
+healthcare system. Currently serving as an Assistant Director at Woodlands
+Health, Faiz leads initiatives in nursing quality, patient safety, and
+risk management.&nbsp;</p>
+<p>Drawing from his dual background in defence and healthcare, Faiz brings
+a systems-level perspective to crisis response and resilience building.
+During the COVID-19 pandemic, he played an integral role in implementing
+digital tools to support outbreak operations and safe care delivery. He
+also contributed to rapid-cycle quality improvement and policy adaptations
+in a high-uncertainty environment.&nbsp;</p>
+<p>Faiz continues to advocate for the use of practical, scalable technology
+to empower frontline teams and improve patient outcomes.&nbsp;</p>
+<p>His session will share lessons learnt from the pandemic, highlight the
+challenges of deploying tech at speed, and offer insights into building
+future-ready healthcare systems that are digitally agile yet people-centred.&nbsp;</p>
+<p>Faiz holds an MBA in Healthcare Management and is actively involved in
+national quality and patient safety networks.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3E3:</summary>
+<summary>Track 3E3: <strong><u>A</u>sk <u>M</u>e <u>A</u>nything - Use of Technology in Pandemic Readiness</strong>&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>The digital age is transforming nursing, integrating technology into patient
+care, education, and administration. Electronic health records (EHRs),
+telehealth, and mobile health apps enhance efficiency, accessibility, and
+personalized care. Advanced tools like artificial intelligence and data
+analytics assist in clinical decision-making, improving outcomes.</p>
 <p></p>
+<p>Digital platforms enable remote monitoring, reducing hospital visits,
+and empowering patients in self-care. Nurses leverage e-learning and virtual
+simulations for skill development and staying updated on best practices.
+However, challenges like maintaining data security, addressing the digital
+divide, and managing technology-related stress remain.</p>
+<p></p>
+<p>Embracing the digital age fosters innovation and elevates the nursing
+profession to meet evolving healthcare needs.</p>
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
+<p></p>
 <h4>Moderator</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whshiji.png">
 </div>
 <blockquote>
 <h4>Ms Shiji D/O Kuttan&nbsp;</h4>
