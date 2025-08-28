@@ -200,7 +200,7 @@ to advance the nursing profession.</p>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Cheong Run Qi, Assistant Nurse Clinician, TTSH</summary>
+<summary>Ms Cheong Run Qi, Assistant Nurse Clinician, Tan Tock Seng Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -223,7 +223,7 @@ to advance the nursing profession.</p>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Mr Tan Wan Kun, James, Nurse Manager, TTSH</summary>
+<summary>Mr Tan Wan Kun, James, Nurse Manager, Tan Tock Seng Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -240,7 +240,7 @@ to advance the nursing profession.</p>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Zhao Wanzhen, Senior Nurse Educator, TTSH</summary>
+<summary>Ms Zhao Wanzhen, Senior Nurse Educator, Tan Tock Seng Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -437,7 +437,7 @@ Yishun Community Hospital</summary>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Thet Thet, Nurse Clinician, WH</summary>
+<summary>Ms Thet Thet, Nurse Clinician, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -455,7 +455,7 @@ Yishun Community Hospital</summary>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Zhao Wanzhen, Senior Nurse Educator, TTSH</summary>
+<summary>Ms Zhao Wanzhen, Senior Nurse Educator, Tan Tock Seng Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -463,14 +463,15 @@ Yishun Community Hospital</summary>
 </div>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
+<td rowspan="1" colspan="2">
+<h3><strong>Track 3</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -485,7 +486,7 @@ Yishun Community Hospital</summary>
 <tr>
 <th rowspan="1" colspan="1">
 <blockquote>
-<h4><strong>Track 3</strong></h4>
+<h4></h4>
 </blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/nhgpshuli.png">
