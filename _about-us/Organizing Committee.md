@@ -19,7 +19,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4>Advisor</h4>
+<p>Advisor</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Pua Lay Hoon, Chief Nurse, Woodlands Health</summary>
@@ -293,27 +293,6 @@ to advance the nursing profession.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<hr>
-<h3></h3>
-<hr>
-<h3><strong>Conference Tracks</strong></h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <h4>Track 1</h4>
 </td>
 <td rowspan="1" colspan="1">
@@ -328,7 +307,6 @@ to advance the nursing profession.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Sathiya Veerarhagavan, Senior Nurse Manager, Khoo Teck Puat Hospital
@@ -339,6 +317,50 @@ to advance the nursing profession.</p>
 </div>
 </details>
 </div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<hr>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -358,6 +380,9 @@ to advance the nursing profession.</p>
 </div>
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -374,6 +399,9 @@ to advance the nursing profession.</p>
 </div>
 </details>
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -396,6 +424,9 @@ to advance the nursing profession.</p>
 </div>
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -414,10 +445,16 @@ to advance the nursing profession.</p>
 </div>
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Track 2</h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -442,16 +479,17 @@ Community Hospital</summary>
 </div>
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ktphsoongpang.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Goh Soon Pang, Senior Nurse Clinician, Khoo Teck Puat Hospital &amp;
 Yishun Community Hospital</summary>
@@ -459,43 +497,21 @@ Yishun Community Hospital</summary>
 <p></p>
 </div>
 </details>
-</div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<h4></h4>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -510,6 +526,9 @@ Yishun Community Hospital</summary>
 </div>
 </details>
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -529,6 +548,9 @@ Yishun Community Hospital</summary>
 </div>
 </details>
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
