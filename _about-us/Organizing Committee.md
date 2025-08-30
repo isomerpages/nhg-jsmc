@@ -117,7 +117,8 @@ Yishun Community Hospital</summary>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Christina Low, Assistant Director, NHG Group Nursing</summary>
+<summary>Ms Christina Low, Assistant Director, National Healthcare Group, Group
+Nursing</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
