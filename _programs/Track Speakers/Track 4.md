@@ -19,19 +19,58 @@ third_nav_title: Track Speakers
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
-<h4>Ms #</h4>
+<h4>Mr James Zheng Zhongjia</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>##</summary>
+<summary>Senior Staff Nurse, Nursing, Toa Payoh Polyclinic&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>James is a Senior Staff Nurse at Toa Payoh Polyclinic and a First Class
+Honours graduate from the National University of Singapore since 2023.
+He exemplifies a new generation of nursing leaders dedicated to integrating
+clinical excellence with technological innovation in the primary care setting.&nbsp;</p>
+<p>&nbsp;</p>
+<p>A keen observer of daily operational challenges, James actively translates
+the concerns of ground staff into practical solutions. His innovations
+are born from a desire to improve work efficiency and satisfaction; for
+instance, he developed a triage decision support chatbot to enhance clinical
+accuracy and reduce cognitive load for his colleagues. He also serves as
+the liaison for the clinic’s Robotic Process Automation (RPA) initiative,
+championing user-centric design by ensuring system improvements are directly
+informed by feedback from the front line.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>Beyond technology, James is a committed clinician who continuously refines
+his skills to provide effective mentorship as the Champion for Acute Care.
+His influence extends across the healthcare sector through is active role
+in the Innovation Community of Practice (CoP).&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>James is driven by a clear mission: to keep identifying opportunities
+where technology meets nursing to ease the burdens of his fellow nurses
+and improve work efficiency. He is committed to developing more user-focused
+solutions, ensuring that innovation in primary care is practical, supportive,
+and empowering for all.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Track 4A1: Novice on Board!: Integrating New Nurses into the Workforce</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>This session dives into the dynamic journey of a new nurse adapting from
+academia to the diverse environment of a Singapore polyclinic. Hear firsthand
+how one MOHH Scholar, an NUS Highest Distinction graduate, conquered the
+theory-practice gap and built rock-solid clinical confidence.&nbsp;</p>
 <p></p>
+<p>We'll unpack the unsung heroes: the support systems that truly made a
+difference in shaping a positive practice environment. But here's where
+it gets exciting: discover how personal drive, fueled by a passion for
+AI and informatics, led to genuine workflow revolutions. Get a peek into
+the ongoing pilot of a chatbot for polyclinic triage, seeing how tech isn't
+just theory – it's actively streamlining care and enhancing patient experiences.&nbsp;</p>
+<p></p>
+<p>This isn't just about personal growth; it's about making nursing better
+for everyone. Learn practical strategies for continuous learning and resilience-building,
+plus key traits for emerging nurse leaders who are ready to bridge generational
+differences and spark innovative change. It's a fresh look at how modern
+nursing, empowered by smart solutions, is shaping an amazing future!&nbsp;</p>
 </div>
 </details>
 </div>
