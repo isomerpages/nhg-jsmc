@@ -670,8 +670,9 @@ roles to more relational, care-centered duties.&nbsp;&nbsp;</p>
 </details>
 </div>
 <p></p>
-<p></p>
-<p>/</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2d3 tan peck yan.png">
+</div>
 <blockquote>
 <h4>Ms Tan Peck Yan</h4>
 </blockquote>
@@ -679,13 +680,31 @@ roles to more relational, care-centered duties.&nbsp;&nbsp;</p>
 <details class="isomer-details">
 <summary>Senior Occupational Therapist, Institute Of Mental Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Ms. Tan Peck Yan is a Senior Occupational Therapist working at the Institute
+of Mental Health, where she has developed expertise in supporting individuals
+with mental health conditions. She has experience in inpatient, outpatient
+and community mental health settings.</p>
 <p></p>
+<p>She has strong interest in vocational rehabilitation, helping clients
+develop the skills and confidence needed to re-enter the workforce. She
+is committed to empowering clients on their recovery journey, enabling
+them to reconnect with the community, achieve employment and contribute
+positively to society.&nbsp;&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Track 2D3: Patient as the Change Agent: Patient to Barista</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Work is more than just a source of income. It can be a powerful catalyst
+for mental health recovery. This session will explore how regaining a worker
+role can restore purpose, structure and confidence in individuals recovering
+from mental health challenges.</p>
 <p></p>
+<p>Occupational therapy services help clients rebuild the skills and resilience
+needed to re-enter the workforce. It will also highlight our department’s
+collaboration with the nursing department to develop and run vocational
+projects within our setting, providing safe and supportive opportunities
+for clients to regain work readiness.&nbsp;&nbsp;</p>
 </div>
 </details>
 </div>
