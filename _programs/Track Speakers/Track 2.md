@@ -710,15 +710,30 @@ for clients to regain work readiness.&nbsp;&nbsp;</p>
 </div>
 <h4>Moderator</h4>
 <p></p>
-<p>/</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2d eileen.png">
+</div>
 <blockquote>
-<h4>Ms Eileen Cheah#</h4>
+<h4>Ms Eileen Cheah Lilian</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Assistant Director of Nursing, Nursing, Khoo Teck Puat &amp; Yishun Community
+Hospital&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Eileen brings 24 years of healthcare experience to her role as Assistant
+Director of Nursing at Khoo Teck Puat Hospital (KTPH). In her current position,
+she supports safety and quality initiatives while facilitating communication
+between management and frontline staff. As the Nursing Champion for Safety
+and Risk, she contributes to the Safety Committee's efforts to enhance
+patient care and staff safety standards.&nbsp;</p>
 <p></p>
+<p>In 2024, Eileen took on the role of Co-chair for the Staff Protection
+&amp; Empowerment Collective (SPEC) at KTPH, working alongside colleagues
+to promote a safe and supportive work environment. Through this initiative,
+she works with various teams to strengthen protocols and provide training,
+supporting the hospital's "Zero Tolerance for Abuse in Healthcare" policy</p>
 </div>
 </details>
 </div>
