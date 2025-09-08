@@ -751,14 +751,15 @@ supporting the hospital's "Zero Tolerance for Abuse in Healthcare" policy</p>
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<p></p>
-<p>/</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1a yap hui xian yvonne .png">
+</div>
 <blockquote>
 <h4>Ms Yap Hui Xian, Yvonne</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary>Deputy Director, Nursing, Khoo Teck Puat &amp; Yishun Community Hospital&nbsp;&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Yvonne Yap is a compassionate leader who is deeply dedicated to promoting
 staff well-being and resilience within the healthcare sector. Currently
@@ -784,7 +785,12 @@ School by successfully completing two rigorous programs</p>
 <details class="isomer-details">
 <summary>Track 2E1: Servicing in Sky &amp; Land, SIA experience</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>This session explores the transformative collaboration between healthcare
+and aviation through the SIA Care Ambassador programme at KTPH during the
+pandemic. Discover how service excellence from the skies was adapted to
+hospital wards and how clinical expertise from nursing professionals empowered
+SIA crew to care for passengers in-flight. The talk highlights mutual learning,
+operational adaptations, and the shared heart of service across industries.&nbsp;</p>
 </div>
 </details>
 </div>
