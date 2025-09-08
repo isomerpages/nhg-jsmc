@@ -574,14 +574,15 @@ member of Education Committee for Singapore Nursing Board.&nbsp;&nbsp;</p>
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<p></p>
-<p>/</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2d1 fauziah.png">
+</div>
 <blockquote>
-<h4>#</h4>
+<h4>Ms Fauziah Binte Rahman&nbsp;</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Senior Nurse Clinician, Post Acute &amp; Community Care, Woodlands Health&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
