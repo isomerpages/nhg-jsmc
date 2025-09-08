@@ -518,13 +518,31 @@ workforce capabilities in our evolving healthcare ecosystem.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Ms Tan Ying Hua Grace</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Senior Nurse Manager, Education &amp; Development, Tan Tock Seng Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>With over 15 years of nursing experience, I began my career at Tan Tock
+Seng Hospital in 2009, starting as a ward nurse where I honed my clinical
+skills and developed a deep understanding of patient care.</p>
 <p></p>
+<p>My journey took an exciting turn when I contributed to a significant hospital-wide
+initiative, implementing an early warning system that enhanced patient
+safety. Passionate about nurturing the next generation of nurses, I transitioned
+into education, where I spent several rewarding years mentoring and teaching
+nursing students during their clinical attachments at TTSH.</p>
+<p></p>
+<p>While my students often joked about my 'tortuous' training methods, watching
+them grow into confident healthcare professionals was immensely fulfilling.
+After COVID, I took on a new challenge in developing the Nursing Practice
+department, where I focused on standardising and elevating nursing practices
+across TTSH's numerous wards, ensuring consistent, high-quality care delivery
+throughout the hospital.</p>
+<p></p>
+<p>Though the journey in Nursing Practice has been challenging, the satisfaction
+of seeing positive changes in nursing care makes every effort worthwhile.&nbsp;</p>
 </div>
 </details>
 </div>
