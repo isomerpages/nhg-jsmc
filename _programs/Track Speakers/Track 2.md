@@ -148,16 +148,62 @@ and shaping institutional policy.&nbsp;</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Deputy Director Nursing,</summary>
+<summary>Professor in Nursing, Department of Nursing Science, Faculty of Medicine,
+Universiti Malaya&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Professor Chong Mei Chan, PhD, is an accomplished nursing academic and
+leader with over 20 years of expertise in gerontology, maternal-child health,
+and e-learning innovations. Currently a Professor at the University of
+Malaya (UM), she holds a BSc in Nursing (UM, 1995), MSc in Community Health
+(UPM, 2005), and PhD in Nursing (Monash University, 2014). Her research
+addresses critical public health issues, including Time banking for community-dwelling
+older adults, Chronic disease management, and nursing education adaptations
+during the COVID-19 pandemic. Beyond academia, she actively engages in
+community health promotion and has established international collaborations
+with institutions in Australia, China, Taiwan, Jordan, Iran, UAE, UK, Japan,
+Hong Kong, and Indonesia.&nbsp;</p>
+<p>&nbsp;</p>
+<p>As Head of UM’s Nursing Department (2018–2023), Prof. Chong led transformative
+initiatives that elevated the program into the QS World Rankings (150–200)
+and achieved top departmental status in research publications for two consecutive
+years. Her leadership extends to national policy, having served on the
+Malaysian Nursing Board, Nursing Council for Higher Education, and the
+Health White Paper Advisory Council (2022–2023). She also co-authored Malaysia’s
+strategic roadmap for health workforce development as a member of the Ministry
+of Health’s Strategic Engagement Group on Health Workforce and Governance.&nbsp;</p>
+<p>&nbsp;</p>
+<p>An internationally recognized scholar, Prof. Chong has published 100+
+papers , authored 6 textbooks, and supervised 66+ postgraduate candidates
+(40 PhDs graduated).&nbsp; She is a frequent keynote speaker and external
+examiner for nursing programs across the Asia-Pacific. Her dedication to
+advancing nursing education is further demonstrated through her mentorship
+of early-career researchers and ongoing roles in interprofessional healthcare
+initiatives.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Track 2A3: Meeting The Healthcare Needs (Sharing Of Initiatives Nurses
 Embarked To Cope With Healthcare Challenges)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Healthcare today faces unprecedented demands - aging populations, complex
+chronic diseases, staff shortages, and rapid technological change. Yet
+nurses worldwide are responding with remarkable innovation and resilience.
+One key initiative is integrated care networks, where nurses break down
+institutional silos to coordinate seamless patient journeys. By leading
+multidisciplinary teams, we ensure continuity from hospital to community
+care, especially for vulnerable patients. Technology adoption has been
+transformative. Smart wards and mobile health tools enhance efficiency
+while preserving human connection. Nurses are the bridge - ensuring technology
+serves patients rather than replacing compassionate care. We are also reimagining
+workforce support systems. Mentorship programs nurture new nurses, while
+shared governance models empower frontline voices. Psychological safety
+initiatives help teams thrive in high-stress environments. Most crucially,
+nurses are stepping up as leaders and advocates. From pandemic response
+to policy reform, we're shaping healthcare systems to be more responsive
+and equitable. These initiatives showcase nursing's unique dual role: expert
+caregivers at the bedside and visionary changemakers at the system level.
+By sharing these solutions, we can collectively build a more sustainable
+future for healthcare.&nbsp;</p>
 </div>
 </details>
 </div>
@@ -208,21 +254,60 @@ activation, digital health</p>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <p></p>
-<p>/</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ttshjames.png">
+</div>
 <blockquote>
-<h4>#</h4>
+<h4>Mr James Tan</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Nurse Manager, Nursing Innovation Bunch, Nursing Service, Tan Tock Seng
+Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>James is a Nurse Innovator at Tan Tock Seng Hospital's Nursing Innovation
+Bunch (NIB), bringing valuable experience from his time in orthopaedic
+nursing and nursing informatics. These roles have given him a good understanding
+of both hands-on patient care and healthcare technology.&nbsp;</p>
+<p>&nbsp;</p>
+<p>At NIB, he works to bring new ideas into healthcare by connecting outside
+partners with different departments in the hospital. His team looks beyond
+just nursing and healthcare, they find good ideas from all types of industries
+and help bring them into the hospital. They work with many departments
+like Food Services, Materials Management, and Pharmacy to make healthcare
+services better for both staff and patients.&nbsp;
+<br>&nbsp;</p>
+<p>A key part of his role is helping teams turn ideas into real solutions.
+He guides projects from the first spark of an idea to making it work in
+real life. &nbsp;
+<br>&nbsp;
+<br>This includes running workshops to gather ideas, bringing the right people
+together, testing new solutions, and helping teams adapt to changes. Through
+his work, he has helped transform small ideas into useful tools that make
+a real difference in healthcare.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2B1: #</summary>
+<summary>Track 2B1: Nursing with a Different ‘Hat’&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>In today’s healthcare landscape, many nurses feel confined by traditional
+roles and limitations, with some even leaving the profession because they
+see no path forward beyond the bedside. This presentation challenges that
+perception by questioning whether these boundaries are truly real or simply
+walls we have built around ourselves.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>By reframing nursing through the lenses of nurses beyond boundaries, we
+see how nurses can expand their impact from direct patient care to influencing
+systems, shaping protocols and creating solutions that transform healthcare.
+Stories of breaking boundaries illustrate the shift from caring for a few
+to improving care for thousands, from following rules to designing them,
+and from spotting problems to driving innovations.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>With technology amplifying the reach and influence of nurses, the ripple
+effect of stepping beyond boundaries can inspire and empower others. The
+message is clear: the future of healthcare depends on nurses who dare to
+move beyond.&nbsp;Nursing with a Different ‘Hat’&nbsp;&nbsp;</p>
 </div>
 </details>
 </div>
