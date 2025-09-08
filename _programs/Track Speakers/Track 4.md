@@ -477,23 +477,37 @@ workforce capable of delivering high-quality care in a safe environment.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4c3 jinxian.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Ms Wei Jinxian</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Assistant Director of Nursing, Nursing Administration, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Ms. Wei Jinxian is the assistant Director of Nursing, overseeing nursing
+services for the Department of Radiology and Cardiac Center. She also leads
+the WH Internationally Trained Nurses Support Workgroup and drives initiatives
+in quality, safety, and advancing excellence in specialized care.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Track 4C3: Strangers to Allies: Integrating International Nurses into
 the Workplace</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>This session examines the critical aspects of integrating Internationally
+Trained Nurses (ITNs) into the Singapore healthcare landscape. Drawing
+from established frameworks and institutional experiences, we will explore
+evidence-based strategies that transform workplace dynamics and foster
+successful integration of international nurses. The presentation addresses
+key elements of professional assimilation, including clinical competency
+alignment, cultural adaptation, and sustainable support systems. Participants
+will gain valuable insights into creating an environment that optimizes
+the contributions of ITNs while maintaining high standards of patient care.
+This knowledge-sharing platform aims to enhance understanding of best practices
+in international nurse integration, ultimately strengthening healthcare
+workforce capabilities in our evolving healthcare ecosystem.&nbsp;</p>
 </div>
 </details>
 </div>
