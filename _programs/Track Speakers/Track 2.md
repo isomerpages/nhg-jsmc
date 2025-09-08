@@ -312,8 +312,6 @@ move beyond.&nbsp;Nursing with a Different ‘Hat’&nbsp;&nbsp;</p>
 </details>
 </div>
 <p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/hemma rajendra.png">
 </div>
