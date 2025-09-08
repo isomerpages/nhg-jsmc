@@ -661,7 +661,14 @@ setting, aiming to enhance patient access and care quality.</p>
 <summary>Track 2D2: <strong>Cleaning to Care-giving - Supporting The Adaptation of A New Domestic Helper</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>As the roles of domestic helpers increasingly extend beyond traditional
+housekeeping to include caregiving responsibilities, the transition can
+present significant emotional, cultural, and skill-based challenges.&nbsp;&nbsp;</p>
+<p>This session explores effective strategies to support domestic helpers
+in adapting to this evolving and challenging scope of work.&nbsp;</p>
+<p>Participants will gain insight into the psychological, social, and practical
+adjustments required for new helpers to move from task-oriented cleaning
+roles to more relational, care-centered duties.&nbsp;&nbsp;</p>
 </div>
 </details>
 </div>
