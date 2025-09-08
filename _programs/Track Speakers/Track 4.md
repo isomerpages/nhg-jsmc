@@ -248,7 +248,7 @@ from 2021 to 2024.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>#Yu Liang</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -369,16 +369,33 @@ innovate and leading the care.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <h4>Presenters</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4c1 hoi shu yin.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Adj. A/Prof Hoi Shu Yin&nbsp;</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Chief Nurse, Nursing Service, Tan Tock Seng Hospital&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Adj. A/Prof Hoi Shu Yin is Chief Nurse at Tan Tock Seng Hospital and Executive
+Director of the Centre for Asian Nursing Studies. With over 20 years of
+experience, she leads the nursing workforce at one of Singapore’s largest
+hospitals.</p>
 <p></p>
+<p>Adj. A/Prof Hoi oversees the development of the Smart Ward, a real-world
+sandbox for rapid test-bedding and integration of healthcare solutions
+in a busy ward environment, addressing challenges posed by existing infrastructure
+and operational constraints. She also drives workforce transformation initiatives
+such as the Liquid Nursing Workforce model, which introduces flexible shift
+options to enhance work-life balance and care delivery for nurses.</p>
+<p></p>
+<p>As Executive Director of CANS, Adj. A/Prof Hoi espouses the vision for
+CANS to “Drive Great Nursing for Humanity” and strives to advance practice
+and regional collaboration on key areas including Nursing Leadership, Workforce
+Transformation, and Clinical Excellence. Her contributions have been recognized
+with awards including the President’s Award for Nurses (2023) and the NTUC
+Partner of Labour Movement Award (2025).</p>
 </div>
 </details>
 <details class="isomer-details">
