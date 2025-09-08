@@ -313,7 +313,10 @@ move beyond.&nbsp;Nursing with a Different ‘Hat’&nbsp;&nbsp;</p>
 </div>
 <p></p>
 <p></p>
-<p>/</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/hemma rajendra.png">
+</div>
 <blockquote>
 <h4>Ms Hemma Rajendra</h4>
 </blockquote>
@@ -330,7 +333,7 @@ no matter the altitude.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2B2: Love is in the air “twelve-kilometres high medicine"</summary>
+<summary>Track 2B2: Love Is In The Air “Twelve-Kilometres High Medicine"</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Flight nurses are a specialized group of professionals who care for acutely
 ill patients outside the hospital environment. We are an essential part
@@ -436,13 +439,34 @@ students and faculty development.</p>
 <p></p>
 <p>/</p>
 <blockquote>
-<h4>#</h4>
+<h4>Professor Zhang Yuxia</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Director, Nursing Department, Zhongshan, Hospital, Fudan University, Vice
+Dean, School of Nursing, Fudan University&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Professor Zhang is a Clinical Professor and Doctoral Supervisor with distinguished
+contributions to nursing leadership, education, and research. She is a
+Fellow of the American Academy of Nursing and the Hong Kong Academy of
+Nursing (Pediatrics and Nursing &amp; Health Care Management).&nbsp;</p>
 <p></p>
+<p>Professor Zhang holds key leadership positions in national and regional
+nursing organizations, including Chairperson of the Nursing Professional
+Committee of the Shanghai Hospital Association, Deputy Director of the
+Project Management Committee of the Chinese Nursing Association, Vice Chairperson
+of the Nursing Professional Committee of the Chinese Hospital Association,
+and Vice President of the Nursing Branch of the Chinese Society of Research
+Hospitals.&nbsp;</p>
+<p></p>
+<p>Her research focuses on health informatics, critical care nursing, and
+patient experience optimization. Over the past five years, she has led
+over 20 research projects funded by national and municipal agencies and
+has authored more than 150 academic publications, including 40 SCI-indexed
+papers.</p>
+<p></p>
+<p>Professor Zhang has also played a leading role in developing national
+expert consensus statements, clinical guidelines, and nursing standards.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -714,7 +738,7 @@ School by successfully completing two rigorous programs</p>
 </div>
 <h4>Moderator</h4>
 <p></p>
-<p>/</p>
+<p></p>
 <blockquote>
 <h4>Ms Yvonne Tan#</h4>
 </blockquote>
