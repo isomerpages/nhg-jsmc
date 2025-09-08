@@ -139,9 +139,12 @@ and shaping institutional policy.&nbsp;</p>
 </div>
 <p></p>
 <p></p>
-<p>/</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/chong mei chan.png">
+</div>
+<p></p>
 <blockquote>
-<h4>#</h4>
+<h4>Professor Chong Mei Chan&nbsp;</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
