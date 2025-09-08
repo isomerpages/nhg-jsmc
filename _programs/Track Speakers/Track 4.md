@@ -168,9 +168,12 @@ fostering leadership development.</p>
 <h4>Mr Ryan Chua</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Senior Nurse Manager, Nursing, National Skin Centre&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Ryan is presently a Senior Nurse Manager at National Skin Centre, National Healthcare Group. He graduated from the National University of Singapore in 2012, and subsequently completed his Masters in Clinical Research in 2017 with University of Manchester, UK. He has clinical experience in various dermatology setting like general dermatology, phototherapy, and sexually transmitted infections. </strong>
+</p>
 <p></p>
+<p><strong>Ryan received training in the US for Epic System Ambulatory and spearheaded the implementation for the new Electronic Medical Record system for Dermatology Nursing. He is also an active volunteer in Dermatology Nurses Chapter, Singapore Nurses Association for more than 10 years.</strong>&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -580,5 +583,4 @@ Nurses in their Growth and Development</summary>
 </tbody>
 </table>
 <hr>
-<p></p>
 <p></p>
