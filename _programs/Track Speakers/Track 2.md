@@ -848,36 +848,108 @@ and purposeful.&nbsp;</p>
 </details>
 </div>
 <p></p>
-<p></p>
-<p>/</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/jalina karim.png">
+</div>
 <blockquote>
-<h4>#</h4>
+<h4>Dr Jalina Karim</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Senior Lecturer, Department Of Nursing, Faculty Of Medicine, Universiti
+Kebangsaan Malaysia&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Dr. Jalina Binti Karim is a Senior Lecturer at the Department of Nursing,
+Faculty of Medicine, Universiti Kebangsaan Malaysia, with experience in
+nursing practice, education, and research. She holds a PhD in Medical Education
+(UKM), a Master of Nursing Science, and a Bachelor of Nursing Science (University
+Malaya), alongside professional qualifications in midwifery and perioperative
+care.</p>
 <p></p>
+<p>A registered nurse and midwife, Dr. Jalina is an active member of the
+Malaysian Nurses Association (MNA), Malaysian Association of Educators
+for Medical and Health Sciences (MAEMHS), and Malaysian Society for Simulation
+in Healthcare (MaSSH).</p>
+<p></p>
+<p>Her areas of expertise include interprofessional education, curriculum
+development, perioperative and midwifery nursing, and she has given numerous
+keynote lectures, appointed as external examiner in public and private
+institutions, and supervise postgraduate and undergraduate research.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Track 2E3: Nursing Beyond Nurse: Non-nursing in a nursing environment</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Nursing involves a wide range of practice, going beyond the typical bedside
+role. It comprises advanced practice jobs such as nurse practitioners,
+midwives, and clinical nurse specialists, as well as administrative positions.
+At the same non-nursing professionals such as healthcare professionals
+such as doctors, pharmacists, physiotherapists, human resource staff, healthcare
+assistants and IT staffs.</p>
 <p></p>
+<p>These non-nursing professionals have grown increasingly important in nursing
+settings in order to support the provision of comprehensive, secure and
+effective care. With the advancement of technology, a sustainable and productive
+nursing environment requires non-nursing positions. Electronic medical
+records (EMR), for example, are created and maintained by IT staffs to
+improve clinical documentation and lower the medical errors. Importantly,
+recognizing the value of non-nursing roles fosters mutual respect and interprofessional
+collaboration.</p>
+<p></p>
+<p>A collaborative environment allows the team to work collaboratively. Besides
+it also enhances the patient safety by reducing the risks of medical error.
+A more unified, responsive, and adaptable healthcare system is the outcome
+of nurses and non-nurses working together to achieve common objectives,
+such as safety, quality, and patient happiness. As a result, interdisciplinary
+cooperation becomes essential to successful healthcare teams.&nbsp;</p>
 </div>
 </details>
 </div>
 <h4>Moderator</h4>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d yvonne tan siow lin.png">
+</div>
 <blockquote>
-<h4>Ms Yvonne Tan#</h4>
+<h4>Ms Yvonne Tan</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Deputy Director of Nursing, Nursing Administration, Khoo Teck Puat &amp;
+Yishun Community Hospital&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Ms. Yvonne Tan is currently the Deputy Director of Nursing at Yishun Community
+Hospital (YCH), where she oversees nursing operations across sub-acute,
+rehabilitation, and inpatient hospice palliative care services. With over
+28 years of nursing experience, she has progressed through various leadership
+roles including Assistant Director of Nursing, Senior Nurse Manager, and
+Nurse Educator.</p>
 <p></p>
+<p>Her expertise spans across acute and community care settings, with experience
+in neuroscience nursing and nursing education. Prior to YCH, she held educator
+positions at Ng Teng Fong General Hospital and Khoo Teck Puat Hospital,
+where she developed nursing orientation programs and unit-specific training.</p>
+<p></p>
+<p>Ms. Tan holds a Master of Education in Curriculum and Teaching from the
+National Institute of Education, Singapore, complementing her Bachelor
+of Health Science (Nursing) from the University of Sydney and Advanced
+Diploma in Nursing (Neuroscience) from Nanyang Polytechnic. Her academic
+background includes teaching experience at Nanyang Polytechnic, where she
+contributed to both diploma and advanced diploma nursing programs.</p>
+<p></p>
+<p>She serves on multiple committees, including YCH Clinical Quality Improvement,
+Clinical Quality and Patient Safety, Long-Stayer Committee, and NHG Nursing
+Council. Under her leadership, her nursing team have championed various
+improvements in nursing practice, from structured probation guides and
+diaper weaning protocols to nursing handover revamp and telepresence robot
+implementation. These initiatives extend to geriatric engagement programs,
+enhanced patient communication guidelines, and improved charging processes
+to reduce revenue leakages.</p>
+<p></p>
+<p>Her commitment to nurturing ground-up initiatives and empowering staff
+continues to shape community healthcare delivery in Singapore, particularly
+in areas of staff development, patient safety, and innovative care delivery
+models.</p>
 </div>
 </details>
 </div>
