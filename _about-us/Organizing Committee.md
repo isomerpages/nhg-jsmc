@@ -682,7 +682,15 @@ advance the profession.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Muhammad Syazwan Bin Ruslaine, Khoo Teck Puat Hospital &amp; Yishun Community
+Hospital</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+</div>
 </td>
 </tr>
 </tbody>
