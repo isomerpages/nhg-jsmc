@@ -629,7 +629,9 @@ care, ultimately improving outcomes for caregivers and patients alike.&nbsp;</p>
 </details>
 </div>
 <p></p>
-<p>/</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2d2 precilla lai .png">
+</div>
 <blockquote>
 <h4>Ms Precilla Lai&nbsp;</h4>
 </blockquote>
@@ -642,12 +644,11 @@ bringing over a decade of dedicated experience as a community nurse. Her
 expertise lies in managing complex and unstable patients through collaborative,
 multidisciplinary approaches, currently, with a special focus on end-of-life
 (EOL) care for frail and chronic patients living at home.&nbsp;&nbsp;</p>
-<p>Ms. Precill</p>
-<p>a actively contributes to the education, coaching and mentorship of fellow
-nurses, fostering professional development within the community nursing
-sector and amongst the APN community in Singapore. She is involved in research
-initiatives, particularly in wound management, nutrition, and EOL care
-tailored to home care patients.&nbsp;&nbsp;</p>
+<p>Ms. Precilla actively contributes to the education, coaching and mentorship
+of fellow nurses, fostering professional development within the community
+nursing sector and amongst the APN community in Singapore. She is involved
+in research initiatives, particularly in wound management, nutrition, and
+EOL care tailored to home care patients.&nbsp;&nbsp;</p>
 <p></p>
 <p>In addition to her clinical responsibilities, Ms. Precilla has contributed
 in shaping national nursing policies and initiatives, advocating for improved
