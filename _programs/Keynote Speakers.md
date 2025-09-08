@@ -4,66 +4,146 @@ permalink: /keynotespeakers/
 variant: tiptap
 description: ""
 ---
-<h3>Speakers</h3>
-<table style="minWidth: 75px">
+<h3>Keynote 1</h3>
+<h4><strong>Navigating the Future - Identifying Current Healthcare Issues and Evolving Nursing Direction</strong></h4>
+<blockquote>
+<h4>DGH Dr Kenneth Mak</h4>
+</blockquote>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Keynote 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Navigating the Future: Identifying Current Healthcare Issues and Evolving
-Nursing Directions</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBC</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Key Panel 1 Discussion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBC</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Keynote 2&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Integration, Influencing &amp; Inspiring&nbsp; Nurses Across Sectors
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBC</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Key Panel 2 Discussion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>Sharing of overview of the healthcare landscape in Singapore, identifying
+what the current and uprising opportunities for nurses in Singapore: Sharing
+on vision for Nurses, reflect on successes and what more to be done to
+support Singapore’s healthcare ahead&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3>Keynote 1</h3>
+<h3>Key Panel 1 Discussion</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<blockquote>
+<h4>Moderator: Adjunct Associate Professor Yong Keng Kwang, GCN</h4>
+</blockquote>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<blockquote>
+<h4>Ms Paulin Koh, SG CNO</h4>
+</blockquote>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<blockquote>
+<h4>Malaysia CNO</h4>
+</blockquote>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<blockquote>
+<h4>DGH Dr Kenneth Mak</h4>
+</blockquote>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Discuss on the transformation of nursing roles in alignment with SG/ Malaysia
+healthcare needs</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-<p></p>
+<h3>Keynote 2</h3>
+<h4><strong>Integration, Influencing and Inspiring Nurses Across Sectors</strong></h4>
+<blockquote>
+<p>Ms Paulin Koh</p>
+</blockquote>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sharing of approaches taken to for nurses to work across different levels,
+sectors and transdisciplinary. How can we inspire and influence future
+nurses on care&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Key Panel 2 Discussion</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<blockquote>
+<h4>Moderator: Lay Hoon</h4>
+</blockquote>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<blockquote>
+<h4>Ms Paulin Koh, SG CNO</h4>
+</blockquote>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<blockquote>
+<h4>NHG GCN A/Prof Yong KK </h4>
+</blockquote>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<blockquote>
+<h4>NUHS GCN</h4>
+</blockquote>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Discuss on the transformation of nursing roles in alignment with SG/ Malaysia
+healthcare needs</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Moderator: Lay Hoon
+<br>Ms Paulin Koh
+<br>NHG GCN A/Prof Yong KK
+<br>Singhealth GCN
+<br>NUHS GCN</p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer.gif">
 </div>
