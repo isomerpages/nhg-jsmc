@@ -599,9 +599,33 @@ innovation, reflecting the evolving landscape of modern healthcare.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2D1: Caregiver Lead Program</summary>
+<summary>Track 2D1: From Caregivers to Change Agents: The New Nursing Paradigm</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Caregivers are the backbone of patient recovery, yet many face overwhelming
+physical, emotional, and financial challenges that compromise care quality
+and increase hospital readmission risks. The CarerLink Programme was created
+in response to these complex pressures, offering an organized, evidence-based
+approach to identify, train, and support at-risk caregivers through their
+care journey.</p>
 <p></p>
+<p>By enrolling high-risk caregiver-patient dyads, CarerLink provides a personalized
+curriculum built around key care tasks and links families with community
+resources for sustained support. The session will present data from 474
+screened patients, with 78 caregiver-patient dyads enrolled, highlighting
+significant improvements: 46% reported lower burden and 50% greater confidence.
+Importantly, feedback also reveals the nuanced realities of caregiving,
+as some participants experienced heightened awareness of challenges. Staff
+perspectives underscore ongoing barriers to embedding CarerLink into clinical
+workflows, pointing to the need for clearer processes and stronger staff
+buy-in.</p>
+<p></p>
+<p></p>
+<p>Despite these integration challenges, CarerLink has proven valuable in
+supporting caregiver mastery, building system-community linkages, and providing
+timely intervention for those at risk. The programme’s flexible, scalable
+framework positions it as a model for wider adoption and potential integration
+with social prescribing to further bridge gaps between hospital and home
+care, ultimately improving outcomes for caregivers and patients alike.&nbsp;</p>
 </div>
 </details>
 </div>
