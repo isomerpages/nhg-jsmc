@@ -306,8 +306,9 @@ Nursing</summary>
 <summary>Ms Sathiya Veerarhagavan, Senior Nurse Manager, Khoo Teck Puat Hospital
 &amp; Yishun Community Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Senior Nurse Manager with 24 years' experience, passionate about healthcare leadership &amp; CPIP initiatives, driving excellence in quality improvement &amp; nursing development.&nbsp;</strong>
-</p>
+<p>Senior Nurse Manager with 24 years' experience, passionate about healthcare
+leadership &amp; CPIP initiatives, driving excellence in quality improvement
+&amp; nursing development.&nbsp;</p>
 </div>
 </details>
 </div>
@@ -377,7 +378,11 @@ Nursing</summary>
 <details class="isomer-details">
 <summary>Ms Elayne Loo, Nurse Clinician, Institute of Mental Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Drawing from two decades of hands-on mental healthcare experience, Ms.
+Elayne has witnessed firsthand how giving patients a voice transforms their
+recovery journey. Now as a Nurse Educator at IMH, she is passionate about
+nurturing healthcare environments where every patient story matters, and
+genuine human connections drive better care outcomes.</p>
 </div>
 </details>
 </div>
@@ -401,8 +406,11 @@ Nursing</summary>
 <summary>Ms Joyce Ho Nuo, Nurse Educator, Khoo Teck Puat Hospital &amp; Yishun
 Community Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>With 18 years of nursing experience, I'm passionate about shaping the next generation of nurses through innovative education. I specialise in creating engaging learning environments that combine interactive teaching with practical skills development. My goal is to mentor and empower students to become confident, competent healthcare professionals.</strong>
-</p>
+<p>With 18 years of nursing experience, I'm passionate about shaping the
+next generation of nurses through innovative education. I specialise in
+creating engaging learning environments that combine interactive teaching
+with practical skills development. My goal is to mentor and empower students
+to become confident, competent healthcare professionals.</p>
 </div>
 </details>
 </div>
