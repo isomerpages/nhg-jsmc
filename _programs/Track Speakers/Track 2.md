@@ -631,7 +631,7 @@ care, ultimately improving outcomes for caregivers and patients alike.&nbsp;</p>
 <p></p>
 <p>/</p>
 <blockquote>
-<h4>#</h4>
+<h4>Ms Precilla Lai&nbsp;</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -641,8 +641,8 @@ care, ultimately improving outcomes for caregivers and patients alike.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2D2: How homecare nurses assist in assimilating into the new role--&gt;
-domestic helper to caregiver</summary>
+<summary>Track 2D2: <strong>Cleaning to Care-giving - Supporting The Adaptation of A New Domestic Helper</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
