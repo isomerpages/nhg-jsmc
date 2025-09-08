@@ -161,16 +161,15 @@ fostering leadership development.</p>
 </details>
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4a3 ryan chua.png">
 </div>
 <h4>Mr Ryan Chua</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Senior Nurse Manager, Nursing, National Skin Centre&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Ryan is presently a Senior Nurse Manager at National Skin Centre, National Healthcare Group. He graduated from the National University of Singapore in 2012, and subsequently completed his Masters in Clinical Research in 2017 with University of Manchester, UK. He has clinical experience in various dermatology setting like general dermatology, phototherapy, and sexually transmitted infections. </strong>
+<p><strong>Ryan is presently a Senior Nurse Manager at National Skin Centre, National Healthcare Group. He graduated from the National University of Singapore in 2012, and subsequently completed his Masters in Clinical Research in 2017 with University of Manchester, UK. He has clinical experience in various dermatology setting like general dermatology, phototherapy, and sexually transmitted infections.</strong>
 </p>
 <p></p>
 <p><strong>Ryan received training in the US for Epic System Ambulatory and spearheaded the implementation for the new Electronic Medical Record system for Dermatology Nursing. He is also an active volunteer in Dermatology Nurses Chapter, Singapore Nurses Association for more than 10 years.</strong>&nbsp;</p>
@@ -188,16 +187,44 @@ fostering leadership development.</p>
 <h4>Moderator</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4a wang jia.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Mr Wang Jia</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Covering Assistant Director of Nursing, Nursing Education Dept, Institute
+of Mental Health&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Mr. Wang Jia [MEd, BSc (Nursing), RN, RN(P)] is currently the Covering
+Assistant Director of Nursing in charge of Nurse Education at the Institute
+of Mental Health, where he has been serving since 2006. His teaching journey
+began in 2009 as a BCLS instructor, culminating in his role as Director
+of the Life Support Training Centre (2014-2018), where he oversaw BCLS+AED
+training, the Emergency Resuscitation Course, and code blue-related training
+programs.&nbsp;</p>
+<p>&nbsp;</p>
+<p>With extensive experience in clinical teaching and curriculum development,
+Wang Jia has spearheaded over 20 courses enhancing nursing competencies
+and capabilities. As a senior educator, he has been teaching multiple internal
+and external courses at the organizational, cluster, and national levels.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Since becoming a Clinical Instructor in 2012, he has precepted more than
+500 nursing students. He has been appointed the Clinical Educator Lead
+at IMH since October 2024, who oversees the clinical learning needs of
+more than 2000 nursing students per year. Besides, Wang Jia has been part
+of the NHG Clinical Instructor Course faculty since 2014, serving as the
+Program Director from 2020 to 2024.&nbsp;</p>
+<p>&nbsp;</p>
+<p>A strong advocate for evidence-based practice, Wang Jia’s research interests
+span mental health nursing and clinical education, and he has published
+and presented over 10 research articles and projects since 2012.&nbsp;</p>
+<p>&nbsp;</p>
+<p>In addition to his educational role, Wang Jia has significant experience
+in nursing management, held multiple portfolios, including as a Senior
+Nurse Manager in clinical settings and at Changi Prison’s psychiatric service
+from 2021 to 2024.</p>
 </div>
 </details>
 </div>
