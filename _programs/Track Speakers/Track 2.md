@@ -635,9 +635,23 @@ care, ultimately improving outcomes for caregivers and patients alike.&nbsp;</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Nurse Clinician, Advanced Practice Nurse, Home Nursing Foundation</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Ms. Precilla is an Advanced Practice Nurse (APN) at Home Nursing Foundation,
+bringing over a decade of dedicated experience as a community nurse. Her
+expertise lies in managing complex and unstable patients through collaborative,
+multidisciplinary approaches, currently, with a special focus on end-of-life
+(EOL) care for frail and chronic patients living at home.&nbsp;&nbsp;</p>
+<p>Ms. Precilla actively contributes to the education, coaching and mentorship
+of fellow nurses, fostering professional development within the community
+nursing sector and amongst the APN community in Singapore. She is involved
+in research initiatives, particularly in wound management, nutrition, and
+EOL care tailored to home care patients.&nbsp;&nbsp;</p>
+<p>In addition to her clinical responsibilities, Ms. Precilla has contributed
+in shaping national nursing policies and initiatives, advocating for improved
+community healthcare standards. Currently, she is pioneering efforts to
+establish APN-led medication prescribing practices within the community
+setting, aiming to enhance patient access and care quality</p>
 </div>
 </details>
 <details class="isomer-details">
