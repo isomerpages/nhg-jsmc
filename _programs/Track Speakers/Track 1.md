@@ -522,11 +522,12 @@ more resilient population.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1c ng siok qi.png">
 </div>
 <blockquote>
-<h4>Ms Ng Siok Qi #</h4>
+<h4>Ms Ng Siok Qi</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Senior Nurse Manager, Inpatient Wards, Khoo Teck Puat Hospital</summary>
+<summary>Senior Nurse Manager, Inpatient Wards, Khoo Teck Puat Hospital&nbsp;&amp;
+Yishun Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Siok Qi is a senior nurse manager with experience in hospital operations
 and workforce transformation. She plays an active role in driving quality
