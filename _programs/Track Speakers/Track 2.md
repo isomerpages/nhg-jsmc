@@ -797,19 +797,53 @@ operational adaptations, and the shared heart of service across industries.&nbsp
 <p></p>
 <p>/</p>
 <blockquote>
-<h4>#</h4>
+<h4>Ms Nazrina Hoque</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Senior Staff Nurse, Ward D48 – Sub-Acute / Dementia, Khoo Teck Puat &amp;
+Yishun Community Hospital&nbsp;&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Nazrina Hoque is a healthcare professional whose career journey reflects
+her commitment to public service and personal growth. After completing
+her GCE A Levels, she served as a Prison Officer in the Singapore Prisons
+Service for ten years. Seeking a new challenge, she transitioned into healthcare
+through the Professional Conversion Programme, earning her Diploma in Nursing.
+Her dedication to specialised care led her to pursue an Advanced Diploma
+in Gerontology after two years of nursing practice.&nbsp;</p>
+<p>Currently in her sixth year as a nurse, Nazrina brings valuable expertise
+to elderly care. Her fluency in conversational Mandarin enhances her ability
+to connect with patients in Singapore's multicultural healthcare setting.&nbsp;</p>
+<p>Outside of her professional life, Nazrina is a devoted mother to four
+children, aged 10 to 17, and is supported by her loving husband. She successfully
+balances her demanding career while maintaining a fulfilling family life.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Track 2E2: Career Conversion Program, Why Change?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Nazrina Hoque's career journey reflects a profound evolution from law
+enforcement to healthcare, driven by her growing desire to make a more
+comprehensive impact on people's lives.&nbsp;</p>
+<p>Initially attracted to the Singapore Prison Service for its benefits,
+Nazrina soon discovered the limitations of her role as a Prison Officer.
+Despite her desire to help inmates, she found herself constrained by legal
+boundaries and the inability to provide support beyond prison walls. The
+absence of inter-agency collaboration and personalised care led to professional
+burnout after a decade of service.&nbsp;</p>
 <p></p>
+<p>The introduction to the Career Conversion Programme opened a new chapter
+in her life through nursing. This transition revealed that nursing extended
+far beyond basic patient care – it offered opportunities for holistic healthcare
+delivery and patient advocacy. As a nurse, Nazrina found fulfilment in
+being a patient's advocate, working to ensure they receive comprehensive
+care and support.&nbsp;</p>
+<p>Now in her sixth year of nursing, with an Advanced Diploma in Gerontology,
+she derives immense satisfaction from ensuring patients receive optimal
+care, both during hospitalisation and post-discharge. Her bilingual abilities
+in English and Mandarin further enhance her capacity to serve Singapore's
+diverse patient population, making her healthcare journey both fulfilling
+and purposeful.&nbsp;</p>
 </div>
 </details>
 </div>
