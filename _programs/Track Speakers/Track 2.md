@@ -584,6 +584,17 @@ member of Education Committee for Singapore Nursing Board.&nbsp;&nbsp;</p>
 <details class="isomer-details">
 <summary>Senior Nurse Clinician, Post Acute &amp; Community Care, Woodlands Health&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Fauziah Binte Rahman is a Senior Nurse Clinician with extensive experience
+in geriatric care and a commitment to advancing the nursing profession
+beyond traditional roles. Drawing on both clinical expertise and research
+in nursing leadership, she is keenly interested in initiatives that empower
+nurses and caregivers as change agents.</p>
+<p></p>
+<p>Her work aligns with the new nursing paradigm, where nurses not only provide
+direct care but also drive workforce transformation, interdisciplinary
+collaboration, and patient engagement. Fauziah’s contributions spotlight
+the integration of caregivers and patients as active partners in health
+innovation, reflecting the evolving landscape of modern healthcare.&nbsp;</p>
 <p></p>
 </div>
 </details>
@@ -760,5 +771,4 @@ School by successfully completing two rigorous programs</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer.gif">
 </div>
-<p></p>
 <p></p>
