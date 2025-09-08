@@ -544,26 +544,13 @@ practices.&nbsp;</p>
 </details>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
-<blockquote>
-<h4>#</h4>
-</blockquote>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>#</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
 <details class="isomer-details">
 <summary>Track 3C3: Fireside Chat - Balancing Technology and Human Touch In Nursing</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>A reflective discussion on ensuring that technological advancements do
+not compromise the compassion and empathy cental to nursing care</p>
 </div>
 </details>
-</div>
 <p></p>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
