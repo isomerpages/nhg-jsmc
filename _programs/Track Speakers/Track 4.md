@@ -76,7 +76,7 @@ nursing, empowered by smart solutions, is shaping an amazing future!&nbsp;</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4a2 tan soh chin&nbsp;.png">
 </div>
 <blockquote>
 <h4>Ms Tan Soh Chin&nbsp;</h4>
@@ -165,9 +165,7 @@ fostering leadership development.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
-<blockquote>
-<h4>#</h4>
-</blockquote>
+<h4>Mr </h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>#</summary>
@@ -176,7 +174,8 @@ fostering leadership development.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4A3: Voices of Experience: A Dialogue across Nursing Generations</summary>
+<summary>Track 4A3: Voices of Experience - A Dialogue Across Nursing Generations
+(Veteran, Emerging and Novice)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
