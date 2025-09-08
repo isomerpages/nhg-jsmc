@@ -122,8 +122,8 @@ nurses on care&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Discuss on the transformation of nursing roles in alignment with SG/ Malaysia
-healthcare needs</p>
+<p>Discuss on strategies taken by each cluster to enable better change in
+nursing roles</p>
 </td>
 </tr>
 </tbody>
