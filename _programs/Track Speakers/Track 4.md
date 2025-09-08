@@ -270,20 +270,42 @@ from 2021 to 2024.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Mr Tan Lai Hong</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>##</summary>
+<summary>Deputy Director of Nursing, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Over the past 30 years Lai Hong has worked in several public institutions
+including Toa Payoh Hospital, Institute of Mental Health, Ministry of Health,
+NHG Polyclinics and Agency for Integrates Care, and Republic Polytechnic.<strong>&nbsp; </strong>His
+experiences include clinical nursing, manpower policy, health regulation,
+healthcare finance, human resource management operations, education, and
+administration.&nbsp; His current portfolio in Woodlands Health is nursing
+manpower and talent development. He also has post-graduate qualifications
+including Master of Public Administration and a Specialist Diploma in Palliative
+Care.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Track 4B2: Nursing Engagement &amp; Retention: Cultivating a Thriving
 Workforce for Sustainable Healthcare</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul>
+<li>
+<p>Building strong foundation in nursing education&nbsp;&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Empowering work environment for continuous learning and development&nbsp;&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Care and support for work and life.&nbsp;</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
@@ -293,7 +315,7 @@ Workforce for Sustainable Healthcare</summary>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>#Yvonne Ng</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -313,11 +335,24 @@ Workforce for Sustainable Healthcare</summary>
 <h4>Moderator</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1c3 tan hong yun.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Dr Tan Hongyun</h4>
 </blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Assistant Director of Nursing, Advanced Practice Nurse, Woodlands Health</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Dr. Tan Hongyun, geriatric advanced practice nurse, Assistant Director
+of Nursing, Woodlands Health. Currently, she is leading the hospital@home
+and community hospital nursing team. She recognizes that the future of
+healthcare is depends on capable and confident nurses, she is a strong
+advocate and role model in mentoring, empowering and support nurses to
+innovate and leading the care.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</div>
+</details>
+</div>
 </th>
 </tr>
 </tbody>
