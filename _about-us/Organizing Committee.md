@@ -610,7 +610,11 @@ advance the profession.</p>
 <details class="isomer-details">
 <summary>Ms Elayne Loo, Nurse Clinician, Institute of Mental Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Drawing from two decades of hands-on mental healthcare experience, Ms.
+Elayne has witnessed firsthand how giving patients a voice transforms their
+recovery journey. Now as a Nurse Educator at IMH, she is passionate about
+nurturing healthcare environments where every patient story matters, and
+genuine human connections drive better care outcomes.</p>
 </div>
 </details>
 </div>
@@ -628,7 +632,9 @@ advance the profession.</p>
 <summary>Ms Sathiya Veerarhagavan, Senior Nurse Manager, Khoo Teck Puat Hospital
 &amp; Yishun Community Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Senior Nurse Manager with 24 years' experience, passionate about healthcare leadership &amp; CPIP initiatives, driving excellence in quality improvement &amp; nursing development.&nbsp;</strong>
+<p>Senior Nurse Manager with 24 years' experience, passionate about healthcare
+leadership &amp; CPIP initiatives, driving excellence in quality improvement
+&amp; nursing development.&nbsp;<strong>&nbsp;</strong>
 </p>
 </div>
 </details>
@@ -669,7 +675,10 @@ advance the profession.</p>
 <details class="isomer-details">
 <summary>Ms Timie Chan Lai Ten, Senior Staff Nurse, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>My work in nursing is focused on Quality and Patient Safety, with an emphasis
+on identifying systemic gaps and resolving process inefficiencies. I aim
+to streamline workflows, reduce risks, and drive sustainable improvements
+that benefit both patients and healthcare teams.&nbsp;</p>
 </div>
 </details>
 </div>
