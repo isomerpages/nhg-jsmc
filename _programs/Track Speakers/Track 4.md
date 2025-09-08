@@ -401,7 +401,19 @@ Partner of Labour Movement Award (2025).</p>
 <details class="isomer-details">
 <summary>Track 4C1: Psychological Safety: Fostering a Safe and Respectful Workplace</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Psychological safety is the foundation of a safe, respectful, and high-performing
+nursing workforce. The belief that one can speak up, ask questions, and
+report concerns without fear of blame or retaliation- is a cornerstone
+of safe and effective nursing practice.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>This session will explore strategies to foster trust and enabling nurses
+to communicate openly, learn from errors, and enhance patient care outcomes.
+Prevent and protect against workplace abuse and violence, and support the
+integration of international nurses from stranger to valued allies.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>Through evidence-based approaches, and interactive discussions, participants
+will gain tools to build trust, encourage collaboration, and create a culture
+where every voice is valued.&nbsp;&nbsp;</p>
 </div>
 </details>
 </div>
