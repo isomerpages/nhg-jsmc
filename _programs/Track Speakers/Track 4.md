@@ -422,20 +422,56 @@ where every voice is valued.&nbsp;&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Mr Lee Kiang, Darren&nbsp;</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Deputy Director, Nursing&nbsp;, Institute of Mental Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Darren Lim Lee Kiang serves as the Deputy Director of Nursing at the Institute
+of Mental Health, Singapore, where he provides strategic leadership and
+oversight in nursing quality &amp; patient safety, innovation, informatics,
+education, and research. With a strong commitment to advancing clinical
+excellence and workforce development, Darren works closely with multidisciplinary
+teams to strengthen nursing standards, optimize care delivery, and enhance
+patient outcomes in Singapore’s leading psychiatric healthcare institution.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Track 4C2: Prevent and Protect: Safeguarding Nurses from Workplace Abuse
 and Violence</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>In Singapore’s healthcare system, safeguarding nurses from workplace abuse
+and violence is essential to ensuring both staff well-being and quality
+patient care.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>The <strong>Prevent</strong> pillar focuses on proactive strategies, starting
+with the enforcement of zero-tolerance policies against any form of abuse—verbal,
+physical, or psychological. Nurses and other frontline staff should be
+trained to recognize early signs of potential aggression and to apply effective
+de-escalation techniques. This not only minimizes the risk of incidents
+but also builds confidence in managing challenging situations.&nbsp;
+<br>&nbsp;
+<br>The <strong>Protect</strong> pillar addresses the physical and procedural
+safeguards needed to ensure nurse safety. Hospitals can incorporate infrastructure
+enhancements such as strategically placed panic buttons, comprehensive
+CCTV coverage, and secure ward layouts designed to reduce risk exposure.
+Alongside these, confidential and non-punitive incident reporting channels
+encourage nurses to speak up without fear of stigma or retaliation, enabling
+timely interventions and organizational learning.&nbsp;
+<br>&nbsp;
+<br>Finally, the <strong>Support </strong>pillar ensures that, should an incident
+occur, affected staff receive prompt and comprehensive assistance. This
+includes immediate medical attention, psychological counselling, and peer
+support systems to aid recovery and restore workplace confidence. Transparent
+investigation processes and clear follow-up actions further reassure staff
+that their safety is a top priority.&nbsp;
+<br>&nbsp;
+<br>Together, these three pillars—Prevent, Protect, and Support—form a holistic
+framework that not only reduces the incidence of workplace violence but
+also reinforces a culture of safety, respect, and trust within Singapore’s
+hospitals. Such measures are crucial to sustaining a resilient healthcare
+workforce capable of delivering high-quality care in a safe environment.</p>
 </div>
 </details>
 </div>
