@@ -109,7 +109,7 @@ nurses on care&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <blockquote>
-<h4>NHG GCN A/Prof Yong KK </h4>
+<h4>NHG GCN A/Prof Yong KK</h4>
 </blockquote>
 </td>
 </tr>
@@ -124,22 +124,6 @@ nurses on care&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>Discuss on the transformation of nursing roles in alignment with SG/ Malaysia
 healthcare needs</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Moderator: Lay Hoon
-<br>Ms Paulin Koh
-<br>NHG GCN A/Prof Yong KK
-<br>Singhealth GCN
-<br>NUHS GCN</p>
 </td>
 </tr>
 </tbody>
