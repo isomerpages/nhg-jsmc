@@ -741,5 +741,7 @@ Nurses in their Growth and Development</summary>
 </tr>
 </tbody>
 </table>
-<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer__1_.gif">
+</div>
 <p></p>
