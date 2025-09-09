@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<h3><strong>Track 4A</strong></h3>
+<h3><strong>Positive Practice Environment</strong></h3>
+<hr>
+<h3>Track 4A</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -234,7 +236,7 @@ from 2021 to 2024.</p>
 </tbody>
 </table>
 <hr>
-<h3><strong>Track 4B</strong></h3>
+<h3>Track 4B</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -358,7 +360,7 @@ innovate and leading the care.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </tbody>
 </table>
 <hr>
-<h3><strong>Track 4C</strong></h3>
+<h3>Track 4C</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -551,7 +553,7 @@ of seeing positive changes in nursing care makes every effort worthwhile.&nbsp;<
 </tbody>
 </table>
 <hr>
-<h3><strong>Track 4D</strong></h3>
+<h3>Track 4D</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -711,7 +713,7 @@ arts, nature, and literature.&nbsp;</p>
 </tbody>
 </table>
 <hr>
-<h3><strong>Track 4E</strong></h3>
+<h3>Track 4E</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
