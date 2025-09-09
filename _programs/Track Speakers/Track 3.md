@@ -904,7 +904,7 @@ challenges and integrated technology into their routines.&nbsp;</p>
 <p></p>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3d chen li.png">
 </div>
 <blockquote>
 <h4>Ms Chen Li</h4>
