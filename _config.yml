@@ -54,7 +54,7 @@ plugins:
 staging: https://staging-lite.d2ca0z44dzanzx.amplifyapp.com
 prod: https://master.d1tnf04nngjf3i.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/NHG_Logo_cropped.jpg
+shareicon: /images/logo_whole_cropped.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
