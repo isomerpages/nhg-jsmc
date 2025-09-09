@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<h3><strong>Track 2A</strong></h3>
+<h3><strong>Nurses beyond Nursing, Nursing Beyond Nurses</strong></h3>
+<hr>
+<h3>Track 2A</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -249,7 +251,7 @@ activation, digital health</p>
 </tbody>
 </table>
 <hr>
-<h3><strong>Track 2B</strong></h3>
+<h3>Track 2B</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -430,7 +432,7 @@ students and faculty development.</p>
 </tbody>
 </table>
 <hr>
-<h3><strong>Track 2C</strong></h3>
+<h3>Track 2C</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -590,7 +592,7 @@ member of Education Committee for Singapore Nursing Board.&nbsp;&nbsp;</p>
 </tbody>
 </table>
 <hr>
-<h3><strong>Track 2D</strong></h3>
+<h3>Track 2D</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -771,7 +773,7 @@ supporting the hospital's "Zero Tolerance for Abuse in Healthcare" policy</p>
 </tbody>
 </table>
 <hr>
-<h3><strong>Track 2E</strong></h3>
+<h3>Track 2E</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
