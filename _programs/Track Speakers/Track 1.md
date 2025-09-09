@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
+<h3>Strengthening the Human Element in Healthcare</h3>
+<hr>
 <h3>Track 1A</h3>
 <table style="minWidth: 25px">
 <colgroup>
