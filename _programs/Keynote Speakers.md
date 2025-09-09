@@ -5,6 +5,68 @@ variant: tiptap
 description: ""
 ---
 <h3>Keynote 1</h3>
+<h4><strong>Integration, Influencing and Inspiring Nurses Across Sectors</strong></h4>
+<blockquote>
+<p>Ms Paulin Tan</p>
+</blockquote>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sharing of approaches taken to for nurses to work across different levels,
+sectors and transdisciplinary. How can we inspire and influence future
+nurses on care&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Key Panel 1 Discussion</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<blockquote>
+<h4>Moderator: Lay Hoon</h4>
+</blockquote>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<blockquote>
+<h4>Ms Paulin Tan, NKF Head Nurse</h4>
+</blockquote>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<blockquote>
+<h4>NHG GCN A/Prof Yong KK</h4>
+</blockquote>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<blockquote>
+<h4>NUHS GCN</h4>
+</blockquote>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Discuss on strategies taken by each cluster to enable better change in
+nursing roles</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h3>Keynote 2</h3>
 <h4><strong>Navigating the Future - Identifying Current Healthcare Issues and Evolving Nursing Direction</strong></h4>
 <blockquote>
 <h4>DGH Dr Kenneth Mak</h4>
@@ -24,7 +86,7 @@ support Singapore’s healthcare ahead&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<h3>Key Panel 1 Discussion</h3>
+<h3>Key Panel 2 Discussion</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -67,67 +129,6 @@ healthcare needs</p>
 </tbody>
 </table>
 <p></p>
-<h3>Keynote 2</h3>
-<h4><strong>Integration, Influencing and Inspiring Nurses Across Sectors</strong></h4>
-<blockquote>
-<p>Ms Paulin Koh</p>
-</blockquote>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sharing of approaches taken to for nurses to work across different levels,
-sectors and transdisciplinary. How can we inspire and influence future
-nurses on care&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>Key Panel 2 Discussion</h3>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<blockquote>
-<h4>Moderator: Lay Hoon</h4>
-</blockquote>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<blockquote>
-<h4>Ms Paulin Koh, SG CNO</h4>
-</blockquote>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<blockquote>
-<h4>NHG GCN A/Prof Yong KK</h4>
-</blockquote>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<blockquote>
-<h4>NUHS GCN</h4>
-</blockquote>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Discuss on strategies taken by each cluster to enable better change in
-nursing roles</p>
-</td>
-</tr>
-</tbody>
-</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer.gif">
 </div>
