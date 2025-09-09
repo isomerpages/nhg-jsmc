@@ -266,7 +266,7 @@ activation, digital health</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ttshjames.png">
 </div>
 <blockquote>
-<h4>Mr James Tan</h4>
+<h4>Mr James Tan Wan Kun</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -724,7 +724,7 @@ positively to society.&nbsp;&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2D3: Patient as the Change Agent: Patient to Barista</summary>
+<summary>Track 2D3: Patient As The Change Agent: Patient to Barista</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Work is more than just a source of income. It can be a powerful catalyst
 for mental health recovery. This session will explore how regaining a worker
@@ -911,7 +911,7 @@ institutions, and supervise postgraduate and undergraduate research.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2E3: Nursing Beyond Nurse: Non-nursing in a nursing environment</summary>
+<summary>Track 2E3: Nursing Beyond Nurse: Non-Nursing In A Nursing Environment</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Nursing involves a wide range of practice, going beyond the typical bedside
 role. It comprises advanced practice jobs such as nurse practitioners,
