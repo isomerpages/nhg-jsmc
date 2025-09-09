@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<h3><strong>Track 3A</strong></h3>
+<h3><strong>Digitally Enabled Workforce</strong></h3>
+<hr>
+<h3>Track 3A</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -198,7 +200,7 @@ nursing practice to be more proactive, data-driven, and patient-centred.</p>
 </tbody>
 </table>
 <hr>
-<h3><strong>Track 3B</strong></h3>
+<h3>Track 3B</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -436,7 +438,7 @@ diabetes-related complications.</p>
 </tbody>
 </table>
 <hr>
-<h3><strong>Track 3C</strong></h3>
+<h3>Track 3C</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -585,7 +587,7 @@ improvement, and nursing professional development.&nbsp;&nbsp;</p>
 </tbody>
 </table>
 <hr>
-<h3><strong>Track 3D</strong></h3>
+<h3>Track 3D</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -930,7 +932,7 @@ with frontline patient care.&nbsp;</p>
 </tbody>
 </table>
 <hr>
-<h3><strong>Track 3E</strong></h3>
+<h3>Track 3E</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
