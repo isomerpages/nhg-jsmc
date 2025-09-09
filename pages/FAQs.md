@@ -64,6 +64,6 @@ nurses who attend the full conference.&nbsp;</p>
 </details>
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer__1_.gif">
 </div>
 <p></p>
