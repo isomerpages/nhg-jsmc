@@ -666,19 +666,10 @@ but also preserves its essence of humanity and care.&nbsp;</p>
 </details>
 </div>
 <p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
 <blockquote>
-<h4>#</h4>
+<p></p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>#</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
 <details class="isomer-details">
 <summary>Track 4D3: Panel Discussion: Breaking Barriers and Celebrating Diversity
 at Work</summary>
@@ -687,19 +678,42 @@ at Work</summary>
 </div>
 </details>
 </div>
-<h4>Moderator</h4>
 <p></p>
+<h4>Moderator</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2a1 shirley heng.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Ms Shirley Heng&nbsp;</h4>
 </blockquote>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Chief Nurse, Khoo Teck Puat &amp; Yishun Community Hospital&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Shirley serves as Chief Nurse of Khoo Teck Puat Hospital (KTPH) and Yishun
+Community Hospital (YCH), where she spearheads nursing excellence through
+strategic competency development, talent management, and innovative job
+redesign initiatives. With nearly three decades of distinguished service
+in Singapore's public healthcare sector, she has shaped nursing policies
+and practices at institutional, cluster, and national levels.&nbsp;</p>
+<p>Beginning her journey as a graduate nurse in 1997, Shirley honed her expertise
+across Singapore General Hospital and Alexandra Hospital before advancing
+to nursing leadership roles. Her appointment as Assistant Director (Nursing)
+in 2009 marked the beginning of her significant contributions to healthcare
+transformation. She played a pivotal role in commissioning KTPH in 2010,
+leading the inpatient care planning and spearheading the implementation
+of electronic medical records systems.&nbsp;</p>
+<p>As Assistant Chief Nursing Officer at the Ministry of Health (2011-2013),
+Shirley was instrumental in developing national nursing policies and leadership
+strategies. Her role as Secretariat in the MOH National Nursing Taskforce
+Committee (2012) helped craft a transformative blueprint for Singapore's
+nursing profession, which continues to influence healthcare delivery today.&nbsp;</p>
+<p>A lifelong learner, Shirley holds a Masters in Health Science (Management)
+and completed the prestigious General Management Programme at Harvard Business
+School in 2018. She currently serves as a Board Member of the Singapore
+Nursing Board and contributes to three of its committees.&nbsp;</p>
+<p>Beyond her professional achievements, Shirley finds inspiration in the
+arts, nature, and literature.&nbsp;</p>
 </div>
 </details>
 </div>
@@ -722,20 +736,73 @@ at Work</summary>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Ms Vanassa Ng Shu Li</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Senior Nurse Manager, Acute Care, Tan Tock Seng Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>As a Senior Nurse Manager at Tan Tock Seng Hospital, I currently oversee
+Level 7's geriatric department. My 16-year journey at TTSH has encompassed
+various leadership roles, progressing from Nurse Clinician in medical and
+surgical wards to my current senior man<strong>agement position since 2024.&nbsp;<br>&nbsp;</strong>
+</p>
+<p><strong>I have recently completed my Masters of Advanced Practice with distinction, building upon my Advanced Diploma in Medical Surgical Nursing from Nanyang Polytechnic and in-house</strong> medical
+psychiatric nursing trained certification. My educational foundation began
+with a diploma from Ngee Ann Polytechnic, followed by a Bachelor of Nursing
+from University of Sydney &nbsp;
+<br>&nbsp;</p>
+<p>Throughout my career, I have led several significant initiatives, including
+TTSH's liquid nursing project in 2023 and the conversion of wards to COVID
+care units during the pandemic. As part of the TTSH ROBUST team from 2015-2023,
+I actively participated in nursing recruitment and branding, conducting
+career guidance talks at various institutions including Raffles Girls School,
+Beatty Secondary School, and Bartley Secondary School. My passion for nursing
+education led to my involvement in the Governance Council for Nursing Education
+and Development from 2018 to 2022, where I contributed to developing educational
+materials and learning frameworks for nurses.&nbsp;
+<br>&nbsp;</p>
+<p>My contributions to healthcare have been recognized through various accolades,
+including the MOH Nurses' Merit Award and The Commendation Medal (COVID-19)
+in 2023, the NHG Team Recognition Award in 2022, NHG Teaching Award in
+2016, TTSH Nurses Appreciation Award (Professionalism and team spirit)
+2011-2013&nbsp;</p>
+<p>&nbsp;
+<br>My expertise spans geriatric care, medical-surgical nursing, and project
+management.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Track 4E1: Embracing Flexibility: The Power of Liquid Nursing in Workforce
 Scheduling</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>This session delves into a groundbreaking workforce transformation initiative
+that is reshaping nursing practice through the innovative Liquid Nursing
+model. At its core, this discussion explores how traditional nursing constraints
+are being dissolved through an adaptable framework built on three fundamental
+pillars: role agility through modular nursing competencies, scheduling
+autonomy aligned with personal priorities, and career advancement via competency-based
+development. Through comprehensive time-motion studies, focus group discussions,
+and strategic implementation across 55 inpatient wards encompassing 1,199
+nurses, the initiative has demonstrated remarkable outcomes. &nbsp;
+<br>&nbsp;</p>
+<p>The session will showcase how the introduction of six flexible shift schedules
+and modularized nursing roles, coupled with a modified ISoBAR framework
+for handovers, has revolutionized workforce management. Staff surveys reveal
+that 70% of nurses report enhanced schedule flexibility, with a notable
+reduction in burnout levels compared to non-flexible wards. Key achievements
+include an 83% reduction in roster planning time, improved call bell response
+times within the 45-second target, and a significant decrease in hospital
+attrition rates from 6.9% to 5.2% between 2023 and 2024.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Participants will gain insights into the implementation strategy, phased
+across five stages, which focuses on matching staffing demand with supply
+while maintaining strong teamwork principles. The discussion will highlight
+how this Liquid Nursing concept not only addresses contemporary workforce
+challenges but also demonstrates the powerful impact of strategic workforce
+redesign on both patient care quality and staff satisfaction in modern
+healthcare settings.&nbsp;</p>
 </div>
 </details>
 </div>
