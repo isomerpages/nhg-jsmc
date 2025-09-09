@@ -665,7 +665,6 @@ but also preserves its essence of humanity and care.&nbsp;</p>
 </div>
 </details>
 </div>
-<p>&nbsp;</p>
 <h4>Panel Discussion</h4>
 <p>Track 4D3: Breaking Barriers and Celebrating Diversity at Work</p>
 <p></p>
