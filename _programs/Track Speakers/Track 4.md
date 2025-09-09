@@ -731,9 +731,8 @@ arts, nature, and literature.&nbsp;</p>
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4e1 vanassa.png">
 </div>
 <blockquote>
 <h4>Ms Vanassa Ng Shu Li</h4>
@@ -807,15 +806,16 @@ healthcare settings.&nbsp;</p>
 </details>
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4e2 ben ng.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Mr Ben Ng</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Assistant Director, Operations Support Services, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -823,30 +823,63 @@ healthcare settings.&nbsp;</p>
 <details class="isomer-details">
 <summary>Track 4E2: 24/7 Healthy Environments: Crafting Spaces Where Nurses Thrive&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>This presentation explores Woodlands Health’s strategy to support staff
+and nurses through innovative campus design and technology. It provides
+a hospital overview, details design intents focused on creating positive
+staff spaces, and highlights the adoption of technological innovations
+to improve efficiency and reduce administrative burden for nurses, enhancing
+overall work experience and patient care</p>
 </div>
 </details>
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4e3 jamie lim .png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Ms Jamie Lim Chuen</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Deputy Director (Nursing Education), Advanced Practice Nurse (Cardiology)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Meet Jamie, the heart and soul of the Cardiology Department, who's been
+keeping both hearts and students ticking since 2006. Armed with not one,
+but two master's degrees. She's what happens when you combine an Advanced
+Practice Nurse with a passionate educator – think Mary Poppins meets Grey's
+Anatomy, minus the drama.&nbsp;</p>
 <p></p>
+<p>When Jamie is not rumbling about ECGs, she can be found enlightening minds
+across the healthcare spectrum. From wide-eyed nursing students to seasoned
+doctors, she's taught them all with a special blend of expertise and humour
+that makes even the most complex cardiac concepts stick. Her first Master's
+from NUS gave her the clinical know-how, but it was her second degree from
+Massachusetts General Hospital in Health Professionals Education that turned
+her into a teaching dynamo.&nbsp;</p>
+<p></p>
+<p>Not content with just conquering Singapore's medical education scene,
+this intrepid educator took her show on the road. Jamie has been spreading
+her medical wisdom across rural areas in Philippines, Thailand, and China,
+proving that good teaching knows no borders. Whether she's explaining heart
+rhythms or sharing healthcare insights, she is a true believer that learning
+can be fun. Just don't ask her to tell her favourite cardiology jokes –
+they're all heart-stopping!</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Track 4E3: Investing in our Workforce: Shaping Environments that Support
 Nurses in their Growth and Development</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>In this bold and unconventional session, discover why being "the bad guy"
+might be exactly what your nursing environment needs. PEST Control tackles
+the uncomfortable truth about unspoken elements which sabotage or stifle
+teamwork and why traditional 'nice' approaches often fail to create positive
+change.</p>
 <p></p>
+<p>Learn practical strategies for eliminating toxic behaviors, chronic negativity,
+and team-destroying attitudes using surprisingly simple but powerful interventions.
+This session isn't for the faint-hearted, but for leaders ready to take
+decisive action to transform their nursing environment.</p>
 </div>
 </details>
 </div>
