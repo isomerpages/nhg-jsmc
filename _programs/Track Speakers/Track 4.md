@@ -886,16 +886,31 @@ decisive action to transform their nursing environment.</p>
 <h4>Moderator</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4e cheryl.png">
 </div>
 <blockquote>
-<h4>#CN Raveen, IMH</h4>
+<h4>Ms Goh Ai Sze, Cheryl&nbsp;</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Assistant Director of Nursing, Advanced Practice Nurse, Department of
+Nursing Administration&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>With a robust background in psychiatric-mental health nursing, Cheryl
+is an Advanced Practice Nurse who has honed her clinical skills at various
+psychiatric care units.&nbsp;</p>
+<p>She has special interest in suicide prevention work and had implementing
+evidence-based strategies aimed at identifying at-risk individuals and
+system level changes.&nbsp;</p>
+<p>In addition to her clinical work, she has presented papers on Impact of
+a Rehabilitation Program on Mental Health Recovery at international platforms
+and published paper on violence prediction tools.&nbsp;</p>
+<p>Her relentless pursuit of continuous improvement, coupled with her clinical
+leadership to drive clinical initiatives, has positioned her as an enabler
+in mental health nursing. She is currently leading a workgroup to set future
+trends of psychiatric nursing model by building a Person-Centered Care
+(PCC) practice culture<strong> </strong>to build nurses’ capabilities and
+mindset in adaptation of PCC.</p>
 </div>
 </details>
 </div>
