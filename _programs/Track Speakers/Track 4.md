@@ -315,7 +315,7 @@ Workforce for Sustainable Healthcare</summary>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
-<h4>#Yvonne Ng</h4>
+<h4>Awaiting Info</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -515,7 +515,7 @@ workforce capabilities in our evolving healthcare ecosystem.&nbsp;</p>
 <h4>Moderator</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4c tan ying hua grace.png">
 </div>
 <blockquote>
 <h4>Ms Tan Ying Hua Grace</h4>
@@ -666,18 +666,8 @@ but also preserves its essence of humanity and care.&nbsp;</p>
 </details>
 </div>
 <p>&nbsp;</p>
-<blockquote>
-<p></p>
-</blockquote>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Track 4D3: Panel Discussion: Breaking Barriers and Celebrating Diversity
-at Work</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
+<h4>Panel Discussion</h4>
+<p>Track 4D3:: Breaking Barriers and Celebrating Diversity at Work</p>
 <p></p>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
