@@ -543,11 +543,11 @@ culture.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Ms Marilyn Wan Mei Ting</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Nurse Educator, Tan Tock Seng Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -944,7 +944,7 @@ cooperation becomes essential to successful healthcare teams.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d yvonne tan siow lin.png">
 </div>
 <blockquote>
-<h4>Ms Yvonne Tan</h4>
+<h4>Ms Yvonne Tan Siow Lin</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
