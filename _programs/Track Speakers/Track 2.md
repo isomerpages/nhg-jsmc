@@ -919,7 +919,7 @@ cooperation becomes essential to successful healthcare teams.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d yvonne tan siow lin.png">
 </div>
 <blockquote>
-<h4>Ms Yvonne Ta</h4>
+<h4>Ms Yvonne Tan</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
