@@ -536,7 +536,10 @@ culture.&nbsp;</p>
 </details>
 </div>
 <p></p>
-<p>/</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+</div>
 <blockquote>
 <h4>#</h4>
 </blockquote>
@@ -680,12 +683,13 @@ setting, aiming to enhance patient access and care quality.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2D2: <strong>Cleaning to Care-giving - Supporting The Adaptation of A New Domestic Helper</strong>
-</summary>
+<summary>Track 2D2: Cleaning to Care-giving - Supporting The Adaptation of A New
+Domestic Helper</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>As the roles of domestic helpers increasingly extend beyond traditional
 housekeeping to include caregiving responsibilities, the transition can
 present significant emotional, cultural, and skill-based challenges.&nbsp;&nbsp;</p>
+<p></p>
 <p>This session explores effective strategies to support domestic helpers
 in adapting to this evolving and challenging scope of work.&nbsp;</p>
 <p>Participants will gain insight into the psychological, social, and practical
