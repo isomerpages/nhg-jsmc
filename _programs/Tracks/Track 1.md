@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Tracks
 ---
-<h3>Relationship Based Care</h3>
+<h3>Strengthening the Human Element in Healthcare</h3>
 <p>Building relationships across nursing involves fostering collaboration,
 trust, and open communication among healthcare professionals. Strong relationships
 improve teamwork, enhance patient care, and create a supportive work environment.
