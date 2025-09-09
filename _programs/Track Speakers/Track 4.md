@@ -248,11 +248,11 @@ from 2021 to 2024.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
-<h4>#Yu Liang</h4>
+<h4>Awaiting info</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>##</summary>
+<summary>#</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
