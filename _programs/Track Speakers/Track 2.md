@@ -477,7 +477,27 @@ expert consensus statements, clinical guidelines, and nursing standards.&nbsp;</
 <summary>Track 2C1: Past, Present, Prospect: View on Nursing Transformation Across
 The Decades</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>This session, <em>Past, Present, Prospect – A View on Nursing Transformation Across the Decades</em>,
+will be delivered by the Nursing Director of one of China’s top-ranked
+tertiary hospitals, a national leader in clinical excellence, education,
+and research.</p>
 <p></p>
+<p>Drawing on extensive leadership experience, the talk will trace the evolution
+of nursing roles from traditional bedside care to strategic positions influencing
+policy, education, and interdisciplinary collaboration. Attendees will
+gain first-hand insights into how a top-tier hospital navigates workforce
+transformation, integrates evidence-based practice, and implements innovative
+care models that set benchmarks for nursing worldwide.</p>
+<p></p>
+<p>The presentation will connect historical developments with current challenges,
+including technology adoption, interdisciplinary collaboration, cultivating
+talent, and driving sustainable workforce transformation, offering strategies
+that are adaptable to global contexts.</p>
+<p></p>
+<p>By blending China’s large-scale healthcare experience with international
+perspectives, this session will inspire nursing leaders and practitioners
+to envision a future workforce that is agile, empowered, and prepared to
+meet the demands of an ever-changing healthcare landscape.&nbsp;</p>
 </div>
 </details>
 </div>
