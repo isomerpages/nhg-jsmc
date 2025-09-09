@@ -90,4 +90,6 @@ manage cookie settings through your browser.</p>
 </p>
 <p>We may update this Privacy Statement from time to time. Changes will be
 posted on this website.</p>
+<hr>
+<p></p>
 <p>Last Updated: 11 April 2025</p>
