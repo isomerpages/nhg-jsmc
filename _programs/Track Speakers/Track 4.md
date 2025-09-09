@@ -562,16 +562,41 @@ of seeing positive changes in nursing care makes every effort worthwhile.&nbsp;<
 <h4>Presenters</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4d1 assoc prof wong teck yee.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Assoc Prof Wong Teck Yee</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Senior Consultant, Family Physician, Tan Tock Seng Hospital, NHG Health,
+Assoc Prof, LKCMedicine, Nanyang Technological University&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>Dr Wong is currently a Family Physician, Senior Consultant with Tan Tock
+Seng Hospital and Associate Professor at the Lee Kong Chian School of Medicine
+(LKCMedicine), Nanyang Technological University (NTU).&nbsp;&nbsp;</p>
+<p></p>
+<p>He has a MSc in Health Professions Education (MHPEd) from the MGH Institute
+of Health and MPH from National University of Singapore (NUS). Besides
+undergraduate teaching, he examines for the Graduate Diploma in FM, the
+Master of Medicine (FM) and has served as external examiner for the NUS
+MBBS Programme.</p>
+<p></p>
+<p>He is active in faculty development, conducting workshops and courses
+for NHG College and College of Family Physicians. His other roles include:
+Senior Consultant, Professional Training &amp; Assessment Standards Division,
+Ministry of Health, Chair of NTU University Health Board and Education
+Consultant to the College of Family Physician Singapore. At the national
+level, he currently serves as Co-chair of the National Medical Review Committee
+and as member of the Joint Committee of Family Medicine Singapore.&nbsp;&nbsp;</p>
+<p></p>
+<p>Dr Wong’s research interest covers both Family Medicine and Medical Education.
+He has secured multiple grants, published articles in peer-reviewed journals
+and actively participates in both local and international conferences.
+He has been recognized with numerous awards, including the Nanyang Education
+Award (School), NTU (2016), Education Leader Award, NHG (2019), Mentor
+Award, NTU (2020) and NHG Quality Day Merit Award (2021).&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -583,27 +608,64 @@ of seeing positive changes in nursing care makes every effort worthwhile.&nbsp;<
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4d2 samantha.png">
 </div>
 <blockquote>
-<h4>#</h4>
+<h4>Ms Samantha Ong</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Director, Operations (Volunteer, Innovation &amp; Philanthropy), President,
+Singapore Nurses Association&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Ms Samantha Ong is a distinguished healthcare leader and registered Mental
+Health Nurse who currently serves as the President of the Singapore Nurses
+Association (since 2020) and Director at the Institute of Mental Health
+(IMH). A recipient of the prestigious President's Award for Nurses in 2019,
+she has demonstrated exceptional leadership in nursing transformation and
+mental healthcare innovation.&nbsp;</p>
+<p>&nbsp;</p>
+<p>In her current role at IMH, she spearheads SMART hospital initiatives
+focusing on digitalisation, innovation, and sustainability. Her previous
+position as Chief Nurse at IMH saw her leading various nursing care transformation
+initiatives and contributing significantly to psychiatric nursing literature
+through research and clinical practice guidelines.&nbsp;</p>
+<p>&nbsp;</p>
+<p>As President of the Singapore Nurses Association, she leads the organisation's
+transformation efforts and works to elevate nursing's profile as an autonomous
+profession in Singapore's healthcare landscape.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Ms Ong is particularly passionate about psychiatric recovery and rehabilitation,
+having been instrumental in developing recovery programmes at IMH. Her
+commitment to evidence-based practice and patient-centred care has significantly
+influenced mental health nursing practices in Singapore.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4D2: Together We Rise: Building an Inclusive Culture in Nursing</summary>
+<summary>Track 4D2: Stronger Together: Inclusive Culture as the Heartbeat of Nursing</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>In today’s dynamic healthcare environment, inclusivity is no longer an
+option- it is the foundation that strengthens nursing practice and patient
+care. An inclusive cultures value diversity, embraces that every nurse
+feels respected, supported, and empowered. It fosters a sense of belonging
+that not only enhances collaboration among teams but also drives innovation
+and resilience within the profession.&nbsp;</p>
 <p></p>
+<p>Nursing thrives when voices across all levels are heard and recognized.
+By cultivating inclusivity, leaders create safe spaces for open dialogue,
+mutual learning, and shared decision-making. This strengthens professional
+identity, boosts morale, and allows nurses to deliver care with greater
+compassion and confidence.&nbsp;</p>
+<p></p>
+<p>At its core, inclusivity is about unity in diversity, it transforms the
+nursing workforce into a cohesive community where differences become strengths
+and where collaboration transcends boundaries. When inclusivity is the
+heartbeat of nursing, the profession not only advances in skill and innovation
+but also preserves its essence of humanity and care.&nbsp;</p>
 </div>
 </details>
 </div>
-<p></p>
-<p></p>
+<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
