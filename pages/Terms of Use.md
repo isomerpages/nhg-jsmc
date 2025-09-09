@@ -5,124 +5,122 @@ variant: tiptap
 description: ""
 ---
 <h2>NHG Nursing Conference 2025 Website</h2>
-<p><strong>1. Acceptance of Terms</strong>
+<p><strong>Terms of Use</strong>
 </p>
-<p>By accessing and using the National Healthcare Group Nursing Conference
-2025 website (hereafter referred to as "Conference Website"), you acknowledge
-that you have read, understood, and agree to be bound by these Terms of
-Use. If you do not agree to these Terms of Use, please refrain from using
-this Conference Website.</p>
-<p><strong>2. Modifications to Terms</strong>
+<p>Thank you for visiting the National Healthcare Group Nursing Conference
+website (henceforth known as "Conference Website"). By accessing and using
+this Conference Website, you shall be deemed to have accepted to be legally
+bound by these Terms of Use. If you do not agree to these Terms of Use,
+please do not use this Conference Website.</p>
+<p><strong>General</strong>
 </p>
-<p>The National Healthcare Group (NHG) reserves the right to modify these
-Terms of Use at any time without prior notice. Any changes will be posted
-on this page, and your continued use of the Conference Website following
-such modifications constitutes your acceptance of the revised Terms of
-Use.</p>
-<p><strong>3. Intellectual Property Rights</strong>
+<p>These Terms of Use may be changed from time to time. Changes will be posted
+on this page and your use of this Conference Website after such changes
+have been posted will constitute your agreement to the modified Terms of
+Use and all of the changes.</p>
+<p><strong>Proprietary Rights</strong>
 </p>
-<p>All content on this Conference Website, including but not limited to text,
-graphics, logos, images, audio clips, digital downloads, and data compilations,
-is the property of NHG or its content suppliers and is protected by Singapore
-and international copyright laws.</p>
-<p><strong>4. External Links</strong>
+<p>This Conference Website is maintained by the National Healthcare Group
+Nursing Conference organising committee.</p>
+<p>The materials located on this Conference Website including conference
+information, programmes, presentations, and software programs (the Contents),
+are protected by copyright, trademark and other forms of proprietary rights.
+All rights, title and interest in the Contents are owned by, licensed to
+or controlled by the National Healthcare Group.</p>
+<p><strong>Restrictions on Use of Materials</strong>
 </p>
-<p>4.1. This Conference Website may contain links to third-party websites
-that are not under NHG's control or maintenance.</p>
-<p>4.2. These links are provided solely for your convenience, and NHG:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Does not endorse or make any representations about these third-party websites</p>
-</li>
-<li>
-<p>Is not responsible for the content, accuracy, or opinions expressed on
-such websites</p>
-</li>
-<li>
-<p>Will not be liable for any damages or losses arising from your use of
-these websites</p>
-</li>
-</ul>
-<p>4.3. Your use of third-party websites is subject to the terms and conditions
-of those sites.</p>
-<p><strong>5. Disclaimer of Warranties and Limitation of Liability</strong>
+<p>Except as otherwise provided, the Contents of this Conference Website
+shall not be reproduced, republished, uploaded, posted, transmitted or
+otherwise distributed in any way, without the prior written permission
+of the National Healthcare Group Nursing Conference organising committee.</p>
+<p>Modification of any of the Contents or use of the Contents for any other
+purpose will be a violation of the National Healthcare Group's copyright
+and other intellectual property rights. Graphics, images, conference materials
+and presentations on this Conference Website are protected by copyright
+and may not be reproduced or appropriated in any manner without written
+permission of the National Healthcare Group.</p>
+<p><strong>Conference Registration and Information</strong>
 </p>
-<p>5.1. This Conference Website and all content are provided "as is" and
-"as available" without any warranties, either express or implied.</p>
-<p>5.2. NHG does not warrant that:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The Conference Website will be error-free or uninterrupted</p>
-</li>
-<li>
-<p>Defects will be corrected</p>
-</li>
-<li>
-<p>The Conference Website or server is free of viruses or harmful components</p>
-</li>
-<li>
-<p>Information on the Conference Website is accurate, complete, or current</p>
-</li>
-</ul>
-<p>5.3. NHG shall not be liable for any direct, indirect, incidental, special,
-or consequential damages arising from:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The use or inability to use the Conference Website</p>
-</li>
-<li>
-<p>Any content posted, transmitted, or made available via the Conference
-Website</p>
-</li>
-<li>
-<p>Unauthorized access to or alteration of your transmissions or data</p>
-</li>
-</ul>
-<p><strong>6. User Conduct</strong>
+<p>Information regarding conference registration, programmes, speakers, and
+venues is subject to change. The National Healthcare Group Nursing Conference
+organising committee reserves the right to modify conference details, cancel
+sessions, or make substitutions as necessary without prior notice.</p>
+<p><strong>Disclaimer of Warranties and Liability</strong>
 </p>
-<p>Users of the Conference Website agree to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Use the website for lawful purposes only</p>
-</li>
-<li>
-<p>Not interfere with the website's functionality or security</p>
-</li>
-<li>
-<p>Not attempt to gain unauthorized access to any portion of the website</p>
-</li>
-<li>
-<p>Not collect or harvest any information from the website without written
-permission</p>
-</li>
-</ul>
-<p><strong>7. Privacy Policy</strong>
+<p>The Contents of this Conference Website are provided on an "as is" basis
+without warranties of any kind. To the fullest extent permitted by law,
+the National Healthcare Group does not warrant and hereby disclaims any
+warranty:</p>
+<p>as to the accuracy, correctness, reliability, timeliness, non-infringement,
+title, merchantability or fitness for any particular purpose of the Contents
+of this Conference Website;</p>
+<p>that the Contents available through this Conference Website or any functions
+associated therewith will be uninterrupted or error-free, or that defects
+will be corrected or that this Conference Website and the server is and
+will be free of all viruses and/or other harmful elements.</p>
+<p>The National Healthcare Group shall also not be liable for any damage
+or loss of any kind caused as a result (direct or indirect) of the use
+of the Conference Website, including but not limited to any damage or loss
+suffered as a result of reliance on the Contents contained in or available
+from the Conference Website.</p>
+<p><strong>Right of Access</strong>
 </p>
-<p>Your use of the Conference Website is also governed by our Privacy Policy,
-which is incorporated into these Terms of Use by reference.</p>
-<p><strong>8. Access Rights</strong>
+<p>The National Healthcare Group Nursing Conference organising committee
+reserves all rights to deny or restrict access to this Conference Website
+to any particular person, or to block access from a particular Internet
+address to this Conference Website, at any time, without ascribing any
+reasons whatsoever.</p>
+<p><strong>Links from this Conference Website to Other Websites</strong>
 </p>
-<p>8.1. NHG reserves the absolute right to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Deny or restrict access to this Conference Website to any person</p>
-</li>
-<li>
-<p>Block access from specific Internet addresses</p>
-</li>
-<li>
-<p>Modify or discontinue any aspect of the Conference Website at any time</p>
-</li>
-<li>
-<p>Take these actions without prior notice or explanation</p>
-</li>
-</ul>
-<p><strong>9. Governing Law</strong>
+<p>This Conference Website contains hyperlinks to websites which are not
+maintained by the National Healthcare Group. The National Healthcare Group
+is not responsible for the contents of those websites and shall not be
+liable for any damages or loss arising from access to those websites. Use
+of the hyperlinks and access to such websites are entirely at your own
+risk.</p>
+<p>Hyperlinks to other websites are provided as a convenience. In no circumstances
+shall the National Healthcare Group be considered to be associated or affiliated
+with any trade or service marks, logos, insignia or other devices used
+or appearing on websites to which this Conference Website is linked.</p>
+<p><strong>Links to this Conference Website from Other Websites</strong>
 </p>
-<p>T​​hese Terms of Use shall be governed and construed in accordance with
+<p>Except as set forth below, caching and links to, and the framing of this
+Conference Website or any of the Contents are prohibited.</p>
+<p>You must secure permission from the National Healthcare Group Nursing
+Conference organising committee prior to hyperlinking to, or framing, this
+Conference Website or any of the Contents, or engaging in similar activities.
+The National Healthcare Group reserves the right to impose conditions when
+permitting any hyperlinking to, or framing of this Conference Website or
+any of the Contents.</p>
+<p>Your linking to, or framing any part of this Conference Website or its
+Contents constitute acceptance of these Terms of Use. This is deemed to
+be the case even after the posting of any changes or modifications to these
+Terms of Use. If you do not accept these Terms of Use, you must discontinue
+linking to, or framing of this Conference Website or any of the Contents.</p>
+<p>In no circumstances shall the National Healthcare Group be considered
+to be associated or affiliated in whatever manner with any trade or service
+marks, logos, insignia or other devices used or appearing on websites that
+link to this Conference Website or any of the Contents.</p>
+<p>The National Healthcare Group reserves all rights to disable any links
+to, or frames of any site containing inappropriate, profane, defamatory,
+infringing, obscene, indecent or unlawful topics, names, material or information,
+or material or information that violates any written law, any applicable
+intellectual property, proprietary, privacy or publicity rights.</p>
+<p>The National Healthcare Group reserves the right to disable any unauthorised
+links or frames and disclaims any responsibility for the content available
+on any other site reached by links to or from this Conference Website or
+any of the Contents.</p>
+<p><strong>Governing Law</strong>
+</p>
+<p>These Terms of Use shall be governed and construed in accordance with
 laws of the Republic of Singapore.</p>
+<p><strong>Feedback and Enquiries</strong>
+</p>
+<p>For conference-related enquiries or feedback regarding this Conference
+Website, please contact the NHG Nursing Conference organising committee
+through the contact details provided on the Conference Website.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer__1_.gif">
 </div>
 <p></p>
