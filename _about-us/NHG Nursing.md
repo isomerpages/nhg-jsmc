@@ -4,16 +4,15 @@ permalink: /about-us/nhgnursing/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Foreword: </strong></h2>
-<p>In November 2020, NHG Chief Nurses, Heads of Nursing and Nurse leaders
-came together in a Nursing Retreat to set the strategic direction of NHG
-Nursing for the next 5-10 years, so as to inspire and elevate the nursing
-profession to greater heights. Supported by NHG Group Quality, and under
-the guidance of Professor Philip Choo (Group CEO), Professor Chua Hong
-Choon (Deputy Group CEO [Strategy &amp; Transformation]), and Associate
-Professor Tai Hwei Yee (then Group Chief Quality Officer), the nursing
-leaders collectively drew up the NHG Nursing Strategic Map, with a strategic
-goal for NHG Nurses to be:​</p>
+<h3><strong>25 Years of NHG Nursing: One Tapestry of Care</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/banner1.jpg">
+</div>
+<p>At the heart of this tapestry is NHG’s organisational values of <em>One NHG</em>, <em>Build Trust</em>, <em>Take Action</em>,
+and <em>Forge Ahead</em>. These principles guide nurses in their daily practice,
+fostering a unified approach to care that builds trust with patients and
+colleagues.</p>
 <h4><strong>Trusted &amp; Chosen to Provide Expert Advice,&nbsp;Decisions and Care​​</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -26,7 +25,7 @@ ensure continuity of care​</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Nurses beyond Nursing, Nursing beyond Nurses</strong> 
+<summary><strong>Nurses beyond Nursing, Nursing beyond Nurses</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>We will gain mastery of our own practice, and adopt transdisciplinary
@@ -50,7 +49,13 @@ embracing and empowering​.</p>
 </div>
 </details>
 </div>
-<hr>
 <p>Content from "<a href="https://corp.nhg.com.sg/Nursing/Pages/Who-Are-We.aspx" rel="noopener noreferrer nofollow" target="_blank">Who are we</a>"</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/joinus.jpg">
+</div>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NHG_Health_Corporate_Suite_of_Logos_Full_Colour.png">
+</div>
 <p></p>
 <p></p>

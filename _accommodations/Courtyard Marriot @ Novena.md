@@ -2,7 +2,8 @@
 title: Courtyard Marriot @ Novena
 permalink: /courtyard/
 variant: tiptap
-description: ""
+description: Find Out More About NHG's Inaugural Nursing Conference Happening On
+  1st and 2nd October 2025
 ---
 <p></p>
 <div class="isomer-image-wrapper">
@@ -31,6 +32,23 @@ hotel. For a private business meeting or celebration, opt for the hotel's
 modern function room with an adjoining patio or Las Palmas' intimate private
 function room offering breathtaking views of the CBD area.</p>
 <hr>
-<p>Click <a href="https://www.marriott.com/en-us/hotels/sincy-courtyard-singapore-novena/overview/" rel="noopener nofollow" target="_blank">HERE</a> to
-visit Courtyard Singapore Novena's website.</p>
+<h4>Website Link:</h4>
+<p><a href="https://www.marriott.com/en-us/hotels/sincy-courtyard-singapore-novena/overview/" rel="noopener noreferrer nofollow" target="_blank"><u>Novena Hotel in Singapore | Courtyard Singapore Novena</u></a>
+</p>
+<hr>
+<h4>Address:</h4>
+<p>COURTYARD BY MARRIOTT SINGAPORE NOVENA</p>
+<p>99 Irrawaddy Road, Singapore 329568</p>
+<hr>
+<h4>Direct Booking Information and Reservation Booking Links</h4>
+<p>Click Here:<strong> </strong><a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1753350085053&amp;key=GRP&amp;app=resvlink" rel="noopener noreferrer nofollow" target="_blank"><u>Courtyard by Marriott Singapore Novena – Hotel Accommodation (Online Reservation Link)</u></a>
+</p>
+<p>Click Here: <a href="/files/Option_B_Courtyard_by_Marriott_Singapre_Novena_Inaugural_NHG_Nursing_Conference_2025_and_28th_JSMNC_01_02_Oct_2025.pdf" rel="noopener nofollow" target="_blank">Refer to PDF file for more information.</a>
+</p>
+<p>If you have questions or need help with the link, please do not hesitate
+to contact us at +65-6378 2000 or email us at <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1753350085053&amp;amp;key=GRP&amp;amp;app=resvlink" rel="noopener noreferrer nofollow" target="_blank"><u>rsvn.courtyardsg@courtyard.com</u></a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer.gif">
+</div>
 <p></p>

@@ -1,4 +1,4 @@
-logo: /images/GN_Tagline__2020__wo_Background.png
+logo: /images/logo_whole_cropped.png
 links:
   - title: About Us
     collection: about-us
@@ -7,4 +7,4 @@ links:
   - title: Accommodations
     collection: accommodations
   - title: Contact Us
-    url: /contact_us/
+    url: /contact-us/

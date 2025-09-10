@@ -5,9 +5,11 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/programme_day_1_inaugural_nhg_nursing_conference_28thjsmnc2025_v1_cl.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Program list for day 1" src="/images/Programme_Day_1_Inaugural_NHG_Nursing_Conference_28thJSMNC2025_v1_CL.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer__1_.gif">
 </div>
 <p></p>
