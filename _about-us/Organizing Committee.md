@@ -229,7 +229,11 @@ to advance the nursing profession.</p>
 <details class="isomer-details">
 <summary>Ms Cheong Run Qi, Assistant Nurse Clinician, Tan Tock Seng Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Run Qi is a Hybrid Nurse Clinician-Scientist with Tan Tock Seng Hospital’s
+Nursing Implementation, Translation and Research Office (NITRO). As a clinician-scientist,
+she serves as a bridge between the direct patient care and research fields
+to answer clinical questions with evidence, and strengthen the translation
+of knowledge into practice.&nbsp;</p>
 </div>
 </details>
 </div>
