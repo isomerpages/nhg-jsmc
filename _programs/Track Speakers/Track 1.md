@@ -760,37 +760,48 @@ work, alongside pharmacotherapy.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d2 he hong-gu, linda.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whpualh.png">
 </div>
 <blockquote>
-<h4>Prof He Hong-Gu, Linda</h4>
+<h4>Ms Pua Lay Hoon</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Professor, Director of Graduate Research Programmes, Director of International
-Relations, Alice Lee Centre for Nursing Studies, Yong Loo Lin School of
-Medicine, National University of Singapore</summary>
+<summary><strong>Chief Nurse, Woodlands Health</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Prof HE Hong-Gu Linda is a Tenured Full Professor, Director of Graduate
-Research Programmes, Director of International Relations, and Chair of
-Women and Children Health Care Research Programme at NUS Nursing. She is
-an Executive Committee Member at the East Asian Forum of Nursing Scholars
-(EAFONS). Prof He’s main research areas include Women's and Children's
-Health Care and Chronic Disease Management. She is passionate about the
-involvement of technology in her interventional programmes for various
-clients by collaborating with multidisciplinary experts from Asian and
-Nordic countries (e.g. Finland, and Norway). She has received significant
-competitive research grants, published over 223 peer- reviewed journal
-articles with an h-index of 32, and delivered over 200 presentations and
-nearly 100 invited speeches internationally. To recognize her significant
-contributions to the field of nursing research, Prof. He was inducted as
-a Fellow of the American Academy of Nursing (FAAN) in 2021 and was selected
-as an Honouree of Sigma’s International Nurse Researcher Hall of Fame 2023.</p>
+<p><strong>Ms Pua Lay Hoon</strong> is the Chief Nurse of Woodlands Health
+(WH), Singapore’s newest integrated healthcare campus serving the northern
+population. With over 30 years of experience in nursing and healthcare
+leadership, she has played a pivotal role in shaping clinical services,
+talent development, and operational readiness at WH.</p>
+<p></p>
+<p>Ms Pua began her career in critical care at Tan Tock Seng Hospital and
+later transitioned into nursing education after completing her Bachelor
+and Master of Nursing (Education) in Australia. A recipient of the <strong>President’s Award for Nurses (2015)</strong>,
+she is widely recognized for her contributions to nursing education, including
+the development of structured clinical training programs and interprofessional
+learning frameworks.</p>
+<p></p>
+<p>Her foundation in nursing education continues to shape her leadership,
+empowering teams through mentorship, clarity of purpose, and a deep commitment
+to professional growth. At WH, she oversees nursing services and drives
+innovative care delivery while building future-ready capabilities through
+strategic workforce planning.</p>
+<p></p>
+<p>Ms Pua envisions WH as the <strong>“Hospital of Choice,”</strong> anchored
+by a nursing team that exemplifies the <strong>4Cs: Commitment, Competence, Confidence, and Cohesiveness</strong>.
+She also chairs the NHG Nursing Professional Development Workgroup and
+serves on the MOH Advanced Practice Nurse Review Committee, contributing
+to national standards in nursing accreditation and licensing.</p>
+<p>Her leadership is defined by compassion, clarity, and a relentless pursuit
+of excellence—qualities that continue to inspire the next generation of
+nurses in Singapore and beyond.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 1D2: Humanizing Digital Healthcare - Enhancing Tech-Enabled Communications
-with Empathy and Personal Touch</summary>
+<summary><strong>More Than a Number: How Nurses Deliver Value-Based Care in a KPI World</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Track 1D examines how to maintain compassionate, human-centered care in
 an increasingly digital healthcare environment. The track begins by exploring
