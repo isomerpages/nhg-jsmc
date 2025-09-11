@@ -17,65 +17,77 @@ third_nav_title: Track Speakers
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/james zheng zhongjia.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/pataraporn kheawwan.png">
 </div>
 <blockquote>
-<h4>Mr James Zheng Zhongjia</h4>
+<h4>Dr. Pataraporn Kheawwan</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Senior Staff Nurse, Nursing, Toa Payoh Polyclinic&nbsp;</summary>
+<summary>Dr. Pataraporn Kheawwan, PhD., RN, Faculty of Nursing, Chulalongkorn University</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>James is a Senior Staff Nurse at Toa Payoh Polyclinic and a First Class
-Honours graduate from the National University of Singapore since 2023.
-He exemplifies a new generation of nursing leaders dedicated to integrating
-clinical excellence with technological innovation in the primary care setting.&nbsp;</p>
+<p>Dr. Pataraporn Kheawwan, PhD, RN, is a highly respected nurse educator
+and healthcare leader with over 30 years of experience in clinical practice,
+nursing education, and professional development. Currently a Lecturer at
+the Faculty of Nursing, Chulalongkorn University, Thailand, she is nationally
+recognized for her leadership in developing competency-based education
+and structured residency training programs that support the integration
+of new nurses into the workforce.</p>
 <p>&nbsp;</p>
-<p>A keen observer of daily operational challenges, James actively translates
-the concerns of ground staff into practical solutions. His innovations
-are born from a desire to improve work efficiency and satisfaction; for
-instance, he developed a triage decision support chatbot to enhance clinical
-accuracy and reduce cognitive load for his colleagues. He also serves as
-the liaison for the clinic’s Robotic Process Automation (RPA) initiative,
-championing user-centric design by ensuring system improvements are directly
-informed by feedback from the front line.&nbsp;&nbsp;</p>
+<p>Dr. Kheawwan served as Senior Nurse Manager and Head of the Nursing Professional
+Development Center at King Chulalongkorn Memorial Hospital, where she pioneered
+Thailand’s first Post-Baccalaureate Residency Training Program in collaboration
+with the Thai Nursing and Midwifery Council. Her contributions have played
+a key role in shaping national nursing policies and competency frameworks,
+with a focus on intergenerational collaboration and professional growth.</p>
 <p>&nbsp;</p>
-<p>Beyond technology, James is a committed clinician who continuously refines
-his skills to provide effective mentorship as the Champion for Acute Care.
-His influence extends across the healthcare sector through is active role
-in the Innovation Community of Practice (CoP).&nbsp;&nbsp;</p>
+<p>She actively serves on multiple national committees under the Thai Nursing
+and Midwifery Council, including those on residency program implementation,
+continuing nursing education, and competency development for specialized
+nurses. Her work bridges academic, clinical, and policy spheres to support
+nurses at all stages—novice, emerging, and veteran—ensuring sustainable
+workforce development.</p>
 <p>&nbsp;</p>
-<p>James is driven by a clear mission: to keep identifying opportunities
-where technology meets nursing to ease the burdens of his fellow nurses
-and improve work efficiency. He is committed to developing more user-focused
-solutions, ensuring that innovation in primary care is practical, supportive,
-and empowering for all.&nbsp;</p>
+<p>Dr. Kheawwan’s expertise spans critical care, pain management, nurse mentorship,
+simulation-based education, and interprofessional collaboration. A frequent
+speaker at national and international conferences, she is passionate about
+creating supportive learning environments and resilient nursing systems
+that foster excellence across generations.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4A1: Novice on Board!: Integrating New Nurses into the Workforce</summary>
+<summary>Bridging Generations: The Novice, The Emerging &amp; The Veteran</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>This session dives into the dynamic journey of a new nurse adapting from
-academia to the diverse environment of a Singapore polyclinic. Hear firsthand
-how one MOHH Scholar, an NUS Highest Distinction graduate, conquered the
-theory-practice gap and built rock-solid clinical confidence.&nbsp;</p>
+<p>As healthcare systems evolve, the need for a well-prepared nursing workforce
+becomes more urgent than ever. This session explores how structured onboarding
+and residency training programs, developed through cross-national collaboration—particularly
+between Thailand and Singapore—have transformed the way new nurses are
+integrated into clinical practice. With education and leadership development
+at the core, these initiatives address the critical transition from classroom
+to clinical setting by bridging the gap between novice nurses and experienced
+professionals.</p>
 <p></p>
-<p>We'll unpack the unsung heroes: the support systems that truly made a
-difference in shaping a positive practice environment. But here's where
-it gets exciting: discover how personal drive, fueled by a passion for
-AI and informatics, led to genuine workflow revolutions. Get a peek into
-the ongoing pilot of a chatbot for polyclinic triage, seeing how tech isn't
-just theory – it's actively streamlining care and enhancing patient experiences.&nbsp;</p>
+<p>The presentation highlights Thailand’s national efforts to embed competency-based
+education into onboarding systems, fostering not only clinical proficiency
+but also leadership potential among emerging nurses. Through mentorship
+models, intergenerational knowledge-sharing, and modern learning platforms,
+new nurses gain the confidence and capability to thrive, while veteran
+nurses are empowered to lead, coach, and adapt to change.</p>
 <p></p>
-<p>This isn't just about personal growth; it's about making nursing better
-for everyone. Learn practical strategies for continuous learning and resilience-building,
-plus key traits for emerging nurse leaders who are ready to bridge generational
-differences and spark innovative change. It's a fresh look at how modern
-nursing, empowered by smart solutions, is shaping an amazing future!&nbsp;</p>
+<p>The session also outlines the policy-level impact of these innovations—illustrating
+how pilot programs evolved into national frameworks that now guide the
+professional development of thousands of nurses. Participants will gain
+practical insights into implementing scalable, evidence-informed strategies
+that enhance nurse retention, foster cross-generational collaboration,
+and ensure long-term sustainability of the nursing workforce.</p>
+<p></p>
+<p>Whether you are an educator, administrator, or policymaker, this session
+offers a forward-thinking model of how international inspiration and local
+innovation can be combined to strengthen nursing capacity, leadership,
+and workforce resilience for the future.</p>
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4a2 tan soh chin&nbsp;.png">
@@ -163,6 +175,13 @@ fostering leadership development.</p>
 </details>
 </div>
 <p></p>
+<details class="isomer-details">
+<summary>Track 4A3: Voices of Experience - A Dialogue Across Nursing Generations
+(Veteran, Emerging and Novice)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4a3 ryan chua.png">
 </div>
@@ -177,11 +196,42 @@ fostering leadership development.</p>
 <p><strong>Ryan received training in the US for Epic System Ambulatory and spearheaded the implementation for the new Electronic Medical Record system for Dermatology Nursing. He is also an active volunteer in Dermatology Nurses Chapter, Singapore Nurses Association for more than 10 years.</strong>&nbsp;</p>
 </div>
 </details>
-<details class="isomer-details">
-<summary>Track 4A3: Voices of Experience - A Dialogue Across Nursing Generations
-(Veteran, Emerging and Novice)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/james zheng zhongjia.png">
+</div>
+<blockquote>
+<h4>Mr James Zheng Zhongjia</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Senior Staff Nurse, Nursing, Toa Payoh Polyclinic&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>James is a Senior Staff Nurse at Toa Payoh Polyclinic and a First Class
+Honours graduate from the National University of Singapore since 2023.
+He exemplifies a new generation of nursing leaders dedicated to integrating
+clinical excellence with technological innovation in the primary care setting.&nbsp;</p>
+<p>&nbsp;</p>
+<p>A keen observer of daily operational challenges, James actively translates
+the concerns of ground staff into practical solutions. His innovations
+are born from a desire to improve work efficiency and satisfaction; for
+instance, he developed a triage decision support chatbot to enhance clinical
+accuracy and reduce cognitive load for his colleagues. He also serves as
+the liaison for the clinic’s Robotic Process Automation (RPA) initiative,
+championing user-centric design by ensuring system improvements are directly
+informed by feedback from the front line.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>Beyond technology, James is a committed clinician who continuously refines
+his skills to provide effective mentorship as the Champion for Acute Care.
+His influence extends across the healthcare sector through is active role
+in the Innovation Community of Practice (CoP).&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>James is driven by a clear mission: to keep identifying opportunities
+where technology meets nursing to ease the burdens of his fellow nurses
+and improve work efficiency. He is committed to developing more user-focused
+solutions, ensuring that innovation in primary care is practical, supportive,
+and empowering for all.&nbsp;</p>
 </div>
 </details>
 </div>
