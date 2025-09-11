@@ -416,8 +416,10 @@ nurses in Singapore and beyond.</p>
 <summary>Ms Sharifah Maryam Alhabshee Bte Zen, Nurse Manager, Khoo Teck Puat Hospital
 &amp; Yishun Community Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Over my 15 years as a nurse, I have learned to view situations from different perspectives and sincerely care for others. I am dedicated to treating patients equitably and providing reliable support to my colleagues, which motivates me to effectively lead the team.</strong>
-</p>
+<p>Over my 15 years as a nurse, I have learned to view situations from different
+perspectives and sincerely care for others. I am dedicated to treating
+patients equitably and providing reliable support to my colleagues, which
+motivates me to effectively lead the team.</p>
 </div>
 </details>
 </div>
