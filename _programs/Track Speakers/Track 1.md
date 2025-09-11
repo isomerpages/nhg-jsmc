@@ -691,6 +691,9 @@ models.</p>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1e1 cheang ka man.png">
+</div>
 <blockquote>
 <h4>Dr Cheang Ka Man</h4>
 </blockquote>
@@ -699,27 +702,59 @@ models.</p>
 <summary>Senior Consultant, Psychological Medicine, Khoo Teck Puat Hospital&nbsp;&amp;
 Yishun Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Cherie is a Senior Nurse Manager overseeing three surgical wards, bringing
-extensive clinical leadership experience to her role. As the Nursing Lead
-in Innovation, she champions transformative healthcare solutions within
-her institution. She also serves as Co-lead in the NHG Health Group Nursing
-Innovation Office, where she drives nursing innovation initiatives across
-the healthcare cluster. She is currently doing her MBA and has interest
-in healthcare financing policies.&nbsp;</p>
+<p>Dr Cheang Ka Man started her career in KTPH in 2015 as a Senior Resident
+in the Department of Psychological Medicine.&nbsp; In 2018, she received
+subspecialty training in systemic family therapy in Calgary Family Therapy
+Centre (Canada) under the HMDP award sponsorship.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>She is the Associate Program Director for the National Psychiatry Residency
+Program.&nbsp; She was awarded the Junior Doctor Teaching Award (NUS, 2016)
+and the Senior Doctor Teaching Award (NHG, 2021) for her teaching contributions.&nbsp;</p>
+<p></p>
+<p>Dr Cheang was involved in the revision of hospital policy, launch of the
+Suicide Precaution and co-developed the Suicide Awareness and Management
+e-learn modules in YH.&nbsp; She is a member of the National Suicide Screening
+Workgroup (2024).&nbsp;&nbsp;</p>
+<p></p>
+<p>Dr Cheang aspires to strengthen inter-agency collaboration using the unique
+therapeutic modality in family therapy called “reflecting team process”
+using the two-way mirror facility in ADMC.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 1D1: Nursing in the Digital Era - Supporting Elderly Patients with
-Compassion and Innovation.</summary>
+<summary>Track 1D1: Seeing Patients as People, than Numbers</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>As Singapore’s population ages, nursing care must evolve with technology
-while preserving compassion at its core. In this session, Ms Cherie Koh
-will share KTPH’s trials of Smart Diapers, Nobi Lamp and AI Food Imaging.
-She will highlight outcomes, challenges, and the way forward in integrating
-health technology to enhance geriatric care and nursing productivity. Attendees
-will gain practical insights into how digital innovations can transform
-care delivery for elderly patients, ensuring safety, dignity, and sustainable
-nursing practices.&nbsp;</p>
+<p>In today’s metrics-driven healthcare landscape, the challenge of preserving
+person-centered care has never been more pressing. This session, part of
+Track 1E, offers a psychiatrist’s lens on integrating mental health into
+holistic nursing practice, beginning with a simple yet profound shift:
+seeing patients as people, not numbers.&nbsp;</p>
+<p></p>
+<p>Drawing from Humberto Maturana’s theories of emotional intelligence, this
+presentation explores how emotional understanding, empathy, and relational
+dynamics form the core of healing. Maturana emphasized that emotions shape
+how individuals experience the world — a critical insight for healthcare
+professionals supporting patients through vulnerable moments. Attendees
+will gain insight into applying these principles to cultivate deeper patient-nurse
+connections that honour each person’s unique journey.&nbsp;</p>
+<p></p>
+<p>To illustrate this, case examples will be presented from the practice
+journey of a psychiatrist:&nbsp; through collaborative care grounded in
+emotional attunement and trust, and creation of holding spaces for difficult
+emotions and “un-understandable” sufferings as processes for rebuilding
+of lives.&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<p>The session will provide practical strategies for nurses to uphold individualized
+care while aligning with institutional KPIs, using NHG frameworks to balance
+safety, efficiency, and compassion. It concludes by reinforcing nursing’s
+pivotal role in long-term trauma recovery — supporting patients beyond
+the ward toward meaningful life milestones.&nbsp;</p>
+<p></p>
+<p>This presentation is a call to action: to remember that behind every chart
+and KPI is a human being — a story, not a statistic.&nbsp;</p>
+<p>The presenter is a general adult psychiatrist practicing in a public hospital
+in Singapore who employ systemic therapy approaches in her therapeutic
+work, alongside pharmacotherapy.</p>
 </div>
 </details>
 </div>
