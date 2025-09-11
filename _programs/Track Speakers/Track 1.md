@@ -848,26 +848,31 @@ efficiency.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Track 1D3: Future-Proofing Nursing - The Critical Role of Senior Nurses in Singapore's Healthcare Landscape.</strong>
-</summary>
+<summary><strong>Track 1D3: </strong>Rebuilding Lives After Traumatic Experiences:
+How nurses foster long-term healing beyond hospital?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>This presentation explores how Senior Nurses “Beyond the Bedside” contributes
-to mentorship, innovation, policy shaping and workforce stability, ensuring
-nursing remains resilient and future ready.&nbsp;</p>
-<p>&nbsp;</p>
-<p>Their contributions have touched lives far beyond what you have count,
-their wealth of experience, compassion, clinical wisdom, and humanity remain
-deeply needed.&nbsp;</p>
-<p>&nbsp;</p>
-<p>This is not a return to full timework. It’s a flexible, purposeful way
-to give forward, share their voice and stay connected to the profession
-they have built.&nbsp;</p>
-<p>&nbsp;</p>
-<p>Because Wisdom Never Retires, Our Guiding Force for the next generation.</p>
+<p>Trauma in alcohol-related frequent attenders extends beyond the immediate
+physical injuries, encompassing devastating experiences such as sudden
+deaths of loved ones, multiple falls, violence-related injuries, and life-altering
+disabilities. This session explores how nurses can effectively support
+both patients and their families through these complex trauma recoveries
+in the community setting.</p>
+<p></p>
+<p>Drawing from five years of experience with the Alcohol-Related Frequent
+Attender (ARFA) programme at KTPH, we will examine practical approaches
+to rebuilding lives after trauma. The presentation will showcase real-world
+strategies for crisis intervention, family support, and long-term rehabilitation.</p>
+<p></p>
+<p>Through compelling case studies, we will demonstrate how sustained nursing
+support, combined with community resources, can transform lives - from
+helping patients regain dignity and independence to supporting families
+through their caregiving journey. Participants will gain insights into
+effective intervention techniques, including crisis management, motivational
+interviewing, and family engagement, while learning how to navigate common
+challenges in community-based trauma recovery.&nbsp;</p>
 </div>
 </details>
 </div>
-<p></p>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d yvonne tan siow lin.png">
