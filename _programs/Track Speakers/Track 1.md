@@ -825,6 +825,10 @@ is a reflection of a story of healing, dignity and compassion.</p>
 </details>
 </div>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1e3 zhang ruyi .png">
+</div>
 <blockquote>
 <h4>Mr Zhang Ruyi&nbsp;</h4>
 </blockquote>
@@ -873,50 +877,26 @@ challenges in community-based trauma recovery.&nbsp;</p>
 </div>
 </details>
 </div>
+<p></p>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d yvonne tan siow lin.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d1 cherie koh.png">
 </div>
 <blockquote>
-<h4>Ms Yvonne Tan Siow Lin</h4>
+<h4>Ms Cherie Koh</h4>
 </blockquote>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Deputy Director of Nursing, Nursing Administration, Khoo Teck Puat Hospital&nbsp;&amp;
+<summary>Senior Nurse Manager, Inpatient Wards, Khoo Teck Puat Hospital&nbsp;&amp;
 Yishun Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Ms. Yvonne Tan is currently the Deputy Director of Nursing at Yishun Community
-Hospital (YCH), where she oversees nursing operations across sub-acute,
-rehabilitation, and inpatient hospice palliative care services. With over
-28 years of nursing experience, she has progressed through various leadership
-roles including Assistant Director of Nursing, Senior Nurse Manager, and
-Nurse Educator.&nbsp;</p>
-<p></p>
-<p>Her expertise spans across acute and community care settings, with experience
-in neuroscience nursing and nursing education. Prior to YCH, she held educator
-positions at Ng Teng Fong General Hospital and Khoo Teck Puat Hospital,
-where she developed nursing orientation programs and unit-specific training.&nbsp;</p>
-<p></p>
-<p>Ms. Tan holds a Master of Education in Curriculum and Teaching from the
-National Institute of Education, Singapore, complementing her Bachelor
-of Health Science (Nursing) from the University of Sydney and Advanced
-Diploma in Nursing (Neuroscience) from Nanyang Polytechnic. Her academic
-background includes teaching experience at Nanyang Polytechnic, where she
-contributed to both diploma and advanced diploma nursing programs.&nbsp;</p>
-<p></p>
-<p>She serves on multiple committees, including YCH Clinical Quality Improvement,
-Clinical Quality and Patient Safety, Long-Stayer Committee, and NHG Nursing
-Council. Under her leadership, her nursing team have championed various
-improvements in nursing practice, from structured probation guides and
-diaper weaning protocols to nursing handover revamp and telepresence robot
-implementation. These initiatives extend to geriatric engagement programs,
-enhanced patient communication guidelines, and improved charging processes
-to reduce revenue leakages.&nbsp;</p>
-<p></p>
-<p>Her commitment to nurturing ground-up initiatives and empowering staff
-continues to shape community healthcare delivery in Singapore, particularly
-in areas of staff development, patient safety, and innovative care delivery
-models.</p>
+<p>Cherie is a Senior Nurse Manager overseeing three surgical wards, bringing
+extensive clinical leadership experience to her role. As the Nursing Lead
+in Innovation, she champions transformative healthcare solutions within
+her institution. She also serves as Co-lead in the NHG Health Group Nursing
+Innovation Office, where she drives nursing innovation initiatives across
+the healthcare cluster. She is currently doing her MBA and has interest
+in healthcare financing policies.&nbsp;</p>
 </div>
 </details>
 </div>
