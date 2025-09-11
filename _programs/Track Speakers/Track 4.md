@@ -175,13 +175,9 @@ fostering leadership development.</p>
 </details>
 </div>
 <p></p>
-<details class="isomer-details">
-<summary>Track 4A3: Voices of Experience - A Dialogue Across Nursing Generations
-(Veteran, Emerging and Novice)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>Track 4A3: Voices of Experience - A Dialogue Across Nursing Generations
+(Veteran, Emerging and Novice)</p>
 <p></p>
-</div>
-</details>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4a3 ryan chua.png">
 </div>
