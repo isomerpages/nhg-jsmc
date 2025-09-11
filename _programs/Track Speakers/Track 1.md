@@ -259,7 +259,7 @@ a unified care ecosystem that honors diversity while delivering excellence.&nbsp
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1b3 alison ong .png">
 </div>
 <blockquote>
-<h4>Ms Alison Ong #</h4>
+<h4>Ms Alison Ong</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
