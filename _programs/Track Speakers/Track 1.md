@@ -834,10 +834,9 @@ is a reflection of a story of healing, dignity and compassion.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Mr. Zhang Ruyi is an Assistant Nurse Clinician at Khoo Teck Puat Hospital
 with over 18 years of experience in nursing, specializing in community
-healthcare and mental health.</p>
-<p></p>
-<p>Having previously served at the Institute of Mental Health, he now leads
-KTPH@Home and innovative programmes for frequent emergency department attendees.</p>
+healthcare and mental health. Having previously served at the Institute
+of Mental Health, he now leads KTPH@Home and innovative programmes for
+frequent emergency department attendees.</p>
 <p></p>
 <p>His work, particularly the Alcoholic Related Frequent Attender (ARFA)
 programme, has received multiple recognitions, including the NHG Research
