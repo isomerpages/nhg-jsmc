@@ -211,7 +211,7 @@ providers toward shared health objectives.</p>
 <p>4.10 pm - 4.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Preventive care through collaborative relationship</p>
+<p>Preventive Care Through Collaborative Relationship.</p>
 </td>
 </tr>
 <tr>
@@ -219,7 +219,7 @@ providers toward shared health objectives.</p>
 <p>4.30 pm - 5.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A - Moderator: SNM Siok Qi, KTPH</p>
+<p>Q&amp;A - Moderator: SNM Siok Qi, KTPH &amp; YH</p>
 </td>
 </tr>
 </tbody>
@@ -263,7 +263,7 @@ human element of nursing care.</p>
 <p>11.00 am - 11.20 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nursing in the Digital Era: Supporting Elderly Patients with Compassion
+<p>Nursing in the Digital Era - Supporting Elderly Patients with Compassion
 and Innovation</p>
 </td>
 </tr>
@@ -272,8 +272,8 @@ and Innovation</p>
 <p>11.20 am - 11.40 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Humanizing Digital Healthcare: Enhancing Tech-Enabled Communication with
-Empathy and&nbsp;Personal&nbsp;Touch</p>
+<p>Humanizing Digital Healthcare - Enhancing Tech-Enabled Communications
+with Empathy and Personal Touch</p>
 </td>
 </tr>
 <tr>
@@ -281,8 +281,8 @@ Empathy and&nbsp;Personal&nbsp;Touch</p>
 <p>11.40 am - 12.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Future-Proofing Nursing: The Critical Role of Senior Nurses in Singapore's
-Evolving Healthcare&nbsp;Landscape</p>
+<p>Future-Proofing Nursing - The Critical Role of Senior Nurses in Singapore's
+Healthcare Landscape</p>
 </td>
 </tr>
 <tr>
@@ -290,7 +290,7 @@ Evolving Healthcare&nbsp;Landscape</p>
 <p>12.00 pm - 12.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A - Moderator: DDN Yvonne Tan, YCH</p>
+<p>Q&amp;A - Moderator: DDN Yvonne Tan, KTPH &amp; YH</p>
 </td>
 </tr>
 </tbody>
