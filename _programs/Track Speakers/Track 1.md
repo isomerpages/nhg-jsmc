@@ -803,53 +803,49 @@ nurses in Singapore and beyond.</p>
 <summary><strong>More Than a Number: How Nurses Deliver Value-Based Care in a KPI World</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Track 1D examines how to maintain compassionate, human-centered care in
-an increasingly digital healthcare environment. The track begins by exploring
-innovative approaches to elderly care in the digital era, focusing on how
-technology can enhance rather than replace the human touch in nursing practice.
-It demonstrates how digital solutions can support nurses in delivering
-more personalized, effective care while maintaining meaningful patient
-connections.&nbsp;&nbsp;</p>
+<p>In today’s healthcare, the performance or outcome is often measured by
+number, among them include Length of stay, waiting time. The essence of
+nursing can potentially be reduced to merely a statistic. The session attempts
+to explore how nurses can lead the transformation towards delivering value-based
+care, where patient centric outcomes, dignity, and patients overall experience
+hold equal weightage to KPIs. Discussion will include</p>
 <p>&nbsp;</p>
-<p>The discussion then moves to the critical balance between digital efficiency
-and human empathy in healthcare communication. This session addresses the
-challenge of depersonalization in tech-enabled care, offering practical
-strategies for nurses to leverage technology while preserving authentic
-human connections with patients.&nbsp;</p>
-<p>&nbsp;</p>
-<p>The track concludes by examining how senior nurses play a vital role in
-Singapore's evolving healthcare landscape. It explores ways to bridge generational
-gaps in nursing practice, promote workforce diversity, and ensure experienced
-nurses continue to contribute their valuable insights in shaping a future
-where technology and human compassion work in harmony. Throughout these
-sessions, the focus remains on creating a healthcare environment where
-technological advancement enhances rather than diminishes the essential
-human element of nursing care.&nbsp;</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Balance KPIs with human care, where attempts
+to meet the organisational target will not compromise the patient centredness</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Reframe length of stay, from a rigid number
+into a meaningful quality measure</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp; Nurses as advocate of care model that drive
+both meaningful patient outcome and system efficiency</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp; Embed value-based care thinking so that patient
+can be guided on decision making in this KPI driven culture.</p>
+<p>In conclusion, roles of nurses in reshaping the mindset of KPIs; aligning
+practice with value-based care, and ultimately ensuring every number reported
+is a reflection of a story of healing, dignity and compassion.</p>
 </div>
 </details>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d3 lim swee hia.png">
-</div>
 <blockquote>
-<h4>Prof Lim Swee Hia</h4>
+<h4>Mr Zhang Ruyi&nbsp;</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Emeritus Advisor/Senior Director, DGCEO (Medical &amp; Clinical Services)
-Office&nbsp;&nbsp;</summary>
+<summary>Assistant Nurse Clinician, Khoo Teck Puat Hospital&nbsp;&amp; Yishun Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Swee Hia has been pivotal in growing SingHealth’s nursing capacity and expertise over the years. She was key in developing the SingHealth Alice Lee Institute of Advanced Nursing (IAN), which has been the principal node for delivering specialisation programmes to catalyse and elevate practice-based training for nurses and healthcare support staff. In 2007, she led IAN to achieve the distinction of being accredited by the American Nurses Credentialing Centre (ANCC) as a Continuing Nursing Education Provider, the first in Asia and third outside the United States to achieve this.&nbsp;&nbsp;&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Swee Hia also played an instrumental role in leading SGH to achieve its first Joint Commission International (JCI) accreditation in 2005 – the largest teaching hospital in Asia to be accorded such recognition at that time. In 2010, she led SGH to become the first Magnet hospital in Singapore and South-East Asia, a testament to the hospital’s world-class quality nursing care.&nbsp;&nbsp;&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>As a key member of the former Singapore Workforce Development Agency’s Healthcare Industry Skills Training Council, Swee Hia was involved in the set-up, review and expansion of the Healthcare Support WSQ framework. She also spearheaded the Skills Training Employability Enhancement for Retrenched and Unemployed Workers (STEER) and Return-To-Nursing (RTN) programmes for Registered and Enrolled Nurses, as well as introduced the Principal Enrolled Nurses into the Enrolled Nurses Career Development Plan and the Tan Chin Tuan Nursing Award for Enrolled Nurses.&nbsp;&nbsp; During her tenure as the President of the Singapore Nurses Association (SNA) from 2012 to 2020, Swee Hia led the SNA to win the bid to host the International Council of Nurses Congress for the first time in Singapore in 2019, which was attended by more than 5,000 nursing leaders from 120 countries.</strong>
-</p>
+<p>Mr. Zhang Ruyi is an Assistant Nurse Clinician at Khoo Teck Puat Hospital
+with over 18 years of experience in nursing, specializing in community
+healthcare and mental health.</p>
+<p></p>
+<p>Having previously served at the Institute of Mental Health, he now leads
+KTPH@Home and innovative programmes for frequent emergency department attendees.</p>
+<p></p>
+<p>His work, particularly the Alcoholic Related Frequent Attender (ARFA)
+programme, has received multiple recognitions, including the NHG Research
+Impact Award 2022, and has been featured on national media. With a Bachelor
+of Health Sciences (Honours) in Nursing and an Advanced Diploma in Mental
+Health, Mr. Zhang focuses on developing community-based interventions and
+personalised care approaches to improve patient outcomes and healthcare
+efficiency.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
