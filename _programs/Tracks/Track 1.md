@@ -58,7 +58,7 @@ featuring successful case studies of cross-institutional partnerships.</p>
 <p>11.00 am - 11.20 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Journeying With Patients Through Integrated Care Networks.</p>
+<p>Journeying With Patients Through Integrated Care Networks</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +67,7 @@ featuring successful case studies of cross-institutional partnerships.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Breaking Silos - Encouraging Cross-Setting Collaboration in Palliative
-Care.</p>
+Care</p>
 </td>
 </tr>
 <tr>
@@ -211,7 +211,7 @@ providers toward shared health objectives.</p>
 <p>4.10 pm - 4.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Preventive Care Through Collaborative Relationship.</p>
+<p>Preventive Care Through Collaborative Relationship</p>
 </td>
 </tr>
 <tr>
@@ -344,8 +344,8 @@ merely as statistics or cases.</p>
 <p>2.25 pm - 2.45 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rebuilding Lives After Traumatic Experiences: How nurses foster long-term
-healing beyond hospital&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Rebuilding Lives After Traumatic Experiences: How Nurses Foster Long-Term
+Healing Beyond Hospital&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
