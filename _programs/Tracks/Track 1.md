@@ -66,7 +66,7 @@ featuring successful case studies of cross-institutional partnerships.</p>
 <p>11.20 am - 11.40 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Breaking Silos - Encouraging Cross-Setting Collaboration in Palliative
+<p>Breaking Silos - Encouraging Cross-Setting Collaboration In Palliative
 Care</p>
 </td>
 </tr>
@@ -76,7 +76,7 @@ Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sharing Best Practices : Sharing Best Practices - Leveraging Diversity
-for Better Patient Outcomes Through Strengthened Relationship</p>
+For Better Patient Outcomes Through Strengthened Relationship</p>
 </td>
 </tr>
 <tr>
@@ -129,7 +129,7 @@ of our diverse community.</p>
 <p>1.45 pm - 2.05 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Compassion Without Borders: The Universal Language of Care - Humanitude
+<p>Compassion Without Borders: The Universal Language Of Care - Humanitude
 In Dementia Care</p>
 </td>
 </tr>
@@ -138,7 +138,7 @@ In Dementia Care</p>
 <p>2.05 pm - 2.25 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Connecting Hearts and Practices: Uniting Diverse Institutions in Holistic
+<p>Connecting Hearts and Practices: Uniting Diverse Institutions In Holistic
 Care</p>
 </td>
 </tr>
@@ -147,7 +147,7 @@ Care</p>
 <p>2.25 pm - 2.45 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>From Institution to Individuals: Unified Care Through Empathy and Inclusion</p>
+<p>From Institution to Individuals: Unified Care Through Empathy And Inclusion</p>
 </td>
 </tr>
 <tr>
