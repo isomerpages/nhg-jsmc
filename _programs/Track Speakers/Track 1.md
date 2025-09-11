@@ -494,7 +494,7 @@ and operational efficiency.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d1 cherie koh.png">
 </div>
 <blockquote>
-<h4>Ms Cherie Koh#</h4>
+<h4>Ms Cherie Koh</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
