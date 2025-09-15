@@ -234,6 +234,46 @@ and empowering for all.&nbsp;</p>
 </details>
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4a2 tan soh chin&nbsp;.png">
+</div>
+<blockquote>
+<h4>Ms Tan Soh Chin&nbsp;</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Senior Director (Special Projects), Medical &amp; Clinical Services, SingHealth&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Soh Chin is Senior Director (Special Projects), Medical and Clinical Services,
+SingHealth.&nbsp;&nbsp;</p>
+<p>Prior to the current appointment, she was the Chief Nursing Officer (CNO)
+at Ministry of Health (MOH) from Jan 2015 to June 2020.&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
+<p>During her stint as CNO, she had made invaluable contributions to the
+nursing profession and practice. She was at the forefront of nursing transformation
+in formulating nursing development and resource policies, which led to
+significant improvements in the delivery of nursing care. She also set
+the policies and strategies on developing and regulating the nursing profession
+in Singapore. She spearheaded key initiatives aimed at enhancing competency-based
+nursing education at the national level; this helped to equip nurses with
+advanced clinical skills to manage patients with complex needs and developed
+community nursing in the Regional Health System&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
+<p>In 2021, Soh Chin was appointed as Chair of the Nasogastric Tube (NGT)
+Review Workgroup (MOH) and led efforts to reduce the risk of NGT placement
+and feeding-related risks, resulting in revised National Guidelines on
+Nursing Management of NGT that benefit adult patients across healthcare
+settings.&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
+<p>In her current role as Senior Director (Special Projects), SingHealth,
+Soh Chin supports the DGCEO (Medical and Clinical Services) and Group Chief
+Nurse in shaping strategic directions for nursing care, service transformation
+and community nursing across the cluster. She is also a member of the SingHealth
+Leadership Coaching and Mentoring Council and contributes actively to mentoring
+and inspiring institutional leaders across the cluster.</p>
+</div>
+</details>
+</div>
 <h4>Moderator</h4>
 <p></p>
 <div class="isomer-image-wrapper">
