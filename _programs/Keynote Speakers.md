@@ -6,7 +6,6 @@ description: ""
 ---
 <h3>Keynote 1</h3>
 <h4><strong>Nursing Leadership In Times Of Change - Building The Resilience Of Tomorrow's Healthcare</strong></h4>
-<h4></h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -43,6 +42,11 @@ description: ""
 </table>
 <h3>Key Panel 1 Discussion</h3>
 <p>Strategies taken by each cluster to enable better change in nursing roles</p>
+<h4>Moderator</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whpualh.png">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/Untitled__42_x_59_4_cm___600_x_400_px___600_x_600_px_.png">
 </div>
@@ -100,21 +104,8 @@ and committed to high-quality, person-centred care.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <blockquote>
-<h4>, </h4>
-</blockquote>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<blockquote>
 <h4>NUHS GCN</h4>
 </blockquote>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Discuss on strategies taken by each cluster to enable better change in
-nursing roles</p>
 </td>
 </tr>
 </tbody>
