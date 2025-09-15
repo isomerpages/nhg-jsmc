@@ -333,28 +333,6 @@ from 2021 to 2024.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
-</div>
-<blockquote>
-<h4>Awaiting info</h4>
-</blockquote>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>#</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Track 4B1: Shared Governance in Action: Strategies for Empowerment</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4b2 tan lai hong.png">
 </div>
@@ -377,7 +355,7 @@ Care.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4B2: Nursing Engagement &amp; Retention: Cultivating a Thriving
+<summary>Track 4B1: Nursing Engagement &amp; Retention: Cultivating a Thriving
 Workforce for Sustainable Healthcare</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul>
@@ -399,15 +377,37 @@ Workforce for Sustainable Healthcare</summary>
 </details>
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
-<h4>Awaiting Info</h4>
+<h4>Yu Liang#</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Deputy Director of Nursing</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Track 4B2: Shared Governance in Action: Strategies for Empowerment</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+</div>
+<blockquote>
+<h4>Ms Yvonne Ng</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Chief, People and Organisation Development</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
