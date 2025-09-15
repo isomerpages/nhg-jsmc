@@ -46,7 +46,32 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whpualh.png">
 </div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Ms Pua Lay Hoon</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Chief Nurse, Woodlands Health</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Ms Pua Lay Hoon is the Chief Nurse of Woodlands Health (WH), Singapore’s
+newest integrated healthcare campus serving the northern population. With
+over 30 years of experience in nursing and healthcare leadership, she has
+played a pivotal role in shaping clinical services, talent development,
+and operational readiness at WH.</p>
 <p></p>
+</div>
+</details>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/Untitled__42_x_59_4_cm___600_x_400_px___600_x_600_px_.png">
 </div>
@@ -88,23 +113,9 @@ and committed to high-quality, person-centred care.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<blockquote>
-<h4>Moderator: Lay Hoon</h4>
-</blockquote>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <blockquote>
-<h4>Ms Pauline Tan, Chief Nurse, National Kidney Foundation</h4>
-</blockquote>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<blockquote>
-<h4>NUHS GCN</h4>
+<h4>NUHS GCN </h4>
 </blockquote>
 </td>
 </tr>
