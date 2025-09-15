@@ -115,7 +115,7 @@ and committed to high-quality, person-centred care.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <blockquote>
-<h4>NUHS GCN </h4>
+<h4>NUHS GCN</h4>
 </blockquote>
 </td>
 </tr>
