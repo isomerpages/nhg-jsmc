@@ -181,7 +181,9 @@ fostering leadership development.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4a3 ryan chua.png">
 </div>
+<blockquote>
 <h4>Mr Ryan Chua</h4>
+</blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Senior Nurse Manager, Nursing, National Skin Centre&nbsp;</summary>
@@ -313,7 +315,6 @@ from 2021 to 2024.</p>
 </details>
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4b2 tan lai hong.png">
 </div>
@@ -357,7 +358,6 @@ Workforce for Sustainable Healthcare</summary>
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
