@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>Keynote 1</h3>
-<h4><strong>Integration, Influencing and Inspiring Nurses Across Sectors</strong></h4>
+<h4><strong>Nursing Leadership In Times Of Change - Building The Resilience Of Tomorrow's Healthcare</strong></h4>
 <blockquote>
 <p>Ms Paulin Tan</p>
 </blockquote>
