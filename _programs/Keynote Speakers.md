@@ -16,9 +16,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sharing of approaches taken to for nurses to work across different levels,
-sectors and transdisciplinary. How can we inspire and influence future
-nurses on care&nbsp;</p>
+<p>-Update synopsis</p>
 </td>
 </tr>
 </tbody>
@@ -39,14 +37,14 @@ nurses on care&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <blockquote>
-<h4>Ms Paulin Tan, NKF Head Nurse</h4>
+<h4>Ms Pauline Tan, Chief Nurse, National Kidney Foundation</h4>
 </blockquote>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <blockquote>
-<h4>NHG GCN A/Prof Yong KK</h4>
+<h4>Adjunct Associate Professor Yong Keng Kwang, Group Chief Nurse (NHG Health), Chief Wellness Officer (NHG Health), Assistant Chief Executive Officer (Institute of Mental Health)</h4>
 </blockquote>
 </td>
 </tr>
