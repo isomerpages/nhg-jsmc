@@ -381,19 +381,53 @@ Workforce for Sustainable Healthcare</summary>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
 </div>
 <blockquote>
-<h4>Yu Liang#</h4>
+<h4>Ms Yu Liang</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Deputy Director of Nursing</summary>
+<summary>Deputy Director of Nursing, Nursing Service, Tan Tock Seng Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Yu Liang is the Deputy Director of Nursing at Tan Tock Seng Hospital,
+Singapore, overseeing clinical nursing operations across acute, integrated
+and ambulatory care settings as the Cluster Lead for Clinical Operations.
+With 28 years of nursing experience, she specializes in critical care nursing
+and holds a Master of Health Science (Management). As a strong advocate
+for safe infusion practices, she also leads nursing for CPIP Improvement
+and serves as an improvement advisor, playing a pivotal role in advancing
+clinical quality standards and enhancing patient outcomes. Yu Liang co-chairs
+the Shared Governance Coordinating Council at Tan Tock Seng Hospital, where
+she leads the strategic development to foster a culture of Nursing Excellence.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Track 4B2: Shared Governance in Action: Strategies for Empowerment</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Traditional healthcare hierarchies often limit nursing professionals'
+decision-making power and organisational influence. This presentation demonstrates
+how shared governance transforms nursing practice by redistributing authority
+and accountability across all institutional levels. TTSH Nursing Shared
+Governance explores foundational concepts and theoretical frameworks underpinning
+shared governance. We examine four core principles essential for successful
+implementation and detail TTSH Nursing's transformative journey. The presentation
+showcases our comprehensive shared governance model, featuring structured
+unit councils, governance councils, and coordinating councils. Participants
+will understand our complete nursing shared governance framework and its
+practical applications. Outcomes and Impact presents findings from our
+shared governance implementation. We demonstrate coordinating council representation
+effectiveness, highlight achievements across six governance councils, and
+showcase unit council developments. The session explores observed changes
+in nursing engagement, decision-making processes, and organisational culture
+following shared governance adoption. 18 June 2025 (Info is accurate as
+of this date. Subjected to changes) Page 3 of 4 Next Steps provides actionable
+strategies for sustainable implementation. We emphasise learning through
+continuous improvement, cultural transformation, leadership development,
+and transparent communication channels. The session concludes with key
+takeaways designed to guide participants' shared governance journey, specific
+action items for immediate implementation, and practical recommendations
+for long-term success. Participants will leave equipped with proven strategies
+to implement shared governance in their organisations, empowering nursing
+professionals to participate actively in decision-making processes whilst
+enhancing patient care outcomes and professional satisfaction.</p>
 </div>
 </details>
 </div>
