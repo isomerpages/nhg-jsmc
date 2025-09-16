@@ -334,50 +334,6 @@ from 2021 to 2024.</p>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4b2 tan lai hong.png">
-</div>
-<blockquote>
-<h4>Mr Tan Lai Hong</h4>
-</blockquote>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Deputy Director of Nursing, Woodlands Health</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Over the past 30 years Lai Hong has worked in several public institutions
-including Toa Payoh Hospital, Institute of Mental Health, Ministry of Health,
-NHG Polyclinics and Agency for Integrates Care, and Republic Polytechnic.<strong>&nbsp; </strong>His
-experiences include clinical nursing, manpower policy, health regulation,
-healthcare finance, human resource management operations, education, and
-administration.&nbsp; His current portfolio in Woodlands Health is nursing
-manpower and talent development. He also has post-graduate qualifications
-including Master of Public Administration and a Specialist Diploma in Palliative
-Care.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Track 4B1: Nursing Engagement &amp; Retention: Cultivating a Thriving
-Workforce for Sustainable Healthcare</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul>
-<li>
-<p>Building strong foundation in nursing education&nbsp;&nbsp;</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>Empowering work environment for continuous learning and development&nbsp;&nbsp;</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>Care and support for work and life.&nbsp;</p>
-</li>
-</ul>
-</div>
-</details>
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4b2 yu liang.png">
 </div>
 <blockquote>
@@ -400,7 +356,7 @@ she leads the strategic development to foster a culture of Nursing Excellence.</
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4B2: Shared Governance in Action: Strategies for Empowerment</summary>
+<summary>Track 4B1: Shared Governance in Action - Strategies for Empowerment</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Traditional healthcare hierarchies often limit nursing professionals'
 decision-making power and organisational influence. This presentation demonstrates
@@ -433,22 +389,86 @@ enhancing patient care outcomes and professional satisfaction.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4b2 tan lai hong.png">
+</div>
+<blockquote>
+<h4>Mr Tan Lai Hong</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Deputy Director of Nursing, Woodlands Health</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Over the past 30 years Lai Hong has worked in several public institutions
+including Toa Payoh Hospital, Institute of Mental Health, Ministry of Health,
+NHG Polyclinics and Agency for Integrates Care, and Republic Polytechnic.<strong>&nbsp; </strong>His
+experiences include clinical nursing, manpower policy, health regulation,
+healthcare finance, human resource management operations, education, and
+administration.&nbsp; His current portfolio in Woodlands Health is nursing
+manpower and talent development. He also has post-graduate qualifications
+including Master of Public Administration and a Specialist Diploma in Palliative
+Care.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Track 4B2: Nursing Engagement &amp; Retention: Cultivating a Thriving
+Workforce for Sustainable Healthcare</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul>
+<li>
+<p>Building strong foundation in nursing education&nbsp;&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Empowering work environment for continuous learning and development&nbsp;&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Care and support for work and life.&nbsp;</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4b3 yvonne ng.png">
 </div>
 <blockquote>
 <h4>Ms Yvonne Ng</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Chief, People and Organisation Development</summary>
+<summary>Chief, People &amp; Organisation Development, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Yvonne currently oversees People Development, Organisation Development
+and Clinical Education in Woodlands Health (WH).&nbsp; She is also the
+Director for Institute of Healthcare Leadership and Management, NHG Health
+College.&nbsp; She provides strategic leadership in building capacity and
+capability for NHG’s current and future workforce.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>Yvonne’s background in engineering and education gave her the ability
+to use both the system and people-centred lenses to facilitate and lead
+change, as well as culture building efforts for her organisation.&nbsp;
+She has been involved in people development, education and learning for
+the past 20 years and organisation development for the past 8 years.&nbsp;
+She is actively involved in facilitating leadership programmes, facilitating
+team conversations, team coaching, facilitating change and coaching young
+leaders in her organisation and beyond.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Track 4B3: Empowering the Future of Nursing: The Impact of Mentorship</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>A positive nursing environment thrives when nurses are empowered through
+shared governance and active participation in workplace decisions. When
+nurses are engaged through meaningful initiatives and supported by strong
+mentorship programs, they develop both confidence and competence in their
+roles. This combination of empowerment, engagement, and mentorship creates
+a workplace where nurses feel valued and motivated, leading to better job
+satisfaction, improved retention, and ultimately, higher quality patient
+care.</p>
 </div>
 </details>
 </div>
@@ -488,7 +508,6 @@ innovate and leading the care.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4c1 hoi shu yin.png">
 </div>
@@ -786,6 +805,7 @@ but also preserves its essence of humanity and care.&nbsp;</p>
 </div>
 </details>
 </div>
+<p></p>
 <h4>Panel Discussion</h4>
 <p>Track 4D3: Breaking Barriers and Celebrating Diversity at Work</p>
 <p></p>
