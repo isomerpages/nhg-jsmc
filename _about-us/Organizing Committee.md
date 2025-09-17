@@ -776,9 +776,8 @@ Hospital</summary>
 </table>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NHG_Suite.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NHG_Health_Corporate_Suite_of_Logos_Full_Colour.png">
 </div>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
