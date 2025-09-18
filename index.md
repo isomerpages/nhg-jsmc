@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: NHG Nursing Conference In Conjunction With Joint Singapore-Malaysia
-  Nursing Conference
+title: Inaugural NHG Nursing Conference In Conjunction With Joint
+  Singapore-Malaysia Nursing Conference
 description: 'Inaugural NHG Nursing Conference In Conjunction With 28th Joint
   Singapore-Malaysia Nursing Conference 2025.  The National Healthcare Group
   proudly presents its inaugural nursing conference, in collaboration with the

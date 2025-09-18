@@ -23,7 +23,33 @@ description: ""
 <details class="isomer-details">
 <summary>Ms Pua Lay Hoon, Chief Nurse, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Ms Pua Lay Hoon</strong> is the Chief Nurse of Woodlands Health
+(WH), Singapore’s newest integrated healthcare campus serving the northern
+population. With over 30 years of experience in nursing and healthcare
+leadership, she has played a pivotal role in shaping clinical services,
+talent development, and operational readiness at WH.</p>
 <p></p>
+<p>Ms Pua began her career in critical care at Tan Tock Seng Hospital and
+later transitioned into nursing education after completing her Bachelor
+and Master of Nursing (Education) in Australia. A recipient of the <strong>President’s Award for Nurses (2015)</strong>,
+she is widely recognized for her contributions to nursing education, including
+the development of structured clinical training programs and interprofessional
+learning frameworks.</p>
+<p></p>
+<p>Her foundation in nursing education continues to shape her leadership,
+empowering teams through mentorship, clarity of purpose, and a deep commitment
+to professional growth. At WH, she oversees nursing services and drives
+innovative care delivery while building future-ready capabilities through
+strategic workforce planning.</p>
+<p></p>
+<p>Ms Pua envisions WH as the <strong>“Hospital of Choice,”</strong> anchored
+by a nursing team that exemplifies the <strong>4Cs: Commitment, Competence, Confidence, and Cohesiveness</strong>.
+She also chairs the NHG Nursing Professional Development Workgroup and
+serves on the MOH Advanced Practice Nurse Review Committee, contributing
+to national standards in nursing accreditation and licensing.</p>
+<p>Her leadership is defined by compassion, clarity, and a relentless pursuit
+of excellence—qualities that continue to inspire the next generation of
+nurses in Singapore and beyond.</p>
 </div>
 </details>
 </div>
@@ -203,7 +229,11 @@ to advance the nursing profession.</p>
 <details class="isomer-details">
 <summary>Ms Cheong Run Qi, Assistant Nurse Clinician, Tan Tock Seng Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Run Qi is a Hybrid Nurse Clinician-Scientist with Tan Tock Seng Hospital’s
+Nursing Implementation, Translation and Research Office (NITRO). As a clinician-scientist,
+she serves as a bridge between the direct patient care and research fields
+to answer clinical questions with evidence, and strengthen the translation
+of knowledge into practice.&nbsp;</p>
 </div>
 </details>
 </div>
@@ -325,7 +355,33 @@ leadership &amp; CPIP initiatives, driving excellence in quality improvement
 <details class="isomer-details">
 <summary>Ms Pua Lay Hoon, Chief Nurse, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Ms Pua Lay Hoon</strong> is the Chief Nurse of Woodlands Health
+(WH), Singapore’s newest integrated healthcare campus serving the northern
+population. With over 30 years of experience in nursing and healthcare
+leadership, she has played a pivotal role in shaping clinical services,
+talent development, and operational readiness at WH.</p>
 <p></p>
+<p>Ms Pua began her career in critical care at Tan Tock Seng Hospital and
+later transitioned into nursing education after completing her Bachelor
+and Master of Nursing (Education) in Australia. A recipient of the <strong>President’s Award for Nurses (2015)</strong>,
+she is widely recognized for her contributions to nursing education, including
+the development of structured clinical training programs and interprofessional
+learning frameworks.</p>
+<p></p>
+<p>Her foundation in nursing education continues to shape her leadership,
+empowering teams through mentorship, clarity of purpose, and a deep commitment
+to professional growth. At WH, she oversees nursing services and drives
+innovative care delivery while building future-ready capabilities through
+strategic workforce planning.</p>
+<p></p>
+<p>Ms Pua envisions WH as the <strong>“Hospital of Choice,”</strong> anchored
+by a nursing team that exemplifies the <strong>4Cs: Commitment, Competence, Confidence, and Cohesiveness</strong>.
+She also chairs the NHG Nursing Professional Development Workgroup and
+serves on the MOH Advanced Practice Nurse Review Committee, contributing
+to national standards in nursing accreditation and licensing.</p>
+<p>Her leadership is defined by compassion, clarity, and a relentless pursuit
+of excellence—qualities that continue to inspire the next generation of
+nurses in Singapore and beyond.</p>
 </div>
 </details>
 </div>
@@ -360,8 +416,10 @@ leadership &amp; CPIP initiatives, driving excellence in quality improvement
 <summary>Ms Sharifah Maryam Alhabshee Bte Zen, Nurse Manager, Khoo Teck Puat Hospital
 &amp; Yishun Community Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Over my 15 years as a nurse, I have learned to view situations from different perspectives and sincerely care for others. I am dedicated to treating patients equitably and providing reliable support to my colleagues, which motivates me to effectively lead the team.</strong>
-</p>
+<p>Over my 15 years as a nurse, I have learned to view situations from different
+perspectives and sincerely care for others. I am dedicated to treating
+patients equitably and providing reliable support to my colleagues, which
+motivates me to effectively lead the team.</p>
 </div>
 </details>
 </div>
@@ -577,7 +635,11 @@ Yishun Community Hospital</summary>
 <details class="isomer-details">
 <summary>Ms Cheong Run Qi, Assistant Nurse Clinician, Tan Tock Seng Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Run Qi is a Hybrid Nurse Clinician-Scientist with Tan Tock Seng Hospital’s
+Nursing Implementation, Translation and Research Office (NITRO). As a clinician-scientist,
+she serves as a bridge between the direct patient care and research fields
+to answer clinical questions with evidence, and strengthen the translation
+of knowledge into practice.&nbsp;</p>
 </div>
 </details>
 </div>
@@ -714,9 +776,8 @@ Hospital</summary>
 </table>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NHG_Suite.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NHG_Health_Corporate_Suite_of_Logos_Full_Colour.png">
 </div>
-<p></p>
 <p></p>
 <p></p>
 <p></p>

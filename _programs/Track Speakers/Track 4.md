@@ -17,65 +17,77 @@ third_nav_title: Track Speakers
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/james zheng zhongjia.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/pataraporn kheawwan.png">
 </div>
 <blockquote>
-<h4>Mr James Zheng Zhongjia</h4>
+<h4>Dr. Pataraporn Kheawwan</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Senior Staff Nurse, Nursing, Toa Payoh Polyclinic&nbsp;</summary>
+<summary>Dr. Pataraporn Kheawwan, PhD., RN, Faculty of Nursing, Chulalongkorn University</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>James is a Senior Staff Nurse at Toa Payoh Polyclinic and a First Class
-Honours graduate from the National University of Singapore since 2023.
-He exemplifies a new generation of nursing leaders dedicated to integrating
-clinical excellence with technological innovation in the primary care setting.&nbsp;</p>
+<p>Dr. Pataraporn Kheawwan, PhD, RN, is a highly respected nurse educator
+and healthcare leader with over 30 years of experience in clinical practice,
+nursing education, and professional development. Currently a Lecturer at
+the Faculty of Nursing, Chulalongkorn University, Thailand, she is nationally
+recognized for her leadership in developing competency-based education
+and structured residency training programs that support the integration
+of new nurses into the workforce.</p>
 <p>&nbsp;</p>
-<p>A keen observer of daily operational challenges, James actively translates
-the concerns of ground staff into practical solutions. His innovations
-are born from a desire to improve work efficiency and satisfaction; for
-instance, he developed a triage decision support chatbot to enhance clinical
-accuracy and reduce cognitive load for his colleagues. He also serves as
-the liaison for the clinic’s Robotic Process Automation (RPA) initiative,
-championing user-centric design by ensuring system improvements are directly
-informed by feedback from the front line.&nbsp;&nbsp;</p>
+<p>Dr. Kheawwan served as Senior Nurse Manager and Head of the Nursing Professional
+Development Center at King Chulalongkorn Memorial Hospital, where she pioneered
+Thailand’s first Post-Baccalaureate Residency Training Program in collaboration
+with the Thai Nursing and Midwifery Council. Her contributions have played
+a key role in shaping national nursing policies and competency frameworks,
+with a focus on intergenerational collaboration and professional growth.</p>
 <p>&nbsp;</p>
-<p>Beyond technology, James is a committed clinician who continuously refines
-his skills to provide effective mentorship as the Champion for Acute Care.
-His influence extends across the healthcare sector through is active role
-in the Innovation Community of Practice (CoP).&nbsp;&nbsp;</p>
+<p>She actively serves on multiple national committees under the Thai Nursing
+and Midwifery Council, including those on residency program implementation,
+continuing nursing education, and competency development for specialized
+nurses. Her work bridges academic, clinical, and policy spheres to support
+nurses at all stages—novice, emerging, and veteran—ensuring sustainable
+workforce development.</p>
 <p>&nbsp;</p>
-<p>James is driven by a clear mission: to keep identifying opportunities
-where technology meets nursing to ease the burdens of his fellow nurses
-and improve work efficiency. He is committed to developing more user-focused
-solutions, ensuring that innovation in primary care is practical, supportive,
-and empowering for all.&nbsp;</p>
+<p>Dr. Kheawwan’s expertise spans critical care, pain management, nurse mentorship,
+simulation-based education, and interprofessional collaboration. A frequent
+speaker at national and international conferences, she is passionate about
+creating supportive learning environments and resilient nursing systems
+that foster excellence across generations.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4A1: Novice on Board!: Integrating New Nurses into the Workforce</summary>
+<summary>Bridging Generations: The Novice, The Emerging &amp; The Veteran</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>This session dives into the dynamic journey of a new nurse adapting from
-academia to the diverse environment of a Singapore polyclinic. Hear firsthand
-how one MOHH Scholar, an NUS Highest Distinction graduate, conquered the
-theory-practice gap and built rock-solid clinical confidence.&nbsp;</p>
+<p>As healthcare systems evolve, the need for a well-prepared nursing workforce
+becomes more urgent than ever. This session explores how structured onboarding
+and residency training programs, developed through cross-national collaboration—particularly
+between Thailand and Singapore—have transformed the way new nurses are
+integrated into clinical practice. With education and leadership development
+at the core, these initiatives address the critical transition from classroom
+to clinical setting by bridging the gap between novice nurses and experienced
+professionals.</p>
 <p></p>
-<p>We'll unpack the unsung heroes: the support systems that truly made a
-difference in shaping a positive practice environment. But here's where
-it gets exciting: discover how personal drive, fueled by a passion for
-AI and informatics, led to genuine workflow revolutions. Get a peek into
-the ongoing pilot of a chatbot for polyclinic triage, seeing how tech isn't
-just theory – it's actively streamlining care and enhancing patient experiences.&nbsp;</p>
+<p>The presentation highlights Thailand’s national efforts to embed competency-based
+education into onboarding systems, fostering not only clinical proficiency
+but also leadership potential among emerging nurses. Through mentorship
+models, intergenerational knowledge-sharing, and modern learning platforms,
+new nurses gain the confidence and capability to thrive, while veteran
+nurses are empowered to lead, coach, and adapt to change.</p>
 <p></p>
-<p>This isn't just about personal growth; it's about making nursing better
-for everyone. Learn practical strategies for continuous learning and resilience-building,
-plus key traits for emerging nurse leaders who are ready to bridge generational
-differences and spark innovative change. It's a fresh look at how modern
-nursing, empowered by smart solutions, is shaping an amazing future!&nbsp;</p>
+<p>The session also outlines the policy-level impact of these innovations—illustrating
+how pilot programs evolved into national frameworks that now guide the
+professional development of thousands of nurses. Participants will gain
+practical insights into implementing scalable, evidence-informed strategies
+that enhance nurse retention, foster cross-generational collaboration,
+and ensure long-term sustainability of the nursing workforce.</p>
+<p></p>
+<p>Whether you are an educator, administrator, or policymaker, this session
+offers a forward-thinking model of how international inspiration and local
+innovation can be combined to strengthen nursing capacity, leadership,
+and workforce resilience for the future.</p>
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4a2 tan soh chin&nbsp;.png">
@@ -163,10 +175,15 @@ fostering leadership development.</p>
 </details>
 </div>
 <p></p>
+<p>Track 4A3: Voices of Experience - A Dialogue Across Nursing Generations
+(Veteran, Emerging and Novice)</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4a3 ryan chua.png">
 </div>
+<blockquote>
 <h4>Mr Ryan Chua</h4>
+</blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Senior Nurse Manager, Nursing, National Skin Centre&nbsp;</summary>
@@ -177,15 +194,86 @@ fostering leadership development.</p>
 <p><strong>Ryan received training in the US for Epic System Ambulatory and spearheaded the implementation for the new Electronic Medical Record system for Dermatology Nursing. He is also an active volunteer in Dermatology Nurses Chapter, Singapore Nurses Association for more than 10 years.</strong>&nbsp;</p>
 </div>
 </details>
-<details class="isomer-details">
-<summary>Track 4A3: Voices of Experience - A Dialogue Across Nursing Generations
-(Veteran, Emerging and Novice)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/james zheng zhongjia.png">
+</div>
+<blockquote>
+<h4>Mr James Zheng Zhongjia</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Senior Staff Nurse, Nursing, Toa Payoh Polyclinic&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>James is a Senior Staff Nurse at Toa Payoh Polyclinic and a First Class
+Honours graduate from the National University of Singapore since 2023.
+He exemplifies a new generation of nursing leaders dedicated to integrating
+clinical excellence with technological innovation in the primary care setting.&nbsp;</p>
+<p>&nbsp;</p>
+<p>A keen observer of daily operational challenges, James actively translates
+the concerns of ground staff into practical solutions. His innovations
+are born from a desire to improve work efficiency and satisfaction; for
+instance, he developed a triage decision support chatbot to enhance clinical
+accuracy and reduce cognitive load for his colleagues. He also serves as
+the liaison for the clinic’s Robotic Process Automation (RPA) initiative,
+championing user-centric design by ensuring system improvements are directly
+informed by feedback from the front line.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>Beyond technology, James is a committed clinician who continuously refines
+his skills to provide effective mentorship as the Champion for Acute Care.
+His influence extends across the healthcare sector through is active role
+in the Innovation Community of Practice (CoP).&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>James is driven by a clear mission: to keep identifying opportunities
+where technology meets nursing to ease the burdens of his fellow nurses
+and improve work efficiency. He is committed to developing more user-focused
+solutions, ensuring that innovation in primary care is practical, supportive,
+and empowering for all.&nbsp;</p>
 </div>
 </details>
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4a2 tan soh chin&nbsp;.png">
+</div>
+<blockquote>
+<h4>Ms Tan Soh Chin&nbsp;</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Senior Director (Special Projects), Medical &amp; Clinical Services, SingHealth&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Soh Chin is Senior Director (Special Projects), Medical and Clinical Services,
+SingHealth.&nbsp;&nbsp;</p>
+<p>Prior to the current appointment, she was the Chief Nursing Officer (CNO)
+at Ministry of Health (MOH) from Jan 2015 to June 2020.&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
+<p>During her stint as CNO, she had made invaluable contributions to the
+nursing profession and practice. She was at the forefront of nursing transformation
+in formulating nursing development and resource policies, which led to
+significant improvements in the delivery of nursing care. She also set
+the policies and strategies on developing and regulating the nursing profession
+in Singapore. She spearheaded key initiatives aimed at enhancing competency-based
+nursing education at the national level; this helped to equip nurses with
+advanced clinical skills to manage patients with complex needs and developed
+community nursing in the Regional Health System&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
+<p>In 2021, Soh Chin was appointed as Chair of the Nasogastric Tube (NGT)
+Review Workgroup (MOH) and led efforts to reduce the risk of NGT placement
+and feeding-related risks, resulting in revised National Guidelines on
+Nursing Management of NGT that benefit adult patients across healthcare
+settings.&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
+<p>In her current role as Senior Director (Special Projects), SingHealth,
+Soh Chin supports the DGCEO (Medical and Clinical Services) and Group Chief
+Nurse in shaping strategic directions for nursing care, service transformation
+and community nursing across the cluster. She is also a member of the SingHealth
+Leadership Coaching and Mentoring Council and contributes actively to mentoring
+and inspiring institutional leaders across the cluster.</p>
+</div>
+</details>
+</div>
 <h4>Moderator</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -245,28 +333,60 @@ from 2021 to 2024.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4b2 yu liang.png">
 </div>
 <blockquote>
-<h4>Awaiting info</h4>
+<h4>Ms Yu Liang</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Deputy Director of Nursing, Nursing Service, Tan Tock Seng Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Yu Liang is the Deputy Director of Nursing at Tan Tock Seng Hospital,
+Singapore, overseeing clinical nursing operations across acute, integrated
+and ambulatory care settings as the Cluster Lead for Clinical Operations.
+With 28 years of nursing experience, she specializes in critical care nursing
+and holds a Master of Health Science (Management). As a strong advocate
+for safe infusion practices, she also leads nursing for CPIP Improvement
+and serves as an improvement advisor, playing a pivotal role in advancing
+clinical quality standards and enhancing patient outcomes. Yu Liang co-chairs
+the Shared Governance Coordinating Council at Tan Tock Seng Hospital, where
+she leads the strategic development to foster a culture of Nursing Excellence.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4B1: Shared Governance in Action: Strategies for Empowerment</summary>
+<summary>Track 4B1: Shared Governance in Action - Strategies for Empowerment</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Traditional healthcare hierarchies often limit nursing professionals'
+decision-making power and organisational influence. This presentation demonstrates
+how shared governance transforms nursing practice by redistributing authority
+and accountability across all institutional levels. TTSH Nursing Shared
+Governance explores foundational concepts and theoretical frameworks underpinning
+shared governance. We examine four core principles essential for successful
+implementation and detail TTSH Nursing's transformative journey. The presentation
+showcases our comprehensive shared governance model, featuring structured
+unit councils, governance councils, and coordinating councils. Participants
+will understand our complete nursing shared governance framework and its
+practical applications. Outcomes and Impact presents findings from our
+shared governance implementation. We demonstrate coordinating council representation
+effectiveness, highlight achievements across six governance councils, and
+showcase unit council developments. The session explores observed changes
+in nursing engagement, decision-making processes, and organisational culture
+following shared governance adoption. 18 June 2025 (Info is accurate as
+of this date. Subjected to changes) Page 3 of 4 Next Steps provides actionable
+strategies for sustainable implementation. We emphasise learning through
+continuous improvement, cultural transformation, leadership development,
+and transparent communication channels. The session concludes with key
+takeaways designed to guide participants' shared governance journey, specific
+action items for immediate implementation, and practical recommendations
+for long-term success. Participants will leave equipped with proven strategies
+to implement shared governance in their organisations, empowering nursing
+professionals to participate actively in decision-making processes whilst
+enhancing patient care outcomes and professional satisfaction.</p>
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4b2 tan lai hong.png">
@@ -312,24 +432,43 @@ Workforce for Sustainable Healthcare</summary>
 </details>
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4b3 yvonne ng.png">
 </div>
 <blockquote>
-<h4>Awaiting Info</h4>
+<h4>Ms Yvonne Ng</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>#</summary>
+<summary>Chief, People &amp; Organisation Development, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Yvonne currently oversees People Development, Organisation Development
+and Clinical Education in Woodlands Health (WH).&nbsp; She is also the
+Director for Institute of Healthcare Leadership and Management, NHG Health
+College.&nbsp; She provides strategic leadership in building capacity and
+capability for NHG’s current and future workforce.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>Yvonne’s background in engineering and education gave her the ability
+to use both the system and people-centred lenses to facilitate and lead
+change, as well as culture building efforts for her organisation.&nbsp;
+She has been involved in people development, education and learning for
+the past 20 years and organisation development for the past 8 years.&nbsp;
+She is actively involved in facilitating leadership programmes, facilitating
+team conversations, team coaching, facilitating change and coaching young
+leaders in her organisation and beyond.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Track 4B3: Empowering the Future of Nursing: The Impact of Mentorship</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>A positive nursing environment thrives when nurses are empowered through
+shared governance and active participation in workplace decisions. When
+nurses are engaged through meaningful initiatives and supported by strong
+mentorship programs, they develop both confidence and competence in their
+roles. This combination of empowerment, engagement, and mentorship creates
+a workplace where nurses feel valued and motivated, leading to better job
+satisfaction, improved retention, and ultimately, higher quality patient
+care.</p>
 </div>
 </details>
 </div>
@@ -369,7 +508,6 @@ innovate and leading the care.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4c1 hoi shu yin.png">
 </div>
@@ -667,6 +805,7 @@ but also preserves its essence of humanity and care.&nbsp;</p>
 </div>
 </details>
 </div>
+<p></p>
 <h4>Panel Discussion</h4>
 <p>Track 4D3: Breaking Barriers and Celebrating Diversity at Work</p>
 <p></p>

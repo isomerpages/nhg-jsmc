@@ -259,7 +259,7 @@ a unified care ecosystem that honors diversity while delivering excellence.&nbsp
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1b3 alison ong .png">
 </div>
 <blockquote>
-<h4>Ms Alison Ong #</h4>
+<h4>Ms Alison Ong</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -374,7 +374,6 @@ care process.&nbsp;</p>
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1c2 ong yu jing .png">
@@ -495,7 +494,7 @@ and operational efficiency.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d1 cherie koh.png">
 </div>
 <blockquote>
-<h4>Ms Cherie Koh#</h4>
+<h4>Ms Cherie Koh</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -674,6 +673,228 @@ to reduce revenue leakages.&nbsp;</p>
 continues to shape community healthcare delivery in Singapore, particularly
 in areas of staff development, patient safety, and innovative care delivery
 models.</p>
+</div>
+</details>
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<h3>Track 1E</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4>Presenters</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1e1 cheang ka man.png">
+</div>
+<blockquote>
+<h4>Dr Cheang Ka Man</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Senior Consultant, Psychological Medicine, Khoo Teck Puat Hospital&nbsp;&amp;
+Yishun Hospital</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Dr Cheang Ka Man started her career in KTPH in 2015 as a Senior Resident
+in the Department of Psychological Medicine.&nbsp; In 2018, she received
+subspecialty training in systemic family therapy in Calgary Family Therapy
+Centre (Canada) under the HMDP award sponsorship.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>She is the Associate Program Director for the National Psychiatry Residency
+Program.&nbsp; She was awarded the Junior Doctor Teaching Award (NUS, 2016)
+and the Senior Doctor Teaching Award (NHG, 2021) for her teaching contributions.&nbsp;</p>
+<p></p>
+<p>Dr Cheang was involved in the revision of hospital policy, launch of the
+Suicide Precaution and co-developed the Suicide Awareness and Management
+e-learn modules in YH.&nbsp; She is a member of the National Suicide Screening
+Workgroup (2024).&nbsp;&nbsp;</p>
+<p></p>
+<p>Dr Cheang aspires to strengthen inter-agency collaboration using the unique
+therapeutic modality in family therapy called “reflecting team process”
+using the two-way mirror facility in ADMC.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Track 1D1: Seeing Patients as People, than Numbers</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>In today’s metrics-driven healthcare landscape, the challenge of preserving
+person-centered care has never been more pressing. This session, part of
+Track 1E, offers a psychiatrist’s lens on integrating mental health into
+holistic nursing practice, beginning with a simple yet profound shift:
+seeing patients as people, not numbers.&nbsp;</p>
+<p></p>
+<p>Drawing from Humberto Maturana’s theories of emotional intelligence, this
+presentation explores how emotional understanding, empathy, and relational
+dynamics form the core of healing. Maturana emphasized that emotions shape
+how individuals experience the world — a critical insight for healthcare
+professionals supporting patients through vulnerable moments. Attendees
+will gain insight into applying these principles to cultivate deeper patient-nurse
+connections that honour each person’s unique journey.&nbsp;</p>
+<p></p>
+<p>To illustrate this, case examples will be presented from the practice
+journey of a psychiatrist:&nbsp; through collaborative care grounded in
+emotional attunement and trust, and creation of holding spaces for difficult
+emotions and “un-understandable” sufferings as processes for rebuilding
+of lives.&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<p>The session will provide practical strategies for nurses to uphold individualized
+care while aligning with institutional KPIs, using NHG frameworks to balance
+safety, efficiency, and compassion. It concludes by reinforcing nursing’s
+pivotal role in long-term trauma recovery — supporting patients beyond
+the ward toward meaningful life milestones.&nbsp;</p>
+<p></p>
+<p>This presentation is a call to action: to remember that behind every chart
+and KPI is a human being — a story, not a statistic.&nbsp;</p>
+<p>The presenter is a general adult psychiatrist practicing in a public hospital
+in Singapore who employ systemic therapy approaches in her therapeutic
+work, alongside pharmacotherapy.</p>
+</div>
+</details>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whpualh.png">
+</div>
+<blockquote>
+<h4>Ms Pua Lay Hoon</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Chief Nurse, Woodlands Health</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Ms Pua Lay Hoon</strong> is the Chief Nurse of Woodlands Health
+(WH), Singapore’s newest integrated healthcare campus serving the northern
+population. With over 30 years of experience in nursing and healthcare
+leadership, she has played a pivotal role in shaping clinical services,
+talent development, and operational readiness at WH.</p>
+<p></p>
+<p>Ms Pua began her career in critical care at Tan Tock Seng Hospital and
+later transitioned into nursing education after completing her Bachelor
+and Master of Nursing (Education) in Australia. A recipient of the <strong>President’s Award for Nurses (2015)</strong>,
+she is widely recognized for her contributions to nursing education, including
+the development of structured clinical training programs and interprofessional
+learning frameworks.</p>
+<p></p>
+<p>Her foundation in nursing education continues to shape her leadership,
+empowering teams through mentorship, clarity of purpose, and a deep commitment
+to professional growth. At WH, she oversees nursing services and drives
+innovative care delivery while building future-ready capabilities through
+strategic workforce planning.</p>
+<p></p>
+<p>Ms Pua envisions WH as the <strong>“Hospital of Choice,”</strong> anchored
+by a nursing team that exemplifies the <strong>4Cs: Commitment, Competence, Confidence, and Cohesiveness</strong>.
+She also chairs the NHG Nursing Professional Development Workgroup and
+serves on the MOH Advanced Practice Nurse Review Committee, contributing
+to national standards in nursing accreditation and licensing.</p>
+<p>Her leadership is defined by compassion, clarity, and a relentless pursuit
+of excellence—qualities that continue to inspire the next generation of
+nurses in Singapore and beyond.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>More Than a Number: How Nurses Deliver Value-Based Care in a KPI World</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>In today’s healthcare, the performance or outcome is often measured by
+number, among them include Length of stay, waiting time. The essence of
+nursing can potentially be reduced to merely a statistic. The session attempts
+to explore how nurses can lead the transformation towards delivering value-based
+care, where patient centric outcomes, dignity, and patients overall experience
+hold equal weightage to KPIs. Discussion will include</p>
+<p>&nbsp;</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Balance KPIs with human care, where attempts
+to meet the organisational target will not compromise the patient centredness</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Reframe length of stay, from a rigid number
+into a meaningful quality measure</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp; Nurses as advocate of care model that drive
+both meaningful patient outcome and system efficiency</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp; Embed value-based care thinking so that patient
+can be guided on decision making in this KPI driven culture.</p>
+<p>In conclusion, roles of nurses in reshaping the mindset of KPIs; aligning
+practice with value-based care, and ultimately ensuring every number reported
+is a reflection of a story of healing, dignity and compassion.</p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1e3 zhang ruyi .png">
+</div>
+<blockquote>
+<h4>Mr Zhang Ruyi&nbsp;</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Assistant Nurse Clinician, Khoo Teck Puat Hospital&nbsp;&amp; Yishun Hospital</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Mr. Zhang Ruyi is an Assistant Nurse Clinician at Khoo Teck Puat Hospital
+with over 18 years of experience in nursing, specializing in community
+healthcare and mental health. Having previously served at the Institute
+of Mental Health, he now leads KTPH@Home and innovative programmes for
+frequent emergency department attendees.</p>
+<p></p>
+<p>His work, particularly the Alcoholic Related Frequent Attender (ARFA)
+programme, has received multiple recognitions, including the NHG Research
+Impact Award 2022, and has been featured on national media. With a Bachelor
+of Health Sciences (Honours) in Nursing and an Advanced Diploma in Mental
+Health, Mr. Zhang focuses on developing community-based interventions and
+personalised care approaches to improve patient outcomes and healthcare
+efficiency.&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Track 1D3: </strong>Rebuilding Lives After Traumatic Experiences:
+How nurses foster long-term healing beyond hospital?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Trauma in alcohol-related frequent attenders extends beyond the immediate
+physical injuries, encompassing devastating experiences such as sudden
+deaths of loved ones, multiple falls, violence-related injuries, and life-altering
+disabilities. This session explores how nurses can effectively support
+both patients and their families through these complex trauma recoveries
+in the community setting.</p>
+<p></p>
+<p>Drawing from five years of experience with the Alcohol-Related Frequent
+Attender (ARFA) programme at KTPH, we will examine practical approaches
+to rebuilding lives after trauma. The presentation will showcase real-world
+strategies for crisis intervention, family support, and long-term rehabilitation.</p>
+<p></p>
+<p>Through compelling case studies, we will demonstrate how sustained nursing
+support, combined with community resources, can transform lives - from
+helping patients regain dignity and independence to supporting families
+through their caregiving journey. Participants will gain insights into
+effective intervention techniques, including crisis management, motivational
+interviewing, and family engagement, while learning how to navigate common
+challenges in community-based trauma recovery.&nbsp;</p>
+</div>
+</details>
+</div>
+<p></p>
+<h4>Moderator</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d1 cherie koh.png">
+</div>
+<blockquote>
+<h4>Ms Cherie Koh</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Senior Nurse Manager, Inpatient Wards, Khoo Teck Puat Hospital&nbsp;&amp;
+Yishun Hospital</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Cherie is a Senior Nurse Manager overseeing three surgical wards, bringing
+extensive clinical leadership experience to her role. As the Nursing Lead
+in Innovation, she champions transformative healthcare solutions within
+her institution. She also serves as Co-lead in the NHG Health Group Nursing
+Innovation Office, where she drives nursing innovation initiatives across
+the healthcare cluster. She is currently doing her MBA and has interest
+in healthcare financing policies.&nbsp;</p>
 </div>
 </details>
 </div>

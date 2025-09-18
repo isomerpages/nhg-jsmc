@@ -58,7 +58,7 @@ featuring successful case studies of cross-institutional partnerships.</p>
 <p>11.00 am - 11.20 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Journeying with patients through Integrated Care Networks</p>
+<p>Journeying With Patients Through Integrated Care Networks</p>
 </td>
 </tr>
 <tr>
@@ -66,8 +66,8 @@ featuring successful case studies of cross-institutional partnerships.</p>
 <p>11.20 am - 11.40 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Breaking Silos: Encouraging cross institutional collaboration for consistent
-care</p>
+<p>Breaking Silos - Encouraging Cross-Setting Collaboration In Palliative
+Care</p>
 </td>
 </tr>
 <tr>
@@ -75,8 +75,8 @@ care</p>
 <p>11.40 am - 12.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sharing Best Practices : Leveraging Diversity for better patient outcomes
-through strengthened relationship</p>
+<p>Sharing Best Practices : Sharing Best Practices - Leveraging Diversity
+For Better Patient Outcomes Through Strengthened Relationship</p>
 </td>
 </tr>
 <tr>
@@ -129,7 +129,8 @@ of our diverse community.</p>
 <p>1.45 pm - 2.05 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Compassion without borders: The universal language of care</p>
+<p>Compassion Without Borders: The Universal Language Of Care - Humanitude
+In Dementia Care</p>
 </td>
 </tr>
 <tr>
@@ -137,8 +138,8 @@ of our diverse community.</p>
 <p>2.05 pm - 2.25 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Connecting Hearts and Practices: Uniting Diverse Institutions in holistic
-care</p>
+<p>Connecting Hearts and Practices: Uniting Diverse Institutions In Holistic
+Care</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +147,7 @@ care</p>
 <p>2.25 pm - 2.45 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>From Institution to Individuals: Unified care through Empathy and Inclusion</p>
+<p>From Institution to Individuals: Unified Care Through Empathy And Inclusion</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +155,7 @@ care</p>
 <p>2.45 pm - 3.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A - Moderator:&nbsp; SNM Cherie Koh, KTPH</p>
+<p>Q&amp;A - Moderator:&nbsp; SNM Cherie Koh, KTPH &amp; YH</p>
 </td>
 </tr>
 </tbody>
@@ -202,7 +203,7 @@ providers toward shared health objectives.</p>
 <p>3.50 pm - 4.10 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Integrating patient input into care strategies</p>
+<p>Integrating Patient Input Into Care Strategies</p>
 </td>
 </tr>
 <tr>
@@ -210,7 +211,7 @@ providers toward shared health objectives.</p>
 <p>4.10 pm - 4.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Preventive care through collaborative relationship</p>
+<p>Preventive Care Through Collaborative Relationship</p>
 </td>
 </tr>
 <tr>
@@ -218,7 +219,7 @@ providers toward shared health objectives.</p>
 <p>4.30 pm - 5.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A - Moderator: SNM Siok Qi, KTPH</p>
+<p>Q&amp;A - Moderator: SNM Siok Qi, KTPH &amp; YH</p>
 </td>
 </tr>
 </tbody>
@@ -262,7 +263,7 @@ human element of nursing care.</p>
 <p>11.00 am - 11.20 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nursing in the Digital Era: Supporting Elderly Patients with Compassion
+<p>Nursing in the Digital Era - Supporting Elderly Patients with Compassion
 and Innovation</p>
 </td>
 </tr>
@@ -271,8 +272,8 @@ and Innovation</p>
 <p>11.20 am - 11.40 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Humanizing Digital Healthcare: Enhancing Tech-Enabled Communication with
-Empathy and&nbsp;Personal&nbsp;Touch</p>
+<p>Humanizing Digital Healthcare - Enhancing Tech-Enabled Communications
+with Empathy and Personal Touch</p>
 </td>
 </tr>
 <tr>
@@ -280,8 +281,8 @@ Empathy and&nbsp;Personal&nbsp;Touch</p>
 <p>11.40 am - 12.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Future-Proofing Nursing: The Critical Role of Senior Nurses in Singapore's
-Evolving Healthcare&nbsp;Landscape</p>
+<p>Future-Proofing Nursing - The Critical Role of Senior Nurses in Singapore's
+Healthcare Landscape</p>
 </td>
 </tr>
 <tr>
@@ -289,7 +290,7 @@ Evolving Healthcare&nbsp;Landscape</p>
 <p>12.00 pm - 12.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A - Moderator: DDN Yvonne Tan, YCH</p>
+<p>Q&amp;A - Moderator: DDN Yvonne Tan, KTPH &amp; YH</p>
 </td>
 </tr>
 </tbody>
@@ -343,8 +344,8 @@ merely as statistics or cases.</p>
 <p>2.25 pm - 2.45 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rebuilding Lives After Traumatic Experiences: How nurses foster long-term
-healing beyond hospital&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Rebuilding Lives After Traumatic Experiences: How Nurses Foster Long-Term
+Healing Beyond Hospital&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
