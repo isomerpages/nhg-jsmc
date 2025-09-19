@@ -19,12 +19,6 @@ sections:
         - title: Programme Schedule
           description: Read More Here
           url: /day-1-program-schedule/
-        - title: Abstract Submission
-          description: Submit Abstract Here
-          url: https://for.sg/nhgnursingconf
-        - title: Conference Registration
-          description: Register Here
-          url: https://for.sg/nhgnursingconfregistration
         - title: Hotel Accommodations
           description: Find Hotels Here
           url: /accommodations/
