@@ -939,12 +939,11 @@ cooperation becomes essential to successful healthcare teams.&nbsp;</p>
 <details class="isomer-details">
 <summary>Head of Nursing, Yishun Community Hospital&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Ms. Yvonne Tan is currently the Deputy Director of Nursing at Yishun Community
-Hospital (YCH), where she oversees nursing operations across sub-acute,
-rehabilitation, and inpatient hospice palliative care services. With over
-28 years of nursing experience, she has progressed through various leadership
-roles including Assistant Director of Nursing, Senior Nurse Manager, and
-Nurse Educator.</p>
+<p>Ms. Yvonne Tan is Head of Nursing at Yishun Community Hospital (YCH),
+where she oversees nursing operations across sub-acute, rehabilitation,
+and inpatient hospice palliative care services. With over 28 years of nursing
+experience, she has progressed through various leadership roles including
+Assistant Director of Nursing, Senior Nurse Manager, and Nurse Educator.</p>
 <p></p>
 <p>Her expertise spans across acute and community care settings, with experience
 in neuroscience nursing and nursing education. Prior to YCH, she held educator
