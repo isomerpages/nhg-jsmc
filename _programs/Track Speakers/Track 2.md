@@ -120,7 +120,7 @@ on health &amp; well-being, workplace culture and civility.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2A2: Leadership in Nursing: Developing Managers and Policy Influencers</summary>
+<summary>Track 2A2: Leadership in Nursing - Developing Managers and Policy Influencers</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The role of modern nursing leadership in the new millennium is dynamic
 and multifaceted, shaped by rapid advancements in healthcare, technology,
@@ -143,7 +143,6 @@ and shaping institutional policy.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/chong mei chan.png">
 </div>
-<p></p>
 <blockquote>
 <h4>Professor Chong Mei Chan&nbsp;</h4>
 </blockquote>
@@ -183,8 +182,8 @@ initiatives.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2A3: Meeting The Healthcare Needs (Sharing Of Initiatives Nurses
-Embarked To Cope With Healthcare Challenges)</summary>
+<summary>Track 2A3: Meeting The Healthcare Needs - Initiatives Nurses Embarked
+To Cope With Healthcare Challenges</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Healthcare today faces unprecedented demands - aging populations, complex
 chronic diseases, staff shortages, and rapid technological change. Yet
