@@ -101,8 +101,7 @@ Diploma in Gerontology and Specialist Diploma in Nursing (Diabetes Management
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3A2: Technology Assisted Model Of Care In Chronic&nbsp;Disease Management/
-Disease Prevention</summary>
+<summary>Track 3A2: Technology Assisted Model Of Care In Chronic&nbsp;Disease Management</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This presentation highlights how nurses at the National Healthcare Group
 Polyclinics (NHGP) are transforming chronic care management by leveraging
