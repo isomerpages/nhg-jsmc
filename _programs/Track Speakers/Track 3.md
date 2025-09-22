@@ -448,7 +448,7 @@ diabetes-related complications.</p>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3c1 loo yong joo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3c1 loh yong joo.png">
 </div>
 <blockquote>
 <h4>Dr Loh Yong Joo</h4>
