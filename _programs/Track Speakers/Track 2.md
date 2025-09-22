@@ -435,7 +435,7 @@ students and faculty development.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2c1 zhang yuxia.png">
 </div>
 <blockquote>
-<h4>Professor Yuxia Zhang </h4>
+<h4>Professor Yuxia Zhang</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -466,7 +466,7 @@ expert consensus statements, clinical guidelines, and nursing standards.&nbsp;</
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2C1: Past, Present, Prospect: View on Nursing Transformation Across
+<summary>Track 2C1: Past, Present, Prospect - View on Nursing Transformation Across
 The Decades</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This session, <em>Past, Present, Prospect – A View on Nursing Transformation Across the Decades</em>,
@@ -543,7 +543,7 @@ culture.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2C3: Clinically Ready For ICU Support</summary>
+<summary>Track 2C3: Clinically Ready For ICU Support (CROCS)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -560,7 +560,7 @@ culture.&nbsp;</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Deputy Director Of Nursing, Woodlands Health</summary>
+<summary>Chief Nurse, Institute of Mental Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Dr. Dong Lijuan is an accomplished healthcare leader with a diverse educational
 and professional background. She holds a PhD in Education, an MBA in Healthcare
@@ -616,7 +616,7 @@ innovation, reflecting the evolving landscape of modern healthcare.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2D1: From Caregivers to Change Agents: The New Nursing Paradigm</summary>
+<summary>Track 2D1: WH Carerlink Program</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Caregivers are the backbone of patient recovery, yet many face overwhelming
 physical, emotional, and financial challenges that compromise care quality
