@@ -998,8 +998,7 @@ they're all heart-stopping!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4E3: Investing in our Workforce: Shaping Environments that Support
-Nurses in their Growth and Development</summary>
+<summary>Track 4E3: PEST control - Eliminating Problematic Elements Stifling Teamwork</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>In this bold and unconventional session, discover why being "the bad guy"
 might be exactly what your nursing environment needs. PEST Control tackles
