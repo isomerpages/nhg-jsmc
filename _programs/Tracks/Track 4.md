@@ -305,7 +305,7 @@ their Growth and Development</p>
 <p>2.45 pm - 3.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A - Moderator:&nbsp;ADN Goh Ai Sze, IMH</p>
+<p>Q&amp;A - Moderator:&nbsp;ADN Goh Ai Sze, Cheryl, IMH</p>
 </td>
 </tr>
 </tbody>
