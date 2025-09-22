@@ -190,7 +190,7 @@ enabling them to focus on delivering quality patient care.</p>
 <p>4.30 pm - 5.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A - Moderator: SNE Grace Tan, Pop Health</p>
+<p>Q&amp;A - Moderator: SNM Grace Tan, Pop Health</p>
 </td>
 </tr>
 </tbody>
