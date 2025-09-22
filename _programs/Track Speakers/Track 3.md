@@ -552,7 +552,30 @@ practices.&nbsp;</p>
 not compromise the compassion and empathy cental to nursing care</p>
 </div>
 </details>
+<blockquote>
+<h4>Dr Goh Han Leong&nbsp;</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Senior Principal Specialist, Data Analytics &amp; AI, Synapxe, Senior
+Adjunct Lecturer, National University of Singapore&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+</div>
+<blockquote>
+<h4>Dr Loh Yong Joo</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Head &amp; Senior Consultant, TTSH Rehabilitation Medicine, Director,
+Clinical Innovation, TTSH Clinical Research &amp; Innovation office&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3c lim voon hooi&nbsp;.png">
