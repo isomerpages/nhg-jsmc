@@ -971,7 +971,8 @@ overall work experience and patient care</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Deputy Director (Nursing Education), Advanced Practice Nurse (Cardiology)</summary>
+<summary>Deputy Director (Nursing Education), Advanced Practice Nurse (Cardiology),
+Tan Tock Seng Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Meet Jamie, the heart and soul of the Cardiology Department, who's been
 keeping both hearts and students ticking since 2006. Armed with not one,
