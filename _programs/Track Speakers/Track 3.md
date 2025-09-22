@@ -1036,7 +1036,7 @@ sustainable.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3E2: <strong>Environmental Sustainability in Healthcare: What Has Sustainability Got To Do With Me?</strong>
+<summary>Track 3E2: <strong>Environmental Sustainability in Healthcare - What Has Sustainability Got To Do With Me?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The healthcare sector significantly impacts the environment, contributing
