@@ -750,8 +750,7 @@ for clients to regain work readiness.&nbsp;&nbsp;</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Assistant Director of Nursing, Nursing, Khoo Teck Puat &amp; Yishun Community
-Hospital&nbsp;</summary>
+<summary>Assistant Director of Nursing, Nursing, Khoo Teck Puat</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Eileen brings 24 years of healthcare experience to her role as Assistant
 Director of Nursing at Khoo Teck Puat Hospital (KTPH). In her current position,
@@ -790,7 +789,7 @@ supporting the hospital's "Zero Tolerance for Abuse in Healthcare" policy</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Deputy Director, Nursing, Khoo Teck Puat &amp; Yishun Community Hospital&nbsp;&nbsp;</summary>
+<summary>Deputy Director, Nursing, Khoo Teck Puat</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Yvonne Yap is a compassionate leader who is deeply dedicated to promoting
 staff well-being and resilience within the healthcare sector. Currently
@@ -948,8 +947,7 @@ cooperation becomes essential to successful healthcare teams.&nbsp;</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Deputy Director of Nursing, Nursing Administration, Khoo Teck Puat &amp;
-Yishun Community Hospital&nbsp;</summary>
+<summary>Deputy Director of Nursing, Nursing Administration, Yishun Community Hospital&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Ms. Yvonne Tan is currently the Deputy Director of Nursing at Yishun Community
 Hospital (YCH), where she oversees nursing operations across sub-acute,
