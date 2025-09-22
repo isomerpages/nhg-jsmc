@@ -222,7 +222,8 @@ nursing practice to be more proactive, data-driven, and patient-centred.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3B1: &nbsp;Delivering Hospital-Level Care at Home with TTSH@Home&nbsp;&nbsp;</summary>
+<summary>Track 3B1: &nbsp;Delivering Acute Care Beyond Hospital Walls - The TTSH@Home
+Experience</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Ms. Tiffany Tay completed her Diploma in Nursing in 2010. She went on
 to obtain an Advanced Diploma in Nursing and a Bachelor of Nursing from
