@@ -740,7 +740,7 @@ Award, NTU (2020) and NHG Quality Day Merit Award (2021).&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4D1: How to be a “Green Flag”: Tactics to Capture the New Generation</summary>
+<summary>Track 4D1: How to be a “Green Flag”: Tips to Capture the New Generation</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
