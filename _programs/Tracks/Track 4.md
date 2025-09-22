@@ -72,7 +72,7 @@ allowing nurses at every career stage to thrive professionally.</p>
 <p>12.00 pm - 12.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A - Moderator: ADN Wang Jia, IMH</p>
+<p>Q&amp;A - Moderator: C.ADN Wang Jia, IMH</p>
 </td>
 </tr>
 </tbody>
