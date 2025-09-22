@@ -238,13 +238,7 @@ activation, digital health</p>
 </div>
 </details>
 </div>
-<p></p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
@@ -257,9 +251,7 @@ activation, digital health</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Presenters</h4>
-<p></p>
-<p></p>
+<h4>Presenter</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ttshjames.png">
 </div>
@@ -325,7 +317,7 @@ move beyond.&nbsp;Nursing with a Different ‘Hat’&nbsp;&nbsp;</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Senior Flight Nurse</summary>
+<summary>Senior Flight Nurse, EMA Global</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Hemma Rajendra is a dedicated Flight Nurse with a background in critical
 care and aeromedical transport. With formal training in aeromedical operations
@@ -336,7 +328,7 @@ no matter the altitude.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2B2: Love Is In The Air “Twelve-Kilometres High Medicine"</summary>
+<summary>Track 2B2: Nursing In The Sky</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Flight nurses are a specialized group of professionals who care for acutely
 ill patients outside the hospital environment. We are an essential part
@@ -443,7 +435,7 @@ students and faculty development.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2c1 zhang yuxia.png">
 </div>
 <blockquote>
-<h4>Professor Zhang Yuxia</h4>
+<h4>Professor Yuxia Zhang </h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
