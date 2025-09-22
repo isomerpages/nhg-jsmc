@@ -943,7 +943,8 @@ cooperation becomes essential to successful healthcare teams.&nbsp;</p>
 where she oversees nursing operations across sub-acute, rehabilitation,
 and inpatient hospice palliative care services. With over 28 years of nursing
 experience, she has progressed through various leadership roles including
-Assistant Director of Nursing, Senior Nurse Manager, and Nurse Educator.</p>
+Deputy Director of Nursing, Assistant Director of Nursing, Senior Nurse
+Manager, and Nurse Educator.</p>
 <p></p>
 <p>Her expertise spans across acute and community care settings, with experience
 in neuroscience nursing and nursing education. Prior to YCH, she held educator
