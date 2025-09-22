@@ -900,7 +900,7 @@ institutions, and supervise postgraduate and undergraduate research.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2E3: Nursing Beyond Nurse: Non-Nursing In A Nursing Environment</summary>
+<summary>Track 2E3: Nursing Beyond Nurse - Non-Nursing In A Nursing Environment</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Nursing involves a wide range of practice, going beyond the typical bedside
 role. It comprises advanced practice jobs such as nurse practitioners,
@@ -937,7 +937,7 @@ cooperation becomes essential to successful healthcare teams.&nbsp;</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Deputy Director of Nursing, Nursing Administration, Yishun Community Hospital&nbsp;</summary>
+<summary>Head of Nursing, Yishun Community Hospital&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Ms. Yvonne Tan is currently the Deputy Director of Nursing at Yishun Community
 Hospital (YCH), where she oversees nursing operations across sub-acute,
