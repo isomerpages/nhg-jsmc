@@ -296,8 +296,7 @@ best care.</p>
 <p>2.25 pm - 2.45 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Investing in our Workforce: Shaping Environments that Support Nurses in
-their Growth and Development</p>
+<p>PEST control - Eliminating Problematic Elements Stifling Teamwork</p>
 </td>
 </tr>
 <tr>
