@@ -246,7 +246,7 @@ and varied perspectives.</p>
 <p>12.00 pm -12.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A - Moderator: CN Shirley Heng, KTPH</p>
+<p>Q&amp;A - Moderator: CN Shirley Heng, KTPH &amp; YCH</p>
 </td>
 </tr>
 </tbody>
