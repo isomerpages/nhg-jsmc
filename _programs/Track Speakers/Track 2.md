@@ -823,8 +823,8 @@ operational adaptations, and the shared heart of service across industries.&nbsp
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Senior Staff Nurse, Ward D48 – Sub-Acute / Dementia, Khoo Teck Puat &amp;
-Yishun Community Hospital&nbsp;&nbsp;</summary>
+<summary>Senior Staff Nurse, Ward D48 – Sub-Acute / Dementia, Yishun Community
+Hospital&nbsp;&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Nazrina Hoque is a healthcare professional whose career journey reflects
 her commitment to public service and personal growth. After completing
@@ -842,7 +842,7 @@ balances her demanding career while maintaining a fulfilling family life.&nbsp;<
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2E2: Career Conversion Program, Why Change?</summary>
+<summary>Track 2E2: Career Conversion Program, Why Change? Prison Officer To Nurse</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Nazrina Hoque's career journey reflects a profound evolution from law
 enforcement to healthcare, driven by her growing desire to make a more
