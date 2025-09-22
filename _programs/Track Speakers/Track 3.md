@@ -665,7 +665,8 @@ nursing journals.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3D1: Innovation for Smarter Patient Care</summary>
+<summary>Track 3D1: Connected Nurse - Real-Time Monitoring and Virtual Patient
+Care</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Owing to the aging population and demanding lifestyle in Singapore, individuals
 are increasingly vulnerable to coronary heart disease (CHD). Heart attack,
@@ -1001,7 +1002,7 @@ care experience for patients and families.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3E1: <strong>Revolutionizing Bedside Care: Nursing Leaders on the Digital Frontline.</strong>
+<summary>Track 3E1: <strong>Revolutionizing Bedside Care: Nursing Leaders on the Digital Frontline</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The healthcare landscape has undergone significant transformations over
@@ -1035,7 +1036,8 @@ sustainable.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3E2: <strong>Environmental Sustainability in Healthcare: Why has it got to do with me?</strong>&nbsp;</summary>
+<summary>Track 3E2: <strong>Environmental Sustainability in Healthcare: What Has Sustainability Got To Do With Me?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The healthcare sector significantly impacts the environment, contributing
 to greenhouse gas emissions, pollution, and waste. Climate change poses
