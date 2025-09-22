@@ -714,7 +714,7 @@ positively to society.&nbsp;&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2D3: Patient As The Change Agent: Patient to Barista</summary>
+<summary>Track 2D3: From Healing To Earning - The Path Back To Meaningful Employment</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Work is more than just a source of income. It can be a powerful catalyst
 for mental health recovery. This session will explore how regaining a worker
