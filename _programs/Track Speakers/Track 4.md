@@ -1025,7 +1025,7 @@ decisive action to transform their nursing environment.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Assistant Director of Nursing, Advanced Practice Nurse, Department of
-Nursing Administration&nbsp;</summary>
+Nursing Administration, Institute of Mental Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>With a robust background in psychiatric-mental health nursing, Cheryl
 is an Advanced Practice Nurse who has honed her clinical skills at various
