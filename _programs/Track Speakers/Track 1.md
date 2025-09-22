@@ -49,7 +49,7 @@ third_nav_title: Track Speakers
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Senior Consultant and Head of Service, Supportive and Palliative Care, Department of Geriatric Medicine, Khoo Teck Puat Hospital&nbsp;&amp; Yishun Hospital</strong>
+<summary><strong>Senior Consultant and Head of Service, Supportive and Palliative Care, Department of Geriatric Medicine, Khoo Teck Puat Hospital</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Dr Tan is a Senior Consultant and Head of Service for Supportive and Palliative Medicine at Khoo Tech Puat Hospital, Singapore. His work focuses on innovative healthcare delivery methods, including telemedicine for nursing home residents and homebound patients. He has developed animation-based educational tools to teach palliative care concepts to healthcare workers, making complex topics more accessible and engaging. Dr Tan is also exploring the potential of artificial intelligence in palliative care to enhance patient support and clinical decision-making. As a Clinical Assistant Professor at the Yong Loo Lin School of Medicine and Adjunct Senior Lecturer at Lee Kong Chian School of Medicine, he combines clinical work with teaching and research, focusing on practical solutions that improve care delivery. His clinical interests include palliative rehabilitation, especially in the area of sawllowing and food for palliative patients.</strong>
@@ -109,7 +109,7 @@ third_nav_title: Track Speakers
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Deputy Director of Nursing, Khoo Teck Puat Hospital&nbsp;&amp; Yishun Hospital</strong>
+<summary><strong>Deputy Director of Nursing, Khoo Teck Puat Hospital</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Yvonne Yap is a compassionate leader who is deeply dedicated to promoting staff well-being and resilience within the healthcare sector. Currently serving as Deputy Director, Nursing Administration at Khoo Teck Puat Hospital, Yvonne actively champions and contributes to numerous projects and committees aimed at enhancing nursing practices and patient care. With the support of Chief Nurse, Ms Shirley Heng, Yvonne also kickstarted the formation of KTPH’s Nursing Work-sense Committee, which is dedicated to building culture and empowering healthcare professionals to thrive in challenging environments. She established Personal Development Conversations that deepened professional growth and purpose. Her clinical leadership anchors nursing excellence while fostering meaningful human connections.&nbsp;&nbsp;</strong>
@@ -145,7 +145,7 @@ third_nav_title: Track Speakers
 <details class="isomer-details">
 <summary>Senior Nurse Clinician, Advanced Practice Nurse, Advanced Practice Nurse
 &amp; Specialty Nurse Office, Nursing Administration Department, Khoo Teck
-Puat Hospital&nbsp;&amp; Yishun Hospital</summary>
+Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Jessie is an Advanced Practice Nurse with a deep interest in geriatric
 medicine, particularly dementia and incontinence as well as caregiving.</p>
@@ -286,8 +286,7 @@ and Inclusion</summary>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Senior Nurse Manager, Inpatient Wards, Khoo Teck Puat Hospital&nbsp;&amp;
-Yishun Hospital</summary>
+<summary>Senior Nurse Manager, Inpatient Wards, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Cherie is a Senior Nurse Manager overseeing three surgical wards, bringing
 extensive clinical leadership experience to her role. As the Nursing Lead
@@ -384,7 +383,7 @@ care process.&nbsp;</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Nurse Clinician, Advanced Practice Nurse, APN &amp; Specialty Nurse Office,
-Khoo Teck Puat Hospital&nbsp;&amp; Yishun Hospital</summary>
+Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Yu Jing is an Advanced Practice Nurse / Nurse Clinician in General Surgery
 at Khoo Teck Puat Hospital. She holds a Bachelor of Nursing from Curtin
@@ -465,8 +464,7 @@ more resilient population.&nbsp;</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Senior Nurse Manager, Inpatient Wards, Khoo Teck Puat Hospital&nbsp;&amp;
-Yishun Hospital</summary>
+<summary>Senior Nurse Manager, Inpatient Wards, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Siok Qi is a senior nurse manager with experience in hospital operations
 and workforce transformation. She plays an active role in driving quality
@@ -498,8 +496,7 @@ and operational efficiency.&nbsp;</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Senior Nurse Manager, Inpatient Wards, Khoo Teck Puat Hospital&nbsp;&amp;
-Yishun Hospital</summary>
+<summary>Senior Nurse Manager, Inpatient Wards, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Cherie is a Senior Nurse Manager overseeing three surgical wards, bringing
 extensive clinical leadership experience to her role. As the Nursing Lead
@@ -638,8 +635,7 @@ they have built.&nbsp;</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Deputy Director of Nursing, Nursing Administration, Khoo Teck Puat Hospital&nbsp;&amp;
-Yishun Hospital</summary>
+<summary>Deputy Director of Nursing, Nursing Administration, Yishun Community Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Ms. Yvonne Tan is currently the Deputy Director of Nursing at Yishun Community
 Hospital (YCH), where she oversees nursing operations across sub-acute,
@@ -697,8 +693,7 @@ models.</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Senior Consultant, Psychological Medicine, Khoo Teck Puat Hospital&nbsp;&amp;
-Yishun Hospital</summary>
+<summary>Senior Consultant, Psychological Medicine, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Dr Cheang Ka Man started her career in KTPH in 2015 as a Senior Resident
 in the Department of Psychological Medicine.&nbsp; In 2018, she received
@@ -832,7 +827,7 @@ is a reflection of a story of healing, dignity and compassion.</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Assistant Nurse Clinician, Khoo Teck Puat Hospital&nbsp;&amp; Yishun Hospital</summary>
+<summary>Assistant Nurse Clinician, Khoo Teck Puat Hospital (KTPH@Home)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Mr. Zhang Ruyi is an Assistant Nurse Clinician at Khoo Teck Puat Hospital
 with over 18 years of experience in nursing, specializing in community
@@ -885,8 +880,7 @@ challenges in community-based trauma recovery.&nbsp;</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Senior Nurse Manager, Inpatient Wards, Khoo Teck Puat Hospital&nbsp;&amp;
-Yishun Hospital</summary>
+<summary>Senior Nurse Manager, Inpatient Wards, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Cherie is a Senior Nurse Manager overseeing three surgical wards, bringing
 extensive clinical leadership experience to her role. As the Nursing Lead
