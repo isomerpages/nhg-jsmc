@@ -53,8 +53,7 @@ arts, nature, and literature.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2A1: Vision for Future Nursing: Synergising Roles, Riding Waves,
-Reaching Stars</summary>
+<summary>Track 2A1: Vision for Future Nursing</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>As healthcare evolves at an unprecedented pace, we stand at a pivotal
 moment of reimagining nursing practice. This presentation explores how
