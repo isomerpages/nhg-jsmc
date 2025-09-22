@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<h3><strong>Nurses beyond Nursing, Nursing Beyond Nurses</strong></h3>
+<h3><strong>Nurses Beyond Nursing, Nursing Beyond Nurses</strong></h3>
 <hr>
 <h3>Track 2A</h3>
 <table style="minWidth: 25px">
