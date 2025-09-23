@@ -153,8 +153,7 @@ enhance rather than replace personal care.</p>
 <p>3.30 pm - 3.50 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keynote 1: "High-Tech, New-Touch Digital Technologies in Healthcare" -
-Are We Ready?"</p>
+<p>Are We Ready for High-Tech and New-Touch Digital Technologies in Healthcare?</p>
 </td>
 </tr>
 <tr>
@@ -170,7 +169,7 @@ Are We Ready?"</p>
 <p>4.10 pm - 4.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fireside chat: Balancing Technology and&nbsp;Human Touch in Nursing</p>
+<p>Fireside Chat - Balancing Technology and Human Touch In Nursing</p>
 </td>
 </tr>
 <tr>
@@ -178,8 +177,7 @@ Are We Ready?"</p>
 <p>4.30 pm - 5.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A
-<br>Moderator: Lim Voon Hooi</p>
+<p>Q&amp;A - Moderator: CN Lim Voon Hooi, NHGP</p>
 </td>
 </tr>
 </tbody>
