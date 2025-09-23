@@ -54,8 +54,7 @@ are already improving patient care and making nurses' work more effective.
 <p>11.20 pm - 11.40 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology assisted model of care in Chronic&nbsp;Disease Management/
-Disease prevention</p>
+<p>Technology assisted model of care in Chronic&nbsp;Disease Management</p>
 </td>
 </tr>
 <tr>
