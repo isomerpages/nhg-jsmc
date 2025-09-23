@@ -104,8 +104,7 @@ and improve their overall care experience. &nbsp;</p>
 <p>1.45 pm - 2.05 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mobile health applications: Benefits in care&nbsp;delivery: Hospital to
-Home</p>
+<p>Delivering Acute Care Beyond Hospital Walls - The TTSH@Home Experience</p>
 </td>
 </tr>
 <tr>
