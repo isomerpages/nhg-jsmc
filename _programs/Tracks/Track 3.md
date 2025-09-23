@@ -62,8 +62,7 @@ are already improving patient care and making nurses' work more effective.
 <p>11.40 pm - 12.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Blending Technology-Enhanced Learning for Nursing Education
-<br>NUS Prof Liaw Sok Ying (Confirmed)</p>
+<p>Blending Technology-Enhanced Learning For Nursing Education</p>
 </td>
 </tr>
 <tr>
