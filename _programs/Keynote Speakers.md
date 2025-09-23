@@ -4,7 +4,7 @@ permalink: /keynotespeakers/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Keynote 1 </strong></h2>
+<h2><strong>Keynote 1</strong></h2>
 <h2>The Future of Nursing Leadership: Extending Lives, Empowering Nurses, Transforming Healthcare</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pauline tan.png">
