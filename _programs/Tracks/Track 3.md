@@ -70,7 +70,7 @@ are already improving patient care and making nurses' work more effective.
 <p>12.00 pm - 12.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A - Moderator: NC Shaoyang , TTSH</p>
+<p>Q&amp;A - Moderator: NC Kuek Shaoyang, TTSH</p>
 </td>
 </tr>
 </tbody>
