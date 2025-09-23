@@ -210,7 +210,7 @@ high safety standards.</p>
 <p>11.00 am - 11.20 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Connected Nurse: Real-Time&nbsp;Monitoring and Virtual Patient&nbsp;Care</p>
+<p>Connected Nurse - Real-Time Monitoring and Virtual Patient Care</p>
 </td>
 </tr>
 <tr>
@@ -218,7 +218,7 @@ high safety standards.</p>
 <p>11.20 am - 12.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dialogue session: Leveraging Digital Tools in&nbsp;Healthcare</p>
+<p>Dialogue Session - Leveraging Digital Tools in Healthcare</p>
 </td>
 </tr>
 <tr>
@@ -266,7 +266,8 @@ technology-enabled healthcare systems for future challenges.&nbsp;</p>
 <p>2.05 pm - 2.25 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sustainable Technology Methods in Healthcare</p>
+<p>Environmental Sustainability in Healthcare - What Has Sustainability Got
+To Do With Me?</p>
 </td>
 </tr>
 <tr>
@@ -274,7 +275,7 @@ technology-enabled healthcare systems for future challenges.&nbsp;</p>
 <p>2.25 pm - 2.45 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ask Me Anything: Use of Technology in pandemic&nbsp;readiness</p>
+<p>Ask Me Anything - Use of Technology in Pandemic Readiness&nbsp;</p>
 </td>
 </tr>
 <tr>
