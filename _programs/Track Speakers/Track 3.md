@@ -101,8 +101,7 @@ Diploma in Gerontology and Specialist Diploma in Nursing (Diabetes Management
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3A2: Technology Assisted Model Of Care In Chronic&nbsp;Disease Management/
-Disease Prevention</summary>
+<summary>Track 3A2: Technology Assisted Model Of Care In Chronic&nbsp;Disease Management</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This presentation highlights how nurses at the National Healthcare Group
 Polyclinics (NHGP) are transforming chronic care management by leveraging
@@ -223,7 +222,8 @@ nursing practice to be more proactive, data-driven, and patient-centred.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3B1: &nbsp;Delivering Hospital-Level Care at Home with TTSH@Home&nbsp;&nbsp;</summary>
+<summary>Track 3B1: &nbsp;Delivering Acute Care Beyond Hospital Walls - The TTSH@Home
+Experience</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Ms. Tiffany Tay completed her Diploma in Nursing in 2010. She went on
 to obtain an Advanced Diploma in Nursing and a Bachelor of Nursing from
@@ -448,7 +448,7 @@ diabetes-related complications.</p>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3c1 loo yong joo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3c1 loh yong joo.png">
 </div>
 <blockquote>
 <h4>Dr Loh Yong Joo</h4>
@@ -552,7 +552,30 @@ practices.&nbsp;</p>
 not compromise the compassion and empathy cental to nursing care</p>
 </div>
 </details>
+<blockquote>
+<h4>Dr Goh Han Leong&nbsp;</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Senior Principal Specialist, Data Analytics &amp; AI, Synapxe, Senior
+Adjunct Lecturer, National University of Singapore&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+</div>
+<blockquote>
+<h4>Dr Loh Yong Joo</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Head &amp; Senior Consultant, TTSH Rehabilitation Medicine, Director,
+Clinical Innovation, TTSH Clinical Research &amp; Innovation office&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3c lim voon hooi&nbsp;.png">
@@ -642,7 +665,8 @@ nursing journals.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3D1: Innovation for Smarter Patient Care</summary>
+<summary>Track 3D1: Connected Nurse - Real-Time Monitoring and Virtual Patient
+Care</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Owing to the aging population and demanding lifestyle in Singapore, individuals
 are increasingly vulnerable to coronary heart disease (CHD). Heart attack,
@@ -978,7 +1002,7 @@ care experience for patients and families.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3E1: <strong>Revolutionizing Bedside Care: Nursing Leaders on the Digital Frontline.</strong>
+<summary>Track 3E1: <strong>Revolutionizing Bedside Care: Nursing Leaders on the Digital Frontline</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The healthcare landscape has undergone significant transformations over
@@ -1012,7 +1036,8 @@ sustainable.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3E2: <strong>Environmental Sustainability in Healthcare: Why has it got to do with me?</strong>&nbsp;</summary>
+<summary>Track 3E2: <strong>Environmental Sustainability in Healthcare - What Has Sustainability Got To Do With Me?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The healthcare sector significantly impacts the environment, contributing
 to greenhouse gas emissions, pollution, and waste. Climate change poses

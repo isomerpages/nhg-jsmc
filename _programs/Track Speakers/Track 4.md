@@ -740,7 +740,7 @@ Award, NTU (2020) and NHG Quality Day Merit Award (2021).&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4D1: How to be a “Green Flag”: Tactics to Capture the New Generation</summary>
+<summary>Track 4D1: How to be a “Green Flag”: Tips to Capture the New Generation</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -971,7 +971,8 @@ overall work experience and patient care</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Deputy Director (Nursing Education), Advanced Practice Nurse (Cardiology)</summary>
+<summary>Deputy Director (Nursing Education), Advanced Practice Nurse (Cardiology),
+Tan Tock Seng Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Meet Jamie, the heart and soul of the Cardiology Department, who's been
 keeping both hearts and students ticking since 2006. Armed with not one,
@@ -997,8 +998,7 @@ they're all heart-stopping!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4E3: Investing in our Workforce: Shaping Environments that Support
-Nurses in their Growth and Development</summary>
+<summary>Track 4E3: PEST control - Eliminating Problematic Elements Stifling Teamwork</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>In this bold and unconventional session, discover why being "the bad guy"
 might be exactly what your nursing environment needs. PEST Control tackles
@@ -1024,7 +1024,7 @@ decisive action to transform their nursing environment.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Assistant Director of Nursing, Advanced Practice Nurse, Department of
-Nursing Administration&nbsp;</summary>
+Nursing Administration, Institute of Mental Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>With a robust background in psychiatric-mental health nursing, Cheryl
 is an Advanced Practice Nurse who has honed her clinical skills at various

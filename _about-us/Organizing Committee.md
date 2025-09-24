@@ -102,8 +102,7 @@ Nursing</summary>
 <p>Org Comm Lead</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Goh Soon Pang, Senior Nurse Clinician, Khoo Teck Puat Hospital &amp;
-Yishun Community Hospital</summary>
+<summary>Ms Goh Soon Pang, Senior Nurse Clinician, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -167,8 +166,7 @@ Nursing</summary>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Goh Soon Pang, Senior Nurse Clinician, Khoo Teck Puat Hospital &amp;
-Yishun Community Hospital</summary>
+<summary>Ms Goh Soon Pang, Senior Nurse Clinician, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -333,8 +331,7 @@ Nursing</summary>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Sathiya Veerarhagavan, Senior Nurse Manager, Khoo Teck Puat Hospital
-&amp; Yishun Community Hospital</summary>
+<summary>Ms Sathiya Veerarhagavan, Senior Nurse Manager, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Senior Nurse Manager with 24 years' experience, passionate about healthcare
 leadership &amp; CPIP initiatives, driving excellence in quality improvement
@@ -413,8 +410,7 @@ nurses in Singapore and beyond.</p>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Sharifah Maryam Alhabshee Bte Zen, Nurse Manager, Khoo Teck Puat Hospital
-&amp; Yishun Community Hospital</summary>
+<summary>Ms Sharifah Maryam Alhabshee Bte Zen, Nurse Manager, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Over my 15 years as a nurse, I have learned to view situations from different
 perspectives and sincerely care for others. I am dedicated to treating
@@ -461,8 +457,7 @@ genuine human connections drive better care outcomes.</p>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Joyce Ho Nuo, Nurse Educator, Khoo Teck Puat Hospital &amp; Yishun
-Community Hospital</summary>
+<summary>Ms Joyce Ho Nuo, Nurse Educator, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>With 18 years of nursing experience, I'm passionate about shaping the
 next generation of nurses through innovative education. I specialise in
@@ -483,8 +478,7 @@ to become confident, competent healthcare professionals.</p>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Goh Soon Pang, Senior Nurse Clinician, Khoo Teck Puat Hospital &amp;
-Yishun Community Hospital</summary>
+<summary>Ms Goh Soon Pang, Senior Nurse Clinician, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -699,8 +693,7 @@ genuine human connections drive better care outcomes.</p>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Sathiya Veerarhagavan, Senior Nurse Manager, Khoo Teck Puat Hospital
-&amp; Yishun Community Hospital</summary>
+<summary>Ms Sathiya Veerarhagavan, Senior Nurse Manager, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Senior Nurse Manager with 24 years' experience, passionate about healthcare
 leadership &amp; CPIP initiatives, driving excellence in quality improvement
@@ -763,8 +756,7 @@ that benefit both patients and healthcare teams.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Muhammad Syazwan Bin Ruslaine, Khoo Teck Puat Hospital &amp; Yishun Community
-Hospital</summary>
+<summary>Muhammad Syazwan Bin Ruslaine, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>

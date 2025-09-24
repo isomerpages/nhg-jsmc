@@ -54,8 +54,7 @@ are already improving patient care and making nurses' work more effective.
 <p>11.20 pm - 11.40 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology assisted model of care in Chronic&nbsp;Disease Management/
-Disease prevention</p>
+<p>Technology assisted model of care in Chronic&nbsp;Disease Management</p>
 </td>
 </tr>
 <tr>
@@ -63,8 +62,7 @@ Disease prevention</p>
 <p>11.40 pm - 12.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Blending Technology-Enhanced Learning for Nursing Education
-<br>NUS Prof Liaw Sok Ying (Confirmed)</p>
+<p>Blending Technology-Enhanced Learning For Nursing Education</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +70,7 @@ Disease prevention</p>
 <p>12.00 pm - 12.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A - Moderator: NC Shaoyang , TTSH</p>
+<p>Q&amp;A - Moderator: NC Kuek Shaoyang, TTSH</p>
 </td>
 </tr>
 </tbody>
@@ -106,8 +104,7 @@ and improve their overall care experience. &nbsp;</p>
 <p>1.45 pm - 2.05 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mobile health applications: Benefits in care&nbsp;delivery: Hospital to
-Home</p>
+<p>Delivering Acute Care Beyond Hospital Walls - The TTSH@Home Experience</p>
 </td>
 </tr>
 <tr>
@@ -156,8 +153,7 @@ enhance rather than replace personal care.</p>
 <p>3.30 pm - 3.50 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keynote 1: "High-Tech, New-Touch Digital Technologies in Healthcare" -
-Are We Ready?"</p>
+<p>Are We Ready for High-Tech and New-Touch Digital Technologies in Healthcare?</p>
 </td>
 </tr>
 <tr>
@@ -173,7 +169,7 @@ Are We Ready?"</p>
 <p>4.10 pm - 4.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fireside chat: Balancing Technology and&nbsp;Human Touch in Nursing</p>
+<p>Fireside Chat - Balancing Technology and Human Touch In Nursing</p>
 </td>
 </tr>
 <tr>
@@ -181,8 +177,7 @@ Are We Ready?"</p>
 <p>4.30 pm - 5.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A
-<br>Moderator: Lim Voon Hooi</p>
+<p>Q&amp;A - Moderator: CN Lim Voon Hooi, NHGP</p>
 </td>
 </tr>
 </tbody>
@@ -215,7 +210,7 @@ high safety standards.</p>
 <p>11.00 am - 11.20 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Connected Nurse: Real-Time&nbsp;Monitoring and Virtual Patient&nbsp;Care</p>
+<p>Connected Nurse - Real-Time Monitoring and Virtual Patient Care</p>
 </td>
 </tr>
 <tr>
@@ -223,7 +218,7 @@ high safety standards.</p>
 <p>11.20 am - 12.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dialogue session: Leveraging Digital Tools in&nbsp;Healthcare</p>
+<p>Dialogue Session - Leveraging Digital Tools in Healthcare</p>
 </td>
 </tr>
 <tr>
@@ -271,7 +266,8 @@ technology-enabled healthcare systems for future challenges.&nbsp;</p>
 <p>2.05 pm - 2.25 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sustainable Technology Methods in Healthcare</p>
+<p>Environmental Sustainability in Healthcare - What Has Sustainability Got
+To Do With Me?</p>
 </td>
 </tr>
 <tr>
@@ -279,7 +275,7 @@ technology-enabled healthcare systems for future challenges.&nbsp;</p>
 <p>2.25 pm - 2.45 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ask Me Anything: Use of Technology in pandemic&nbsp;readiness</p>
+<p>Ask Me Anything - Use of Technology in Pandemic Readiness&nbsp;</p>
 </td>
 </tr>
 <tr>

@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<h3><strong>Nurses beyond Nursing, Nursing Beyond Nurses</strong></h3>
+<h3><strong>Nurses Beyond Nursing, Nursing Beyond Nurses</strong></h3>
 <hr>
 <h3>Track 2A</h3>
 <table style="minWidth: 25px">
@@ -121,7 +121,7 @@ on health &amp; well-being, workplace culture and civility.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2A2: Leadership in Nursing: Developing Managers and Policy Influencers</summary>
+<summary>Track 2A2: Leadership in Nursing - Developing Managers and Policy Influencers</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The role of modern nursing leadership in the new millennium is dynamic
 and multifaceted, shaped by rapid advancements in healthcare, technology,
@@ -144,7 +144,6 @@ and shaping institutional policy.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/chong mei chan.png">
 </div>
-<p></p>
 <blockquote>
 <h4>Professor Chong Mei Chan&nbsp;</h4>
 </blockquote>
@@ -184,8 +183,8 @@ initiatives.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2A3: Meeting The Healthcare Needs (Sharing Of Initiatives Nurses
-Embarked To Cope With Healthcare Challenges)</summary>
+<summary>Track 2A3: Meeting The Healthcare Needs - Initiatives Nurses Embarked
+To Cope With Healthcare Challenges</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Healthcare today faces unprecedented demands - aging populations, complex
 chronic diseases, staff shortages, and rapid technological change. Yet
@@ -240,13 +239,7 @@ activation, digital health</p>
 </div>
 </details>
 </div>
-<p></p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
@@ -259,9 +252,7 @@ activation, digital health</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Presenters</h4>
-<p></p>
-<p></p>
+<h4>Presenter</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ttshjames.png">
 </div>
@@ -327,7 +318,7 @@ move beyond.&nbsp;Nursing with a Different ‘Hat’&nbsp;&nbsp;</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Senior Flight Nurse</summary>
+<summary>Senior Flight Nurse, EMA Global</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Hemma Rajendra is a dedicated Flight Nurse with a background in critical
 care and aeromedical transport. With formal training in aeromedical operations
@@ -338,7 +329,7 @@ no matter the altitude.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2B2: Love Is In The Air “Twelve-Kilometres High Medicine"</summary>
+<summary>Track 2B2: Nursing In The Sky</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Flight nurses are a specialized group of professionals who care for acutely
 ill patients outside the hospital environment. We are an essential part
@@ -445,7 +436,7 @@ students and faculty development.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2c1 zhang yuxia.png">
 </div>
 <blockquote>
-<h4>Professor Zhang Yuxia</h4>
+<h4>Professor Yuxia Zhang</h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -476,7 +467,7 @@ expert consensus statements, clinical guidelines, and nursing standards.&nbsp;</
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2C1: Past, Present, Prospect: View on Nursing Transformation Across
+<summary>Track 2C1: Past, Present, Prospect - View on Nursing Transformation Across
 The Decades</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This session, <em>Past, Present, Prospect – A View on Nursing Transformation Across the Decades</em>,
@@ -553,7 +544,7 @@ culture.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2C3: Clinically Ready For ICU Support</summary>
+<summary>Track 2C3: Clinically Ready For ICU Support (CROCS)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -570,7 +561,7 @@ culture.&nbsp;</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Deputy Director Of Nursing, Woodlands Health</summary>
+<summary>Chief Nurse, Institute of Mental Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Dr. Dong Lijuan is an accomplished healthcare leader with a diverse educational
 and professional background. She holds a PhD in Education, an MBA in Healthcare
@@ -626,7 +617,7 @@ innovation, reflecting the evolving landscape of modern healthcare.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2D1: From Caregivers to Change Agents: The New Nursing Paradigm</summary>
+<summary>Track 2D1: WH Carerlink Program</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Caregivers are the backbone of patient recovery, yet many face overwhelming
 physical, emotional, and financial challenges that compromise care quality
@@ -724,7 +715,7 @@ positively to society.&nbsp;&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2D3: Patient As The Change Agent: Patient to Barista</summary>
+<summary>Track 2D3: From Healing To Earning - The Path Back To Meaningful Employment</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Work is more than just a source of income. It can be a powerful catalyst
 for mental health recovery. This session will explore how regaining a worker
@@ -750,8 +741,7 @@ for clients to regain work readiness.&nbsp;&nbsp;</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Assistant Director of Nursing, Nursing, Khoo Teck Puat &amp; Yishun Community
-Hospital&nbsp;</summary>
+<summary>Assistant Director of Nursing, Nursing, Khoo Teck Puat</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Eileen brings 24 years of healthcare experience to her role as Assistant
 Director of Nursing at Khoo Teck Puat Hospital (KTPH). In her current position,
@@ -790,7 +780,7 @@ supporting the hospital's "Zero Tolerance for Abuse in Healthcare" policy</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Deputy Director, Nursing, Khoo Teck Puat &amp; Yishun Community Hospital&nbsp;&nbsp;</summary>
+<summary>Deputy Director, Nursing, Khoo Teck Puat</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Yvonne Yap is a compassionate leader who is deeply dedicated to promoting
 staff well-being and resilience within the healthcare sector. Currently
@@ -834,8 +824,8 @@ operational adaptations, and the shared heart of service across industries.&nbsp
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Senior Staff Nurse, Ward D48 – Sub-Acute / Dementia, Khoo Teck Puat &amp;
-Yishun Community Hospital&nbsp;&nbsp;</summary>
+<summary>Senior Staff Nurse, Ward D48 – Sub-Acute / Dementia, Yishun Community
+Hospital&nbsp;&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Nazrina Hoque is a healthcare professional whose career journey reflects
 her commitment to public service and personal growth. After completing
@@ -853,7 +843,7 @@ balances her demanding career while maintaining a fulfilling family life.&nbsp;<
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2E2: Career Conversion Program, Why Change?</summary>
+<summary>Track 2E2: Career Conversion Program, Why Change? Prison Officer To Nurse</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Nazrina Hoque's career journey reflects a profound evolution from law
 enforcement to healthcare, driven by her growing desire to make a more
@@ -911,7 +901,7 @@ institutions, and supervise postgraduate and undergraduate research.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2E3: Nursing Beyond Nurse: Non-Nursing In A Nursing Environment</summary>
+<summary>Track 2E3: Nursing Beyond Nurse - Non-Nursing In A Nursing Environment</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Nursing involves a wide range of practice, going beyond the typical bedside
 role. It comprises advanced practice jobs such as nurse practitioners,
@@ -948,15 +938,14 @@ cooperation becomes essential to successful healthcare teams.&nbsp;</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Deputy Director of Nursing, Nursing Administration, Khoo Teck Puat &amp;
-Yishun Community Hospital&nbsp;</summary>
+<summary>Head of Nursing, Yishun Community Hospital&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Ms. Yvonne Tan is currently the Deputy Director of Nursing at Yishun Community
-Hospital (YCH), where she oversees nursing operations across sub-acute,
-rehabilitation, and inpatient hospice palliative care services. With over
-28 years of nursing experience, she has progressed through various leadership
-roles including Assistant Director of Nursing, Senior Nurse Manager, and
-Nurse Educator.</p>
+<p>Ms. Yvonne Tan is Head of Nursing at Yishun Community Hospital (YCH),
+where she oversees nursing operations across sub-acute, rehabilitation,
+and inpatient hospice palliative care services. With over 28 years of nursing
+experience, she has progressed through various leadership roles including
+Deputy Director of Nursing, Assistant Director of Nursing, Senior Nurse
+Manager, and Nurse Educator.</p>
 <p></p>
 <p>Her expertise spans across acute and community care settings, with experience
 in neuroscience nursing and nursing education. Prior to YCH, she held educator

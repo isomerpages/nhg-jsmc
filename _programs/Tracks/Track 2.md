@@ -46,8 +46,12 @@ leadership, innovation, and adaptability.&nbsp;</p>
 <p>11.00 am - 11.20 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vision for the future Nursing: Educators, administrators, APN, DPN, What's
-Next?</p>
+<details class="isomer-details">
+<summary>Vision for Future Nursing: Synergising Roles, Riding Waves, Reaching Stars</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </td>
 </tr>
 <tr>

@@ -72,7 +72,7 @@ allowing nurses at every career stage to thrive professionally.</p>
 <p>12.00 pm - 12.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A - Moderator: ADN Wang Jia, IMH</p>
+<p>Q&amp;A - Moderator: C.ADN Wang Jia, IMH</p>
 </td>
 </tr>
 </tbody>
@@ -190,7 +190,7 @@ enabling them to focus on delivering quality patient care.</p>
 <p>4.30 pm - 5.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A - Moderator: SNE Grace Tan, Pop Health</p>
+<p>Q&amp;A - Moderator: SNM Grace Tan, Pop Health</p>
 </td>
 </tr>
 </tbody>
@@ -222,7 +222,7 @@ and varied perspectives.</p>
 <p>11.00 pm - 11.20 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>How to be a “Green Flag”: Tactics to Capture the New Generation</p>
+<p>How to be a “Green Flag”: Tips to Capture the New Generation</p>
 </td>
 </tr>
 <tr>
@@ -246,7 +246,7 @@ and varied perspectives.</p>
 <p>12.00 pm -12.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A - Moderator: CN Shirley Heng, KTPH</p>
+<p>Q&amp;A - Moderator: CN Shirley Heng, KTPH &amp; YCH</p>
 </td>
 </tr>
 </tbody>
@@ -296,8 +296,7 @@ best care.</p>
 <p>2.25 pm - 2.45 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Investing in our Workforce: Shaping Environments that Support Nurses in
-their Growth and Development</p>
+<p>PEST control - Eliminating Problematic Elements Stifling Teamwork</p>
 </td>
 </tr>
 <tr>
@@ -305,7 +304,7 @@ their Growth and Development</p>
 <p>2.45 pm - 3.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A - Moderator:&nbsp;ADN Goh Ai Sze, IMH</p>
+<p>Q&amp;A - Moderator:&nbsp;ADN Goh Ai Sze, Cheryl, IMH</p>
 </td>
 </tr>
 </tbody>
