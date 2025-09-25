@@ -17,7 +17,7 @@ third_nav_title: Track Speakers
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2a1 shirley heng.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2a1 shirley heng.png">
 </div>
 <blockquote>
 <h4>Ms Shirley Heng&nbsp;</h4>
@@ -87,7 +87,7 @@ ability to work together in powerful new ways.&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2a1 nirmala bte karmaroon .png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2a1 nirmala bte karmaroon .png">
 </div>
 <blockquote>
 <h4>Ms Nirmala Bte Karmaroon</h4>
@@ -142,7 +142,7 @@ and shaping institutional policy.&nbsp;</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/chong mei chan.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/chong mei chan.png">
 </div>
 <blockquote>
 <h4>Professor Chong Mei Chan&nbsp;</h4>
@@ -211,7 +211,7 @@ future for healthcare.&nbsp;</p>
 <p></p>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2a chan ee yuee.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2a chan ee yuee.png">
 </div>
 <blockquote>
 <h4>Adj Asst Prof&nbsp;Chan Ee Yuee</h4>
@@ -254,7 +254,7 @@ activation, digital health</p>
 <th rowspan="1" colspan="1">
 <h4>Presenter</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ttshjames.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/ttshjames.png">
 </div>
 <blockquote>
 <h4>Mr James Tan Wan Kun</h4>
@@ -311,7 +311,7 @@ move beyond.&nbsp;Nursing with a Different ‘Hat’&nbsp;&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/hemma rajendra.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/hemma rajendra.png">
 </div>
 <blockquote>
 <h4>Ms Hemma Rajendra</h4>
@@ -353,7 +353,7 @@ that makes my working career exciting.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2b3 selina seah.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2b3 selina seah.png">
 </div>
 <blockquote>
 <h4>Adj Asst Prof&nbsp;Selina Seah</h4>
@@ -389,7 +389,7 @@ influencing the present and future of healthcare. Your voice matters.&nbsp;</p>
 <p></p>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2b lau siew tiang, lydia.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2b lau siew tiang, lydia.png">
 </div>
 <blockquote>
 <h4>Associate Professor Lau Siew Tiang, Lydia</h4>
@@ -431,14 +431,9 @@ students and faculty development.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2c1 zhang yuxia.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2c1 zhang yuxia.png">
 </div>
 <blockquote>
 <h4>Professor Yuxia Zhang</h4>
@@ -501,7 +496,7 @@ meet the demands of an ever-changing healthcare landscape.&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2c2 peh sue cheng.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2c2 peh sue cheng.png">
 </div>
 <blockquote>
 <h4>Ms Peh Sue Cheng</h4>
@@ -535,7 +530,7 @@ culture.&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2c3 marilyn.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2c3 marilyn.png">
 </div>
 <blockquote>
 <h4>Ms Marilyn Wan Mei Ting</h4>
@@ -558,7 +553,7 @@ culture.&nbsp;</p>
 <h4>Moderator</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whdonglj.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/whdonglj.png">
 </div>
 <blockquote>
 <h4>Dr Dong Lijuan</h4>
@@ -594,7 +589,7 @@ member of Education Committee for Singapore Nursing Board.&nbsp;&nbsp;</p>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2d1 fauziah.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2d1 fauziah.png">
 </div>
 <blockquote>
 <h4>Ms Fauziah Binte Rahman&nbsp;</h4>
@@ -649,7 +644,7 @@ care, ultimately improving outcomes for caregivers and patients alike.&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2d2 precilla lai .png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2d2 precilla lai .png">
 </div>
 <blockquote>
 <h4>Ms Precilla Lai&nbsp;</h4>
@@ -694,7 +689,7 @@ roles to more relational, care-centered duties.&nbsp;&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2d3 tan peck yan.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2d3 tan peck yan.png">
 </div>
 <blockquote>
 <h4>Ms Tan Peck Yan</h4>
@@ -733,9 +728,8 @@ for clients to regain work readiness.&nbsp;&nbsp;</p>
 </div>
 <h4>Moderator</h4>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2d eileen.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2d eileen.png">
 </div>
 <blockquote>
 <h4>Ms Eileen Cheah Lilian</h4>
@@ -774,7 +768,7 @@ supporting the hospital's "Zero Tolerance for Abuse in Healthcare" policy</p>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1a yap hui xian yvonne .png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1a yap hui xian yvonne .png">
 </div>
 <blockquote>
 <h4>Ms Yap Hui Xian, Yvonne</h4>
@@ -818,7 +812,7 @@ operational adaptations, and the shared heart of service across industries.&nbsp
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2e2 nazrina.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2e2 nazrina.png">
 </div>
 <blockquote>
 <h4>Ms Nazrina Hoque</h4>
@@ -873,7 +867,7 @@ and purposeful.&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/jalina karim.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/jalina karim.png">
 </div>
 <blockquote>
 <h4>Dr Jalina Karim</h4>
@@ -932,7 +926,7 @@ cooperation becomes essential to successful healthcare teams.&nbsp;</p>
 <h4>Moderator</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d yvonne tan siow lin.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d yvonne tan siow lin.png">
 </div>
 <blockquote>
 <h4>Ms Yvonne Tan Siow Lin</h4>
