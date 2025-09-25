@@ -4,7 +4,7 @@ permalink: /organizing-committee/
 variant: tiptap
 description: ""
 ---
-<h3></h3>
+<h3>Main Committee</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -13,7 +13,10 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<h3>Main Committee</h3>
+<h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer__1_.gif">
+</div>
 </td>
 </tr>
 <tr>
