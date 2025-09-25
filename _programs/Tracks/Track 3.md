@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Tracks
 ---
+<h4><strong>Location - Level 2, L2 001/002</strong></h4>
+<hr>
 <h3>Digitally Enabled Workforce</h3>
 <p>The digital age is transforming nursing, integrating technology into patient
 care, education, and administration. Electronic health records (EHRs),
