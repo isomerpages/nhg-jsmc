@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Tracks
 ---
+<h4><strong>Location - Level 2, Hall 2</strong></h4>
+<hr>
 <h3><strong>Positive Practice Environment</strong></h3>
 <p>Building a positive environment in nursing is essential for improving
 job satisfaction, teamwork, and patient care. Key strategies include fostering

@@ -393,7 +393,7 @@ nurses in Singapore and beyond.</p>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Timie Chan Lai Ten, Senior Staff Nurse, Woodlands Health</summary>
+<summary>Ms Chan Lai Teng Timie, Senior Staff Nurse, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -736,7 +736,7 @@ leadership &amp; CPIP initiatives, driving excellence in quality improvement
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Timie Chan Lai Ten, Senior Staff Nurse, Woodlands Health</summary>
+<summary>Ms Chan Lai Teng Timie, Senior Staff Nurse, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>My work in nursing is focused on Quality and Patient Safety, with an emphasis
 on identifying systemic gaps and resolving process inefficiencies. I aim
@@ -758,7 +758,11 @@ that benefit both patients and healthcare teams.&nbsp;</p>
 <details class="isomer-details">
 <summary>Muhammad Syazwan Bin Ruslaine, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Syazwan is a nurse with experience across geriatric and general medicine
+settings. Passionate about delivering compassionate care to patients of
+all ages, he is actively involved in patient education and caregiver training
+programmes, empowering families and caregivers to enhance patient care
+delivery and improve health outcomes within the community.</p>
 </div>
 </details>
 </div>
@@ -771,8 +775,4 @@ that benefit both patients and healthcare teams.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NHG_Health_Corporate_Suite_of_Logos_Full_Colour.png">
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<hr>
 <p></p>
