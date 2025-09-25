@@ -606,7 +606,7 @@ Office&nbsp;&nbsp;</summary>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Track 1D3: Future-Proofing Nursing - The Critical Role of Senior Nurses in Singapore's Healthcare Landscape.</strong>
+<summary><strong>Track 1D3: Future-Proofing Nursing - The Critical Role of Senior Nurses in Singapore's Healthcare Landscape</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This presentation explores how Senior Nurses “Beyond the Bedside” contributes
