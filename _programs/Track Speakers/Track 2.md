@@ -529,9 +529,8 @@ culture.&nbsp;</p>
 </details>
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__42_x_59_4_cm___600_x_400_px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2c3 marilyn.png">
 </div>
 <blockquote>
 <h4>Ms Marilyn Wan Mei Ting</h4>
