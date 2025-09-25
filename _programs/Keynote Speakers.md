@@ -263,7 +263,18 @@ support Singapore’s healthcare ahead&nbsp;</p>
 <summary>Group Chief Nurse (NHG Health), Chief Wellness Officer (NHG Health), Assistant
 Chief Executive Officer (Institute of Mental Health)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Adj A/Prof Yong Keng Kwang is a driving force behind nursing excellence
+and staff well-being at NHG Health. As Group Chief Nurse, he leads over
+8,000 nurses across NHG institutions, advancing four strategic thrusts:
+relationship-based care, role optimisation, digital enablement, and positive
+practice environments. Since April 2024, he has also served as Assistant
+CEO (Strategic Planning) at the Institute of Mental Health, where he co-leads
+planning for mental health services. Previously, as Chief Nurse of TTSH,
+he steered the development of its 3,800-strong nursing workforce. In 2023,
+A/Prof Yong was appointed NHG Health’s first Chief Wellness Officer, where
+he champions staff well-being and resilience through organisation-wide
+strategies. His work ensures that care teams remain supported, capable,
+and committed to high-quality, person-centred care.</p>
 </div>
 </details>
 </div>
