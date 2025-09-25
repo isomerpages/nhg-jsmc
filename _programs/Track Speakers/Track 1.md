@@ -7,7 +7,7 @@ third_nav_title: Track Speakers
 ---
 <h3>Strengthening the Human Element in Healthcare</h3>
 <hr>
-<h3>Track 1A</h3>
+<h3>Track 1A -Journeying With Patients</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -126,7 +126,7 @@ third_nav_title: Track Speakers
 </tbody>
 </table>
 <hr>
-<h3>Track 1B</h3>
+<h3>Track 1B - Staying Unified in a Culturally Diversified Population</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -303,7 +303,7 @@ in healthcare financing policies.</p>
 </tbody>
 </table>
 <hr>
-<h3>Track 1C</h3>
+<h3>Track 1C - Creating a Safe Environment For Patients To Have a Voice In Their Care Process</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -479,7 +479,7 @@ and operational efficiency.&nbsp;</p>
 </tbody>
 </table>
 <hr>
-<h3>Track 1D</h3>
+<h3>Track 1D - Preserve The Human Essence in a Technological Age</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -676,7 +676,7 @@ models.</p>
 </tr>
 </tbody>
 </table>
-<h3>Track 1E</h3>
+<h3>Track 1E - Seeing Patients as People, Than Numbers</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
