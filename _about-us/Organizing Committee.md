@@ -289,7 +289,7 @@ of knowledge into practice.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="audrey kon nurse and software developer" src="/images/Comm/whaudrey.png">
+<img style="width: 65%;" height="auto" width="100%" alt="audrey kon nurse and software developer" src="/images/Comm/whaudrey.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -595,7 +595,7 @@ leaders - helping them grow in confidence and capability.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whaudrey.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/whaudrey.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
