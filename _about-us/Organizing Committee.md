@@ -301,7 +301,7 @@ Nursing</summary>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/ktphsathiya.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Sathiya Veerarhagavan, Senior Nurse Manager, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -633,7 +633,7 @@ genuine human connections drive better care outcomes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/ktphsathiya.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Sathiya Veerarhagavan, Senior Nurse Manager, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -698,7 +698,7 @@ that benefit both patients and healthcare teams.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/syazwan.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Muhammad Syazwan Bin Ruslaine, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
