@@ -17,11 +17,9 @@ third_nav_title: Track Speakers
 <td rowspan="1" colspan="1">
 <h4><strong>Presenters</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1a1 woei kian.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1a1 woei kian.png">
 </div>
-<blockquote>
 <h4>Ms Ng Woei Kian</h4>
-</blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Assistant Director of Nursing, Community Care (Community Health), NHG Population Health</strong>
@@ -42,11 +40,9 @@ third_nav_title: Track Speakers
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1a2 laurence tan.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1a2 laurence tan.png">
 </div>
-<blockquote>
 <h4>Dr Laurence Tan</h4>
-</blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Senior Consultant and Head of Service, Supportive and Palliative Care, Department of Geriatric Medicine, Khoo Teck Puat Hospital</strong>
@@ -71,11 +67,9 @@ third_nav_title: Track Speakers
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1a3 lim hui shan.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1a3 lim hui shan.png">
 </div>
-<blockquote>
 <h4>Ms Lim Hui Shan</h4>
-</blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Nurse Clinician, National University Health System, Regional Health System Office, Community Care&nbsp;</strong>
@@ -102,7 +96,7 @@ third_nav_title: Track Speakers
 <p></p>
 <h4><strong>Moderator</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1a yap hui xian yvonne .png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1a yap hui xian yvonne .png">
 </div>
 <blockquote>
 <h4>Ms Yap Hui Xian Yvonne<strong>&nbsp;</strong></h4>
@@ -899,4 +893,5 @@ in healthcare financing policies.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer__1_.gif">
 </div>
+<p></p>
 <p></p>
