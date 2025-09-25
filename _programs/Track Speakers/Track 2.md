@@ -977,8 +977,5 @@ models.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer__1_.gif">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer.gif">
-</div>
 <h2></h2>
 <p></p>
