@@ -998,7 +998,7 @@ they're all heart-stopping!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4E3: PEST control - Eliminating Problematic Elements Stifling Teamwork</summary>
+<summary>Track 4E3: PEST control - Eliminating <u>P</u>roblematic <u>E</u>lements <u>S</u>tifling <u>T</u>eamwork</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>In this bold and unconventional session, discover why being "the bad guy"
 might be exactly what your nursing environment needs. PEST Control tackles
