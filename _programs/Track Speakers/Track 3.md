@@ -8,7 +8,7 @@ third_nav_title: Track Speakers
 <h3><strong>Digitally Enabled Workforce</strong></h3>
 <p>Track 3 sessions would be held at Level 2, L001/002</p>
 <hr>
-<h3>Track 3A</h3>
+<h3>Track 3A - Powering Up Nursing Practice</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -54,7 +54,7 @@ initiatives in healthcare delivery.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3A1: Technologies in Direct Patient Care: Smart&nbsp;Ward</summary>
+<summary>Track 3A1: Technologies in Direct Patient Care (Smart&nbsp;Ward)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Discover how Alexandra Hospital is revolutionizing patient care through
 its cutting-edge Virtual Nursing (VN) program. As healthcare systems globally
@@ -200,7 +200,7 @@ nursing practice to be more proactive, data-driven, and patient-centred.</p>
 </tbody>
 </table>
 <hr>
-<h3>Track 3B</h3>
+<h3>Track 3B - Advancing Digital Health for Chronic Disease Management</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -439,7 +439,7 @@ diabetes-related complications.</p>
 </tbody>
 </table>
 <hr>
-<h3>Track 3C</h3>
+<h3>Track 3C - Sustainable Technologies in Healthcare</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -484,6 +484,13 @@ partners to design and implement digital applications that make the care
 experience more ideal for our residents and/or their family members. However,
 these are not without challenges including cybersecurity, stakeholder buy-ins
 and governance etc.&nbsp;&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Track 3C3: Fireside Chat - Balancing Technology and Human Touch In Nursing</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A reflective discussion on ensuring that technological advancements do
+not compromise the compassion and empathy cental to nursing care</p>
 </div>
 </details>
 </div>
@@ -544,8 +551,6 @@ as they consider integrating technology into their clinical and operational
 practices.&nbsp;</p>
 </div>
 </details>
-</div>
-<p></p>
 <details class="isomer-details">
 <summary>Track 3C3: Fireside Chat - Balancing Technology and Human Touch In Nursing</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -553,30 +558,8 @@ practices.&nbsp;</p>
 not compromise the compassion and empathy cental to nursing care</p>
 </div>
 </details>
-<blockquote>
-<h4>Dr Goh Han Leong&nbsp;</h4>
-</blockquote>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Senior Principal Specialist, Data Analytics &amp; AI, Synapxe, Senior
-Adjunct Lecturer, National University of Singapore&nbsp;</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+</div>
 <p></p>
-</div>
-</details>
-</div>
-<blockquote>
-<h4>Dr Loh Yong Joo</h4>
-</blockquote>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Head &amp; Senior Consultant, TTSH Rehabilitation Medicine, Director,
-Clinical Innovation, TTSH Clinical Research &amp; Innovation office&nbsp;</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3c lim voon hooi&nbsp;.png">
