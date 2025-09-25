@@ -8,7 +8,7 @@ third_nav_title: Track Speakers
 <h3><strong>Positive Practice Environment</strong></h3>
 <p>Track 4 sessions would be held at Level 2, Hall 2</p>
 <hr>
-<h3>Track 4A</h3>
+<h3>Track 4A - Bridging Generations: The Novice, The Emerging &amp; The Veteran</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -57,7 +57,7 @@ that foster excellence across generations.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Bridging Generations: The Novice, The Emerging &amp; The Veteran</summary>
+<summary>Novice on Board! Integrating New Nurses Into The Workforce</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>As healthcare systems evolve, the need for a well-prepared nursing workforce
 becomes more urgent than ever. This session explores how structured onboarding
@@ -130,7 +130,7 @@ and inspiring institutional leaders across the cluster.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4A2: <strong>: Investing in Tomorrow: Supporting The Next Generation of Nurses</strong>
+<summary>Track 4A2:<strong> Investing in Tomorrow - Supporting The Next Generation of Nurses</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>With the changing healthcare landscape and on-going nursing manpower challenges,
@@ -324,7 +324,7 @@ from 2021 to 2024.</p>
 </tbody>
 </table>
 <hr>
-<h3>Track 4B</h3>
+<h3>Track 4B - Empowerment and Engagement: Building a Well-Equipped Nurse</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -459,7 +459,7 @@ leaders in her organisation and beyond.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4B3: Empowering the Future of Nursing: The Impact of Mentorship</summary>
+<summary>Track 4B3: Empowering the Future of Nursing - The Impact of Mentorship</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>A positive nursing environment thrives when nurses are empowered through
 shared governance and active participation in workplace decisions. When
@@ -539,7 +539,7 @@ Partner of Labour Movement Award (2025).</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4C1: Psychological Safety: Fostering a Safe and Respectful Workplace</summary>
+<summary>Track 4C1: Psychological Safety - Fostering a Safe and Respectful Workplace</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Psychological safety is the foundation of a safe, respectful, and high-performing
 nursing workforce. The belief that one can speak up, ask questions, and
@@ -578,7 +578,7 @@ patient outcomes in Singapore’s leading psychiatric healthcare institution.</p
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4C2: Prevent and Protect: Safeguarding Nurses from Workplace Abuse
+<summary>Track 4C2: Prevent and Protect - Safeguarding Nurses from Workplace Abuse
 and Violence</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>In Singapore’s healthcare system, safeguarding nurses from workplace abuse
@@ -633,7 +633,7 @@ in quality, safety, and advancing excellence in specialized care.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4C3: Strangers to Allies: Integrating International Nurses into
+<summary>Track 4C3: Strangers to Allies - Integrating International Nurses into
 the Workplace</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This session examines the critical aspects of integrating Internationally
@@ -691,7 +691,7 @@ of seeing positive changes in nursing care makes every effort worthwhile.&nbsp;<
 </tbody>
 </table>
 <hr>
-<h3>Track 4D</h3>
+<h3>Track 4D - Celebrating Diversity in The Nursing Workforce and Beyond</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -740,7 +740,7 @@ Award, NTU (2020) and NHG Quality Day Merit Award (2021).&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4D1: How to be a “Green Flag”: Tips to Capture the New Generation</summary>
+<summary>Track 4D1: How to be a “Green Flag” - Tips to Capture the New Generation</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -782,7 +782,7 @@ influenced mental health nursing practices in Singapore.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4D2: Stronger Together: Inclusive Culture as the Heartbeat of Nursing</summary>
+<summary>Track 4D2: Stronger Together - Inclusive Culture as the Heartbeat of Nursing</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>In today’s dynamic healthcare environment, inclusivity is no longer an
 option- it is the foundation that strengthens nursing practice and patient
@@ -852,7 +852,7 @@ arts, nature, and literature.&nbsp;</p>
 </tbody>
 </table>
 <hr>
-<h3>Track 4E</h3>
+<h3>Track 4E - Positive Environments for Happi-Nurse</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -903,7 +903,7 @@ management.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4E1: Embracing Flexibility: The Power of Liquid Nursing in Workforce
+<summary>Track 4E1: Embracing Flexibility - The Power of Liquid Nursing in Workforce
 Scheduling</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This session delves into a groundbreaking workforce transformation initiative
@@ -998,7 +998,7 @@ they're all heart-stopping!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4E3: PEST control - Eliminating <u>P</u>roblematic <u>E</u>lements <u>S</u>tifling <u>T</u>eamwork</summary>
+<summary>Track 4E3: PEST Control - Eliminating <u>P</u>roblematic <u>E</u>lements <u>S</u>tifling <u>T</u>eamwork</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>In this bold and unconventional session, discover why being "the bad guy"
 might be exactly what your nursing environment needs. PEST Control tackles
