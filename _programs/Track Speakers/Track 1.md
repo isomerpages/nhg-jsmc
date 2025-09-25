@@ -6,6 +6,7 @@ description: ""
 third_nav_title: Track Speakers
 ---
 <h3>Strengthening the Human Element in Healthcare</h3>
+<p>Track 1 sessions would be held at Level 2, Hall 1</p>
 <hr>
 <h3>Track 1A -Journeying With Patients</h3>
 <table style="minWidth: 25px">
