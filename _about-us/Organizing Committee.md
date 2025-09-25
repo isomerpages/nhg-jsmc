@@ -18,6 +18,11 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Advisor</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -53,6 +58,10 @@ nurses in Singapore and beyond.</p>
 </div>
 </details>
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
