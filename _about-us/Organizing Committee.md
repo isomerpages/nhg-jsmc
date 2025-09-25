@@ -67,7 +67,13 @@ nurses in Singapore and beyond.</p>
 <details class="isomer-details">
 <summary>Ms Geraldine Ng, Deputy Director of Nursing, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Dr. Geraldine Ng is the Deputy Director of Nursing, overseeing nursing
+services in the Emergency Department, Cardiac Centre, and Department of
+Radiology. She holds a Doctorate of Nursing Practice and is an Advanced
+Practice Nurse in General Medicine with extensive experience in Emergency
+Nursing. A key leader in clinical service development, she spearheaded
+the establishment of acute medical wards, driving improvements in patient
+care, nursing practice, and service integration across specialties.</p>
 </div>
 </details>
 </div>
