@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Tracks
 ---
+<h4><strong>Location - Level 4, Auditorium</strong></h4>
+<hr>
 <h3>Nurses beyond Nursing, Nursing Beyond Nurses</h3>
 <p>Nurses Beyond Nursing, Nursing Beyond Nurses explores the evolving role
 of nurses in healthcare, emphasizing their impact beyond traditional patient
