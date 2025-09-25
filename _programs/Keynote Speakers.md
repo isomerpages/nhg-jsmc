@@ -5,12 +5,12 @@ variant: tiptap
 description: ""
 ---
 <h3><strong><u>Keynote 1</u></strong></h3>
-<h3>The Future of Nursing Leadership: Extending Lives, Empowering Nurses, Transforming Healthcare</h3>
+<h4>The Future of Nursing Leadership: Extending Lives, Empowering Nurses, Transforming Healthcare</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pauline tan.png">
 </div>
 <blockquote>
-<h3>Ms Pauline Tan</h3>
+<h4><strong>Ms Pauline Tan</strong></h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -184,7 +184,7 @@ healthcare delivery across the healthcare system.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pauline tan.png">
 </div>
 <blockquote>
-<h3>Ms Pauline Tan</h3>
+<h4><strong>Ms Pauline Tan</strong></h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -228,7 +228,7 @@ and their loved ones.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/kenneth mak.png">
 </div>
 <blockquote>
-<h4>DGH Dr Kenneth Mak</h4>
+<h4><strong>DGH Dr Kenneth Mak</strong></h4>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -285,21 +285,7 @@ appointments at</p>
 </div>
 </details>
 </div>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sharing of overview of the healthcare landscape in Singapore, identifying
-what the current and uprising opportunities for nurses in Singapore: Sharing
-on vision for Nurses, reflect on successes and what more to be done to
-support Singapore’s healthcare ahead&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
+<hr>
 <h3><strong><u>Key Panel 2 Discussion</u></strong></h3>
 <h4>Voices of Experience - A Dialogue Across Nursing Generations</h4>
 <h4>Moderator</h4>
