@@ -12,11 +12,14 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h3></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer__1_.gif">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
