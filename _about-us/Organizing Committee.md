@@ -197,8 +197,15 @@ Nursing</summary>
 <details class="isomer-details">
 <summary>Dr Dong Lijuan, Chief Nurse, Institute of Mental Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Dr Dong Lijuan drives nursing research, education and evidence-based practice
-to advance the nursing profession.</p>
+<p>Dr. Dong Lijuan is an accomplished healthcare leader with a diverse educational
+and professional background. She holds a PhD in Education, an MBA in Healthcare
+Management, and a Bachelor of Nursing.</p>
+<p>&nbsp;</p>
+<p>In her leadership roles, Dr. Dong has led multiple initiatives at both
+national and institutional levels, including setting up National Nursing
+Academy (NNA) in MOH, Education Development Office (EDO) at National Healthcare
+Group, and recently Nursing Research Office at WH. She is also a dedicated
+member of Education Committee for Singapore Nursing Board.&nbsp;&nbsp;</p>
 </div>
 </details>
 </div>
@@ -280,6 +287,14 @@ of knowledge into practice.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="audrey kon nurse and software developer" src="/images/Comm/whaudrey.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Ms Audrey Kon, Senior Nurse Clinician, Woodlands Health</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Audrey is an experienced nurse who loves learning and finding new ways
 to improve healthcare through technology. She has both nursing experience
 and coding skills, which helps her bring fresh ideas to healthcare challenges.</p>
@@ -299,6 +314,9 @@ chairperson while mentoring emerging nursing leaders.</p>
 <p></p>
 <p>With her background in both nursing and technology, Audrey brings a unique
 perspective to healthcare innovation and patient care.</p>
+</div>
+</details>
+</div>
 </td>
 </tr>
 <tr>
@@ -575,6 +593,14 @@ leaders - helping them grow in confidence and capability.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whaudrey.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Ms Audrey Kon, Senior Nurse Clinician, Woodlands Health</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Audrey is an experienced nurse who loves learning and finding new ways
 to improve healthcare through technology. She has both nursing experience
 and coding skills, which helps her bring fresh ideas to healthcare challenges.</p>
@@ -594,6 +620,9 @@ chairperson while mentoring emerging nursing leaders.</p>
 <p></p>
 <p>With her background in both nursing and technology, Audrey brings a unique
 perspective to healthcare innovation and patient care.</p>
+</div>
+</details>
+</div>
 </td>
 </tr>
 <tr>
@@ -644,8 +673,15 @@ of knowledge into practice.&nbsp;</p>
 <details class="isomer-details">
 <summary>Dr Dong Lijuan, Chief Nurse, Institute of Mental Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Dr. Dong Lijuan drives nursing research, education, and evidence-based
-practice to advance the profession.</p>
+<p>Dr. Dong Lijuan is an accomplished healthcare leader with a diverse educational
+and professional background. She holds a PhD in Education, an MBA in Healthcare
+Management, and a Bachelor of Nursing.</p>
+<p>&nbsp;</p>
+<p>In her leadership roles, Dr. Dong has led multiple initiatives at both
+national and institutional levels, including setting up National Nursing
+Academy (NNA) in MOH, Education Development Office (EDO) at National Healthcare
+Group, and recently Nursing Research Office at WH. She is also a dedicated
+member of Education Committee for Singapore Nursing Board.&nbsp;&nbsp;</p>
 </div>
 </details>
 </div>
