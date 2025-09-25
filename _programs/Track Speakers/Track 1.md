@@ -19,7 +19,9 @@ third_nav_title: Track Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1a1 woei kian.png">
 </div>
+<blockquote>
 <h4>Ms Ng Woei Kian</h4>
+</blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Assistant Director of Nursing, Community Care (Community Health), NHG Population Health</strong>
@@ -42,7 +44,9 @@ third_nav_title: Track Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1a2 laurence tan.png">
 </div>
+<blockquote>
 <h4>Dr Laurence Tan</h4>
+</blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Senior Consultant and Head of Service, Supportive and Palliative Care, Department of Geriatric Medicine, Khoo Teck Puat Hospital</strong>
@@ -69,7 +73,9 @@ third_nav_title: Track Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1a3 lim hui shan.png">
 </div>
+<blockquote>
 <h4>Ms Lim Hui Shan</h4>
+</blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Nurse Clinician, National University Health System, Regional Health System Office, Community Care&nbsp;</strong>
@@ -130,7 +136,7 @@ third_nav_title: Track Speakers
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1b1 jessie tan joon cheen.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1b1 jessie tan joon cheen.png">
 </div>
 <blockquote>
 <h4>Ms Jessie Tan Joon Cheen</h4>
@@ -195,7 +201,7 @@ high-quality, compassionate care to vulnerable patients living with dementia.&nb
 </details>
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1b2 chen wei ting .png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1b2 chen wei ting .png">
 </div>
 <blockquote>
 <h4>Dr Chen Wei Ting</h4>
@@ -250,7 +256,7 @@ a unified care ecosystem that honors diversity while delivering excellence.&nbsp
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1b3 alison ong .png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1b3 alison ong .png">
 </div>
 <blockquote>
 <h4>Ms Alison Ong</h4>
@@ -273,7 +279,7 @@ and Inclusion</summary>
 <p></p>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d1 cherie koh.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d1 cherie koh.png">
 </div>
 <blockquote>
 <h4>Ms Cherie Koh</h4>
@@ -307,7 +313,7 @@ in healthcare financing policies.</p>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1c1 ng huoy ling.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1c1 ng huoy ling.png">
 </div>
 <blockquote>
 <h4>Ms Ng Huoy Ling</h4>
@@ -369,7 +375,7 @@ care process.&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1c2 ong yu jing .png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1c2 ong yu jing .png">
 </div>
 <blockquote>
 <h4>Ms Ong Yu Jing</h4>
@@ -412,7 +418,7 @@ practice. &nbsp;
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1c3 tan hong yun.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1c3 tan hong yun.png">
 </div>
 <blockquote>
 <h4>Dr Tan Hongyun</h4>
@@ -451,7 +457,7 @@ more resilient population.&nbsp;</p>
 <p></p>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1c ng siok qi.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1c ng siok qi.png">
 </div>
 <blockquote>
 <h4>Ms Ng Siok Qi</h4>
@@ -483,7 +489,7 @@ and operational efficiency.&nbsp;</p>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d1 cherie koh.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d1 cherie koh.png">
 </div>
 <blockquote>
 <h4>Ms Cherie Koh</h4>
@@ -518,7 +524,7 @@ nursing practices.&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d2 he hong-gu, linda.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d2 he hong-gu, linda.png">
 </div>
 <blockquote>
 <h4>Prof He Hong-Gu, Linda</h4>
@@ -577,7 +583,7 @@ human element of nursing care.&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d3 lim swee hia.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d3 lim swee hia.png">
 </div>
 <blockquote>
 <h4>Prof Lim Swee Hia</h4>
@@ -622,7 +628,7 @@ they have built.&nbsp;</p>
 <p></p>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d yvonne tan siow lin.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d yvonne tan siow lin.png">
 </div>
 <blockquote>
 <h4>Ms Yvonne Tan Siow Lin</h4>
@@ -680,7 +686,7 @@ models.</p>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1e1 cheang ka man.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1e1 cheang ka man.png">
 </div>
 <blockquote>
 <h4>Dr Cheang Ka Man</h4>
@@ -747,7 +753,7 @@ work, alongside pharmacotherapy.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whpualh.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/whpualh.png">
 </div>
 <blockquote>
 <h4>Ms Pua Lay Hoon</h4>
@@ -814,7 +820,7 @@ is a reflection of a story of healing, dignity and compassion.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1e3 zhang ruyi .png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1e3 zhang ruyi .png">
 </div>
 <blockquote>
 <h4>Mr Zhang Ruyi&nbsp;</h4>
@@ -867,7 +873,7 @@ challenges in community-based trauma recovery.&nbsp;</p>
 <p></p>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d1 cherie koh.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d1 cherie koh.png">
 </div>
 <blockquote>
 <h4>Ms Cherie Koh</h4>
