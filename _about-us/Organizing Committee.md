@@ -118,7 +118,24 @@ Nursing</summary>
 <details class="isomer-details">
 <summary>Ms Audrey Kon, Senior Nurse Clinician, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Audrey is an experienced nurse who loves learning and finding new ways
+to improve healthcare through technology. She has both nursing experience
+and coding skills, which helps her bring fresh ideas to healthcare challenges.</p>
 <p></p>
+<p>Her diverse educational journey after her nursing diploma began with an
+Advanced Diploma in Mass Communications, followed by her nursing degree
+and an Advanced Diploma in Nursing. In 2012, she received the MOH Nurses'
+Merit Award for her work, and later completed her Masters in Health Administration.</p>
+<p></p>
+<p>Audrey's interest in technology led her to win 'Build For Good' hackathon
+by Open Government Products, which earned her an invitation on stage to
+launch Smart Nation 2.0 with Prime Minister Wong. Beyond technology, she
+has also designed clinic spaces, bringing her eye for improvement to the
+physical healthcare environment. She enjoys working on healthcare improvement
+projects and finding better ways to care for patients.</p>
+<p></p>
+<p>With her background in both nursing and technology, Audrey brings a unique
+perspective to healthcare innovation and patient care.</p>
 </div>
 </details>
 </div>
@@ -269,7 +286,24 @@ of knowledge into practice.&nbsp;</p>
 <details class="isomer-details">
 <summary>Ms Audrey Kon, Senior Nurse Clinician, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Audrey is an experienced nurse who loves learning and finding new ways
+to improve healthcare through technology. She has both nursing experience
+and coding skills, which helps her bring fresh ideas to healthcare challenges.</p>
 <p></p>
+<p>Her diverse educational journey after her nursing diploma began with an
+Advanced Diploma in Mass Communications, followed by her nursing degree
+and an Advanced Diploma in Nursing. In 2012, she received the MOH Nurses'
+Merit Award for her work, and later completed her Masters in Health Administration.</p>
+<p></p>
+<p>Audrey's interest in technology led her to win 'Build For Good' hackathon
+by Open Government Products, which earned her an invitation on stage to
+launch Smart Nation 2.0 with Prime Minister Wong. Beyond technology, she
+has also designed clinic spaces, bringing her eye for improvement to the
+physical healthcare environment. She enjoys working on healthcare improvement
+projects and finding better ways to care for patients.</p>
+<p></p>
+<p>With her background in both nursing and technology, Audrey brings a unique
+perspective to healthcare innovation and patient care.</p>
 </div>
 </details>
 </div>
@@ -543,7 +577,24 @@ nursing practice and improve patient outcomes.&nbsp;</p>
 <details class="isomer-details">
 <summary>Ms Audrey Kon, Senior Nurse Clinician, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Audrey is an experienced nurse who loves learning and finding new ways
+to improve healthcare through technology. She has both nursing experience
+and coding skills, which helps her bring fresh ideas to healthcare challenges.</p>
 <p></p>
+<p>Her diverse educational journey after her nursing diploma began with an
+Advanced Diploma in Mass Communications, followed by her nursing degree
+and an Advanced Diploma in Nursing. In 2012, she received the MOH Nurses'
+Merit Award for her work, and later completed her Masters in Health Administration.</p>
+<p></p>
+<p>Audrey's interest in technology led her to win 'Build For Good' hackathon
+by Open Government Products, which earned her an invitation on stage to
+launch Smart Nation 2.0 with Prime Minister Wong. Beyond technology, she
+has also designed clinic spaces, bringing her eye for improvement to the
+physical healthcare environment. She enjoys working on healthcare improvement
+projects and finding better ways to care for patients.</p>
+<p></p>
+<p>With her background in both nursing and technology, Audrey brings a unique
+perspective to healthcare innovation and patient care.</p>
 </div>
 </details>
 </div>
