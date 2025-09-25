@@ -14,7 +14,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="WH Pua Lay Hoon" src="/images/Comm/whpualh.png">
+<img style="width: 50%;" height="auto" width="100%" alt="WH Pua Lay Hoon" src="/images/Comm/whpualh.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -776,8 +776,6 @@ nursing practice and improve patient outcomes.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whtimmie.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Chan Lai Teng Timie, Senior Staff Nurse, Woodlands Health</summary>
@@ -789,6 +787,8 @@ that benefit both patients and healthcare teams.&nbsp;</p>
 </div>
 </details>
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -797,8 +797,6 @@ that benefit both patients and healthcare teams.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/syazwan.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Muhammad Syazwan Bin Ruslaine, Khoo Teck Puat Hospital</summary>
@@ -811,6 +809,8 @@ delivery and improve health outcomes within the community.</p>
 </div>
 </details>
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
