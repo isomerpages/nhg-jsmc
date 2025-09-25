@@ -715,7 +715,7 @@ using the two-way mirror facility in ADMC.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 1D1: Seeing Patients as People, than Numbers</summary>
+<summary>Track 1E1: Integrating Mental Health Into Holistic Patient Care</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>In today’s metrics-driven healthcare landscape, the challenge of preserving
 person-centered care has never been more pressing. This session, part of
