@@ -604,7 +604,8 @@ by Open Government Products, which earned her an invitation on stage to
 launch Smart Nation 2.0 with Prime Minister Wong. Beyond technology, she
 has also designed clinic spaces, bringing her eye for improvement to the
 physical healthcare environment. She enjoys working on healthcare improvement
-projects and finding better ways to care for patients.</p>
+projects, finding better ways to care for patients and serves as a union
+chairperson while mentoring emerging nursing leaders.</p>
 <p></p>
 <p>With her background in both nursing and technology, Audrey brings a unique
 perspective to healthcare innovation and patient care.</p>
