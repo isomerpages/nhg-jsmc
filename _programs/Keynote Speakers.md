@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Keynote 1</strong></h2>
-<h2>The Future of Nursing Leadership: Extending Lives, Empowering Nurses, Transforming Healthcare</h2>
+<h3>The Future of Nursing Leadership: Extending Lives, Empowering Nurses, Transforming Healthcare</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pauline tan.png">
 </div>
@@ -99,7 +99,7 @@ better.</p>
 </details>
 </div>
 <h3>Key Panel 1 Discussion</h3>
-<p>Strategies taken by each cluster to enable better change in nursing roles</p>
+<h4><strong>Voices of Experience - A Dialogue Across Nursing Generations</strong></h4>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whpualh.png">
@@ -129,6 +129,7 @@ and operational readiness at WH.</p>
 </tr>
 </tbody>
 </table>
+<h4>Panellist</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/Untitled__42_x_59_4_cm___600_x_400_px___600_x_600_px_.png">
 </div>
@@ -250,6 +251,7 @@ support Singapore’s healthcare ahead&nbsp;</p>
 </tbody>
 </table>
 <h3>Key Panel 2 Discussion</h3>
+<h4>Moderator</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/Untitled__42_x_59_4_cm___600_x_400_px___600_x_600_px_.png">
 </div>
@@ -265,18 +267,26 @@ Chief Executive Officer (Institute of Mental Health)</summary>
 </div>
 </details>
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/paulin koh.png">
+</div>
+<blockquote>
+<h4><strong>Ms Paulin Koh</strong></h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Chief Nursing Officer, Ministry of Health Singapore</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<blockquote>
-<h4>Moderator: Adjunct Associate Professor Yong Keng Kwang, GCN</h4>
-</blockquote>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <blockquote>
@@ -288,13 +298,6 @@ Chief Executive Officer (Institute of Mental Health)</summary>
 <td rowspan="1" colspan="1">
 <blockquote>
 <h4>Malaysia CNO</h4>
-</blockquote>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<blockquote>
-<h4>DGH Dr Kenneth Mak</h4>
 </blockquote>
 </td>
 </tr>
