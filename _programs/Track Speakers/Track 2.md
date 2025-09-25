@@ -580,7 +580,7 @@ member of Education Committee for Singapore Nursing Board.&nbsp;&nbsp;</p>
 </tbody>
 </table>
 <hr>
-<h3>Track 2D</h3>
+<h3>Track 2D - From Caregivers to Change Agents: The New Nursing Paradigm</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -759,7 +759,7 @@ supporting the hospital's "Zero Tolerance for Abuse in Healthcare" policy</p>
 </tbody>
 </table>
 <hr>
-<h3>Track 2E</h3>
+<h3>Track 2E - Service Line - Are We The Same?</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -800,7 +800,7 @@ School by successfully completing two rigorous programs</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2E1: Servicing in Sky &amp; Land, SIA experience</summary>
+<summary>Track 2E1: Servicing in Sky &amp; Land, SIA Experience</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This session explores the transformative collaboration between healthcare
 and aviation through the SIA Care Ambassador programme at KTPH during the
