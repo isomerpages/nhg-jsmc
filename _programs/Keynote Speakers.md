@@ -4,7 +4,7 @@ permalink: /keynotespeakers/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Keynote 1</strong></h2>
+<h3><strong><u>Keynote 1</u></strong></h3>
 <h3>The Future of Nursing Leadership: Extending Lives, Empowering Nurses, Transforming Healthcare</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pauline tan.png">
@@ -98,20 +98,15 @@ better.</p>
 </div>
 </details>
 </div>
-<h3>Key Panel 1 Discussion</h3>
-<h4><strong>Voices of Experience - A Dialogue Across Nursing Generations</strong></h4>
+<h3><strong><u>Key Panel 1 Discussion</u></strong></h3>
+<h4>Voices of Experience - A Dialogue Across Nursing Generations</h4>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whpualh.png">
 </div>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<blockquote>
 <h4><strong>Ms Pua Lay Hoon</strong></h4>
+</blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Chief Nurse, Woodlands Health</summary>
@@ -125,26 +120,39 @@ and operational readiness at WH.</p>
 </div>
 </details>
 </div>
-</td>
-</tr>
-</tbody>
-</table>
 <h4>Panellist</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/Untitled__42_x_59_4_cm___600_x_400_px___600_x_600_px_.png">
 </div>
+<blockquote>
 <h4><strong>Adjunct Associate Professor Yong Keng Kwang</strong></h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Group Chief Nurse (NHG Health), Chief Wellness Officer (NHG Health), Assistant
 Chief Executive Officer (Institute of Mental Health)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Adj A/Prof Yong Keng Kwang is a driving force behind nursing excellence
+and staff well-being at NHG Health. As Group Chief Nurse, he leads over
+8,000 nurses across NHG institutions, advancing four strategic thrusts:
+relationship-based care, role optimisation, digital enablement, and positive
+practice environments. Since April 2024, he has also served as Assistant
+CEO (Strategic Planning) at the Institute of Mental Health, where he co-leads
+planning for mental health services. Previously, as Chief Nurse of TTSH,
+he steered the development of its 3,800-strong nursing workforce. In 2023,
+A/Prof Yong was appointed NHG Health’s first Chief Wellness Officer, where
+he champions staff well-being and resilience through organisation-wide
+strategies. His work ensures that care teams remain supported, capable,
+and committed to high-quality, person-centred care.</p>
 </div>
 </details>
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/wong sook thow.png">
 </div>
+<blockquote>
 <h4><strong>Ms Wong Sook Thow</strong></h4>
+</blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Deputy Group Chief Nurse, SingHealth, Chief Nurse, KK Women's and Children's
@@ -172,8 +180,50 @@ healthcare delivery across the healthcare system.</p>
 </div>
 </details>
 </div>
-<h3><u>Keynote 2</u></h3>
-<h4><strong>Navigating the Future - Identifying Current Healthcare Issues and Evolving Nursing Direction</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pauline tan.png">
+</div>
+<blockquote>
+<h3>Ms Pauline Tan</h3>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Director of Nursing, Chief Nurse, The National Kidney Foundation</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Ms Pauline Tan is the Chief Nurse of The National Kidney Foundation (NKF).
+Known for her humility and nurturing leadership, Pauline leads her team
+of over 1200 nurses to deliver empathetic, compassionate and exceptional
+service to more than 5,400 dialysis patients across 45 dialysis centres
+in Singapore.</p>
+<p></p>
+<p>With 36 years of nursing experience in Singapore and Canada, Pauline has
+since made great strides in transforming community dialysis care. She established
+training programmes aimed to develop promising nursing leaders, while focusing
+on enhancing the skills sets of all nurses to ensure highest possible standards
+of personalised patient care.</p>
+<p></p>
+<p>Under her exemplary leadership, NKF introduced a holistic renal rehabilitation
+programme, empowering dialysis patients to have better quality of life.
+With patients’ safety, comfort and treatment outcomes in mind, Pauline
+implemented innovative treatment solutions, including nocturnal dialysis,
+plastic cannulas for overnight dialysis, and ultrasound technology to improve
+cannulation. Through collaborative efforts in training nurses to resolve
+blocked catheters, the resulting streamlined and efficient process benefitted
+patients in time and cost, while freeing up hospital beds for more critical
+needs.</p>
+<p></p>
+<p>Pauline’s unwavering commitment to living out NKF’s care philosophy earned
+her the most prestigious accolade – the President’s Award for Nurses in
+2023 – and multiple awards for the Foundation. Her vision is for all nurses
+to be strong patient advocates to uphold their rights and interests, while
+delivering high quality care. Her relentless approach towards person-centered
+care echoes NKF’s resolute mission of Giving Life and Hope to every patient
+and their loved ones.</p>
+</div>
+</details>
+</div>
+<h3><strong><u>Keynote 2</u></strong></h3>
+<h4>Navigating the Future - Identifying Current Healthcare Issues and Evolving Nursing Direction</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/kenneth mak.png">
 </div>
@@ -250,7 +300,8 @@ support Singapore’s healthcare ahead&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<h3>Key Panel 2 Discussion</h3>
+<h3><strong><u>Key Panel 2 Discussion</u></strong></h3>
+<h4>Voices of Experience - A Dialogue Across Nursing Generations</h4>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/Untitled__42_x_59_4_cm___600_x_400_px___600_x_600_px_.png">
@@ -278,7 +329,7 @@ and committed to high-quality, person-centred care.</p>
 </div>
 </details>
 </div>
-<p></p>
+<h4>Panellist</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/paulin koh.png">
 </div>
@@ -293,32 +344,8 @@ and committed to high-quality, person-centred care.</p>
 </div>
 </details>
 </div>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<blockquote>
-<h4>Ms Paulin Koh, SG CNO</h4>
-</blockquote>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<blockquote>
-<h4>Malaysia CNO</h4>
-</blockquote>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Discuss on the transformation of nursing roles in alignment with SG/ Malaysia
-healthcare needs</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cno gowry.png">
+</div>
 <p></p>
 <p></p>
