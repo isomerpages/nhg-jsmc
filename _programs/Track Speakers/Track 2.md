@@ -431,6 +431,11 @@ students and faculty development.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2c1 zhang yuxia.png">
@@ -564,10 +569,7 @@ culture.&nbsp;</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Dr. Dong Lijuan is an accomplished healthcare leader with a diverse educational
 and professional background. She holds a PhD in Education, an MBA in Healthcare
-Management, and a Bachelor of Nursing. With years of experience in the
-healthcare industry, Dr. Dong currently serves as Deputy Director of Nursing,
-Head of Nursing Education and Development, and the lead of Office of Advancing
-Nursing Practice, Woodlands Health, Singapore.&nbsp;</p>
+Management, and a Bachelor of Nursing.</p>
 <p>&nbsp;</p>
 <p>In her leadership roles, Dr. Dong has led multiple initiatives at both
 national and institutional levels, including setting up National Nursing
