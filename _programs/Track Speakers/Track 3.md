@@ -611,7 +611,7 @@ improvement, and nursing professional development.&nbsp;&nbsp;</p>
 </tbody>
 </table>
 <hr>
-<h3>Track 3D</h3>
+<h3>Track 3D - Innovation for Smarter Patient Care</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -957,7 +957,7 @@ with frontline patient care.&nbsp;</p>
 </tbody>
 </table>
 <hr>
-<h3>Track 3E</h3>
+<h3>Track 3E - Future Ready Healthcare: Technology, Leadership and Crisis Management</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -1003,7 +1003,7 @@ care experience for patients and families.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 3E1: <strong>Revolutionizing Bedside Care: Nursing Leaders on the Digital Frontline</strong>
+<summary>Track 3E1: <strong>Revolutionizing Bedside Care - Nursing Leaders on the Digital Frontline</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The healthcare landscape has undergone significant transformations over
