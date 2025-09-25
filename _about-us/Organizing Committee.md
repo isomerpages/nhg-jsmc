@@ -532,7 +532,20 @@ nursing practice and improve patient outcomes.&nbsp;</p>
 <details class="isomer-details">
 <summary>Ms Jia Shuli, Head Nurse, National Healthcare Group Polyclinics</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4></h4>
+<p>Ms Shuli serves as Head Nurse of Woodlands Polyclinic (NHG Polyclinics),
+whilst also serving in NHG Group Nursing. She completed her post graduate
+studies at Curtin University, obtaining a Master of Advanced Practice (Clinical
+Leadership Specialization).</p>
+<p></p>
+<p>She co-leads the Acute Care Community of Practice and serves as a member
+of the Emergency Specialty Advisory Group within NHG Polyclinics. She also
+supports the NHG Nursing Quality Committee under the NHG Nursing Council
+and leads Advance Care Planning initiatives for NHG Group Nursing.</p>
+<p></p>
+<p>Ms Shuli is passionate about fostering a culture where excellence, teamwork,
+and patient centered care are the the heart of every practice. One of the
+most rewarding aspects of her work is guiding and influencing emerging
+leaders - helping them grow in confidence and capability.</p>
 </div>
 </details>
 </div>
