@@ -5,16 +5,16 @@ variant: tiptap
 description: ""
 ---
 <h3>Main Committee</h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Advisor</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="WH Pua Lay Hoon" src="/images/Comm/whpualh.png">
+<img style="width: 65%;" height="auto" width="100%" alt="WH Pua Lay Hoon" src="/images/Comm/whpualh.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -52,15 +52,12 @@ nurses in Singapore and beyond.</p>
 </div>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Advisor</p>
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chairperson</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="WH Ng Li Yuen" src="/images/Comm/whngly.png">
+<img style="width: 65%;" height="auto" width="100%" alt="WH Ng Li Yuen" src="/images/Comm/whngly.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -77,14 +74,12 @@ care, nursing practice, and service integration across specialties.</p>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p>Chairperson</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Admin Lead</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="christina NHGHQ" src="/images/Comm/nhghqchristina.png">
+<img style="width: 65%;" height="auto" width="100%" alt="christina NHGHQ" src="/images/Comm/nhghqchristina.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -96,14 +91,12 @@ Nursing</summary>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p>Admin Lead</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Org Comm Lead</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="KTPH Goh Soon Pang" src="/images/Comm/ktphsoongpang.png">
+<img style="width: 65%;" height="auto" width="100%" alt="KTPH Goh Soon Pang" src="/images/Comm/ktphsoongpang.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -114,14 +107,12 @@ Nursing</summary>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p>Org Comm Lead</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Org Comm Lead</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="WH Audrey Kon, Nurse and software developer" src="/images/Comm/whaudrey.png">
+<img style="width: 65%;" height="auto" width="100%" alt="WH Audrey Kon, Nurse and software developer" src="/images/Comm/whaudrey.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -132,19 +123,16 @@ Nursing</summary>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p>Org Comm Lead</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h3>All Admin &amp; Logistics</h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/nhghqchristina.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/nhghqchristina.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -156,19 +144,16 @@ Nursing</summary>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h3>Conference Programme</h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ktph Goh soon pang" src="/images/Comm/ktphsoongpang.png">
+<img style="width: 65%;" height="auto" width="100%" alt="ktph Goh soon pang" src="/images/Comm/ktphsoongpang.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -179,19 +164,16 @@ Nursing</summary>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h3>Scientific Programme &amp; CPE Points</h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="WH Dong Lijuan" src="/images/Comm/whdonglj.png">
+<img style="width: 65%;" height="auto" width="100%" alt="WH Dong Lijuan" src="/images/Comm/whdonglj.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -203,14 +185,11 @@ to advance the nursing profession.</p>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="WH Shiji" src="/images/Comm/whshiji.png">
+<img style="width: 65%;" height="auto" width="100%" alt="WH Shiji" src="/images/Comm/whshiji.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -221,14 +200,11 @@ to advance the nursing profession.</p>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TTSH Runqi" src="/images/Comm/ttshrunqi.png">
+<img style="width: 65%;" height="auto" width="100%" alt="TTSH Runqi" src="/images/Comm/ttshrunqi.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -243,19 +219,16 @@ of knowledge into practice.&nbsp;</p>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h3>Sponsorship</h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TTSH James Tan" src="/images/Comm/ttshjames.png">
+<img style="width: 65%;" height="auto" width="100%" alt="TTSH James Tan" src="/images/Comm/ttshjames.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -266,14 +239,11 @@ of knowledge into practice.&nbsp;</p>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TTSH Wanzhen" src="/images/Comm/ttshwanzhen.png">
+<img style="width: 65%;" height="auto" width="100%" alt="TTSH Wanzhen" src="/images/Comm/ttshwanzhen.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -284,19 +254,16 @@ of knowledge into practice.&nbsp;</p>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h3>Publicity, EDMs &amp; Website</h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="WH Audrey Kon, Nurse and software developer" src="/images/Comm/whaudrey.png">
+<img style="width: 65%;" height="auto" width="100%" alt="WH Audrey Kon, Nurse and software developer" src="/images/Comm/whaudrey.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -307,14 +274,11 @@ of knowledge into practice.&nbsp;</p>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NHGHQ Christina" src="/images/Comm/nhghqchristina.png">
+<img style="width: 65%;" height="auto" width="100%" alt="NHGHQ Christina" src="/images/Comm/nhghqchristina.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -326,19 +290,16 @@ Nursing</summary>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h3>Track 1</h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ktphsathiya.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/ktphsathiya.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -351,14 +312,11 @@ leadership &amp; CPIP initiatives, driving excellence in quality improvement
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whpualh.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/whpualh.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -395,14 +353,11 @@ nurses in Singapore and beyond.</p>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whtimmie.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/whtimmie.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -413,14 +368,11 @@ nurses in Singapore and beyond.</p>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ktphsharifah.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/ktphsharifah.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -434,14 +386,11 @@ motivates me to effectively lead the team.</p>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/imhelayne.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/imhelayne.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -456,19 +405,16 @@ genuine human connections drive better care outcomes.</p>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h4>Track 2</h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ktph joyce ho" src="/images/Comm/ktphjoyceho.png">
+<img style="width: 65%;" height="auto" width="100%" alt="ktph joyce ho" src="/images/Comm/ktphjoyceho.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -483,14 +429,11 @@ to become confident, competent healthcare professionals.</p>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ktphsoongpang.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/ktphsoongpang.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -501,14 +444,11 @@ to become confident, competent healthcare professionals.</p>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whthetthet.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/whthetthet.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -528,14 +468,11 @@ nursing practice and improve patient outcomes.&nbsp;</p>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ttshwanzhen.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/ttshwanzhen.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -546,19 +483,16 @@ nursing practice and improve patient outcomes.&nbsp;</p>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h3>Track 3</h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/nhgpshuli.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/nhgpshuli.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -569,14 +503,11 @@ nursing practice and improve patient outcomes.&nbsp;</p>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ttshjames.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/ttshjames.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -587,14 +518,11 @@ nursing practice and improve patient outcomes.&nbsp;</p>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whshiji.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/whshiji.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -605,14 +533,11 @@ nursing practice and improve patient outcomes.&nbsp;</p>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="WH Audrey Kon, Nurse and Software developer" src="/images/Comm/whaudrey.png">
+<img style="width: 65%;" height="auto" width="100%" alt="WH Audrey Kon, Nurse and Software developer" src="/images/Comm/whaudrey.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -623,19 +548,16 @@ nursing practice and improve patient outcomes.&nbsp;</p>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h3>Track 4</h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/imhsongsong.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/imhsongsong.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -646,14 +568,11 @@ nursing practice and improve patient outcomes.&nbsp;</p>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ttshrunqi.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/ttshrunqi.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -668,14 +587,11 @@ of knowledge into practice.&nbsp;</p>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whdonglj.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/whdonglj.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -687,19 +603,16 @@ practice to advance the profession.</p>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h3>Scientific Track</h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/imhelayne.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/imhelayne.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -714,14 +627,11 @@ genuine human connections drive better care outcomes.</p>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ktphsathiya.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/ktphsathiya.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -735,14 +645,11 @@ leadership &amp; CPIP initiatives, driving excellence in quality improvement
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whthetthet.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/whthetthet.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -762,19 +669,16 @@ nursing practice and improve patient outcomes.&nbsp;</p>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h4>Conference Emcee</h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whtimmie.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/whtimmie.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -788,14 +692,11 @@ that benefit both patients and healthcare teams.&nbsp;</p>
 </details>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/syazwan.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/syazwan.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -809,9 +710,6 @@ delivery and improve health outcomes within the community.</p>
 </div>
 </details>
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
