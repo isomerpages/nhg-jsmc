@@ -347,5 +347,69 @@ and committed to high-quality, person-centred care.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cno gowry.png">
 </div>
+<blockquote>
+<h4><strong>Puan Gowry a/p Narayanan</strong></h4>
+</blockquote>
+<p>Director of Nursing Division, Ministry of Health Malaysia</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kenneth mak.png">
+</div>
+<blockquote>
+<h4>DGH Dr Kenneth Mak</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Director-General of Health, Ministry of Health, Singapore</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Professor Kenneth Mak is Director-General of Health at the Ministry of
+Health Singapore.</p>
 <p></p>
+<p>In this role, Professor Mak is the principal medical adviser to the Singapore
+Government and provides professional input and guidance to other Ministries
+and public agencies on health and healthcare related issues.</p>
+<p></p>
+<p>Professor Mak oversees the provision of all health services in Singapore.
+Within the Ministry of Health, he ensures that clinical services are delivered
+seamlessly across multiple settings by the public healthcare system. He
+leads in developing and implementing national healthcare policies in areas
+such as population health, healthcare regulation, communicable diseases
+and non-communicable diseases, healthcare professional standards as well
+as the development and enhancement of the performance of the nation’s healthcare
+system and services. Professor Mak works closely with Singapore’s Regional
+Health Systems and healthcare institutions on care integration as well
+as on Singapore’s long-term healthcare transformation strategy.</p>
+<p></p>
+<p>During the COVID-19 pandemic, Professor Mak advised the Multi-Ministry
+Taskforce as well as other governmental agencies in crafting Singapore’s
+overall strategy for managing the outbreak and oversaw the integrated public
+health response to control the spread of COVID-19 in our community. Professor
+Mak is a familiar face in Singapore as he appeared regularly in the media
+conferences of the COVID-19 Multi Ministry Taskforce.</p>
+<p></p>
+<p>Professor Mak is the Registrar of the Singapore Medical Council, which
+is the Professional Board that ensures that medical practitioners, registered
+for clinical practice in Singapore, are competent and fit to practice medicine,
+upholding high standards of clinical practice and maintaining public confidence
+in the medical profession.</p>
+<p></p>
+<p>Professor Mak is a general surgeon with subspecialty interests in hepatobiliary
+and pancreatic surgery, as well as in trauma surgery. He maintains his
+clinical practice as</p>
+<p>a Senior Consultant surgeon in the Department of Surgery, at Khoo Teck
+Puat Hospital, Singapore. His previous administrative appointments include
+Chief of Surgery at three public hospitals in Singapore and Chairman of
+the Medical Board at Khoo Teck Puat Hospital, Singapore. Professor Mak
+was Deputy Director of Medical Services (Health Services Group) in MOH
+from 2015 to end-2019. He was appointed Director of Medical Services in
+2020 and this appointment was redesignated in May 2023 to Director-General
+of Health to better reflect his role as the main overseer of clinical and
+public health of Singaporeans.</p>
+<p></p>
+<p>Professor Mak retired from voluntary military service in 2021, as a Colonel
+with the Singapore Armed Forces. He had held various command and staff
+appointments at</p>
+<p>Battalion, Brigade and Division level.</p>
+</div>
+</details>
+</div>
 <p></p>
