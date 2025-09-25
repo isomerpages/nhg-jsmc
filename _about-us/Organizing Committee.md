@@ -194,9 +194,9 @@ Nursing</summary>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Dr Dong Lijuan, Deputy Director of Nursing, Woodlands Health</summary>
+<summary>Dr Dong Lijuan, Chief Nurse, Institute of Mental Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Dr Dong drives nursing research, education and evidence-based practice
+<p>Dr Dong Lijuan drives nursing research, education and evidence-based practice
 to advance the nursing profession.</p>
 </div>
 </details>
@@ -663,7 +663,7 @@ of knowledge into practice.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Dr Dong Lijuan, Deputy Director of Nursing, Woodlands Health</summary>
+<summary>Dr Dong Lijuan, Chief Nurse, Institute of Mental Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Dr. Dong Lijuan is the deputy director of nursing at Woodlands Hospital.
 She drives nursing research, education, and evidence-based practice to
