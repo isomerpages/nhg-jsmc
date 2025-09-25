@@ -8,7 +8,7 @@ third_nav_title: Track Speakers
 <h3><strong>Nurses Beyond Nursing, Nursing Beyond Nurses</strong></h3>
 <p>Track 2 sessions would be held at Level 4, Auditorium</p>
 <hr>
-<h3>Track 2A - Nursing Beyond Boundaries</h3>
+<h3>Track 2A - Nursing Evolution, Leading The New Era</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -54,7 +54,7 @@ arts, nature, and literature.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2A1: Vision for Future Nursing: Synergising Roles, Riding Waves,
+<summary>Track 2A1: Vision for Future Nursing - Synergising Roles, Riding Waves,
 Reaching Stars</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>As healthcare evolves at an unprecedented pace, we stand at a pivotal
@@ -245,7 +245,7 @@ activation, digital health</p>
 </tbody>
 </table>
 <hr>
-<h3>Track 2B</h3>
+<h3>Track 2B - Nursing Beyond Boundaries</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -424,7 +424,7 @@ students and faculty development.</p>
 </tbody>
 </table>
 <hr>
-<h3>Track 2C</h3>
+<h3>Track 2C - Workforce Transformation</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -510,7 +510,7 @@ meet the demands of an ever-changing healthcare landscape.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2C2: Interdisciplinary Collaboration with Nursing: The WH Way</summary>
+<summary>Track 2C2: Interdisciplinary Collaboration with Nursing - The WH Way</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Interdisciplinary collaboration is a cornerstone in the successful planning
 and operationalisation of a new general hospital in Singapore. As healthcare
