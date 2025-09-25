@@ -17,7 +17,7 @@ third_nav_title: Track Speakers
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/pecksinyee.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 3 speakers/pecksinyee.png">
 </div>
 <blockquote>
 <h4>Ms Peck Sin Yee</h4>
@@ -70,7 +70,7 @@ diverse VN applications across the care continuum.&nbsp;</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3a2 evonne oh.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3a2 evonne oh.png">
 </div>
 <blockquote>
 <h4>Ms Evonne Oh</h4>
@@ -121,7 +121,7 @@ platforms and adapting nursing workflows to a tech-enabled environment.&nbsp;</p
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3a3 liaw sok ying.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3a3 liaw sok ying.png">
 </div>
 <blockquote>
 <h4>Professor Liaw Sok Ying</h4>
@@ -162,7 +162,7 @@ in healthcare.&nbsp;</p>
 <p></p>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3a kuek shao yang.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3a kuek shao yang.png">
 </div>
 <blockquote>
 <h4>Ms Kuek Shao Yang&nbsp;</h4>
@@ -209,7 +209,7 @@ nursing practice to be more proactive, data-driven, and patient-centred.</p>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3b1 tiffany tay.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3b1 tiffany tay.png">
 </div>
 <blockquote>
 <h4>Ms Tiffany Tay Yu Ning</h4>
@@ -239,7 +239,7 @@ Care (GMCC) Clinic.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3b2 joyce lian xia.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3b2 joyce lian xia.png">
 </div>
 <blockquote>
 <h4>Ms Joyce Lian Xia&nbsp;</h4>
@@ -290,7 +290,7 @@ on future diabetes care delivery.&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3b2 shao yanli.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3b2 shao yanli.png">
 </div>
 <blockquote>
 <h4>Ms Shao Yanli</h4>
@@ -361,7 +361,7 @@ in inpatient setting</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3b2 joyce lim .png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3b2 joyce lim .png">
 </div>
 <blockquote>
 <h4>Dr Joyce Lim</h4>
@@ -397,7 +397,7 @@ according to their needs and lifestyles. Is it feasible at your work practice?&n
 <p></p>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3b loo see.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3b loo see.png">
 </div>
 <blockquote>
 <h4>Yeo Loo See&nbsp;</h4>
@@ -448,7 +448,7 @@ diabetes-related complications.</p>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3c1 loh yong joo.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3c1 loh yong joo.png">
 </div>
 <blockquote>
 <h4>Dr Loh Yong Joo</h4>
@@ -488,7 +488,7 @@ and governance etc.&nbsp;&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3c2 goh han leong.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3c2 goh han leong.png">
 </div>
 <blockquote>
 <h4>Dr Goh Han Leong&nbsp;</h4>
@@ -578,7 +578,7 @@ Clinical Innovation, TTSH Clinical Research &amp; Innovation office&nbsp;</summa
 </div>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3c lim voon hooi&nbsp;.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3c lim voon hooi&nbsp;.png">
 </div>
 <blockquote>
 <h4>Ms Lim Voon Hooi&nbsp;</h4>
@@ -620,7 +620,7 @@ improvement, and nursing professional development.&nbsp;&nbsp;</p>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3d1 wang wen ru.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3d1 wang wen ru.png">
 </div>
 <blockquote>
 <h4>Prof Wang Wenru</h4>
@@ -699,7 +699,7 @@ A full-scale study is recommended to validate these findings.&nbsp;</p>
 </div>
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3d2 yuan peng.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3d2 yuan peng.png">
 </div>
 <blockquote>
 <h4>Mr Yuan Peng</h4>
@@ -805,7 +805,7 @@ lead transformative change in healthcare through technology.&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3d2 wong kok cheong.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3d2 wong kok cheong.png">
 </div>
 <blockquote>
 <h4>Mr Wong Kok Cheong</h4>
@@ -858,7 +858,7 @@ shared.&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3d2 theresa samy&nbsp;.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3d2 theresa samy&nbsp;.png">
 </div>
 <blockquote>
 <h4>Ms Theresa Samy&nbsp;</h4>
@@ -930,7 +930,7 @@ challenges and integrated technology into their routines.&nbsp;</p>
 <p></p>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3d chen li.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3d chen li.png">
 </div>
 <blockquote>
 <h4>Ms Chen Li</h4>
@@ -966,7 +966,7 @@ with frontline patient care.&nbsp;</p>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3e1 ang shin yuh.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3e1 ang shin yuh.png">
 </div>
 <blockquote>
 <h4>Adjunct A/Prof&nbsp;Ang Shin Yuh</h4>
@@ -1018,7 +1018,7 @@ sustainable.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3e2 christopher.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3e2 christopher.png">
 </div>
 <blockquote>
 <h4>Mr Christopher&nbsp;Soh</h4>
@@ -1069,7 +1069,7 @@ high-quality, patient-centered care.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3e3 margaret.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3e3 margaret.png">
 </div>
 <blockquote>
 <h4>Dr Margaret&nbsp;Soon</h4>
@@ -1132,7 +1132,7 @@ and how these insights are shaping future pandemic preparedness strategies.&nbsp
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3e3 faiz.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3e3 faiz.png">
 </div>
 <blockquote>
 <h4>Mr Faiz Mordiffi&nbsp;</h4>
@@ -1183,7 +1183,7 @@ profession to meet evolving healthcare needs.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3e3 bella tan.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 3 speakers/3e3 bella tan.png">
 </div>
 <blockquote>
 <h4>Ms Bella Tan</h4>
@@ -1224,7 +1224,7 @@ technology-enabled healthcare systems for future&nbsp;.</p>
 <p></p>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whshiji.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/whshiji.png">
 </div>
 <blockquote>
 <h4>Ms Shiji D/O Kuttan&nbsp;</h4>
