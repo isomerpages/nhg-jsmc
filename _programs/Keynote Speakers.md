@@ -322,14 +322,7 @@ and committed to high-quality, person-centred care.</p>
 <blockquote>
 <h4><strong>Ms Paulin Koh</strong></h4>
 </blockquote>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Chief Nursing Officer, Ministry of Health Singapore</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
+<p>Chief Nursing Officer, Ministry of Health Singapore</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cno gowry.png">
 </div>
