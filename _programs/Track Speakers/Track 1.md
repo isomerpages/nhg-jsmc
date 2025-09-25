@@ -635,7 +635,7 @@ they have built.&nbsp;</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Deputy Director of Nursing, Nursing Administration, Yishun Community Hospital</summary>
+<summary>Head of Nursing, Nursing Administration, Yishun Community Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Ms. Yvonne Tan is currently the Deputy Director of Nursing at Yishun Community
 Hospital (YCH), where she oversees nursing operations across sub-acute,
