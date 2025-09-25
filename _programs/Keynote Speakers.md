@@ -140,21 +140,37 @@ Chief Executive Officer (Institute of Mental Health)</summary>
 <p></p>
 </div>
 </details>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<blockquote>
-<h4>NUHS GCN</h4>
-</blockquote>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wong sook thow.png">
+</div>
+<h4><strong>Ms Wong Sook Thow</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Deputy Group Chief Nurse, SingHealth, Chief Nurse, KK Women's and Children's
+Hospital</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A nursing leader with 36 years of experience, I began my career in 1989
+as a MOH Gold Medal Award recipient from the School of Nursing. I specialised
+in Paediatric Intensive Care nursing after obtaining my Advanced Diploma
+in Critical Care Nursing in 1994.</p>
 <p></p>
+<p>My leadership journey includes dual master's qualifications: a Master
+in Health Services Management from Curtin University (2001) and a Master
+of Arts in Education &amp; HRD from George Washington University (2003),
+both supporting my transition into nursing education and management roles.
+Currently serving as Chief Nurse at KKH and Deputy Group Chief Nurse of
+SingHealth, I oversee Nursing Transformation across the SingHealth cluster.</p>
+<p></p>
+<p>I champion innovation culture within nursing teams, believing that technology
+and innovation are crucial to addressing manpower challenges in healthcare.
+I am also focused on positioning KKH's community presence in maternal and
+child health, aligning with MOH's population health priorities. My expertise
+spans clinical excellence, nursing education, and strategic leadership,
+with a particular commitment to fostering innovation and community-centred
+healthcare delivery across the healthcare system.</p>
+</div>
+</details>
+</div>
 <h3><u>Keynote 2</u></h3>
 <h4><strong>Navigating the Future - Identifying Current Healthcare Issues and Evolving Nursing Direction</strong></h4>
 <div class="isomer-image-wrapper">
