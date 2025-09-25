@@ -413,3 +413,7 @@ appointments at</p>
 </details>
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NHG_Health_Corporate_Suite_of_Logos_Full_Colour.png">
+</div>
+<p></p>
