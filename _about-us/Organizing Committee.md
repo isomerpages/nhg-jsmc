@@ -435,7 +435,7 @@ to become confident, competent healthcare professionals.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/ktphsoongpang.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Goh Soon Pang, Senior Nurse Clinician, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
