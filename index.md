@@ -74,11 +74,6 @@ sections:
           announcement: Conference is now open for registration!
           link_text: Click Here To Register
           link_url: https://form.gov.sg/67f4dfd8990af072f0b53bd1
-        - title: Abstract Submissions - Extension
-          date: 06 June 2025
-          announcement: We will extend the abstract submissions date to 25 June 2025.
-          link_text: ""
-          link_url: ""
         - title: Abstract Submissions - Closed
           date: 25 June 2025
           announcement: We have concluded our abstract submissions.
