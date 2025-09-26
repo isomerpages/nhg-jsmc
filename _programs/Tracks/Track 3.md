@@ -48,7 +48,7 @@ are already improving patient care and making nurses' work more effective.
 <p>11.00 pm - 11.20 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technologies in Direct Patient Care: Smart&nbsp;ward</p>
+<p>Technologies in Direct Patient Care (Smart&nbsp;Ward)</p>
 </td>
 </tr>
 <tr>
