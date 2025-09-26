@@ -5,20 +5,17 @@ variant: tiptap
 description: ""
 ---
 <h3>Main Committee</h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="WH Pua Lay Hoon" src="/images/Comm/whpualh.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p>Advisor</p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="WH Pua Lay Hoon" src="/images/Comm/whpualh.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Pua Lay Hoon, Chief Nurse, Woodlands Health</summary>
@@ -53,21 +50,26 @@ nurses in Singapore and beyond.</p>
 </div>
 </details>
 </div>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="WH Ng Li Yuen" src="/images/Comm/whngly.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p>Chairperson</p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="WH Ng Li Yuen" src="/images/Comm/whngly.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Geraldine Ng, Deputy Director of Nursing, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Dr. Geraldine Ng is the Deputy Director of Nursing, overseeing nursing
+services in the Emergency Department, Cardiac Centre, and Department of
+Radiology. She holds a Doctorate of Nursing Practice and is an Advanced
+Practice Nurse in General Medicine with extensive experience in Emergency
+Nursing. A key leader in clinical service development, she spearheaded
+the establishment of acute medical wards, driving improvements in patient
+care, nursing practice, and service integration across specialties.</p>
 </div>
 </details>
 </div>
@@ -75,12 +77,10 @@ nurses in Singapore and beyond.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="christina NHGHQ" src="/images/Comm/nhghqchristina.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p>Admin Lead</p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="christina NHGHQ" src="/images/Comm/nhghqchristina.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Christina Low, Assistant Director, National Healthcare Group, Group
@@ -94,12 +94,10 @@ Nursing</summary>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="KTPH Goh Soon Pang" src="/images/Comm/ktphsoongpang.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p>Org Comm Lead</p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="KTPH Goh Soon Pang" src="/images/Comm/ktphsoongpang.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Goh Soon Pang, Senior Nurse Clinician, Khoo Teck Puat Hospital</summary>
@@ -112,34 +110,48 @@ Nursing</summary>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="WH Audrey Kon, Nurse and software developer" src="/images/Comm/whaudrey.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p>Org Comm Lead</p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="WH Audrey Kon, Nurse and software developer" src="/images/Comm/whaudrey.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Audrey Kon, Senior Nurse Clinician, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Audrey is an experienced nurse who loves learning and finding new ways
+to improve healthcare through technology. She has both nursing experience
+and coding skills, which helps her bring fresh ideas to healthcare challenges.</p>
 <p></p>
+<p>Her diverse educational journey after her nursing diploma began with an
+Advanced Diploma in Mass Communications, followed by her nursing degree
+and an Advanced Diploma in Nursing. In 2012, she received the MOH Nurses'
+Merit Award for her work, and later completed her Masters in Health Administration.</p>
+<p></p>
+<p>Audrey's interest in technology led her to win 'Build For Good' hackathon
+by Open Government Products in 2024, which earned her an invitation on
+stage to launch Smart Nation 2.0 with Prime Minister Wong. Beyond technology,
+she has also designed clinic spaces, bringing her eye for improvement to
+the physical healthcare environment. She enjoys working on healthcare improvement
+projects, finding better ways to care for patients and serves as a union
+chairperson while mentoring emerging nursing leaders.</p>
+<p></p>
+<p>With her background in both nursing and technology, Audrey brings a unique
+perspective to healthcare innovation and patient care.</p>
 </div>
 </details>
 </div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h3>All Admin &amp; Logistics</h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/nhghqchristina.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/nhghqchristina.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Christina Low, Assistant Director, National Healthcare Group, Group
@@ -149,21 +161,18 @@ Nursing</summary>
 </div>
 </details>
 </div>
-<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h3>Conference Programme</h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ktph Goh soon pang" src="/images/Comm/ktphsoongpang.png">
+<img style="width: 65%;" height="auto" width="100%" alt="ktph Goh soon pang" src="/images/Comm/ktphsoongpang.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Goh Soon Pang, Senior Nurse Clinician, Khoo Teck Puat Hospital</summary>
@@ -175,36 +184,38 @@ Nursing</summary>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h3>Scientific Programme &amp; CPE Points</h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="WH Dong Lijuan" src="/images/Comm/whdonglj.png">
+<img style="width: 65%;" height="auto" width="100%" alt="WH Dong Lijuan" src="/images/Comm/whdonglj.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Dr Dong Lijuan, Deputy Director of Nursing, Woodlands Health</summary>
+<summary>Dr Dong Lijuan, Chief Nurse, Institute of Mental Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Dr Dong drives nursing research, education and evidence-based practice
-to advance the nursing profession.</p>
+<p>Dr. Dong Lijuan is an accomplished healthcare leader with a diverse educational
+and professional background. She holds a PhD in Education, an MBA in Healthcare
+Management, and a Bachelor of Nursing.</p>
+<p>&nbsp;</p>
+<p>In her leadership roles, Dr. Dong has led multiple initiatives at both
+national and institutional levels, including setting up National Nursing
+Academy (NNA) in MOH, Education Development Office (EDO) at National Healthcare
+Group, and recently Nursing Research Office at WH. She is also a dedicated
+member of Education Committee for Singapore Nursing Board.&nbsp;&nbsp;</p>
 </div>
 </details>
 </div>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="WH Shiji" src="/images/Comm/whshiji.png">
+<img style="width: 65%;" height="auto" width="100%" alt="WH Shiji" src="/images/Comm/whshiji.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Shiji D/O Kuttan, Assistant Director of Nursing, Woodlands Health</summary>
@@ -213,16 +224,13 @@ to advance the nursing profession.</p>
 </div>
 </details>
 </div>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TTSH Runqi" src="/images/Comm/ttshrunqi.png">
+<img style="width: 65%;" height="auto" width="100%" alt="TTSH Runqi" src="/images/Comm/ttshrunqi.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Cheong Run Qi, Assistant Nurse Clinician, Tan Tock Seng Hospital</summary>
@@ -235,21 +243,40 @@ of knowledge into practice.&nbsp;</p>
 </div>
 </details>
 </div>
-<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/whthetthet.png">
+</div>
+<details class="isomer-details">
+<summary>Ms Thet Thet, Nurse Clinician, Woodlands Health</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>My nursing career spans over 20 years, covering clinical practice, education,
+and workforce development. My journey includes six years as a nursing lecturer
+at a local polytechnic, where I had the privilege of guiding and mentoring
+student nurses, as well as more than 10 years as a nurse educator in both
+public and private healthcare institutions. Throughout my career, I have
+been dedicated to equipping nurses—whether new graduates or experienced
+practitioners—with the knowledge, skills, and confidence needed to provide
+safe and compassionate care. I am passionate about fostering learning cultures,
+enhancing clinical competence, and supporting professional growth to strengthen
+nursing practice and improve patient outcomes.&nbsp;</p>
+</div>
+</details>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h3>Sponsorship</h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TTSH James Tan" src="/images/Comm/ttshjames.png">
+<img style="width: 65%;" height="auto" width="100%" alt="TTSH James Tan" src="/images/Comm/ttshjames.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Mr Tan Wan Kun, James, Nurse Manager, Tan Tock Seng Hospital</summary>
@@ -263,10 +290,8 @@ of knowledge into practice.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TTSH Wanzhen" src="/images/Comm/ttshwanzhen.png">
+<img style="width: 65%;" height="auto" width="100%" alt="TTSH Wanzhen" src="/images/Comm/ttshwanzhen.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Zhao Wanzhen, Senior Nurse Educator, Tan Tock Seng Hospital</summary>
@@ -278,22 +303,39 @@ of knowledge into practice.&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h3>Publicity, EDMs &amp; Website</h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="WH Audrey Kon, Nurse and software developer" src="/images/Comm/whaudrey.png">
+<img style="width: 65%;" height="auto" width="100%" alt="audrey kon nurse and software developer" src="/images/Comm/whaudrey.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Audrey Kon, Senior Nurse Clinician, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Audrey is an experienced nurse who loves learning and finding new ways
+to improve healthcare through technology. She has both nursing experience
+and coding skills, which helps her bring fresh ideas to healthcare challenges.</p>
 <p></p>
+<p>Her diverse educational journey after her nursing diploma began with an
+Advanced Diploma in Mass Communications, followed by her nursing degree
+and an Advanced Diploma in Nursing. In 2012, she received the MOH Nurses'
+Merit Award for her work, and later completed her Masters in Health Administration.</p>
+<p></p>
+<p>Audrey's interest in technology led her to win 'Build For Good' hackathon
+by Open Government Products in 2024, which earned her an invitation on
+stage to launch Smart Nation 2.0 with Prime Minister Wong. Beyond technology,
+she has also designed clinic spaces, bringing her eye for improvement to
+the physical healthcare environment. She enjoys working on healthcare improvement
+projects, finding better ways to care for patients and serves as a union
+chairperson while mentoring emerging nursing leaders.</p>
+<p></p>
+<p>With her background in both nursing and technology, Audrey brings a unique
+perspective to healthcare innovation and patient care.</p>
 </div>
 </details>
 </div>
@@ -302,10 +344,8 @@ of knowledge into practice.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NHGHQ Christina" src="/images/Comm/nhghqchristina.png">
+<img style="width: 65%;" height="auto" width="100%" alt="NHGHQ Christina" src="/images/Comm/nhghqchristina.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Christina Low, Assistant Director, National Healthcare Group, Group
@@ -318,18 +358,16 @@ Nursing</summary>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h3>Track 1</h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ktphsathiya.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/ktphsathiya.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Sathiya Veerarhagavan, Senior Nurse Manager, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -344,10 +382,8 @@ leadership &amp; CPIP initiatives, driving excellence in quality improvement
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whpualh.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/whpualh.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Pua Lay Hoon, Chief Nurse, Woodlands Health</summary>
@@ -387,10 +423,8 @@ nurses in Singapore and beyond.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whtimmie.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/whtimmie.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Chan Lai Teng Timie, Senior Staff Nurse, Woodlands Health</summary>
@@ -404,10 +438,8 @@ nurses in Singapore and beyond.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ktphsharifah.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/ktphsharifah.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Sharifah Maryam Alhabshee Bte Zen, Nurse Manager, Khoo Teck Puat Hospital</summary>
@@ -424,13 +456,11 @@ motivates me to effectively lead the team.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/imhelayne.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/imhelayne.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Elayne Loo, Nurse Clinician, Institute of Mental Health</summary>
+<summary>Ms Elayne Loo, Nurse Educator, Institute of Mental Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Drawing from two decades of hands-on mental healthcare experience, Ms.
 Elayne has witnessed firsthand how giving patients a voice transforms their
@@ -443,18 +473,15 @@ genuine human connections drive better care outcomes.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h4>Track 2</h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ktph joyce ho" src="/images/Comm/ktphjoyceho.png">
+<img style="width: 65%;" height="auto" width="100%" alt="ktph joyce ho" src="/images/Comm/ktphjoyceho.png">
 </div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Joyce Ho Nuo, Nurse Educator, Khoo Teck Puat Hospital</summary>
@@ -472,11 +499,9 @@ to become confident, competent healthcare professionals.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ktphsoongpang.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/ktphsoongpang.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Goh Soon Pang, Senior Nurse Clinician, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -489,15 +514,22 @@ to become confident, competent healthcare professionals.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whthetthet.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/whthetthet.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Thet Thet, Nurse Clinician, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>My nursing career spans over 20 years, covering clinical practice, education,
+and workforce development. My journey includes six years as a nursing lecturer
+at a local polytechnic, where I had the privilege of guiding and mentoring
+student nurses, as well as more than 10 years as a nurse educator in both
+public and private healthcare institutions. Throughout my career, I have
+been dedicated to equipping nurses—whether new graduates or experienced
+practitioners—with the knowledge, skills, and confidence needed to provide
+safe and compassionate care. I am passionate about fostering learning cultures,
+enhancing clinical competence, and supporting professional growth to strengthen
+nursing practice and improve patient outcomes.&nbsp;</p>
 </div>
 </details>
 </div>
@@ -506,10 +538,8 @@ to become confident, competent healthcare professionals.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ttshwanzhen.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/ttshwanzhen.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Zhao Wanzhen, Senior Nurse Educator, Tan Tock Seng Hospital</summary>
@@ -521,22 +551,33 @@ to become confident, competent healthcare professionals.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h3>Track 3</h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/nhgpshuli.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/nhgpshuli.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Jia Shuli, Head Nurse, National Healthcare Group Polyclinics</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4></h4>
+<p>Ms Shuli serves as Head Nurse of Woodlands Polyclinic (NHG Polyclinics),
+whilst also serving in NHG Group Nursing. She completed her post graduate
+studies at Curtin University, obtaining a Master of Advanced Practice (Clinical
+Leadership Specialization).</p>
+<p></p>
+<p>She co-leads the Acute Care Community of Practice and serves as a member
+of the Emergency Specialty Advisory Group within NHG Polyclinics. She also
+supports the NHG Nursing Quality Committee under the NHG Nursing Council
+and leads Advance Care Planning initiatives for NHG Group Nursing.</p>
+<p></p>
+<p>Ms Shuli is passionate about fostering a culture where excellence, teamwork,
+and patient centered care are the the heart of every practice. One of the
+most rewarding aspects of her work is guiding and influencing emerging
+leaders - helping them grow in confidence and capability.</p>
 </div>
 </details>
 </div>
@@ -545,10 +586,8 @@ to become confident, competent healthcare professionals.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ttshjames.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/ttshjames.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Mr Tan Wan Kun, James, Nurse Manager, Tan Tock Seng Hospital</summary>
@@ -557,16 +596,13 @@ to become confident, competent healthcare professionals.</p>
 </div>
 </details>
 </div>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whshiji.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/whshiji.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Shiji D/O Kuttan, Assistant Director of Nursing, Woodlands Health</summary>
@@ -575,39 +611,52 @@ to become confident, competent healthcare professionals.</p>
 </div>
 </details>
 </div>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="WH Audrey Kon, Nurse and Software developer" src="/images/Comm/whaudrey.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/whaudrey.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Audrey Kon, Senior Nurse Clinician, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Audrey is an experienced nurse who loves learning and finding new ways
+to improve healthcare through technology. She has both nursing experience
+and coding skills, which helps her bring fresh ideas to healthcare challenges.</p>
 <p></p>
+<p>Her diverse educational journey after her nursing diploma began with an
+Advanced Diploma in Mass Communications, followed by her nursing degree
+and an Advanced Diploma in Nursing. In 2012, she received the MOH Nurses'
+Merit Award for her work, and later completed her Masters in Health Administration.</p>
+<p></p>
+<p>Audrey's interest in technology led her to win 'Build For Good' hackathon
+by Open Government Products in 2024, which earned her an invitation on
+stage to launch Smart Nation 2.0 with Prime Minister Wong. Beyond technology,
+she has also designed clinic spaces, bringing her eye for improvement to
+the physical healthcare environment. She enjoys working on healthcare improvement
+projects, finding better ways to care for patients and serves as a union
+chairperson while mentoring emerging nursing leaders.</p>
+<p></p>
+<p>With her background in both nursing and technology, Audrey brings a unique
+perspective to healthcare innovation and patient care.</p>
 </div>
 </details>
 </div>
-<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h3>Track 4</h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/imhsongsong.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/imhsongsong.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Mr Cui Song Song, Nurse Clinician, Institute of Mental Health</summary>
@@ -621,10 +670,8 @@ to become confident, competent healthcare professionals.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ttshrunqi.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/ttshrunqi.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Cheong Run Qi, Assistant Nurse Clinician, Tan Tock Seng Hospital</summary>
@@ -642,37 +689,39 @@ of knowledge into practice.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whdonglj.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/whdonglj.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Dr Dong Lijuan, Deputy Director of Nursing, Woodlands Health</summary>
+<summary>Dr Dong Lijuan, Chief Nurse, Institute of Mental Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Dr. Dong Lijuan is the deputy director of nursing at Woodlands Hospital.
-She drives nursing research, education, and evidence-based practice to
-advance the profession.</p>
+<p>Dr. Dong Lijuan is an accomplished healthcare leader with a diverse educational
+and professional background. She holds a PhD in Education, an MBA in Healthcare
+Management, and a Bachelor of Nursing.</p>
+<p>&nbsp;</p>
+<p>In her leadership roles, Dr. Dong has led multiple initiatives at both
+national and institutional levels, including setting up National Nursing
+Academy (NNA) in MOH, Education Development Office (EDO) at National Healthcare
+Group, and recently Nursing Research Office at WH. She is also a dedicated
+member of Education Committee for Singapore Nursing Board.&nbsp;&nbsp;</p>
 </div>
 </details>
 </div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h3>Scientific Track</h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/imhelayne.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/imhelayne.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Elayne Loo, Nurse Clinician, Institute of Mental Health</summary>
+<summary>Ms Elayne Loo, Nurse Educator, Institute of Mental Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Drawing from two decades of hands-on mental healthcare experience, Ms.
 Elayne has witnessed firsthand how giving patients a voice transforms their
@@ -687,11 +736,9 @@ genuine human connections drive better care outcomes.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ktphsathiya.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/ktphsathiya.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Sathiya Veerarhagavan, Senior Nurse Manager, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -707,33 +754,37 @@ leadership &amp; CPIP initiatives, driving excellence in quality improvement
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whthetthet.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/whthetthet.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Thet Thet, Nurse Clinician, Woodlands Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>My nursing career spans over 20 years, covering clinical practice, education,
+and workforce development. My journey includes six years as a nursing lecturer
+at a local polytechnic, where I had the privilege of guiding and mentoring
+student nurses, as well as more than 10 years as a nurse educator in both
+public and private healthcare institutions. Throughout my career, I have
+been dedicated to equipping nurses—whether new graduates or experienced
+practitioners—with the knowledge, skills, and confidence needed to provide
+safe and compassionate care. I am passionate about fostering learning cultures,
+enhancing clinical competence, and supporting professional growth to strengthen
+nursing practice and improve patient outcomes.&nbsp;</p>
 </div>
 </details>
 </div>
-<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h4>Conference Emcee</h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whtimmie.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/whtimmie.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ms Chan Lai Teng Timie, Senior Staff Nurse, Woodlands Health</summary>
@@ -750,11 +801,9 @@ that benefit both patients and healthcare teams.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/syazwan.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/syazwan.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Muhammad Syazwan Bin Ruslaine, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">

@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Track Speakers
 ---
 <h3><strong>Positive Practice Environment</strong></h3>
+<p>Track 4 sessions would be held at Level 2, Hall 2</p>
 <hr>
-<h3>Track 4A</h3>
+<h3>Track 4A - Bridging Generations: The Novice, The Emerging &amp; The Veteran</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -17,7 +18,7 @@ third_nav_title: Track Speakers
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/pataraporn kheawwan.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 4 speakers/pataraporn kheawwan.png">
 </div>
 <blockquote>
 <h4>Dr. Pataraporn Kheawwan</h4>
@@ -56,7 +57,7 @@ that foster excellence across generations.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Bridging Generations: The Novice, The Emerging &amp; The Veteran</summary>
+<summary>Novice on Board! Integrating New Nurses Into The Workforce</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>As healthcare systems evolve, the need for a well-prepared nursing workforce
 becomes more urgent than ever. This session explores how structured onboarding
@@ -90,7 +91,7 @@ and workforce resilience for the future.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4a2 tan soh chin&nbsp;.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4a2 tan soh chin&nbsp;.png">
 </div>
 <blockquote>
 <h4>Ms Tan Soh Chin&nbsp;</h4>
@@ -129,7 +130,7 @@ and inspiring institutional leaders across the cluster.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4A2: <strong>: Investing in Tomorrow: Supporting The Next Generation of Nurses</strong>
+<summary>Track 4A2:<strong> Investing in Tomorrow - Supporting The Next Generation of Nurses</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>With the changing healthcare landscape and on-going nursing manpower challenges,
@@ -179,7 +180,7 @@ fostering leadership development.</p>
 (Veteran, Emerging and Novice)</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4a3 ryan chua.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4a3 ryan chua.png">
 </div>
 <blockquote>
 <h4>Mr Ryan Chua</h4>
@@ -197,7 +198,7 @@ fostering leadership development.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/james zheng zhongjia.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 4 speakers/james zheng zhongjia.png">
 </div>
 <blockquote>
 <h4>Mr James Zheng Zhongjia</h4>
@@ -235,7 +236,7 @@ and empowering for all.&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4a2 tan soh chin&nbsp;.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4a2 tan soh chin&nbsp;.png">
 </div>
 <blockquote>
 <h4>Ms Tan Soh Chin&nbsp;</h4>
@@ -277,7 +278,7 @@ and inspiring institutional leaders across the cluster.</p>
 <h4>Moderator</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4a wang jia.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4a wang jia.png">
 </div>
 <blockquote>
 <h4>Mr Wang Jia</h4>
@@ -318,13 +319,12 @@ from 2021 to 2024.</p>
 </div>
 </details>
 </div>
-<p></p>
 </th>
 </tr>
 </tbody>
 </table>
 <hr>
-<h3>Track 4B</h3>
+<h3>Track 4B - Empowerment and Engagement: Building a Well-Equipped Nurse</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -334,7 +334,7 @@ from 2021 to 2024.</p>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4b2 yu liang.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4b2 yu liang.png">
 </div>
 <blockquote>
 <h4>Ms Yu Liang</h4>
@@ -389,7 +389,7 @@ enhancing patient care outcomes and professional satisfaction.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4b2 tan lai hong.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4b2 tan lai hong.png">
 </div>
 <blockquote>
 <h4>Mr Tan Lai Hong</h4>
@@ -410,7 +410,7 @@ Care.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4B2: Nursing Engagement &amp; Retention: Cultivating a Thriving
+<summary>Track 4B2: Nursing Engagement &amp; Retention - Cultivating a Thriving
 Workforce for Sustainable Healthcare</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul>
@@ -433,7 +433,7 @@ Workforce for Sustainable Healthcare</summary>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4b3 yvonne ng.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4b3 yvonne ng.png">
 </div>
 <blockquote>
 <h4>Ms Yvonne Ng</h4>
@@ -459,7 +459,7 @@ leaders in her organisation and beyond.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4B3: Empowering the Future of Nursing: The Impact of Mentorship</summary>
+<summary>Track 4B3: Empowering the Future of Nursing - The Impact of Mentorship</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>A positive nursing environment thrives when nurses are empowered through
 shared governance and active participation in workplace decisions. When
@@ -476,7 +476,7 @@ care.</p>
 <h4>Moderator</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1c3 tan hong yun.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1c3 tan hong yun.png">
 </div>
 <blockquote>
 <h4>Dr Tan Hongyun</h4>
@@ -509,7 +509,7 @@ innovate and leading the care.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4c1 hoi shu yin.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4c1 hoi shu yin.png">
 </div>
 <blockquote>
 <h4>Adj. A/Prof Hoi Shu Yin&nbsp;</h4>
@@ -539,7 +539,7 @@ Partner of Labour Movement Award (2025).</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4C1: Psychological Safety: Fostering a Safe and Respectful Workplace</summary>
+<summary>Track 4C1: Psychological Safety - Fostering a Safe and Respectful Workplace</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Psychological safety is the foundation of a safe, respectful, and high-performing
 nursing workforce. The belief that one can speak up, ask questions, and
@@ -559,7 +559,7 @@ where every voice is valued.&nbsp;&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4c2 lee kiang darren.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4c2 lee kiang darren.png">
 </div>
 <blockquote>
 <h4>Mr Lee Kiang, Darren&nbsp;</h4>
@@ -578,7 +578,7 @@ patient outcomes in Singapore’s leading psychiatric healthcare institution.</p
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4C2: Prevent and Protect: Safeguarding Nurses from Workplace Abuse
+<summary>Track 4C2: Prevent and Protect - Safeguarding Nurses from Workplace Abuse
 and Violence</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>In Singapore’s healthcare system, safeguarding nurses from workplace abuse
@@ -617,7 +617,7 @@ workforce capable of delivering high-quality care in a safe environment.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4c3 jinxian.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4c3 jinxian.png">
 </div>
 <blockquote>
 <h4>Ms Wei Jinxian</h4>
@@ -633,7 +633,7 @@ in quality, safety, and advancing excellence in specialized care.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4C3: Strangers to Allies: Integrating International Nurses into
+<summary>Track 4C3: Strangers to Allies - Integrating International Nurses into
 the Workplace</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This session examines the critical aspects of integrating Internationally
@@ -655,7 +655,7 @@ workforce capabilities in our evolving healthcare ecosystem.&nbsp;</p>
 <h4>Moderator</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4c tan ying hua grace.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4c tan ying hua grace.png">
 </div>
 <blockquote>
 <h4>Ms Tan Ying Hua Grace</h4>
@@ -691,7 +691,7 @@ of seeing positive changes in nursing care makes every effort worthwhile.&nbsp;<
 </tbody>
 </table>
 <hr>
-<h3>Track 4D</h3>
+<h3>Track 4D - Celebrating Diversity in The Nursing Workforce and Beyond</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -702,7 +702,7 @@ of seeing positive changes in nursing care makes every effort worthwhile.&nbsp;<
 <h4>Presenters</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4d1 assoc prof wong teck yee.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4d1 assoc prof wong teck yee.png">
 </div>
 <blockquote>
 <h4>Assoc Prof Wong Teck Yee</h4>
@@ -740,7 +740,7 @@ Award, NTU (2020) and NHG Quality Day Merit Award (2021).&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4D1: How to be a “Green Flag”: Tips to Capture the New Generation</summary>
+<summary>Track 4D1: How to be a “Green Flag” - Tips to Capture the New Generation</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -748,7 +748,7 @@ Award, NTU (2020) and NHG Quality Day Merit Award (2021).&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4d2 samantha.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4d2 samantha.png">
 </div>
 <blockquote>
 <h4>Ms Samantha Ong</h4>
@@ -782,7 +782,7 @@ influenced mental health nursing practices in Singapore.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4D2: Stronger Together: Inclusive Culture as the Heartbeat of Nursing</summary>
+<summary>Track 4D2: Stronger Together - Inclusive Culture as the Heartbeat of Nursing</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>In today’s dynamic healthcare environment, inclusivity is no longer an
 option- it is the foundation that strengthens nursing practice and patient
@@ -811,7 +811,7 @@ but also preserves its essence of humanity and care.&nbsp;</p>
 <p></p>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2a1 shirley heng.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2a1 shirley heng.png">
 </div>
 <blockquote>
 <h4>Ms Shirley Heng&nbsp;</h4>
@@ -852,7 +852,7 @@ arts, nature, and literature.&nbsp;</p>
 </tbody>
 </table>
 <hr>
-<h3>Track 4E</h3>
+<h3>Track 4E - Positive Environments for Happi-Nurse</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -862,7 +862,7 @@ arts, nature, and literature.&nbsp;</p>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4e1 vanassa.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4e1 vanassa.png">
 </div>
 <blockquote>
 <h4>Ms Vanassa Ng Shu Li</h4>
@@ -903,7 +903,7 @@ management.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4E1: Embracing Flexibility: The Power of Liquid Nursing in Workforce
+<summary>Track 4E1: Embracing Flexibility - The Power of Liquid Nursing in Workforce
 Scheduling</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This session delves into a groundbreaking workforce transformation initiative
@@ -938,7 +938,7 @@ healthcare settings.&nbsp;</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4e2 ben ng.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4e2 ben ng.png">
 </div>
 <blockquote>
 <h4>Mr Ben Ng</h4>
@@ -951,7 +951,7 @@ healthcare settings.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4E2: 24/7 Healthy Environments: Crafting Spaces Where Nurses Thrive&nbsp;</summary>
+<summary>Track 4E2: 24/7 Healthy Environments - Crafting Spaces Where Nurses Thrive&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This presentation explores Woodlands Health’s strategy to support staff
 and nurses through innovative campus design and technology. It provides
@@ -964,7 +964,7 @@ overall work experience and patient care</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4e3 jamie lim .png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4e3 jamie lim .png">
 </div>
 <blockquote>
 <h4>Ms Jamie Lim Chuen</h4>
@@ -998,7 +998,7 @@ they're all heart-stopping!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4E3: PEST control - Eliminating Problematic Elements Stifling Teamwork</summary>
+<summary>Track 4E3: PEST Control - Eliminating <u>P</u>roblematic <u>E</u>lements <u>S</u>tifling <u>T</u>eamwork</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>In this bold and unconventional session, discover why being "the bad guy"
 might be exactly what your nursing environment needs. PEST Control tackles
@@ -1016,7 +1016,7 @@ decisive action to transform their nursing environment.</p>
 <h4>Moderator</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4e cheryl.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4e cheryl.png">
 </div>
 <blockquote>
 <h4>Ms Goh Ai Sze, Cheryl&nbsp;</h4>

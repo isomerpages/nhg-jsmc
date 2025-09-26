@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Track Speakers
 ---
 <h3><strong>Nurses Beyond Nursing, Nursing Beyond Nurses</strong></h3>
+<p>Track 2 sessions would be held at Level 4, Auditorium</p>
 <hr>
-<h3>Track 2A</h3>
+<h3>Track 2A - Nursing Evolution, Leading The New Era</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -17,7 +18,7 @@ third_nav_title: Track Speakers
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2a1 shirley heng.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2a1 shirley heng.png">
 </div>
 <blockquote>
 <h4>Ms Shirley Heng&nbsp;</h4>
@@ -53,7 +54,7 @@ arts, nature, and literature.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2A1: Vision for Future Nursing: Synergising Roles, Riding Waves,
+<summary>Track 2A1: Vision for Future Nursing - Synergising Roles, Riding Waves,
 Reaching Stars</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>As healthcare evolves at an unprecedented pace, we stand at a pivotal
@@ -87,7 +88,7 @@ ability to work together in powerful new ways.&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2a1 nirmala bte karmaroon .png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2a1 nirmala bte karmaroon .png">
 </div>
 <blockquote>
 <h4>Ms Nirmala Bte Karmaroon</h4>
@@ -142,7 +143,7 @@ and shaping institutional policy.&nbsp;</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/chong mei chan.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/chong mei chan.png">
 </div>
 <blockquote>
 <h4>Professor Chong Mei Chan&nbsp;</h4>
@@ -211,7 +212,7 @@ future for healthcare.&nbsp;</p>
 <p></p>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2a chan ee yuee.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2a chan ee yuee.png">
 </div>
 <blockquote>
 <h4>Adj Asst Prof&nbsp;Chan Ee Yuee</h4>
@@ -244,7 +245,7 @@ activation, digital health</p>
 </tbody>
 </table>
 <hr>
-<h3>Track 2B</h3>
+<h3>Track 2B - Nursing Beyond Boundaries</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -254,7 +255,7 @@ activation, digital health</p>
 <th rowspan="1" colspan="1">
 <h4>Presenter</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/ttshjames.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/ttshjames.png">
 </div>
 <blockquote>
 <h4>Mr James Tan Wan Kun</h4>
@@ -311,7 +312,7 @@ move beyond.&nbsp;Nursing with a Different ‘Hat’&nbsp;&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/hemma rajendra.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/hemma rajendra.png">
 </div>
 <blockquote>
 <h4>Ms Hemma Rajendra</h4>
@@ -353,7 +354,7 @@ that makes my working career exciting.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2b3 selina seah.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2b3 selina seah.png">
 </div>
 <blockquote>
 <h4>Adj Asst Prof&nbsp;Selina Seah</h4>
@@ -389,7 +390,7 @@ influencing the present and future of healthcare. Your voice matters.&nbsp;</p>
 <p></p>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2b lau siew tiang, lydia.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2b lau siew tiang, lydia.png">
 </div>
 <blockquote>
 <h4>Associate Professor Lau Siew Tiang, Lydia</h4>
@@ -423,7 +424,7 @@ students and faculty development.</p>
 </tbody>
 </table>
 <hr>
-<h3>Track 2C</h3>
+<h3>Track 2C - Workforce Transformation</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -433,7 +434,7 @@ students and faculty development.</p>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2c1 zhang yuxia.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2c1 zhang yuxia.png">
 </div>
 <blockquote>
 <h4>Professor Yuxia Zhang</h4>
@@ -496,7 +497,7 @@ meet the demands of an ever-changing healthcare landscape.&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2c2 peh sue cheng.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2c2 peh sue cheng.png">
 </div>
 <blockquote>
 <h4>Ms Peh Sue Cheng</h4>
@@ -509,7 +510,7 @@ meet the demands of an ever-changing healthcare landscape.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2C2: Interdisciplinary Collaboration with Nursing: The WH Way</summary>
+<summary>Track 2C2: Interdisciplinary Collaboration with Nursing - The WH Way</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Interdisciplinary collaboration is a cornerstone in the successful planning
 and operationalisation of a new general hospital in Singapore. As healthcare
@@ -530,7 +531,7 @@ culture.&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2c3 marilyn.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2c3 marilyn.png">
 </div>
 <blockquote>
 <h4>Ms Marilyn Wan Mei Ting</h4>
@@ -553,7 +554,7 @@ culture.&nbsp;</p>
 <h4>Moderator</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whdonglj.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Comm/whdonglj.png">
 </div>
 <blockquote>
 <h4>Dr Dong Lijuan</h4>
@@ -564,10 +565,7 @@ culture.&nbsp;</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Dr. Dong Lijuan is an accomplished healthcare leader with a diverse educational
 and professional background. She holds a PhD in Education, an MBA in Healthcare
-Management, and a Bachelor of Nursing. With years of experience in the
-healthcare industry, Dr. Dong currently serves as Deputy Director of Nursing,
-Head of Nursing Education and Development, and the lead of Office of Advancing
-Nursing Practice, Woodlands Health, Singapore.&nbsp;</p>
+Management, and a Bachelor of Nursing.</p>
 <p>&nbsp;</p>
 <p>In her leadership roles, Dr. Dong has led multiple initiatives at both
 national and institutional levels, including setting up National Nursing
@@ -582,7 +580,7 @@ member of Education Committee for Singapore Nursing Board.&nbsp;&nbsp;</p>
 </tbody>
 </table>
 <hr>
-<h3>Track 2D</h3>
+<h3>Track 2D - From Caregivers to Change Agents: The New Nursing Paradigm</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -592,7 +590,7 @@ member of Education Committee for Singapore Nursing Board.&nbsp;&nbsp;</p>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2d1 fauziah.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2d1 fauziah.png">
 </div>
 <blockquote>
 <h4>Ms Fauziah Binte Rahman&nbsp;</h4>
@@ -647,7 +645,7 @@ care, ultimately improving outcomes for caregivers and patients alike.&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2d2 precilla lai .png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2d2 precilla lai .png">
 </div>
 <blockquote>
 <h4>Ms Precilla Lai&nbsp;</h4>
@@ -692,7 +690,7 @@ roles to more relational, care-centered duties.&nbsp;&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2d3 tan peck yan.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2d3 tan peck yan.png">
 </div>
 <blockquote>
 <h4>Ms Tan Peck Yan</h4>
@@ -731,9 +729,8 @@ for clients to regain work readiness.&nbsp;&nbsp;</p>
 </div>
 <h4>Moderator</h4>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2d eileen.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2d eileen.png">
 </div>
 <blockquote>
 <h4>Ms Eileen Cheah Lilian</h4>
@@ -762,7 +759,7 @@ supporting the hospital's "Zero Tolerance for Abuse in Healthcare" policy</p>
 </tbody>
 </table>
 <hr>
-<h3>Track 2E</h3>
+<h3>Track 2E - Service Line - Are We The Same?</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -772,7 +769,7 @@ supporting the hospital's "Zero Tolerance for Abuse in Healthcare" policy</p>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1a yap hui xian yvonne .png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1a yap hui xian yvonne .png">
 </div>
 <blockquote>
 <h4>Ms Yap Hui Xian, Yvonne</h4>
@@ -803,7 +800,7 @@ School by successfully completing two rigorous programs</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 2E1: Servicing in Sky &amp; Land, SIA experience</summary>
+<summary>Track 2E1: Servicing in Sky &amp; Land, SIA Experience</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This session explores the transformative collaboration between healthcare
 and aviation through the SIA Care Ambassador programme at KTPH during the
@@ -816,7 +813,7 @@ operational adaptations, and the shared heart of service across industries.&nbsp
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2e2 nazrina.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2e2 nazrina.png">
 </div>
 <blockquote>
 <h4>Ms Nazrina Hoque</h4>
@@ -871,7 +868,7 @@ and purposeful.&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 2 speakers/jalina karim.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/jalina karim.png">
 </div>
 <blockquote>
 <h4>Dr Jalina Karim</h4>
@@ -930,7 +927,7 @@ cooperation becomes essential to successful healthcare teams.&nbsp;</p>
 <h4>Moderator</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d yvonne tan siow lin.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1d yvonne tan siow lin.png">
 </div>
 <blockquote>
 <h4>Ms Yvonne Tan Siow Lin</h4>
@@ -980,9 +977,6 @@ models.</p>
 </table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer__1_.gif">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer.gif">
 </div>
 <h2></h2>
 <p></p>

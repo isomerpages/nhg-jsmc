@@ -77,8 +77,8 @@ Care</p>
 <p>11.40 am - 12.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sharing Best Practices : Sharing Best Practices - Leveraging Diversity
-For Better Patient Outcomes Through Strengthened Relationship</p>
+<p>Sharing Best Practices - Leveraging Diversity For Better Patient Outcomes
+Through Strengthened Relationship</p>
 </td>
 </tr>
 <tr>

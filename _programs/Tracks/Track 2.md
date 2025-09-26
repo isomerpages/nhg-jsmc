@@ -123,7 +123,7 @@ to healthcare, both on the ground and beyond.&nbsp;</p>
 <p>2.05 pm - 2.25 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUH on flight nursing</p>
+<p>Nursing In The Sky</p>
 </td>
 </tr>
 <tr>
@@ -240,7 +240,7 @@ dynamic and inclusive system that benefits all stakeholders.</p>
 <p>11.00 am - 11.20 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Caregiver Lead Program</p>
+<p>WH Carerlink Program</p>
 </td>
 </tr>
 <tr>
@@ -248,8 +248,8 @@ dynamic and inclusive system that benefits all stakeholders.</p>
 <p>11.20 am - 11.40 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>How homecare nurses assist in assimilating into the new role--&gt; domestic
-helper to caregiver</p>
+<p>Cleaning to Care-giving - Supporting The Adaptation of A New Domestic
+Helper</p>
 </td>
 </tr>
 <tr>
@@ -257,7 +257,7 @@ helper to caregiver</p>
 <p>11.40 am - 12.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Patient as the Change Agent: Patient to Barista</p>
+<p>From Healing To Earning - The Path Back To Meaningful Employment</p>
 </td>
 </tr>
 <tr>
@@ -316,7 +316,7 @@ landscape.&nbsp;</p>
 <p>2.05 pm - 2.25 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Career Conversion Program, Why Change?</p>
+<p>Career Conversion Program, Why Change? Prison Officer To Nurse</p>
 </td>
 </tr>
 <tr>
@@ -324,7 +324,7 @@ landscape.&nbsp;</p>
 <p>2.25 pm - 2.45 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nursing Beyond Nurse: Non-nursing in a nursing environment</p>
+<p>Nursing Beyond Nurse - Non-Nursing In A Nursing Environment</p>
 </td>
 </tr>
 <tr>

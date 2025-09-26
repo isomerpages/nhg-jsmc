@@ -25,25 +25,17 @@ sections:
       variant: image
       backgroundColor: gray
       size: sm
-  - infobar:
-      title: 1st & 2nd October 2025
-      id: infobar
-      description: Centre for Healthcare Innovation (CHI), Singapore
-      button: Directions To CHI
-      url: https://maps.app.goo.gl/7kL37MctcXwwc78fA
-      subtitle: Conference dates
   - infopic:
-      title: Inaugural NHG Nursing Conference 2025
+      title: Centre For Healthcare Innovation (CHI)
       id: infopic
-      description: In Conjunction With 28th Joint Singapore-Malaysia Nursing Conference
-      button: registration link
-      url: https://form.gov.sg/67f4dfd8990af072f0b53bd1
+      description: Please Proceed To Level 4 For Registration
+      button: Directions to CHI
+      url: https://maps.app.goo.gl/7kL37MctcXwwc78fA
       image: /images/chi_audi.gif
       alt: Image alt text
-      subtitle: Register Here For
+      subtitle: 1st & 2nd October 2025
   - textcards:
       title: Conference Tracks
-      subtitle: Conference Details
       id: textcards
       cards:
         - title: Relationship-Based Care
@@ -82,11 +74,6 @@ sections:
           announcement: Conference is now open for registration!
           link_text: Click Here To Register
           link_url: https://form.gov.sg/67f4dfd8990af072f0b53bd1
-        - title: Abstract Submissions - Extension
-          date: 06 June 2025
-          announcement: We will extend the abstract submissions date to 25 June 2025.
-          link_text: ""
-          link_url: ""
         - title: Abstract Submissions - Closed
           date: 25 June 2025
           announcement: We have concluded our abstract submissions.

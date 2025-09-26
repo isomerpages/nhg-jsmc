@@ -50,7 +50,7 @@ allowing nurses at every career stage to thrive professionally.</p>
 <p>11.00 am - 11.20 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Novice on Board!: Integrating New Nurses into the Workforce</p>
+<p>Novice on Board! Integrating New Nurses into the Workforce</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +108,7 @@ care.</p>
 <p>1.45 pm -2.05 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shared Governance in Action: Strategies for Empowerment</p>
+<p>Shared Governance in Action - Strategies for Empowerment</p>
 </td>
 </tr>
 <tr>
@@ -116,8 +116,8 @@ care.</p>
 <p>2.05 pm - 2.25 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nursing Engagement &amp; Retention: Cultivating a Thriving Workforce for
-Sustainable Healthcare</p>
+<p>Nursing Engagement &amp; Retention - Cultivating a Thriving Workforce
+for Sustainable Healthcare</p>
 </td>
 </tr>
 <tr>
@@ -125,7 +125,7 @@ Sustainable Healthcare</p>
 <p>2.25 pm - 2.45 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Empowering the Future of Nursing: The Impact of Mentorship</p>
+<p>Empowering the Future of Nursing - The Impact of Mentorship</p>
 </td>
 </tr>
 <tr>
@@ -168,7 +168,7 @@ enabling them to focus on delivering quality patient care.</p>
 <p>3.30 pm - 3.50 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Psychological Safety: Fostering a Safe and Respectful Workplace</p>
+<p>Psychological Safety - Fostering a Safe and Respectful Workplace</p>
 </td>
 </tr>
 <tr>
@@ -176,7 +176,7 @@ enabling them to focus on delivering quality patient care.</p>
 <p>3.50 pm - 4.10 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prevent and Protect: Safeguarding Nurses from Workplace Abuse and Violence</p>
+<p>Prevent and Protect - Safeguarding Nurses from Workplace Abuse and Violence</p>
 </td>
 </tr>
 <tr>
@@ -184,7 +184,7 @@ enabling them to focus on delivering quality patient care.</p>
 <p>4.10 pm - 4.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Strangers to Allies: Integrating International Nurses into the Workplace</p>
+<p>Strangers to Allies - Integrating International Nurses into the Workplace</p>
 </td>
 </tr>
 <tr>
@@ -224,7 +224,7 @@ and varied perspectives.</p>
 <p>11.00 pm - 11.20 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>How to be a “Green Flag”: Tips to Capture the New Generation</p>
+<p>How to be a “Green Flag” - Tips to Capture the New Generation</p>
 </td>
 </tr>
 <tr>
@@ -232,7 +232,7 @@ and varied perspectives.</p>
 <p>11.20 pm - 11.40 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stronger Together: Inclusive Culture As The Heartbeat of Nursing</p>
+<p>Stronger Together - Inclusive Culture As The Heartbeat of Nursing</p>
 </td>
 </tr>
 <tr>
@@ -240,7 +240,7 @@ and varied perspectives.</p>
 <p>11.40 pm - 12.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Panel Discussion: Breaking Barriers and Celebrating Diversity at Work</p>
+<p>Panel Discussion - Breaking Barriers and Celebrating Diversity at Work</p>
 </td>
 </tr>
 <tr>
