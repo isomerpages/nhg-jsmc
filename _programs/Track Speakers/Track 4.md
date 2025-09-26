@@ -951,7 +951,7 @@ healthcare settings.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4E2: 24/7 Healthy Environments: Crafting Spaces Where Nurses Thrive&nbsp;</summary>
+<summary>Track 4E2: 24/7 Healthy Environments - Crafting Spaces Where Nurses Thrive&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This presentation explores Woodlands Health’s strategy to support staff
 and nurses through innovative campus design and technology. It provides
