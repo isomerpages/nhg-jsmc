@@ -316,7 +316,7 @@ landscape.&nbsp;</p>
 <p>2.05 pm - 2.25 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Career Conversion Program, Why Change?</p>
+<p>Career Conversion Program, Why Change? Prison Officer To Nurse</p>
 </td>
 </tr>
 <tr>
@@ -324,7 +324,7 @@ landscape.&nbsp;</p>
 <p>2.25 pm - 2.45 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nursing Beyond Nurse: Non-nursing in a nursing environment</p>
+<p>Nursing Beyond Nurse - Non-Nursing In A Nursing Environment</p>
 </td>
 </tr>
 <tr>
