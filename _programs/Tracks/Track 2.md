@@ -240,7 +240,7 @@ dynamic and inclusive system that benefits all stakeholders.</p>
 <p>11.00 am - 11.20 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Caregiver Lead Program</p>
+<p>WH Carerlink Program</p>
 </td>
 </tr>
 <tr>
@@ -248,8 +248,8 @@ dynamic and inclusive system that benefits all stakeholders.</p>
 <p>11.20 am - 11.40 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>How homecare nurses assist in assimilating into the new role--&gt; domestic
-helper to caregiver</p>
+<p>Cleaning to Care-giving - Supporting The Adaptation of A New Domestic
+Helper</p>
 </td>
 </tr>
 <tr>
@@ -257,7 +257,7 @@ helper to caregiver</p>
 <p>11.40 am - 12.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Patient as the Change Agent: Patient to Barista</p>
+<p>From Healing To Earning - The Path Back To Meaningful Employment</p>
 </td>
 </tr>
 <tr>
