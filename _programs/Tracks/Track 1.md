@@ -157,7 +157,7 @@ Care</p>
 <p>2.45 pm - 3.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A - Moderator:&nbsp; SNM Cherie Koh, KTPH &amp; YH</p>
+<p>Q&amp;A - Moderator:&nbsp; SNM Cherie Koh, KTPH</p>
 </td>
 </tr>
 </tbody>
@@ -221,7 +221,7 @@ providers toward shared health objectives.</p>
 <p>4.30 pm - 5.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A - Moderator: SNM Siok Qi, KTPH &amp; YH</p>
+<p>Q&amp;A - Moderator: SNM Siok Qi, KTPH</p>
 </td>
 </tr>
 </tbody>
@@ -292,7 +292,7 @@ Healthcare Landscape</p>
 <p>12.00 pm - 12.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A - Moderator: DDN Yvonne Tan, KTPH &amp; YH</p>
+<p>Q&amp;A - Moderator: Head Nurse Yvonne Tan, YCH</p>
 </td>
 </tr>
 </tbody>
@@ -338,7 +338,7 @@ merely as statistics or cases.</p>
 <p>2.05 pm - 2.25 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>How Nurses Can Lead Patient-Centered Care in a KPI-Driven System</p>
+<p>Beyond the Metrics: How Nurses Deliver Value-Based Care in a KPI World</p>
 </td>
 </tr>
 <tr>
@@ -355,7 +355,7 @@ Healing Beyond Hospital&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>2.45 pm - 3.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A - Moderator: SNM Cherie Koh, YH</p>
+<p>Q&amp;A - Moderator: SNM Cherie Koh, KTPH</p>
 </td>
 </tr>
 </tbody>

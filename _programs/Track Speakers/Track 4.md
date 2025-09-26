@@ -700,7 +700,6 @@ of seeing positive changes in nursing care makes every effort worthwhile.&nbsp;<
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4d1 assoc prof wong teck yee.png">
 </div>
@@ -808,6 +807,43 @@ but also preserves its essence of humanity and care.&nbsp;</p>
 <p></p>
 <h4>Panel Discussion</h4>
 <p>Track 4D3: Breaking Barriers and Celebrating Diversity at Work</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4d3 khoo swee lan.png">
+</div>
+<blockquote>
+<h4>Ms Khoo Swee Lan</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Group Chief Human Resource Officer, National Healthcare Group</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Ms Khoo Swee Lan leads NHG Health’s people strategy with emphasis on workforce transformation and employee well-being for over 23,000 employees. With more than 30 years of experien</strong>ce
+across sectors – including Shell and NTUC Enterprise, she brings deep expertise
+focused on empowering employees to achieve the organization’s mission.
+During her tenure at Shell, she held global and regional HR and business
+leadership roles, designing talent strategies and championing Asian leadership
+development. At NTUC Enterprise, she was the CHRO driving digital transformation,
+later acting as CEO of NTUC Link and Chief Analytics Officer for NTUC Enterprise.
+She was then appointed Chief HR Officer of the Fairprice Group, integrating
+various entities to become the largest social enterprise in the portfolio.
+At NHG Health, she is dedicated to making NHG an exceptional workplace
+and fostering a culture of one NHG to deliver on our mission of adding
+years of healthy life. Ms Khoo holds a Bachelor of Business Administration
+(Honours) from NUS.</p>
+</div>
+</details>
+</div>
+<p></p>
+<blockquote>
+<h4>Assoc Prof Wong Teck Yee</h4>
+</blockquote>
+<p>Senior Consultant, Family Physician, Tan Tock Seng Hospital, NHG Health,
+Assoc Prof, LKCMedicine, Nanyang Technological University&nbsp;</p>
+<blockquote>
+<h4>Ms Samantha Ong</h4>
+</blockquote>
+<p>Director, Operations (Volunteer, Innovation &amp; Philanthropy), President,
+Singapore Nurses Association&nbsp;</p>
 <p></p>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
@@ -935,7 +971,6 @@ healthcare settings.&nbsp;</p>
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4e2 ben ng.png">
