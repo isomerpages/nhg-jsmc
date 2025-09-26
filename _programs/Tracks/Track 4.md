@@ -224,7 +224,7 @@ and varied perspectives.</p>
 <p>11.00 pm - 11.20 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>How to be a “Green Flag”: Tips to Capture the New Generation</p>
+<p>How to be a “Green Flag” - Tips to Capture the New Generation</p>
 </td>
 </tr>
 <tr>
@@ -232,7 +232,7 @@ and varied perspectives.</p>
 <p>11.20 pm - 11.40 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stronger Together: Inclusive Culture As The Heartbeat of Nursing</p>
+<p>Stronger Together - Inclusive Culture As The Heartbeat of Nursing</p>
 </td>
 </tr>
 <tr>
@@ -240,7 +240,7 @@ and varied perspectives.</p>
 <p>11.40 pm - 12.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Panel Discussion: Breaking Barriers and Celebrating Diversity at Work</p>
+<p>Panel Discussion - Breaking Barriers and Celebrating Diversity at Work</p>
 </td>
 </tr>
 <tr>
