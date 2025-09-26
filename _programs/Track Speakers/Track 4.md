@@ -700,7 +700,6 @@ of seeing positive changes in nursing care makes every effort worthwhile.&nbsp;<
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Presenters</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4d1 assoc prof wong teck yee.png">
 </div>
@@ -838,6 +837,14 @@ years of healthy life. Ms Khoo holds a Bachelor of Business Administration
 <blockquote>
 <h4>Assoc Prof Wong Teck Yee</h4>
 </blockquote>
+<p>Senior Consultant, Family Physician, Tan Tock Seng Hospital, NHG Health,
+Assoc Prof, LKCMedicine, Nanyang Technological University&nbsp;</p>
+<blockquote>
+<h4>Ms Samantha Ong</h4>
+</blockquote>
+<p>Director, Operations (Volunteer, Innovation &amp; Philanthropy), President,
+Singapore Nurses Association&nbsp;</p>
+<p></p>
 <h4>Moderator</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 2 speakers/2a1 shirley heng.png">
@@ -964,7 +971,6 @@ healthcare settings.&nbsp;</p>
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 4 speakers/4e2 ben ng.png">
