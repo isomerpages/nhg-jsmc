@@ -460,7 +460,7 @@ motivates me to effectively lead the team.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Elayne Loo, Nurse Clinician, Institute of Mental Health</summary>
+<summary>Ms Elayne Loo, Nurse Educator, Institute of Mental Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Drawing from two decades of hands-on mental healthcare experience, Ms.
 Elayne has witnessed firsthand how giving patients a voice transforms their
@@ -721,7 +721,7 @@ member of Education Committee for Singapore Nursing Board.&nbsp;&nbsp;</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ms Elayne Loo, Nurse Clinician, Institute of Mental Health</summary>
+<summary>Ms Elayne Loo, Nurse Educator, Institute of Mental Health</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Drawing from two decades of hands-on mental healthcare experience, Ms.
 Elayne has witnessed firsthand how giving patients a voice transforms their
