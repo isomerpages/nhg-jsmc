@@ -50,7 +50,7 @@ allowing nurses at every career stage to thrive professionally.</p>
 <p>11.00 am - 11.20 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Novice on Board!: Integrating New Nurses into the Workforce</p>
+<p>Novice on Board! Integrating New Nurses into the Workforce</p>
 </td>
 </tr>
 <tr>
