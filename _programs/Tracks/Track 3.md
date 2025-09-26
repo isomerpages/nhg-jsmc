@@ -260,7 +260,7 @@ technology-enabled healthcare systems for future challenges.&nbsp;</p>
 <p>1.45 pm - 2.05 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Revolutionizing Bedside Care: Nursing Leaders&nbsp;on the Digital Frontline</p>
+<p>Revolutionizing Bedside Care - Nursing Leaders&nbsp;on the Digital Frontline</p>
 </td>
 </tr>
 <tr>
