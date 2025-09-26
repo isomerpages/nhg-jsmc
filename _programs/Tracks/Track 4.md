@@ -168,7 +168,7 @@ enabling them to focus on delivering quality patient care.</p>
 <p>3.30 pm - 3.50 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Psychological Safety: Fostering a Safe and Respectful Workplace</p>
+<p>Psychological Safety - Fostering a Safe and Respectful Workplace</p>
 </td>
 </tr>
 <tr>
@@ -176,7 +176,7 @@ enabling them to focus on delivering quality patient care.</p>
 <p>3.50 pm - 4.10 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prevent and Protect: Safeguarding Nurses from Workplace Abuse and Violence</p>
+<p>Prevent and Protect - Safeguarding Nurses from Workplace Abuse and Violence</p>
 </td>
 </tr>
 <tr>
@@ -184,7 +184,7 @@ enabling them to focus on delivering quality patient care.</p>
 <p>4.10 pm - 4.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Strangers to Allies: Integrating International Nurses into the Workplace</p>
+<p>Strangers to Allies - Integrating International Nurses into the Workplace</p>
 </td>
 </tr>
 <tr>
