@@ -270,7 +270,7 @@ a unified care ecosystem that honors diversity while delivering excellence.&nbsp
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 1B3: From Institution to Individuals: Unified care through Empathy
+<summary>Track 1B3: From Institution to Individuals - Unified care through Empathy
 and Inclusion</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -794,7 +794,7 @@ nurses in Singapore and beyond.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>More Than a Number: How Nurses Deliver Value-Based Care in a KPI World</strong>
+<summary><strong>Track 1E2: More Than a Number - How Nurses Deliver Value-Based Care in a KPI World</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>In today’s healthcare, the performance or outcome is often measured by
@@ -846,8 +846,8 @@ efficiency.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Track 1D3: </strong>Rebuilding Lives After Traumatic Experiences:
-How nurses foster long-term healing beyond hospital?</summary>
+<summary><strong>Track 1D3: </strong>Rebuilding Lives After Traumatic Experiences
+- How nurses foster long-term healing beyond hospital?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Trauma in alcohol-related frequent attenders extends beyond the immediate
 physical injuries, encompassing devastating experiences such as sudden
