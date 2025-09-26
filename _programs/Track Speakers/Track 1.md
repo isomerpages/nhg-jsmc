@@ -33,7 +33,7 @@ third_nav_title: Track Speakers
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Track 1A1: Journeying With Patients Through Integrated Care Networks.</strong>
+<summary><strong>Track 1A1: Journeying With Patients Through Integrated Care Networks</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>This session traces the evolution of care approach from integrated care to place-based and relationship-based models. It begins with system-level integration aimed at reducing care fragmentation across institutions, then shifts toward localizing services through place-based strategies anchored in community needs. The journey culminates in a deeper focus on relationship-based care, where trust, continuity, and human connection become central to care delivery. Together, these phases reflect a progressive move toward people- and community-centred care that is both coordinated and compassionate.&nbsp;&nbsp;</strong>
@@ -224,7 +224,7 @@ Technological University Lee Kong Chian School of Medicine.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 1B2: Connecting Hearts and Practices: Uniting Diverse Institutions
+<summary>Track 1B2: Connecting Hearts and Practices - Uniting Diverse Institutions
 in Holistic Care</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>In today’s increasingly diverse healthcare landscape, unity across organisations
