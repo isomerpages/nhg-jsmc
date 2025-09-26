@@ -410,7 +410,7 @@ Care.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track 4B2: Nursing Engagement &amp; Retention: Cultivating a Thriving
+<summary>Track 4B2: Nursing Engagement &amp; Retention - Cultivating a Thriving
 Workforce for Sustainable Healthcare</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul>
