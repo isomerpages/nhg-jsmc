@@ -108,7 +108,7 @@ care.</p>
 <p>1.45 pm -2.05 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shared Governance in Action: Strategies for Empowerment</p>
+<p>Shared Governance in Action - Strategies for Empowerment</p>
 </td>
 </tr>
 <tr>
@@ -125,7 +125,7 @@ Sustainable Healthcare</p>
 <p>2.25 pm - 2.45 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Empowering the Future of Nursing: The Impact of Mentorship</p>
+<p>Empowering the Future of Nursing - The Impact of Mentorship</p>
 </td>
 </tr>
 <tr>
