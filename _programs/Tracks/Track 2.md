@@ -123,7 +123,7 @@ to healthcare, both on the ground and beyond.&nbsp;</p>
 <p>2.05 pm - 2.25 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUH on flight nursing</p>
+<p>Nursing In The Sky</p>
 </td>
 </tr>
 <tr>
