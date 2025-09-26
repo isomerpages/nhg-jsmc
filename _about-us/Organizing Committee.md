@@ -247,6 +247,28 @@ of knowledge into practice.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm/whthetthet.png">
+</div>
+<details class="isomer-details">
+<summary>Ms Thet Thet, Nurse Clinician, Woodlands Health</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>My nursing career spans over 20 years, covering clinical practice, education,
+and workforce development. My journey includes six years as a nursing lecturer
+at a local polytechnic, where I had the privilege of guiding and mentoring
+student nurses, as well as more than 10 years as a nurse educator in both
+public and private healthcare institutions. Throughout my career, I have
+been dedicated to equipping nurses—whether new graduates or experienced
+practitioners—with the knowledge, skills, and confidence needed to provide
+safe and compassionate care. I am passionate about fostering learning cultures,
+enhancing clinical competence, and supporting professional growth to strengthen
+nursing practice and improve patient outcomes.&nbsp;</p>
+</div>
+</details>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h3>Sponsorship</h3>
 </td>
 </tr>
