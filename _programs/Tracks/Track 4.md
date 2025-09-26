@@ -116,8 +116,8 @@ care.</p>
 <p>2.05 pm - 2.25 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nursing Engagement &amp; Retention: Cultivating a Thriving Workforce for
-Sustainable Healthcare</p>
+<p>Nursing Engagement &amp; Retention - Cultivating a Thriving Workforce
+for Sustainable Healthcare</p>
 </td>
 </tr>
 <tr>
