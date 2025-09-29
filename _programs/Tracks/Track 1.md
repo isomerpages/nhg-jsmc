@@ -86,7 +86,7 @@ Through Strengthened Relationship</p>
 <p>12.00 pm - 12.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A - Moderator:&nbsp; DDN Yvonne Yap, KTPH&nbsp;</p>
+<p>Q&amp;A - Moderator: SNM Siok Qi, KTPH</p>
 </td>
 </tr>
 </tbody>
