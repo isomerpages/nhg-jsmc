@@ -203,7 +203,7 @@ through transformation and collaboration.&nbsp;</p>
 <p>4.30 pm - 5.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q&amp;A - Moderator: DDN Dong Lijuan, WH</p>
+<p>Q&amp;A - Moderator: CN Dong Lijuan, IMH</p>
 </td>
 </tr>
 </tbody>

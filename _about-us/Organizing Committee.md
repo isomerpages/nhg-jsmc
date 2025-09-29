@@ -805,7 +805,7 @@ that benefit both patients and healthcare teams.&nbsp;</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Muhammad Syazwan Bin Ruslaine, Khoo Teck Puat Hospital</summary>
+<summary>Muhammad Syazwan Bin Ruslaine, Staff Nurse, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Syazwan is a nurse with experience across geriatric and general medicine
 settings. Passionate about delivering compassionate care to patients of
