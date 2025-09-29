@@ -102,23 +102,22 @@ third_nav_title: Track Speakers
 </div>
 <p></p>
 <h4><strong>Moderator</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1a yap hui xian yvonne .png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Track 1 speakers/1c ng siok qi.png">
 </div>
 <blockquote>
-<h4>Ms Yap Hui Xian Yvonne<strong>&nbsp;</strong></h4>
+<h4>Ms Ng Siok Qi</h4>
 </blockquote>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Deputy Director of Nursing, Khoo Teck Puat Hospital</strong>
-</summary>
+<summary>Senior Nurse Manager, Inpatient Wards, Khoo Teck Puat Hospital</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Yvonne Yap is a compassionate leader who is deeply dedicated to promoting staff well-being and resilience within the healthcare sector. Currently serving as Deputy Director, Nursing Administration at Khoo Teck Puat Hospital, Yvonne actively champions and contributes to numerous projects and committees aimed at enhancing nursing practices and patient care. With the support of Chief Nurse, Ms Shirley Heng, Yvonne also kickstarted the formation of KTPH’s Nursing Work-sense Committee, which is dedicated to building culture and empowering healthcare professionals to thrive in challenging environments. She established Personal Development Conversations that deepened professional growth and purpose. Her clinical leadership anchors nursing excellence while fostering meaningful human connections.&nbsp;&nbsp;</strong>
-</p>
-<p><strong>Beyond the hospital, her sustained community engagement has positively shaped the health of the population she serves, while her people-centred approach continues to drive nursing innovation and empowerment.&nbsp;</strong>
-</p>
-<p><strong>Her effort in these areas have led to her receiving the prestigious NHG Young Achiever’s Award and the National Day Efficiency Award, underscoring her passion for staff welfare and unwavering commitment to improving the nursing profession. She has also attained alumni status at Harvard Business School by successfully completing two rigorous programs</strong>
-</p>
+<p>Siok Qi is a senior nurse manager with experience in hospital operations
+and workforce transformation. She plays an active role in driving quality
+and productivity strategies, and has led initiatives in process redesign,
+digital innovation, and manpower optimisation to improve care delivery
+and operational efficiency.&nbsp;</p>
 </div>
 </details>
 </div>
@@ -126,7 +125,6 @@ third_nav_title: Track Speakers
 </tr>
 </tbody>
 </table>
-<hr>
 <h3>Track 1B - Staying Unified in a Culturally Diversified Population</h3>
 <table style="minWidth: 25px">
 <colgroup>
