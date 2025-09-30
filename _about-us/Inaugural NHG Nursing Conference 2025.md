@@ -6,10 +6,9 @@ description: Find Out More About NHG's Inaugural Nursing Conference Happening On
   1st and 2nd October 2025
 image: /images/GN_Tagline__2020__wo_Background.png
 ---
-<h3><strong>Inaugural NHG Nursing Conference 2025</strong></h3>
-<p><strong>in conjunction with the 28th Joint Singapore-Malaysia Nursing Conference (JSMNC)</strong>
-</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Animated_Footer__1_.gif">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="gif of nhg staff waving" src="/images/29037.gif">
 </div>
