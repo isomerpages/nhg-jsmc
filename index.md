@@ -14,7 +14,7 @@ sections:
   - hero:
       title: Inaugural NHG Nursing Conference
       subtitle: Inconjunction With Joint Singapore Malaysia Nursing Conference
-      background: /images/Copy_of_Copy_of_Copy_of_Copy_of_Final___Inaugural_NHG_Nursing_Conference__2_.png
+      background: /images/Copy_of_Copy_of_Copy_of_Copy_of_Final___Inaugural_NHG_Nursing_Conference__5_.png
       key_highlights:
         - title: Programme Schedule
           description: Read More Here
