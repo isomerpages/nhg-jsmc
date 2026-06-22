@@ -17,7 +17,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6496 6000
-      - email: gnadmin@nhg.com.sg
+      - email: ""
       - other: ""
     title: General Enquiries & Feedback
 feedback: https://for.sg/nhgnursingconffeedback
