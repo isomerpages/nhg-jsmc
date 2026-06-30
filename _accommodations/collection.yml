@@ -1,8 +1,0 @@
-collections:
-  accommodations:
-    output: true
-    order:
-      - Hotel Accomodations.md
-      - Aloft Singapore Novena.md
-      - Courtyard Marriot @ Novena.md
-      - Oasia Hotel Novena.md
